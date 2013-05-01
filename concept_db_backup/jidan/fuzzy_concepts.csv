@@ -1,0 +1,346 @@
+"('QNaN',)",[['QNaN']]
+"('5.6',)",[['5.6']]
+"('1996',)",[['1996']]
+"('known', 'Summery')","[['known', 'Summery']]"
+"('steps',)",[['steps']]
+"('102.7',)",[['102.7']]
+"('11', 'inf_o')","[['inf_o', '11']]"
+"('zero',)",[['zero']]
+"('adding', 'integers')","[['adding', 'integers']]"
+"('FP', 'basic')","[['FP', 'basic']]"
+"('square-unit',)",[['square-unit']]
+"('logic elements:',)",[['logic elements:']]
+"('point unit', 'point')","[['point', 'point unit']]"
+"('formats', 'extended', 'Basic')","[['Basic', 'formats'], ['extended', 'formats'], ['Basic', 'formats', 'extended']]"
+"('save hardware', 'pre-', 'time fmax')","[['pre-', 'time fmax'], ['save hardware', 'pre-', 'time fmax']]"
+"('architecture',)",[['architecture']]
+"('fraction',)",[['fraction']]
+"('comparsion', 'FPU comparsion')","[['comparsion', 'FPU comparsion']]"
+"('default', 'exactly')","[['exactly', 'default']]"
+"('1.0010',)",[['1.0010']]
+"('3.5',)",[['3.5']]
+"('seen', 'sign bit', 'corresponding', 'given', 'depending')","[['given', 'seen', 'depending'], ['seen', 'depending'], ['corresponding', 'sign bit', 'depending'], ['sign bit', 'depending'], ['seen', 'depending', 'sign bit']]"
+"('Invalid Operation',)",[['Invalid Operation']]
+"('represent',)",[['represent']]
+"('zA',)",[['zA']]
+"('lies', 'cause', 'simply')","[['cause', 'lies'], ['simply', 'cause', 'lies']]"
+"('formula', 'understand', 'placeholder', 'sign')","[['sign', 'understand'], ['placeholder', 'understand'], ['formula', 'understand'], ['formula', 'understand', 'placeholder'], ['formula', 'understand', 'sign'], ['placeholder', 'understand', 'sign']]"
+"('transformed',)",[['transformed']]
+"('priority', 'possible', 'VHDL', 'difficult')","[['VHDL', 'possible'], ['difficult', 'VHDL', 'possible'], ['priority', 'difficult', 'VHDL']]"
+"('ine_o', '= add,')","[['ine_o', '= add,']]"
+"('Root',)",[['Root']]
+"('011', '10')","[['011', '10']]"
+"('importantly',)",[['importantly']]
+"('opa_i',)",[['opa_i']]
+"('operations', 'output', 'FPU operations:', 'start_i')","[['operations', 'FPU operations:'], ['output', 'FPU operations:'], ['start_i', 'FPU operations:'], ['operations', 'FPU operations:', 'output'], ['operations', 'FPU operations:', 'start_i'], ['output', 'FPU operations:', 'start_i']]"
+"('easily', 'code', 'disable', 'modifying', 'Future', 'connecting', 'units', 'instantiating', 'totally')","[['code', 'Future'], ['modifying', 'Future'], ['disable', 'units', 'Future'], ['units', 'Future'], ['easily', 'units', 'Future'], ['totally', 'Future'], ['connecting', 'Future'], ['instantiating', 'disable', 'units'], ['disable', 'units', 'easily'], ['code', 'Future', 'connecting'], ['code', 'Future', 'modifying'], ['code', 'Future', 'totally'], ['code', 'Future', 'units'], ['connecting', 'Future', 'modifying'], ['connecting', 'Future', 'totally'], ['connecting', 'Future', 'units'], ['modifying', 'Future', 'totally'], ['modifying', 'Future', 'units'], ['totally', 'Future', 'units']]"
+"('represented', 'exact', 'faster')","[['exact', 'represented'], ['faster', 'exact', 'represented']]"
+"('exponent e',)",[['exponent e']]
+"('+ infinity',)",[['+ infinity']]
+"('3.2.2',)",[['3.2.2']]
+"('differ', 'logic')","[['differ', 'logic']]"
+"('Hardware', 'Hardware implementation')","[['Hardware', 'Hardware implementation']]"
+"('status', 'encountered', 'status flag', 'five', 'bit status', 'defines')","[['encountered', 'defines'], ['status', 'defines'], ['five', 'encountered', 'defines'], ['status flag', 'status', 'defines'], ['bit status', 'status flag', 'status'], ['encountered', 'defines', 'status']]"
+"('Kahan',)",[['Kahan']]
+"('situation', 'number representation', 'use fixed-point', 'way', 'etc')","[['way', 'situation'], ['etc', 'way', 'situation'], ['number representation', 'etc', 'way'], ['use fixed-point', 'number representation', 'etc']]"
+"('ready', 'modes')","[['ready', 'modes']]"
+"('base b=10,', 'base', 'choose')","[['choose', 'base'], ['base b=10,', 'base'], ['base b=10,', 'base', 'choose']]"
+"('3.3.4',)",[['3.3.4']]
+"('better', 'table', 'stored')","[['better', 'table'], ['stored', 'better', 'table']]"
+"('also', 'radix', 'called')","[['also', 'radix'], ['called', 'also', 'radix']]"
+"('1.11000010',)",[['1.11000010']]
+"('multiple', 'saving')","[['saving', 'multiple']]"
+"('operand', 'output_o', '32', 'fpu_op_i')","[['output_o', 'operand'], ['32', 'operand'], ['fpu_op_i', 'operand'], ['32', 'operand', 'fpu_op_i'], ['32', 'operand', 'output_o'], ['fpu_op_i', 'operand', 'output_o']]"
+"('rounded',)",[['rounded']]
+"('multiplexer', 'elements')","[['multiplexer', 'elements']]"
+"('using', 'make')","[['make', 'using']]"
+"('Operation',)",[['Operation']]
+"('specified',)",[['specified']]
+"('1.1110',)",[['1.1110']]
+"('4.1',)",[['4.1']]
+"('000', '1.1001')","[['1.1001', '000']]"
+"('unbiased', 'exponent')","[['unbiased', 'exponent']]"
+"('Round',)",[['Round']]
+"('Formats', '3.1')","[['Formats', '3.1']]"
+"('26', '13')","[['26', '13']]"
+"('Multiply',)",[['Multiply']]
+"('starts', 'bit', 'significant', 'left')","[['starts', 'left'], ['significant', 'left'], ['bit', 'starts', 'left'], ['significant', 'left', 'starts']]"
+"('base number',)",[['base number']]
+"('mantissa', 'storage')","[['mantissa', 'storage']]"
+"('multiply', 'calculate')","[['calculate', 'multiply']]"
+"('Square', 'Square root:')","[['Square', 'Square root:']]"
+"('often', 'Since', 'subtractions', 'area')","[['subtractions', 'area', 'Since'], ['area', 'Since'], ['often', 'area', 'Since'], ['often', 'area', 'subtractions']]"
+"('nearest', 'Start signal', '= subtract,', 'overflow_o')","[['nearest', 'overflow_o'], ['Start signal', 'nearest', 'overflow_o'], ['= subtract,', 'overflow_o'], ['= subtract,', 'overflow_o', 'nearest']]"
+"('Result',)",[['Result']]
+"('mantissa m,',)","[['mantissa m,']]"
+"('00', '001')","[['00', '001']]"
+"('Synthesis',)",[['Synthesis']]
+"('uninitialized', 'signal')","[['uninitialized', 'signal']]"
+"('Input', 'Input signals:')","[['Input', 'Input signals:']]"
+"('MHz', 'MHz operating')","[['MHz', 'MHz operating']]"
+"('xml',)",[['xml']]
+"('Contents',)",[['Contents']]
+"('Million', 'reasons', 'fond', 'Modelsim', '2nd', 'flag', 'underflow flag', 'Worth')","[['fond', 'flag', 'Million'], ['flag', 'Million'], ['Worth', 'flag', 'Million'], ['reasons', 'flag', 'Million'], ['2nd', 'reasons', 'flag'], ['Modelsim', 'underflow flag', 'Million'], ['underflow flag', 'Million'], ['Worth', 'flag', 'fond'], ['Worth', 'flag', 'reasons'], ['fond', 'flag', 'reasons'], ['flag', 'Million', 'underflow flag']]"
+"('signaling', 'types', 'quiet')","[['types', 'signaling'], ['quiet', 'signaling'], ['quiet', 'signaling', 'types']]"
+"('handle', 'makes')","[['makes', 'handle']]"
+"('compare', 'remainder')","[['compare', 'remainder']]"
+"('listed', 'higher')","[['listed', 'higher']]"
+"('Inexact',)",[['Inexact']]
+"('35',)",[['35']]
+"('283',)",[['283']]
+"('floating', 'processing', 'complies')","[['complies', 'floating', 'processing'], ['floating', 'processing']]"
+"('leave', 'positions')","[['leave', 'positions']]"
+"('society', 'computer', 'IEEE', '1985', '754')","[['society', '754'], ['computer', '754'], ['IEEE', 'computer', '754'], ['1985', '754'], ['1985', '754', 'computer'], ['1985', '754', 'society'], ['computer', '754', 'society']]"
+"('needs', 'cost', 'arithmetic')","[['cost', 'arithmetic'], ['needs', 'arithmetic'], ['cost', 'arithmetic', 'needs']]"
+"('show below:', 'wide', 'layout', 'show')","[['show', 'wide'], ['layout', 'wide'], ['show below:', 'show', 'wide'], ['layout', 'wide', 'show']]"
+"('say', 'add')","[['say', 'add']]"
+"('2110', '1.0000')","[['2110', '1.0000']]"
+"('919',)",[['919']]
+"('thing', 'reduce', 'divider', 'precision', 'extra')","[['extra', 'thing'], ['divider', 'extra', 'thing'], ['reduce', 'thing'], ['precision', 'extra', 'thing'], ['divider', 'extra', 'precision'], ['extra', 'thing', 'reduce']]"
+"('1530',)",[['1530']]
+"('done', 'combine', 'although', 'unit')","[['unit', 'combine'], ['done', 'unit', 'combine'], ['although', 'combine'], ['although', 'combine', 'unit']]"
+"('input', 'otherwise')","[['otherwise', 'input']]"
+"('taken', 'instead', 'multiplier', 'approximately', 'times')","[['taken', 'times'], ['instead', 'taken', 'times'], ['approximately', 'times'], ['multiplier', 'times'], ['approximately', 'times', 'multiplier'], ['approximately', 'times', 'taken'], ['multiplier', 'times', 'taken']]"
+"('division', 'multiplications', 'divisions')","[['division', 'divisions', 'multiplications'], ['divisions', 'multiplications']]"
+"('10000', '00000')","[['10000', '00000']]"
+"('= multiply,', 'underflow_o', 'round')","[['underflow_o', 'round'], ['= multiply,', 'underflow_o', 'round']]"
+"('Square Root',)",[['Square Root']]
+"('Pro', 'FPGA')","[['Pro', 'FPGA']]"
+"('binary', 'decimal', 'exponents')","[['decimal', 'binary'], ['exponents', 'binary'], ['decimal', 'binary', 'exponents']]"
+"('Calculate',)",[['Calculate']]
+"('occurs', 'Two')","[['occurs', 'Two']]"
+"('representations', 'include', 'like', 'negative')","[['include', 'like'], ['representations', 'negative', 'like'], ['negative', 'like'], ['include', 'like', 'negative']]"
+"('give',)",[['give']]
+"('1991', 'Scientist Should Know About', 'Every', 'Scientist Should Know')","[['1991', 'Every'], ['Scientist Should Know', '1991', 'Every'], ['Scientist Should Know About', '1991', 'Every'], ['Scientist Should Know', '1991', 'Scientist Should Know About']]"
+"('4.4',)",[['4.4']]
+"('snan_o', '111')","[['snan_o', '111']]"
+"('8.1', 'intended', 'synthesized')","[['intended', 'synthesized'], ['8.1', 'intended', 'synthesized']]"
+"('= divide,', 'div_zero_o')","[['div_zero_o', '= divide,']]"
+"('3.47', 'truncated', 'get truncated,', 'Basically', 'excess')","[['excess', 'truncated'], ['Basically', 'truncated'], ['3.47', 'truncated'], ['get truncated,', 'truncated'], ['3.47', 'truncated', 'Basically'], ['3.47', 'truncated', 'excess'], ['3.47', 'truncated', 'get truncated,'], ['Basically', 'truncated', 'excess'], ['Basically', 'truncated', 'get truncated,'], ['excess', 'truncated', 'get truncated,']]"
+"('12.1019', '1.0001', 'work', 'Another', 'digital', '34.0000')","[['12.1019', 'Another', 'digital'], ['Another', 'digital'], ['work', 'Another', 'digital'], ['34.0000', 'Another', 'digital'], ['1.0001', 'work', 'Another'], ['12.1019', 'Another', '34.0000'], ['12.1019', 'Another', 'work'], ['34.0000', 'Another', 'work']]"
+"('small', 'written', 'made', 'top')","[['small', 'made'], ['top', 'written', 'made'], ['written', 'made'], ['small', 'made', 'written']]"
+"('zB',)",[['zB']]
+"('defined', 'standard')","[['standard', 'defined']]"
+"('giving', 'three')","[['giving', 'three']]"
+"('Jidan Al-Eryani', 'Jidan', 'processing unit')","[['Jidan', 'processing unit'], ['Jidan Al-Eryani', 'processing unit'], ['Jidan', 'processing unit', 'Jidan Al-Eryani']]"
+"('Underflow',)",[['Underflow']]
+"('different',)",[['different']]
+"('fractions', 'Add')","[['fractions', 'Add']]"
+"('10-45', '3.4', 'fixed', '1038', 'one')","[['10-45', 'one', '3.4'], ['one', '3.4'], ['fixed', '3.4'], ['1038', 'one', '3.4'], ['10-45', 'one', '1038'], ['fixed', '3.4', 'one']]"
+"('bits', 'groups', 'comes')","[['groups', 'comes'], ['bits', 'comes'], ['bits', 'comes', 'groups']]"
+"('last', 'take', 'back')","[['take', 'back'], ['last', 'back'], ['last', 'back', 'take']]"
+"('Exceptions', '3.2')","[['Exceptions', '3.2']]"
+"('result', 'Not-a-Number')","[['result', 'Not-a-Number']]"
+"('2.5',)",[['2.5']]
+"('mentioning', 'supposedly', 'miscellaneous', 'bench', 'FPU', 'differently', 'choosing', 'bugs')","[['supposedly', 'bench'], ['bugs', 'bench'], ['differently', 'bench'], ['mentioning', 'bench'], ['choosing', 'bench'], ['miscellaneous', 'bench'], ['FPU', 'choosing', 'bench'], ['bugs', 'bench', 'choosing'], ['bugs', 'bench', 'differently'], ['bugs', 'bench', 'mentioning'], ['bugs', 'bench', 'miscellaneous'], ['bugs', 'bench', 'supposedly'], ['choosing', 'bench', 'differently'], ['choosing', 'bench', 'mentioning'], ['choosing', 'bench', 'miscellaneous'], ['choosing', 'bench', 'supposedly'], ['differently', 'bench', 'mentioning'], ['differently', 'bench', 'miscellaneous'], ['differently', 'bench', 'supposedly'], ['mentioning', 'bench', 'miscellaneous'], ['mentioning', 'bench', 'supposedly'], ['miscellaneous', 'bench', 'supposedly']]"
+"('happens', 'every', 'However', 'SNaN string otherwise')","[['every', 'However'], ['happens', 'However'], ['SNaN string otherwise', 'However'], ['SNaN string otherwise', 'However', 'every'], ['SNaN string otherwise', 'However', 'happens'], ['every', 'However', 'happens']]"
+"('following', 'supports')","[['supports', 'following']]"
+"('normalized', 'else')","[['normalized', 'else']]"
+"('3.2.3',)",[['3.2.3']]
+"('format is:', 'single-precision')","[['single-precision', 'format is:']]"
+"('sometimes', 'turned', 'temporally', 'guard', 'mode', 'infinite', 'holders', 'ever')","[['ever', 'sometimes'], ['mode', 'sometimes'], ['turned', 'sometimes'], ['holders', 'sometimes'], ['infinite', 'turned', 'sometimes'], ['temporally', 'sometimes'], ['guard', 'ever', 'sometimes'], ['ever', 'sometimes', 'holders'], ['ever', 'sometimes', 'mode'], ['ever', 'sometimes', 'temporally'], ['ever', 'sometimes', 'turned'], ['holders', 'sometimes', 'mode'], ['holders', 'sometimes', 'temporally'], ['holders', 'sometimes', 'turned'], ['mode', 'sometimes', 'temporally'], ['mode', 'sometimes', 'turned'], ['temporally', 'sometimes', 'turned']]"
+"('larger',)",[['larger']]
+"('signals', 'Output', 'Output signals:')","[['signals', 'Output'], ['Output signals:', 'Output'], ['Output signals:', 'Output', 'signals']]"
+"('1.1100',)",[['1.1100']]
+"('3.2.4',)",[['3.2.4']]
+"('6.17',)",[['6.17']]
+"('decreased', 'amount', 'effecting', 'reduced')","[['amount', 'decreased'], ['effecting', 'amount', 'decreased'], ['reduced', 'decreased'], ['amount', 'decreased', 'reduced']]"
+"('Meeting', 'run', 'able', 'goals')","[['able', 'Meeting'], ['run', 'Meeting'], ['goals', 'run', 'Meeting'], ['able', 'Meeting', 'run']]"
+"('2100', '0.0011')","[['0.0011', '2100']]"
+"('discussed',)",[['discussed']]
+"('QNaN exception:',)",[['QNaN exception:']]
+"('Overflow',)",[['Overflow']]
+"('subtract', 'square root,')","[['subtract', 'square root,']]"
+"('Square-Root',)",[['Square-Root']]
+"('00000000',)",[['00000000']]
+"('Signal', 'Name', 'Signal Name')","[['Name', 'Signal'], ['Signal Name', 'Signal'], ['Name', 'Signal', 'Signal Name']]"
+"('even', 'Start')","[['even', 'Start']]"
+"('Width', 'clk_i')","[['clk_i', 'Width']]"
+"('hand',)",[['hand']]
+"('Addition', 'Number')","[['Addition', 'Number']]"
+"('divide-by-zero exception', 'divide-by-zero')","[['divide-by-zero', 'divide-by-zero exception']]"
+"('demonstrate', 'divide')","[['divide', 'demonstrate']]"
+"('outlined', 'sections', 'commented', 'see')","[['commented', 'see'], ['outlined', 'commented', 'see'], ['sections', 'commented', 'see'], ['outlined', 'commented', 'sections']]"
+"('Binary', 'Standard')","[['Standard', 'Binary']]"
+"('infinitely', 'halfway')","[['halfway', 'infinitely']]"
+"('Windows', 'Distiller', '7.0', 'Acrobat Distiller')","[['7.0', 'Distiller', 'Acrobat Distiller'], ['Distiller', 'Acrobat Distiller'], ['Windows', 'Distiller', 'Acrobat Distiller'], ['7.0', 'Distiller', 'Windows']]"
+"('according',)",[['according']]
+"('wanted', 'saved')","[['saved', 'wanted']]"
+"('Test', 'verification', '4.3')","[['Test', '4.3'], ['verification', '4.3'], ['Test', '4.3', 'verification']]"
+"('Division', '12')","[['Division', '12']]"
+"('serial', 'cycles', 'done serial', 'parallel', 'Disadvantage')","[['Disadvantage', 'parallel'], ['serial', 'parallel'], ['cycles', 'parallel'], ['done serial', 'cycles', 'parallel'], ['Disadvantage', 'parallel', 'cycles'], ['Disadvantage', 'parallel', 'serial'], ['cycles', 'parallel', 'serial']]"
+"('doesnt', 'double-precision', 'concern')","[['concern', 'double-precision', 'doesnt'], ['double-precision', 'doesnt']]"
+"('II v.5',)",[['II v.5']]
+"('10000001', '0.5')","[['0.5', '10000001']]"
+"('towards', 'opposite')","[['opposite', 'towards']]"
+"('precise', 'precise results,')","[['precise', 'precise results,']]"
+"('lowering', 'enable', 'dividing', 'decreases', 'Decreasing', 'speed')","[['dividing', 'enable', 'Decreasing'], ['enable', 'Decreasing'], ['lowering', 'enable', 'Decreasing'], ['decreases', 'enable', 'Decreasing'], ['speed', 'enable', 'Decreasing'], ['decreases', 'enable', 'dividing'], ['decreases', 'enable', 'lowering'], ['decreases', 'enable', 'speed'], ['dividing', 'enable', 'lowering'], ['dividing', 'enable', 'speed'], ['lowering', 'enable', 'speed']]"
+"('exceeds', 'maximum', 'operands')","[['exceeds', 'operands', 'maximum'], ['operands', 'maximum']]"
+"('files', 'compiled', 'order')","[['order', 'files'], ['compiled', 'files'], ['compiled', 'files', 'order']]"
+"('diagram', 'flow diagram', 'complex', 'flow', 'subtracting')","[['diagram', 'complex'], ['flow', 'complex'], ['subtracting', 'diagram', 'complex'], ['flow diagram', 'flow', 'complex'], ['diagram', 'complex', 'flow']]"
+"('important', 'compared', 'parameters')","[['parameters', 'important', 'compared'], ['important', 'compared']]"
+"('multiplication', 'numbers', 'differentiate')","[['numbers', 'multiplication'], ['differentiate', 'multiplication'], ['differentiate', 'multiplication', 'numbers']]"
+"('less',)",[['less']]
+"('exponent and/or', 'exception', 'precision range')","[['exception', 'precision range'], ['exponent and/or', 'exception', 'precision range']]"
+"('please', 'much', 'algorithms', 'detail')","[['algorithms', 'detail', 'much'], ['detail', 'much'], ['please', 'much'], ['detail', 'much', 'please']]"
+"('whenever', 'denormalization', 'inexact', 'tininess')","[['whenever', 'tininess'], ['inexact', 'tininess'], ['denormalization', 'tininess'], ['denormalization', 'tininess', 'inexact'], ['denormalization', 'tininess', 'whenever'], ['inexact', 'tininess', 'whenever']]"
+"('want',)",[['want']]
+"('added', 'occurred')","[['occurred', 'added']]"
+"('clock signal', 'opb_i')","[['opb_i', 'clock signal']]"
+"('four', 'shifted', '0.0010')","[['four', 'shifted'], ['0.0010', 'four', 'shifted']]"
+"('2006', 'Copyright')","[['Copyright', '2006']]"
+"('operation', 'invalid')","[['operation', 'invalid']]"
+"('24', 'eL', '22', 'eS')","[['24', 'eS'], ['22', '24', 'eS'], ['eL', '24', 'eS'], ['22', '24', 'eL']]"
+"('right', 'equal')","[['equal', 'right']]"
+"('square', 'root', 'sign bit:')","[['root', 'sign bit:'], ['square', 'root', 'sign bit:']]"
+"('fully', 'allows')","[['allows', 'fully']]"
+"('done parallel', 'save', 'save clock', 'clock cycles,')","[['save', 'clock cycles,'], ['save clock', 'save', 'clock cycles,'], ['done parallel', 'save', 'clock cycles,'], ['done parallel', 'save', 'save clock']]"
+"('34',)",[['34']]
+"('rounding',)",[['rounding']]
+"('3.2.6', 'Infinity')","[['Infinity', '3.2.6']]"
+"('Addition unit:',)",[['Addition unit:']]
+"('hardware', 'square-root algorithm', 'square-root', 'algorithm')","[['square-root', 'hardware'], ['algorithm', 'hardware'], ['square-root algorithm', 'hardware'], ['algorithm', 'hardware', 'square-root'], ['algorithm', 'hardware', 'square-root algorithm'], ['square-root', 'hardware', 'square-root algorithm']]"
+"('increase', 'root operation', 'clock')","[['clock', 'root operation'], ['increase', 'root operation'], ['clock', 'root operation', 'increase']]"
+"('brought', 'come')","[['brought', 'come']]"
+"('verify', 'used', 'Thats')","[['verify', 'used'], ['Thats', 'used'], ['Thats', 'used', 'verify']]"
+"('result precision',)",[['result precision']]
+"('2140',)",[['2140']]
+"('3.3.2', 'Round-to-Zero')","[['Round-to-Zero', '3.3.2']]"
+"('actual', 'help', 'leading', 'actually', 'bias', 'therefore', 'whole', 'implicit')","[['implicit', 'actual', 'therefore'], ['actual', 'therefore'], ['help', 'whole', 'therefore'], ['whole', 'therefore'], ['actually', 'therefore'], ['leading', 'therefore'], ['bias', 'therefore'], ['actual', 'therefore', 'actually'], ['actual', 'therefore', 'bias'], ['actual', 'therefore', 'leading'], ['actual', 'therefore', 'whole'], ['actually', 'therefore', 'bias'], ['actually', 'therefore', 'leading'], ['actually', 'therefore', 'whole'], ['bias', 'therefore', 'leading'], ['bias', 'therefore', 'whole'], ['leading', 'therefore', 'whole']]"
+"('Floating',)",[['Floating']]
+"('010', '01')","[['010', '01']]"
+"('fmax',)",[['fmax']]
+"('928',)",[['928']]
+"('needed', 'Logic')","[['needed', 'Logic']]"
+"('Synplify', 'Cyclone', 'v.5', 'II', 'Synplify Pro')","[['v.5', 'Synplify', 'Synplify Pro'], ['Synplify', 'Synplify Pro', 'Cyclone'], ['Cyclone', 'II'], ['Synplify Pro', 'Cyclone', 'II']]"
+"('Value',)",[['Value']]
+"('unused', '101', 'zero_o')","[['zero_o', '101'], ['unused', '101'], ['unused', '101', 'zero_o']]"
+"('0.0001', 'remember', 'yield', 'number')","[['remember', 'number'], ['yield', 'number'], ['0.0001', 'number'], ['0.0001', 'number', 'remember'], ['0.0001', 'number', 'yield'], ['remember', 'number', 'yield']]"
+"('shown below:',)",[['shown below:']]
+"('fracB',)",[['fracB']]
+"('replaced', 'multipliers')","[['replaced', 'multipliers']]"
+"('regard', 'detect', 'signaled')","[['detect', 'regard'], ['signaled', 'regard'], ['detect', 'regard', 'signaled']]"
+"('including',)",[['including']]
+"('Fraction',)",[['Fraction']]
+"('3.2.5',)",[['3.2.5']]
+"('internally', 'sticky')","[['internally', 'sticky']]"
+"('may', 'addition')","[['may', 'addition']]"
+"('Zero', '3.2.7')","[['Zero', '3.2.7']]"
+"('qnan_o', '110')","[['110', 'qnan_o']]"
+"('powers', 'away', '0.01', 'commercial')","[['commercial', 'powers'], ['0.01', 'commercial', 'powers'], ['away', 'powers'], ['away', 'powers', 'commercial']]"
+"('3.2.1', 'Invalid')","[['Invalid', '3.2.1']]"
+"('100',)",[['100']]
+"('3.3.3', 'Round-Up')","[['3.3.3', 'Round-Up']]"
+"('easy',)",[['easy']]
+"('Loss', 'loss', 'underflow', 'implementer', 'choice', 'detected', 'time', 'implemented', 'events', 'Tininess', 'accuracy')","[['choice', 'time'], ['implementer', 'time'], ['implemented', 'time'], ['detected', 'time'], ['accuracy', 'time'], ['underflow', 'Tininess', 'time'], ['Tininess', 'time'], ['events', 'time'], ['loss', 'Tininess', 'time'], ['Loss', 'time'], ['loss', 'Tininess', 'underflow'], ['Loss', 'time', 'Tininess'], ['Loss', 'time', 'accuracy'], ['Loss', 'time', 'choice'], ['Loss', 'time', 'detected'], ['Loss', 'time', 'events'], ['Loss', 'time', 'implemented'], ['Loss', 'time', 'implementer'], ['Tininess', 'time', 'accuracy'], ['Tininess', 'time', 'choice'], ['Tininess', 'time', 'detected'], ['Tininess', 'time', 'events'], ['Tininess', 'time', 'implemented'], ['Tininess', 'time', 'implementer'], ['accuracy', 'time', 'choice'], ['accuracy', 'time', 'detected'], ['accuracy', 'time', 'events'], ['accuracy', 'time', 'implemented'], ['accuracy', 'time', 'implementer'], ['choice', 'time', 'detected'], ['choice', 'time', 'events'], ['choice', 'time', 'implemented'], ['choice', 'time', 'implementer'], ['detected', 'time', 'events'], ['detected', 'time', 'implemented'], ['detected', 'time', 'implementer'], ['events', 'time', 'implemented'], ['events', 'time', 'implementer'], ['implemented', 'time', 'implementer']]"
+"('digits', 'real', 'could', 'use', 'systems')","[['digits', 'systems', 'real'], ['systems', 'real'], ['use', 'could', 'systems'], ['could', 'systems', 'real'], ['could', 'systems', 'digits']]"
+"('test', 'source', 'boundary', 'test bench')","[['boundary', 'test'], ['source', 'test'], ['test bench', 'test'], ['boundary', 'test', 'source'], ['boundary', 'test', 'test bench'], ['source', 'test', 'test bench']]"
+"('NaN',)",[['NaN']]
+"('SNaN string', 'SNaN', 'SNaN exception')","[['SNaN', 'SNaN exception'], ['SNaN string', 'SNaN', 'SNaN exception']]"
+"('11000',)",[['11000']]
+"('Point Unit', '36', 'Unit', 'Point')","[['36', 'Point'], ['Unit', '36', 'Point'], ['Point Unit', 'Point'], ['36', 'Point', 'Point Unit']]"
+"('implementation', 'behind', 'explain', 'describe', 'theory')","[['explain', 'implementation'], ['theory', 'implementation'], ['describe', 'explain', 'implementation'], ['behind', 'theory', 'implementation'], ['explain', 'implementation', 'theory']]"
+"('Nr',)",[['Nr']]
+"('Lets', 'two')","[['two', 'Lets']]"
+"('Compilation', '4.2')","[['Compilation', '4.2']]"
+"('diff', 'exponent diff')","[['diff', 'exponent diff']]"
+"('Multiplication unit:',)",[['Multiplication unit:']]
+"('produced', 'Electronics', 'Electrical', 'Although', 'Engineers')","[['produced', 'Electrical', 'Electronics'], ['Electrical', 'Electronics'], ['Although', 'Electrical', 'Electronics'], ['Engineers', 'Electrical', 'Electronics'], ['Although', 'Electrical', 'Engineers'], ['Although', 'Electrical', 'produced'], ['Engineers', 'Electrical', 'produced']]"
+"('Multiplication',)",[['Multiplication']]
+"('0.1', 'brings', 'problems', 'financial', 'thought')","[['0.1', 'financial'], ['brings', 'financial'], ['thought', 'brings', 'financial'], ['problems', 'financial'], ['0.1', 'financial', 'brings'], ['0.1', 'financial', 'problems'], ['brings', 'financial', 'problems']]"
+"('684',)",[['684']]
+"('accurate', 'left-shift', 'lets')","[['left-shift', 'lets', 'accurate'], ['lets', 'accurate']]"
+"('explained', '127')","[['explained', '127']]"
+"('1.7', '17')","[['17', '1.7']]"
+"('specifies',)",[['specifies']]
+"('Total', '4387')","[['4387', 'Total']]"
+"('FP numbers:',)",[['FP numbers:']]
+"('eO',)",[['eO']]
+"('00000001',)",[['00000001']]
+"('3.3.1',)",[['3.3.1']]
+"('smallest',)",[['smallest']]
+"('exceptions', 'non', 'handling')","[['exceptions', 'handling'], ['non', 'handling'], ['exceptions', 'handling', 'non']]"
+"('Subtraction',)",[['Subtraction']]
+"('Rounding', 'Modes', '3.3')","[['Modes', '3.3'], ['Rounding', '3.3'], ['Modes', '3.3', 'Rounding']]"
+"('never', 'set')","[['set', 'never']]"
+"('applications', 'cannot', 'Using', 'fractional')","[['fractional', 'applications'], ['Using', 'cannot', 'applications'], ['cannot', 'applications'], ['cannot', 'applications', 'fractional']]"
+"('bin', 'b0-23')","[['b0-23', 'bin']]"
+"('biased', 'values', 'special')","[['values', 'special', 'biased'], ['special', 'biased']]"
+"('without', 'results')","[['results', 'without']]"
+"('due',)",[['due']]
+"('= sign',)",[['= sign']]
+"('count',)",[['count']]
+"('Step',)",[['Step']]
+"('ease', 'window', 'scale', 'solution')","[['solution', 'scale'], ['window', 'solution', 'scale'], ['ease', 'solution', 'scale'], ['ease', 'solution', 'window']]"
+"('889', '259', 'another')","[['another', '259'], ['889', '259'], ['889', '259', 'another']]"
+"('provided', 'within')","[['provided', 'within']]"
+"('positive', 'except', 'always')","[['positive', 'always'], ['except', 'always'], ['except', 'always', 'positive']]"
+"('fracA',)",[['fracA']]
+"('save logic', 'output multiplexer', 'multiplexer code,')","[['output multiplexer', 'multiplexer code,'], ['save logic', 'output multiplexer', 'multiplexer code,']]"
+"('Altera Quartus II', 'Altera Quartus II v.5', 'Altera Quartus')","[['Altera Quartus', 'Altera Quartus', 'Altera Quartus II v.5'], ['Altera Quartus', 'Altera Quartus II', 'Altera Quartus II v.5'], ['Altera Quartus', 'Altera Quartus II v.5', 'Altera Quartus II v.5'], ['Altera Quartus II', 'Altera Quartus II', 'Altera Quartus II v.5'], ['Altera Quartus II', 'Altera Quartus II v.5', 'Altera Quartus II v.5'], ['Altera Quartus II v.5'], ['Altera Quartus', 'Altera Quartus II v.5', 'Altera Quartus II'], ['Altera Quartus', 'Altera Quartus II v.5', 'Altera Quartus II v.5'], ['Altera Quartus II', 'Altera Quartus II v.5', 'Altera Quartus II v.5']]"
+"('storage holders,',)","[['storage holders,']]"
+"('*3468', 'Usselmann')","[['Usselmann', '*3468']]"
+"('representation', 'example')","[['example', 'representation']]"
+"('would',)",[['would']]
+"('detect faster',)",[['detect faster']]
+"('achieved', 'successfully', 'beginning', 'stated')","[['stated', 'beginning'], ['achieved', 'successfully', 'beginning'], ['successfully', 'beginning'], ['stated', 'beginning', 'successfully']]"
+"('7392', 'Cycles', 'Clock Cycles', 'Clock')","[['Cycles', 'Clock'], ['7392', 'Cycles', 'Clock'], ['Clock Cycles', '7392', 'Cycles']]"
+"('Without',)",[['Without']]
+"('subtraction',)",[['subtraction']]
+"('stages',)",[['stages']]
+"('Conversions', 'strings', 'format')","[['Conversions', 'format', 'strings'], ['format', 'strings']]"
+"('Introduction',)",[['Introduction']]
+"('Al-Eryani',)",[['Al-Eryani']]
+"('cases',)",[['cases']]
+"('efficient', 'calculated', 'iterative', 'fast', 'need', 'implementations', 'loops', 'divisors')","[['implementations', 'iterative'], ['loops', 'implementations', 'iterative'], ['need', 'fast', 'iterative'], ['fast', 'iterative'], ['calculated', 'divisors', 'implementations'], ['divisors', 'implementations', 'iterative'], ['efficient', 'calculated', 'divisors'], ['divisors', 'implementations', 'loops'], ['fast', 'iterative', 'implementations']]"
+"('Worth mentioning', 'Million test')","[['Million test', 'Worth mentioning']]"
+"('Conclusion',)",[['Conclusion']]
+"('divided', 'components')","[['divided', 'components']]"
+"('process', 'serially', 'schools', 'taught')","[['serially', 'process'], ['schools', 'process'], ['taught', 'process'], ['schools', 'process', 'serially'], ['schools', 'process', 'taught'], ['serially', 'process', 'taught']]"
+"('QNaN string',)",[['QNaN string']]
+"('supported',)",[['supported']]
+"('necessary', 'normal')","[['necessary', 'normal']]"
+"('0.0100',)",[['0.0100']]
+"('vectors', '14')","[['14', 'vectors']]"
+"('VHDL code,', 'detail please')","[['detail please', 'VHDL code,']]"
+"('NA',)",[['NA']]
+"('Interface',)",[['Interface']]
+"('round-up',)",[['round-up']]
+"('pipelining', 'throughput', 'reach')","[['throughput', 'reach'], ['pipelining', 'throughput', 'reach']]"
+"('project', 'dependent', 'width', 'basic-', 'doesnt concern')","[['basic-', 'project', 'dependent'], ['project', 'dependent', 'width'], ['dependent', 'width'], ['doesnt concern', 'basic-', 'project']]"
+"('IEP1C6Q240C6', 'Quartus', 'FPUs', 'Cyclone IEP1C6Q240C6', 'Quartus II', 'Quartus II v.5')","[['FPUs', 'IEP1C6Q240C6', 'Quartus'], ['IEP1C6Q240C6', 'Quartus', 'Cyclone IEP1C6Q240C6'], ['Quartus', 'Cyclone IEP1C6Q240C6'], ['Quartus II', 'Cyclone IEP1C6Q240C6'], ['Quartus II v.5', 'Quartus II', 'Cyclone IEP1C6Q240C6'], ['Quartus', 'Cyclone IEP1C6Q240C6', 'Quartus II']]"
+"('Institute', 'common', 'define')","[['common', 'Institute'], ['define', 'common', 'Institute']]"
+"('whenever tininess', 'denormalization loss', 'underflow exception', 'exception whenever')","[['underflow exception', 'whenever tininess'], ['exception whenever', 'underflow exception', 'whenever tininess'], ['denormalization loss', 'underflow exception', 'whenever tininess'], ['denormalization loss', 'underflow exception', 'exception whenever']]"
+"('1.4', 'losing')","[['1.4', 'losing']]"
+"('independent', 'chip', 'since')","[['chip', 'independent'], ['since', 'chip', 'independent']]"
+"('Acrobat PDFMaker', 'Word', 'Acrobat', 'PDFMaker')","[['Acrobat', 'Acrobat PDFMaker'], ['Word', 'Acrobat', 'Acrobat PDFMaker'], ['PDFMaker', 'Acrobat PDFMaker'], ['Acrobat', 'Acrobat PDFMaker', 'PDFMaker']]"
+"('Step1', 'get')","[['get', 'Step1']]"
+"('Square-root unit:', 'Square-root')","[['Square-root', 'Square-root unit:']]"
+"('exponent range', 'maximum value', 'range', 'infinity', 'doesnt trigger')","[['range', 'infinity'], ['doesnt trigger', 'infinity'], ['exponent range', 'infinity'], ['maximum value', 'infinity'], ['doesnt trigger', 'infinity', 'exponent range'], ['doesnt trigger', 'infinity', 'maximum value'], ['doesnt trigger', 'infinity', 'range'], ['exponent range', 'infinity', 'maximum value'], ['exponent range', 'infinity', 'range'], ['maximum value', 'infinity', 'range']]"
+"('Divide',)",[['Divide']]
+"('whole range', '-27', 'exponent placeholder,', 'fraction bit')","[['-27', 'whole range'], ['exponent placeholder,', '-27', 'whole range'], ['fraction bit', '-27', 'whole range'], ['exponent placeholder,', '-27', 'fraction bit']]"
+"('QNaN exception', 'shall')","[['shall', 'QNaN exception']]"
+"('Computer', 'David', 'Scientist', 'Goldberg', 'Know', 'Arithmetic')","[['Scientist', 'Computer', 'Know'], ['Computer', 'Know'], ['Goldberg', 'Arithmetic', 'Scientist'], ['Arithmetic', 'Scientist', 'Computer'], ['David', 'Arithmetic', 'Scientist'], ['David', 'Arithmetic', 'Goldberg']]"
+"('integer',)",[['integer']]
+"('current', 'modular', 'designed', 'core')","[['current', 'designed'], ['modular', 'current', 'designed'], ['core', 'current', 'designed'], ['core', 'current', 'modular']]"
+"('restricted', 'overflow', 'trigger', 'overflow exception')","[['restricted', 'overflow', 'trigger'], ['overflow', 'trigger', 'overflow exception'], ['trigger', 'overflow exception']]"
+"('1.1101',)",[['1.1101']]
+"('Top unit:', 'Top', '326')","[['Top', '326'], ['Top unit:', 'Top', '326']]"
+"('Division unit:',)",[['Division unit:']]
+"('hardware area',)",[['hardware area']]
+"('value',)",[['value']]
+"('Altera',)",[['Altera']]
+"('string', 'subject')","[['string', 'subject']]"
+"('Subtract',)",[['Subtract']]
+"('ready_o', 'rmode_i', 'Description')","[['ready_o', 'Description'], ['rmode_i', 'Description'], ['ready_o', 'Description', 'rmode_i']]"
+"('Single precision', 'Single')","[['Single', 'Single precision']]"
+"('Rounded',)",[['Rounded']]
+"('post-normalization unit',)",[['post-normalization unit']]
+"('fracO',)",[['fracO']]
+"('frequency', 'MHz operating frequency', 'operating')","[['operating', 'MHz operating frequency'], ['frequency', 'MHz operating frequency'], ['frequency', 'MHz operating frequency', 'operating']]"
+"('open', 'presented')","[['presented', 'open']]"
+"('zeros',)",[['zeros']]
+"('11111111',)",[['11111111']]
+"('shown', 'lot')","[['shown', 'lot']]"
+"('shift', 'smaller', 'us', 'gives')","[['smaller', 'us'], ['gives', 'us'], ['shift', 'smaller', 'us'], ['gives', 'us', 'smaller']]"
+"('tested', 'verified')","[['tested', 'verified']]"
