@@ -36,9 +36,25 @@ class FuzzyConceptModel(object):
                 matched = skeleton_q[0].intersection(skeleton_s[0])
                 for q_inf_path in skeleton_q[1]:
                     if matched.intersection(set(tuple(q_inf_path))):
-                        print list(matched.intersection(set(tuple(q_inf_path)))), q_inf_path
+                        relation = list(matched.intersection(set(tuple(q_inf_path))))
+                        candidates = q_inf_path
+                        indices = []
+                        if len(relation) > 1:
+                            for node in relation:
+                                indices.append(candidates.index(node))
+                            print candidates[indices[0]: indices[1] + 1]
+                        else:
+                            print relation
                 print '*****************'
 
                 for s_inf_path in skeleton_s[1]:
                     if matched.intersection(set(tuple(s_inf_path))):
-                        print list(matched.intersection(set(tuple(s_inf_path)))), s_inf_path
+                        relation = list(matched.intersection(set(tuple(s_inf_path))))
+                        candidates = s_inf_path
+                        indices = []
+                        if len(relation) > 1:
+                            for node in relation:
+                                indices.append(candidates.index(node))
+                            print candidates[indices[0]: indices[1] + 1]
+                        else:
+                            print relation
