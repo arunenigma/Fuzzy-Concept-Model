@@ -4,18 +4,16 @@
     <list default="true" id="1b27d504-be17-4a6a-b8f7-d75a821235e6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foo.py" afterPath="$PROJECT_DIR$/foo.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fuzzy_concept_model.py" afterPath="$PROJECT_DIR$/fuzzy_concept_model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fuzzy_concepts.csv" afterPath="$PROJECT_DIR$/fuzzy_concepts.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/concept_db_backup/amber_arm/fuzzy_concepts.csv" afterPath="$PROJECT_DIR$/concept_db_backup/amber_arm/fuzzy_concepts.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/concept_db_backup/jidan/fuzzy_concepts.csv" afterPath="$PROJECT_DIR$/concept_db_backup/jidan/fuzzy_concepts.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/concept_db_backup/softjin_add_sub/fuzzy_concepts.csv" afterPath="$PROJECT_DIR$/concept_db_backup/softjin_add_sub/fuzzy_concepts.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/concept_db_backup/softjin_multiply/fuzzy_concepts.csv" afterPath="$PROJECT_DIR$/concept_db_backup/softjin_multiply/fuzzy_concepts.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/concept_db/amber_arm/fuzzy_concepts.csv" afterPath="$PROJECT_DIR$/concept_db/amber_arm/fuzzy_concepts.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thesis_fcm.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/main.py" changelist="1b27d504-be17-4a6a-b8f7-d75a821235e6" time="1367430411676" ignored="false" />
-    <file path="/fuzzy_concept_model.py" changelist="1b27d504-be17-4a6a-b8f7-d75a821235e6" time="1367605456056" ignored="false" />
-    <file path="/foo.py" changelist="1b27d504-be17-4a6a-b8f7-d75a821235e6" time="1367598944399" ignored="false" />
-    <file path="/Dummy.txt" changelist="1b27d504-be17-4a6a-b8f7-d75a821235e6" time="1367556711101" ignored="false" />
+    <file path="/main.py" changelist="1b27d504-be17-4a6a-b8f7-d75a821235e6" time="1367613823639" ignored="false" />
+    <file path="/fuzzy_concept_model.py" changelist="1b27d504-be17-4a6a-b8f7-d75a821235e6" time="1367635545274" ignored="false" />
+    <file path="/foo.py" changelist="1b27d504-be17-4a6a-b8f7-d75a821235e6" time="1367611449657" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b27d504-be17-4a6a-b8f7-d75a821235e6" time="1367606746921" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +36,10 @@
       <file leaf-file-name="fuzzy_concept_model.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fuzzy_concept_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="28" selection-start="2165" selection-end="2165" vertical-scroll-proportion="0.72938144">
-              <folding />
+            <state line="115" column="4" selection-start="5376" selection-end="5376" vertical-scroll-proportion="0.8840206">
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,7 +47,7 @@
       <file leaf-file-name="foo.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="101" selection-end="207" vertical-scroll-proportion="0.0">
+            <state line="13" column="16" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -56,7 +56,7 @@
       <file leaf-file-name="main.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="30" selection-start="1274" selection-end="1274" vertical-scroll-proportion="0.0">
+            <state line="32" column="40" selection-start="1284" selection-end="1284" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -80,8 +80,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/foo.py" />
+        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/fuzzy_concept_model.py" />
       </list>
     </option>
@@ -120,12 +120,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FullScreen" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Python.foo">
     <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -204,7 +204,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -215,7 +215,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32855093" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -289,8 +289,33 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fuzzy_concept_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="30" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="101" selection-end="207" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="30" selection-start="1274" selection-end="1274" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fuzzy_concept_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -311,7 +336,9 @@
     <entry file="file://$PROJECT_DIR$/fuzzy_concept_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -329,24 +356,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/foo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="30" selection-start="1274" selection-end="1274" vertical-scroll-proportion="0.0">
+        <state line="13" column="16" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/foo.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="101" selection-end="207" vertical-scroll-proportion="0.0">
+        <state line="32" column="40" selection-start="1284" selection-end="1284" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fuzzy_concept_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="28" selection-start="2165" selection-end="2165" vertical-scroll-proportion="0.72938144">
-          <folding />
+        <state line="115" column="4" selection-start="5376" selection-end="5376" vertical-scroll-proportion="0.8840206">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

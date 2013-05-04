@@ -30,4 +30,5 @@ if __name__ == '__main__':
         fcm = FuzzyConceptModel(query_fuzzy_concepts_csv, query_PI_csv, query_PS_csv,
                                 spec_fuzzy_concepts_csv, spec_PI_csv, spec_PS_csv,
                                 spec_name)
+        fcm.constructScoreDictionaries()
         fcm.compareSkeletons()
