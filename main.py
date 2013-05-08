@@ -1,7 +1,7 @@
 import os
 import csv
 
-from fuzzy_concept_model import FuzzyConceptModel
+from fuzzy_concept_model2 import FuzzyConceptModel
 
 if __name__ == '__main__':
     paths = []

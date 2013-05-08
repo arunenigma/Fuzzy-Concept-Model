@@ -17,16 +17,16 @@ class FuzzyConceptModel(object):
 
     def constructScoreDictionaries(self):
         for row in self.query_pi:
-            print row
             self.query_pi_dict[row[0]] = float(row[1])
 
         for row in self.spec_pi:
             self.spec_pi_dict[row[0]] = float(row[1])
 
-
     def compareSkeletons(self):
         self.query_skeletons = []
         self.spec_skeletons = []
+
+        similarity_score = []
 
         for row_q in self.query_fc:
             self.query_skeletons.append([set(literal_eval(row_q[0])), literal_eval(row_q[1])])
@@ -34,19 +34,17 @@ class FuzzyConceptModel(object):
             self.spec_skeletons.append([set(literal_eval(row_s[0])), literal_eval(row_s[1])])
         for skeleton_q in self.query_skeletons:
             for skeleton_s in self.spec_skeletons:
-                if len(skeleton_q[0].intersection(skeleton_s[0])) == len(skeleton_q[0]):
-                    print skeleton_q[0], skeleton_s[0], 1.0
-                else:
-                    self.compareSkeletonsPartialMatch(skeleton_q, skeleton_s)
+                self.skeletonMatch(skeleton_q, skeleton_s, similarity_score)
             print '*************************************************'
 
-    def compareSkeletonsPartialMatch(self, skeleton_q, skeleton_s):
-
+    def skeletonMatch(self, skeleton_q, skeleton_s, similarity_score):
+        self.similarity_score = similarity_score
         for i in range(len(skeleton_q[0]) - 1, 1, -1):
             if len(skeleton_q[0].intersection(skeleton_s[0])) == len(skeleton_q[0]) - i:
-                #print skeleton_q[0], skeleton_s[0]
+                print skeleton_q[0], skeleton_s[0]
+                self.concept_score = []
                 print '*****************'
-                print (float(len(skeleton_q[0]) - i)) / float(len(skeleton_q[0]))
+                MR = (float(len(skeleton_q[0]) - i)) / float(len(skeleton_q[0]))
                 matched = skeleton_q[0].intersection(skeleton_s[0])
                 q_matched_candidates = []
                 for q_inf_path in skeleton_q[1]:
@@ -98,19 +96,52 @@ class FuzzyConceptModel(object):
                             node_pairs.append([q_node, s_node])
                         elif all(len(x) >= 1 for x in [q_node, s_node]) and not set(q_node).isdisjoint(s_node):
                             node_pairs.append([q_node, s_node])
+
+                    # *********** Calculating Change Factor ***********
                 for node_pair in node_pairs:
                     print node_pair
-                    if len(node_pair[0][0]) == 1 and len(node_pair[1][0]) == 1:
-                        print math.fabs(
-                            self.query_pi_dict.get(node_pair[0][0]) - self.spec_pi_dict.get(node_pair[1][0]))
+                    if len(node_pair[0]) == len(node_pair[1]):
+                        CS = self.querySpecPerfectMatch(node_pair[0], node_pair[1], MR)
+                        self.similarity_score.append(CS)
+
+                    if len(node_pair[0]) == 1 and len(node_pair[1]) > 1:
+                        self.querySpecConceptMap_1_gt1(node_pair[0][0], node_pair[1][0])
+
+                    if len(node_pair[0]) == 2 and len(node_pair[1]) == 2:
+                        print math.fabs(self.query_pi_dict.get(node_pair[0][0][0]) - self.spec_pi_dict.get(
+                            node_pair[0][1][0])), math.fabs(
+                            self.query_pi_dict.get(node_pair[0][0][1]) - self.spec_pi_dict.get(node_pair[0][1][1]))
+
+                    if len(node_pair[0]) == 2 and len(node_pair[1]) > 2:
+                        self.querySpecConceptMap_2_gt2(node_pair[0], node_pair[1])
+
+    def querySpecPerfectMatch(self, x, y, MR):
+        len_x = len(x)
+        pi_change_inf_path = []
+        for i in range(len_x):
+            pi_change_node = math.fabs(self.query_pi_dict.get(x[i]) - self.spec_pi_dict.get(y[i]))
+            pi_change_inf_path.append(pi_change_node)
+            #print pi_change_inf_path
+        CF = sum(pi_change_inf_path)
+        print MR, CF
+        return self.concept_score.append([MR, CF])
 
 
-                    if len(node_pair[0][0]) == 2 and len(node_pair[0][1]) == 2 :
-                        print math.fabs(self.query_pi_dict.get(node_pair[0][0][0]) - self.query_pi_dict.get(node_pair[0][1][0])), math.fabs(self.query_pi_dict.get(node_pair[0][1][0]) - self.query_pi_dict.get(node_pair[0][1][1])),
+    def querySpecConceptMap_1_gt1(self, x, y):
+        print math.fabs(self.query_pi_dict.get(x) - self.spec_pi_dict.get(y))
 
-    def querySpecConceptMap_1_gt1(self):
-        pass
+    def querySpecConceptMap_2_gt2(self, x, y):
+        print x, y
+        print '0000'
+        indices = []
+        for node in x:
+            indices.append(y.index(node))
+        print indices
+        swipe = (indices[1] - indices[0]) - 1
+        print math.fabs(self.query_pi_dict.get(x[0]) - self.spec_pi_dict.get(x[0])), math.fabs(
+            self.query_pi_dict.get(x[1]) - self.spec_pi_dict.get(x[1]))
+        for i in range(swipe):
+            print y[i + 1], self.spec_pi_dict.get(y[i + 1])
 
-    def querySpecConceptMap_2_gt2(self):
-        pass
-    
+    def printSimilarityScore(self):
+        print self.similarity_score
