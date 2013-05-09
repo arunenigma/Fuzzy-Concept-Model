@@ -1,2 +1,2 @@
-a = 'Quattro TT'
-print {a,}
+l = ['A', 'B', 'C']
+

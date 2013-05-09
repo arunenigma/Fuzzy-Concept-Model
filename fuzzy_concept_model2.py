@@ -16,6 +16,9 @@ class FuzzyConceptModel(object):
         self.query_pi_dict = {}
         self.spec_pi_dict = {}
 
+        self.query_ps_dict = {}
+        self.spec_ps_dict = {}
+
         self.similarity_score = []  # document similarity score
 
     def constructScoreDictionaries(self):
@@ -24,6 +27,14 @@ class FuzzyConceptModel(object):
 
         for row in self.spec_pi:
             self.spec_pi_dict[row[0]] = float(row[1])
+
+        for row in self.query_ps:
+            print row
+            self.query_ps_dict[tuple([row[0], row[1]])] = float(row[2])
+
+        for row in self.spec_ps:
+            self.spec_ps_dict[tuple([row[0], row[1]])] = float(row[2])
+
 
     def compareSkeletons(self):
         self.query_skeletons = []
@@ -55,94 +66,58 @@ class FuzzyConceptModel(object):
         for i in range(len(skeleton_q[0])):
             if self.matched_bones == len(skeleton_q[0]) - i and not self.matched_bones == 0:
                 match_ratio = (float(len(skeleton_q[0]) - i)) / float(len(skeleton_q[0]))
-                node_pairs = []
-
                 for q_node in skeleton_q[1]:
                     for s_node in skeleton_s[1]:
                         if len(q_node) == 1 or len(s_node) == 1 and len(set(q_node).intersection(set(s_node))) == 1:
                             print q_node, s_node, match_ratio
+                            print 'CF -->', math.fabs(
+                                self.query_pi_dict.get(q_node[0]) - self.spec_pi_dict.get(q_node[0]))
 
                         if len(q_node) > 1 and len(s_node) > 1 and len(set(q_node).intersection(set(s_node))) > 1:
-                            print q_node, s_node, match_ratio
+                            print q_node, zip(q_node, q_node[1:]), s_node, match_ratio
 
+                            for node_pair in zip(q_node, q_node[1:]):
+                                indices = []
+                                if node_pair[0] in s_node and node_pair[1] in s_node:
+                                    indices.append([s_node.index(node_pair[0]), s_node.index(node_pair[1])])
+                                    if s_node[indices[0][0]:indices[0][1] + 1]:
+                                        print node_pair, s_node[indices[0][0]:indices[0][1] + 1]
+                                        print 'change_in_PI'
+                                        print node_pair[0]
+                                        change_in_PI_node_1 = math.fabs(
+                                            self.query_pi_dict.get(node_pair[0]) - self.spec_pi_dict.get(node_pair[0]))
+                                        change_in_PI_node_2 = math.fabs(
+                                            self.query_pi_dict.get(node_pair[1]) - self.spec_pi_dict.get(node_pair[1]))
+                                        print 'change_in_PS'
+                                        if self.query_ps_dict.get(node_pair):
+                                            PS_state_1 = self.query_ps_dict.get(node_pair)
+                                        else:
+                                            PS_state_1 = self.query_ps_dict.get(node_pair[::-1])
+                                        print 'state_2 complicated'
+                                        neighbors = s_node[indices[0][0] + 1:indices[0][1]]
+                                        PI_neighbors = []
+                                        for neighbor in neighbors:
+                                            PI_neighbors.append(self.spec_pi_dict.get(neighbor))
+                                        print sum(PI_neighbors)
+                                        n_paths = zip(s_node[indices[0][0]:indices[0][1] + 1],
+                                                      s_node[indices[0][0]:indices[0][1] + 1][1:])
+                                        PS_n_paths = []
+                                        for n_path in n_paths:
+                                            if self.spec_ps_dict.get(n_path):
+                                                PS_n_paths.append(self.spec_ps_dict.get(n_path))
+                                            else:
+                                                PS_n_paths.append(self.spec_ps_dict.get(n_path[::-1]))
+                                            #print PS_n_paths
+                                        print sum(PS_n_paths)
+                                        print (sum(PI_neighbors) * sum(PS_n_paths))
+                                        change_in_PS = math.fabs(
+                                            PS_state_1 - ((sum(PI_neighbors) * sum(PS_n_paths))))
+                                        print change_in_PS
+                                        print 'CF'
+                                        CF = change_in_PI_node_1 * change_in_PI_node_2 * change_in_PS
+                                        print CF
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    '''
-                # *********** Calculating Change Factor ***********
-                print node_pairs
-                for node_pair in node_pairs:
-
-                    print '==============='
-                    print node_pair[0], node_pair[1]
-                    if len(node_pair[0]) == len(node_pair[1]):
-                        CS = self.querySpecPerfectMatch(node_pair[0], node_pair[1], match_ratio)
-                        self.similarity_score.append(CS)
-
-                    if len(node_pair[0]) == 1 and len(node_pair[1]) > 1 and set(map(tuple, node_pair[0])) <= set(
-                            map(tuple, node_pair[1])):
-                        self.querySpecConceptMap_1_gt1(node_pair[0][0], node_pair[1][0], match_ratio)
-
-                    if len(node_pair[0]) == 2 and len(node_pair[1]) == 2 and set(map(tuple, node_pair[0])) <= set(
-                            map(tuple, node_pair[1])):
-                        print math.fabs(self.query_pi_dict.get(node_pair[0][0]) - self.spec_pi_dict.get(
-                            node_pair[1][0])), math.fabs(
-                            self.query_pi_dict.get(node_pair[1][0]) - self.spec_pi_dict.get(node_pair[1][1]))
-
-                    if len(node_pair[0]) == 2 and len(node_pair[1]) > 2 and set(map(tuple, node_pair[0])) <= set(
-                            map(tuple, node_pair[1])):
-                        self.querySpecConceptMap_2_gt2(node_pair[0], node_pair[1], match_ratio)
-
-    def querySpecPerfectMatch(self, x, y, match_ratio):
-        print 'Perfect match'
-        len_x = len(x)
-        pi_change_inf_path = []
-        for i in range(len_x):
-            print x[i], y[i]
-            pi_change_node = math.fabs(self.query_pi_dict.get(x[i]) - self.spec_pi_dict.get(y[i]))
-            pi_change_inf_path.append(pi_change_node)
-            #print pi_change_inf_path
-        CF = product(pi_change_inf_path)
-        print match_ratio, CF
-
-    def querySpecConceptMap_1_gt1(self, x, y, match_ratio):
-        print match_ratio, math.fabs(self.query_pi_dict.get(x) - self.spec_pi_dict.get(y))
-
-    def querySpecConceptMap_2_gt2(self, x, y, match_ratio):
-        print x, y
-        indices = []
-        for node in x:
-            indices.append(y.index(node))
-        swipe = (indices[1] - indices[0]) - 1
-        print math.fabs(self.query_pi_dict.get(x[0]) - self.spec_pi_dict.get(x[0])), math.fabs(
-            self.query_pi_dict.get(x[1]) - self.spec_pi_dict.get(x[1]))
-        for i in range(swipe):
-            print y[i + 1], self.spec_pi_dict.get(y[i + 1])
-
-
-    def querySpecConceptMap_gt2_gt2(self, x, y):
-        pass
-
-    def printSimilarityScore(self):
-        pass
-    '''
+                                    else:
+                                        #print node_pair, s_node[indices[0][1]:indices[0][0] + 1]
+                                        pass
+                            print
