@@ -1,7 +1,7 @@
 import os
 import csv
 
-from fuzzy_concept_model2 import FuzzyConceptModel
+from fuzzy_concept_model import FuzzyConceptModel
 
 if __name__ == '__main__':
     paths = []
@@ -32,3 +32,4 @@ if __name__ == '__main__':
                                 spec_name)
         fcm.constructScoreDictionaries()
         fcm.compareSkeletons()
+        fcm.printSimilarityScore()
