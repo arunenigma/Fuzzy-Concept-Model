@@ -1,4 +1,129 @@
-"('barrel', 'shifter', 'ARM', 'shifter clock')","[['shifter', 'barrel', 'ARM'], ['shifter', 'barrel', 'shifter clock'], ['ARM', 'barrel', 'shifter clock']]"
-"('IEEE', 'clock')","[['IEEE', 'clock']]"
-"('point', '754', 'barrel shifter', 'point representation', 'floating', 'cycles')","[['barrel shifter', 'point', 'point representation'], ['barrel shifter', 'point', 'floating', '754', 'cycles'], ['point representation', 'point', 'floating', '754', 'cycles']]"
-"('representation',)",[['representation']]
+"('processors', 'present')","[['processors', 'present']]"
+"('xml',)",[['xml']]
+"('560', 'Technologies', '7731745', '918041157070', 'US')","[['560', 'Technologies', '7731745'], ['560', 'Technologies', '918041157070'], ['560', 'Technologies', 'US'], ['7731745', 'Technologies', '918041157070'], ['7731745', 'Technologies', 'US'], ['918041157070', 'Technologies', 'US']]"
+"('rst', 'First Input')","[['rst', 'First Input']]"
+"('control', 'units')","[['control', 'units']]"
+"('Detailed', 'documentation', 'user', 'user documentation')","[['documentation', 'Detailed', 'user', 'user documentation']]"
+"('clock', 'Synchronous', 'Compatible', 'Optimized', 'design', 'integrable', 'Interface', 'Flexible')","[['clock', 'Interface', 'Compatible'], ['clock', 'Interface', 'Flexible', 'Optimized'], ['clock', 'Interface', 'Flexible', 'Synchronous', 'design'], ['clock', 'Interface', 'integrable'], ['Compatible', 'Interface', 'Flexible', 'Optimized'], ['Compatible', 'Interface', 'Flexible', 'Synchronous', 'design'], ['Compatible', 'Interface', 'integrable'], ['Optimized', 'Flexible', 'Synchronous', 'design'], ['Optimized', 'Flexible', 'Interface', 'integrable'], ['design', 'Synchronous', 'Flexible', 'Interface', 'integrable']]"
+"('obtained', 'clock cycle')","[['obtained', 'clock cycle']]"
+"('block', 'normalization')","[['block', 'normalization']]"
+"('Output', 'bias', 'Exponent', 'Exponent Calculator:')","[['Output', 'Exponent', 'bias'], ['Output', 'Exponent', 'Exponent Calculator:'], ['bias', 'Exponent', 'Exponent Calculator:']]"
+"('one', 'next')","[['one', 'next']]"
+"('normalization unit', 'calculator')","[['normalization unit', 'calculator']]"
+"('compared', 'added', 'Results')","[['compared', 'Results', 'added']]"
+"('Symbol', 'underflow', 'overflow', '754')","[['Symbol', 'overflow', '754', 'underflow']]"
+"('Active', '32', 'low')","[['Active', '32', 'low']]"
+"('Functional', 'Functional Description:')","[['Functional', 'Functional Description:']]"
+"('India',)",[['India']]
+"('Y Pipelined', 'Y Pipelined Y', 'Y Pipelined Y Compliance')","[['Y Pipelined Y', 'Y Pipelined', 'Y Pipelined Y Compliance']]"
+"('two',)",[['two']]
+"('found', 'second', 'operates')","[['found', 'operates', 'second']]"
+"('Overflow', 'families')","[['Overflow', 'families']]"
+"('Performance', 'IEEE', 'Figure', 'Schematic')","[['IEEE', 'Performance', 'Schematic', 'Figure']]"
+"('Latency', 'Latency Y Fully Synchronous', 'Latency Y Fully', 'Latency Y', 'Y Fully', 'Simple Interface', 'Simple', 'Y Fully Synchronous', 'Simple Interface Y Optimized', 'Simple Interface Y', 'Speed')","[['Latency Y Fully Synchronous', 'Latency Y', 'Latency Y Fully'], ['Latency Y Fully Synchronous', 'Latency Y', 'Y Fully', 'Y Fully Synchronous'], ['Latency Y Fully Synchronous', 'Latency Y', 'Y Fully', 'Latency', 'Speed', 'Simple', 'Simple Interface', 'Simple Interface Y Optimized'], ['Latency Y Fully Synchronous', 'Latency Y', 'Y Fully', 'Latency', 'Speed', 'Simple', 'Simple Interface', 'Simple Interface Y'], ['Latency Y Fully', 'Latency Y', 'Y Fully', 'Y Fully Synchronous'], ['Latency Y Fully', 'Latency Y', 'Y Fully', 'Latency', 'Speed', 'Simple', 'Simple Interface', 'Simple Interface Y Optimized'], ['Latency Y Fully', 'Latency Y', 'Y Fully', 'Latency', 'Speed', 'Simple', 'Simple Interface', 'Simple Interface Y'], ['Y Fully Synchronous', 'Y Fully', 'Latency', 'Speed', 'Simple', 'Simple Interface', 'Simple Interface Y Optimized'], ['Y Fully Synchronous', 'Y Fully', 'Latency', 'Speed', 'Simple', 'Simple Interface', 'Simple Interface Y'], ['Simple Interface Y Optimized', 'Simple Interface', 'Simple Interface Y']]"
+"('Figure1',)",[['Figure1']]
+"('Definition', 'Signal Definition Table', 'Signal Definition', 'Table')","[['Signal Definition Table', 'Table', 'Definition', 'Signal Definition']]"
+"('Implementation', 'Figure2')","[['Implementation', 'Figure2']]"
+"('Second', 'first', 'stage')","[['Second', 'first', 'stage']]"
+"('Performance table',)",[['Performance table']]
+"('Gordon Ave,', 'Clara')","[['Gordon Ave,', 'Clara']]"
+"('RTL', 'Behavioral model', 'Tis', 'Verilog', 'Verilog Behavioral,', 'Behavioral')","[['Behavioral model', 'Behavioral', 'RTL', 'Tis'], ['Behavioral model', 'Behavioral', 'RTL', 'Verilog', 'Verilog Behavioral,'], ['Tis', 'RTL', 'Verilog', 'Verilog Behavioral,']]"
+"('Direction', 'InA')","[['Direction', 'InA']]"
+"('generation', 'moved')","[['generation', 'moved']]"
+"('latency', 'period')","[['latency', 'period']]"
+"('calculation', 'calculated', 'left', 'Verification', 'final')","[['calculation', 'Verification', 'calculated', 'left'], ['calculation', 'Verification', 'calculated', 'final'], ['left', 'calculated', 'final']]"
+"('pipelined', 'implemented', 'last')","[['implemented', 'pipelined', 'last']]"
+"('207.04', 'Multiplier Output', 'Invalid', 'Multiplier')","[['207.04', 'Invalid', 'Multiplier Output', 'Multiplier']]"
+"('Y Optimized',)",[['Y Optimized']]
+"('barun',)",[['barun']]
+"('USA',)",[['USA']]
+"('Multiplier unit',)",[['Multiplier unit']]
+"('8.15', '5.2', 'Version', 'Ghostscript')","[['8.15', 'Version', '5.2'], ['8.15', 'Version', 'Ghostscript'], ['5.2', 'Version', 'Ghostscript']]"
+"('every',)",[['every']]
+"('Width', 'Data', 'Data Width', 'InB')","[['Data', 'Width', 'Data Width', 'InB']]"
+"('918041779999', '2900', '95051', '1st', '102', '10011')","[['918041779999', '10011', '1st', '2900', '95051'], ['918041779999', '10011', '102'], ['95051', '2900', '1st', '10011', '102']]"
+"('Fax',)",[['Fax']]
+"('Virtex5', 'XC5VLX50FF324')","[['Virtex5', 'XC5VLX50FF324']]"
+"('board', 'Xilinx FPGA')","[['board', 'Xilinx FPGA']]"
+"('EPIP', 'White Field,', 'BANGALORE')","[['EPIP', 'White Field,', 'BANGALORE']]"
+"('four', 'multiplexer', 'selection', 'Description')","[['four', 'multiplexer', 'selection'], ['four', 'multiplexer', 'Description'], ['selection', 'multiplexer', 'Description']]"
+"('outputs', 'bits', 'looks', 'assuming')","[['bits', 'looks', 'outputs', 'assuming']]"
+"('mantissa calculator,',)","[['mantissa calculator,']]"
+"('generated', 'selected')","[['generated', 'selected']]"
+"('Normalization Block:',)",[['Normalization Block:']]
+"('point support',)",[['point support']]
+"('looking', 'modules', 'calculates', 'processed')","[['looking', 'calculates', 'modules'], ['looking', 'calculates', 'processed'], ['modules', 'calculates', 'processed']]"
+"('Xilinx', 're', 'FPGA board', 'Emulation')","[['FPGA board', 'Xilinx', 're', 'Emulation']]"
+"('multiplier', 'element', 'applications', 'common', 'digital', 'Floating')","[['multiplier', 'common', 'applications', 'Floating', 'element', 'digital']]"
+"('RTL source code', 'RTL source')","[['RTL source code', 'RTL source']]"
+"('produce',)",[['produce']]
+"('Block Diagram',)",[['Block Diagram']]
+"('Virtex4', 'XC4VLX25FF676')","[['Virtex4', 'XC4VLX25FF676']]"
+"('Introduction',)",[['Introduction']]
+"('Y Simple Interface Y', 'Y Simple Interface', 'Y Simple')","[['Y Simple Interface Y', 'Y Simple', 'Y Simple Interface']]"
+"('operations', 'output', 'supports', 'numbers')","[['operations', 'numbers', 'supports', 'output']]"
+"('Pipelined Y', 'Compliance', 'Pipelined', 'Y Compliance', 'Pipelined Y Compliance')","[['Y Compliance', 'Compliance', 'Pipelined', 'Pipelined Y', 'Pipelined Y Compliance']]"
+"('Deliverables',)",[['Deliverables']]
+"('previously', 'leading', 'right', 'Unit')","[['leading', 'previously', 'right'], ['leading', 'previously', 'Unit'], ['right', 'previously', 'Unit']]"
+"('Frequency', 'MHz')","[['Frequency', 'MHz']]"
+"('Signal', 'Signal Table')","[['Signal', 'Signal Table']]"
+"('standard',)",[['standard']]
+"('perform', 'represented', 'floating', 'designers', 'helps')","[['perform', 'floating', 'designers', 'represented'], ['perform', 'floating', 'helps'], ['represented', 'designers', 'floating', 'helps']]"
+"('multiplying', ""mantissa's"")","[['multiplying', ""mantissa's""]]"
+"('performs',)",[['performs']]
+"('data',)",[['data']]
+"('SJR iPark,', 'iPark', 'Mobius')","[['iPark', 'SJR iPark,', 'Mobius']]"
+"('exor', 'Sign Calculator:', 'Calculator', 'Sign')","[['Calculator', 'exor', 'Sign Calculator:', 'Sign']]"
+"('result', 'appears', 'cycle')","[['result', 'cycle', 'appears']]"
+"('Web', 'Floor', '066', '7731714', 'Ave', 'Suite', 'www.softjin.com')","[['Floor', 'Suite', '066'], ['Floor', 'Suite', '7731714'], ['Floor', 'Suite', 'Ave'], ['Floor', 'Suite', 'Web', 'www.softjin.com'], ['066', 'Suite', '7731714'], ['066', 'Suite', 'Ave'], ['066', 'Suite', 'Web', 'www.softjin.com'], ['7731714', 'Suite', 'Ave'], ['7731714', 'Suite', 'Web', 'www.softjin.com'], ['Ave', 'Suite', 'Web', 'www.softjin.com']]"
+"('Diagram', 'Symbolic Diagram:', 'Symbolic')","[['Diagram', 'Symbolic', 'Symbolic Diagram:']]"
+"('Device', 'First')","[['Device', 'First']]"
+"('Mantissa', 'Mantissa Calculator:')","[['Mantissa', 'Mantissa Calculator:']]"
+"('Fully', 'operation', 'flags', 'single')","[['Fully', 'operation', 'single', 'flags']]"
+"('Signals', 'signal', 'values', 'remaining')","[['values', 'signal', 'Signals', 'remaining']]"
+"('clk',)",[['clk']]
+"('test', 'input', 'vectors', 'Ccode')","[['test', 'vectors', 'input', 'Ccode']]"
+"('amount',)",[['amount']]
+"('Y Supports Overflow,', 'Y Single', 'Y Single precision', 'Y Available', 'Y Supports', 'precision real')","[['Y Supports Overflow,', 'Y Supports', 'precision real', 'Y Single', 'Y Single precision'], ['Y Supports Overflow,', 'Y Supports', 'precision real', 'Y Available'], ['Y Single precision', 'Y Single', 'precision real', 'Y Available']]"
+"('SJR', 'Mobius Tower,', 'Tel', 'Karnataka', 'Santa')","[['Mobius Tower,', 'SJR', 'Tel', 'Karnataka'], ['Mobius Tower,', 'SJR', 'Tel', 'Santa'], ['Karnataka', 'Tel', 'Santa']]"
+"('process', 'repeated', 'three', 'Depending')","[['process', 'three', 'repeated'], ['process', 'three', 'Depending'], ['repeated', 'three', 'Depending']]"
+"('Microsoft Word', 'Word', 'Microsoft')","[['Word', 'Microsoft Word', 'Microsoft']]"
+"('inputs', 'sign bit', 'bit', 'Exhaustive', 'simulation')","[['sign bit', 'Exhaustive', 'inputs', 'simulation', 'bit']]"
+"('real', 'Single precision', 'support')","[['real', 'support', 'Single precision']]"
+"('White', 'Pvt', 'Tower', '408')","[['White', '408', 'Pvt'], ['White', '408', 'Tower'], ['Pvt', '408', 'Tower']]"
+"('source code', 'model', 'code', 'results', 'source')","[['model', 'source', 'source code', 'code', 'results']]"
+"('large', 'useful', 'required', 'dynamic')","[['large', 'required', 'useful'], ['large', 'required', 'dynamic'], ['useful', 'required', 'dynamic']]"
+"('Overflow Flag',)",[['Overflow Flag']]
+"('DSP Processors', 'DSP')","[['DSP Processors', 'DSP']]"
+"('IP', 'FPGA', 'Multiplier IP')","[['FPGA', 'IP', 'Multiplier IP']]"
+"('table',)",[['table']]
+"('used', 'arithmetic')","[['used', 'arithmetic']]"
+"('Underflow Flag', 'Underflow')","[['Underflow Flag', 'Underflow']]"
+"('Flag', 'Invalid Output Flag', 'Invalid Output')","[['Flag', 'Invalid Output', 'Invalid Output Flag']]"
+"('part', 'stages', 'complicated', 'Block')","[['part', 'Block', 'stages'], ['part', 'Block', 'complicated'], ['stages', 'Block', 'complicated']]"
+"('needs', 'much', 'number')","[['needs', 'much', 'number']]"
+"('FLOATING', 'MULTIPLIER', 'FLOATING POINT', 'POINT')","[['MULTIPLIER', 'POINT', 'FLOATING', 'FLOATING POINT']]"
+"('blocks', 'exponent calculator,', 'sign calculator,', 'sign', 'works', 'parallel', 'unit', 'exponent')","[['exponent calculator,', 'exponent', 'sign', 'sign calculator,'], ['exponent calculator,', 'exponent', 'blocks', 'works', 'parallel'], ['exponent calculator,', 'exponent', 'blocks', 'works', 'unit'], ['sign calculator,', 'sign', 'exponent', 'blocks', 'works', 'parallel'], ['sign calculator,', 'sign', 'exponent', 'blocks', 'works', 'unit'], ['parallel', 'works', 'unit']]"
+"('Field', 'CA')","[['Field', 'CA']]"
+"('Multiplication', 'point', 'Point')","[['Multiplication', 'Point', 'point']]"
+"('consists', 'following', 'approaches', 'work', 'verified')","[['following', 'verified', 'approaches', 'consists', 'work']]"
+"('SoftJin',)",[['SoftJin']]
+"('Features',)",[['Features']]
+"('also', 'format single', 'takes', 'invalid', 'format')","[['also', 'invalid', 'format', 'format single'], ['also', 'invalid', 'takes'], ['format single', 'format', 'invalid', 'takes']]"
+"('implementation', 'accordingly', 'corrected')","[['accordingly', 'implementation', 'corrected']]"
+"('treating', 'zero', 'module')","[['treating', 'zero', 'module']]"
+"('like', 'multiplied', 'shows', 'features', 'produces')","[['like', 'shows', 'multiplied'], ['like', 'shows', 'features'], ['like', 'shows', 'produces'], ['multiplied', 'shows', 'features'], ['multiplied', 'shows', 'produces'], ['features', 'shows', 'produces']]"
+"('Email', 'Page')","[['Email', 'Page']]"
+"('848', 'Global', 'Clock')","[['848', 'Clock', 'Global']]"
+"('Reset', 'Uf', '872', '199.2')","[['Reset', 'Uf', '872', '199.2']]"
+"('Count', 'Input', 'Slice', 'Slice Count')","[['Input', 'Count', 'Slice'], ['Input', 'Count', 'Slice Count'], ['Slice', 'Count', 'Slice Count']]"
+"('filters',)",[['filters']]
+"('Available', 'wide', 'Single precision real', 'precision', 'Single', 'Supports')","[['Single precision real', 'wide', 'precision', 'Available', 'Single'], ['Single precision real', 'wide', 'precision', 'Available', 'Supports'], ['Single', 'Available', 'Supports']]"
+"('Santa Clara,', 'Gordon')","[['Santa Clara,', 'Gordon']]"
+"('shifted', 'shift')","[['shifted', 'shift']]"
+"('Y Compatible,',)","[['Y Compatible,']]"
+"('Test', 'Benches', 'Xilinx FPGA board')","[['Test', 'Benches', 'Xilinx FPGA board']]"
+"('GPL Ghostscript', 'GPL')","[['GPL Ghostscript', 'GPL']]"
+"('mantissa',)",[['mantissa']]
+"('shift amount', 'Normalization')","[['shift amount', 'Normalization']]"
+"('rapid', 'Processors', 'thoroughly', 'prototyping', 'range', 'investigated')","[['thoroughly', 'Processors', 'prototyping'], ['thoroughly', 'Processors', 'rapid', 'range'], ['thoroughly', 'Processors', 'investigated'], ['prototyping', 'Processors', 'rapid', 'range'], ['prototyping', 'Processors', 'investigated'], ['range', 'rapid', 'Processors', 'investigated']]"
