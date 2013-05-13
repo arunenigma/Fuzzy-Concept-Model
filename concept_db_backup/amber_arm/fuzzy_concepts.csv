@@ -1,642 +1,346 @@
-"('stand-alone', 'logic area')","[['stand-alone', 'logic area']]"
-"('AMBER_TEST_NAME', 'BOOT_MEM_FILE', 'RAM', 'Ethmac Test')","[['BOOT_MEM_FILE', 'Ethmac Test', 'AMBER_TEST_NAME', 'RAM']]"
-"('wrappers', 'models', 'generic', 'normally')","[['models', 'wrappers', 'generic'], ['models', 'wrappers', 'normally'], ['generic', 'wrappers', 'normally']]"
-"(""'B'"", 'a25_decompile.v', '/ index', 'Register', 'Scaled', 'Testbench', 'hw/vlog/xs6_ddr3')","[[""'B'"", 'a25_decompile.v', '/ index', 'Register', 'Scaled', 'Testbench', 'hw/vlog/xs6_ddr3']]"
-"('co-processor', 'cache_flush', 'Tests', 'flow2')","[['co-processor', 'cache_flush', 'Tests', 'flow2']]"
-"('subsystem', 'worst', 'dense', 'check', 'cope')","[['subsystem', 'dense', 'check', 'worst'], ['subsystem', 'dense', 'check', 'cope'], ['worst', 'check', 'cope']]"
-"('write_data', '-Amber')","[['write_data', '-Amber']]"
-"('GNU Download', 'Xilinx iMPACT', 'Several', 'HyperTerminal screen,', 'Sourcery GNU Download')","[['GNU Download', 'Several', 'Xilinx iMPACT'], ['GNU Download', 'Several', 'HyperTerminal screen,', 'Sourcery GNU Download'], ['Xilinx iMPACT', 'Several', 'HyperTerminal screen,', 'Sourcery GNU Download']]"
-"('Booth algorithm',)",[['Booth algorithm']]
-"('MAC Verilog', 'reproduced', 'controls', 'One', 'MAC Verilog source', 'Ethernet MAC Verilog')","[['controls', 'MAC Verilog', 'reproduced', 'One'], ['controls', 'MAC Verilog', 'reproduced', 'MAC Verilog source'], ['controls', 'MAC Verilog', 'reproduced', 'Ethernet MAC Verilog'], ['One', 'reproduced', 'MAC Verilog source'], ['One', 'reproduced', 'Ethernet MAC Verilog'], ['MAC Verilog source', 'reproduced', 'Ethernet MAC Verilog']]"
-"('generation', 'generation logic', 'PLL', 'reset generation', 'Instantiates')","[['reset generation', 'PLL', 'generation logic', 'generation', 'Instantiates']]"
-"('destination', 'List', 'XORing', 'cdp', 'Address', 'destination register')","[['XORing', 'List', 'destination', 'cdp'], ['XORing', 'List', 'destination', 'Address'], ['XORing', 'List', 'destination', 'destination register'], ['cdp', 'destination', 'Address'], ['cdp', 'destination', 'destination register'], ['Address', 'destination', 'destination register']]"
-"('test_module.v',)",[['test_module.v']]
-"('GNU Lesser', 'Lesser General Public', 'Lesser General', 'GNU Lesser General Public', 'v2.1')","[['Lesser General Public', 'v2.1', 'Lesser General'], ['Lesser General Public', 'v2.1', 'GNU Lesser', 'GNU Lesser General Public'], ['Lesser General', 'v2.1', 'GNU Lesser', 'GNU Lesser General Public']]"
-"('Scaled register', 'Coregen')","[['Scaled register', 'Coregen']]"
-"('Supervisor', 'Fast', 'Add', 'Abort', 'fetch memory', 'Prefetch')","[['Supervisor', 'Prefetch', 'Add', 'fetch memory', 'Fast'], ['Supervisor', 'Prefetch', 'Add', 'fetch memory', 'Abort'], ['Fast', 'fetch memory', 'Abort']]"
-"('tests', 'area co-processor', 'co-processor function')","[['area co-processor', 'tests', 'co-processor function']]"
-"('eor', 'Conditi', 'ne', 'Condition flag')","[['eor', 'Condition flag', 'Conditi'], ['eor', 'Condition flag', 'ne'], ['Conditi', 'Condition flag', 'ne']]"
-"('50000', 'bones', 'part', 'Linux file system', 'incorporated')","[['bones', 'part', '50000', 'Linux file system', 'incorporated']]"
-"('borrow', 'subtracts', 'stalls')","[['borrow', 'stalls', 'subtracts']]"
-"('leftmost', 'Right')","[['leftmost', 'Right']]"
-"('source', 'example', 'Booth')","[['source', 'example', 'Booth']]"
-"('convert', 'Amber Boot', ""It's"", 'Loader v20110117211518', 'apply', 'Amber Boot Loader')","[['Amber Boot', 'convert', ""It's""], ['Amber Boot', 'convert', 'Loader v20110117211518'], ['Amber Boot', 'convert', 'apply'], ['Amber Boot', 'convert', 'Amber Boot Loader'], [""It's"", 'convert', 'Loader v20110117211518'], [""It's"", 'convert', 'apply'], [""It's"", 'convert', 'Amber Boot Loader'], ['Loader v20110117211518', 'convert', 'apply'], ['Loader v20110117211518', 'convert', 'Amber Boot Loader'], ['apply', 'convert', 'Amber Boot Loader']]"
-"('Veritak Verilog', 'Veritak Verilog simulator')","[['Veritak Verilog', 'Veritak Verilog simulator']]"
-"('Type', 'SVC', 'mrc')","[['Type', 'mrc', 'SVC']]"
-"('need', 'made', 'chain')","[['need', 'made', 'chain']]"
-"('creates', 'ignored', 'parameter', 'come')","[['creates', 'ignored', 'parameter'], ['creates', 'ignored', 'come'], ['parameter', 'ignored', 'come']]"
-"('whether', 'Amber system synthesis', 'results', 'Depending')","[['Amber system synthesis', 'whether', 'Depending', 'results']]"
-"('utilisation', 'column', 'Amber system,')","[['column', 'utilisation', 'Amber system,']]"
-"('store sequence', 'Starts', '135', 'found', 'supervisor mode,', 'load store')","[['store sequence', 'Starts', 'found', '135'], ['store sequence', 'Starts', 'found', 'supervisor mode,'], ['store sequence', 'Starts', 'load store'], ['135', 'found', 'supervisor mode,'], ['135', 'found', 'Starts', 'load store'], ['supervisor mode,', 'found', 'Starts', 'load store']]"
-"('doc', 'a23_wishbone.v', 'used', 'i_system_rdy')","[['a23_wishbone.v', 'doc', 'used'], ['a23_wishbone.v', 'doc', 'i_system_rdy'], ['used', 'doc', 'i_system_rdy']]"
-"('locate', 'elements', 'file hw-tests.log', 'look')","[['elements', 'locate', 'file hw-tests.log'], ['elements', 'locate', 'look'], ['file hw-tests.log', 'locate', 'look']]"
-"('supervisor mode', 'adc instruction', 'supervisor')","[['supervisor mode', 'supervisor', 'adc instruction']]"
-"('cs', 'shifts', 'negative')","[['cs', 'negative', 'shifts']]"
-"('W21 Indicates', '39', 'Indicates')","[['39', 'W21 Indicates', 'Indicates']]"
-"('Size', 'Specifically', 'writing')","[['Size', 'writing', 'Specifically']]"
-"('develop', 'longer', 'language', 'basis')","[['develop', 'language', 'basis', 'longer']]"
-"('require', 'involving', 'except', 'occurs', 'good')","[['require', 'involving', 'occurs', 'except'], ['require', 'involving', 'occurs', 'good'], ['except', 'occurs', 'good']]"
-"('276104', 'u printf')","[['276104', 'u printf']]"
-"('subs',)",[['subs']]
-"('provide',)",[['provide']]
-"('subtractions',)",[['subtractions']]
-"('Public', 'General')","[['Public', 'General']]"
-"('Project', ""Project'"", 'r7', 'ext2')","[['r7', 'Project', ""Project'"", 'ext2']]"
-"('output file', 'memory access', 'VCD dump', 'memory image', 'dump')","[['memory access', 'VCD dump', 'output file', 'dump', 'memory image']]"
-"('multiplicand', 'let')","[['multiplicand', 'let']]"
-"('text', 'sent')","[['text', 'sent']]"
-"('Interrupts', 'b_in', 'a_in')","[['b_in', 'Interrupts', 'a_in']]"
-"('useful', 'calls')","[['useful', 'calls']]"
-"('kernel image', ""'mov pc,"", ""lr'"", ""'mov"", 'converts', 'Linux simulation', 'usage', 'example usage', 'bx')","[[""'mov pc,"", 'bx', 'usage', ""lr'"", 'example usage', ""'mov""], [""'mov pc,"", 'bx', 'kernel image', 'Linux simulation', 'converts'], [""'mov"", 'example usage', ""lr'"", 'usage', 'bx', 'kernel image', 'Linux simulation', 'converts']]"
-"('Lines', '28', 'per')","[['28', 'Lines', 'per']]"
-"('r4', 'amber core', 'i_firq')","[['r4', 'i_firq', 'amber core']]"
-"('routing', 'prints', 'designed', 'terminates', 'turns', '00000011', 'continues', 'understands', '429', 'define', 'looks', 'control register', 'fatal', '432', '426')","[['prints', 'control register', '426', 'terminates', 'continues', 'designed'], ['prints', 'control register', 'turns'], ['prints', 'control register', '00000011'], ['prints', 'control register', 'understands'], ['prints', 'control register', '429'], ['prints', 'control register', 'routing', 'define'], ['prints', 'control register', 'looks'], ['prints', 'control register', '426', 'fatal'], ['prints', 'control register', '432'], ['designed', 'continues', 'terminates', '426', 'control register', 'turns'], ['designed', 'continues', 'terminates', '426', 'control register', '00000011'], ['designed', 'continues', 'terminates', '426', 'control register', 'understands'], ['designed', 'continues', 'terminates', '426', 'control register', '429'], ['designed', 'continues', 'terminates', '426', 'control register', 'routing', 'define'], ['designed', 'continues', 'terminates', '426', 'control register', 'looks'], ['designed', 'continues', 'terminates', '426', 'fatal'], ['designed', 'continues', 'terminates', '426', 'control register', '432'], ['turns', 'control register', '00000011'], ['turns', 'control register', 'understands'], ['turns', 'control register', '429'], ['turns', 'control register', 'routing', 'define'], ['turns', 'control register', 'looks'], ['turns', 'control register', '426', 'fatal'], ['turns', 'control register', '432'], ['00000011', 'control register', 'understands'], ['00000011', 'control register', '429'], ['00000011', 'control register', 'routing', 'define'], ['00000011', 'control register', 'looks'], ['00000011', 'control register', '426', 'fatal'], ['00000011', 'control register', '432'], ['understands', 'control register', '429'], ['understands', 'control register', 'routing', 'define'], ['understands', 'control register', 'looks'], ['understands', 'control register', '426', 'fatal'], ['understands', 'control register', '432'], ['429', 'control register', 'routing', 'define'], ['429', 'control register', 'looks'], ['429', 'control register', '426', 'fatal'], ['429', 'control register', '432'], ['define', 'routing', 'control register', 'looks'], ['define', 'routing', 'control register', '426', 'fatal'], ['define', 'routing', 'control register', '432'], ['looks', 'control register', '426', 'fatal'], ['looks', 'control register', '432'], ['fatal', '426', 'control register', '432']]"
-"('swpb', 'CP Opcode', 'immed_24', 'module structure')","[['swpb', 'module structure', 'CP Opcode'], ['swpb', 'module structure', 'immed_24'], ['CP Opcode', 'module structure', 'immed_24']]"
-"('produces', 'format', 'holds', '78')","[['holds', 'produces', 'format', '78']]"
-"('parameters', 'Clock')","[['parameters', 'Clock']]"
-"('Relative', 'conditional')","[['Relative', 'conditional']]"
-"('agrees', '4.2')","[['agrees', '4.2']]"
-"('ramdisk', 'MAC module', 'run', 'r10', 'r11')","[['ramdisk', 'MAC module', 'run', 'r10', 'r11']]"
-"('simple algorithm', 'irq_stm')","[['simple algorithm', 'irq_stm']]"
-"('XOR', 'r8')","[['XOR', 'r8']]"
-"('application', 'makefile')","[['application', 'makefile']]"
-"('loopback', 'A25', 'loopback mode')","[['loopback', 'A25', 'loopback mode']]"
-"('transfer', 'base register')","[['transfer', 'base register']]"
-"('bl', 'tst r2,', 'bicne r2,')","[['tst r2,', 'bl', 'bicne r2,']]"
-"('Instruction', '1.2')","[['Instruction', '1.2']]"
-"('overflow', 'Ascending')","[['overflow', 'Ascending']]"
-"(""core's"", 'stalled')","[[""core's"", 'stalled']]"
-"('perform', 'finish')","[['perform', 'finish']]"
-"('defined',)",[['defined']]
-"('semaphores', 'r2', 'Writable', 'Data Abort', 'Words', 'User Writable', 'original')","[['r2', 'Words', 'semaphores', 'Writable'], ['r2', 'Words', 'semaphores', 'Data Abort'], ['r2', 'Words', 'semaphores', 'User Writable'], ['r2', 'Words', 'semaphores', 'original'], ['Writable', 'semaphores', 'Data Abort'], ['Writable', 'semaphores', 'User Writable'], ['Writable', 'semaphores', 'original'], ['Data Abort', 'semaphores', 'User Writable'], ['Data Abort', 'semaphores', 'original'], ['User Writable', 'semaphores', 'original']]"
-"('81', '134')","[['81', '134']]"
-"('undefined', 'point', 'unsupported', 'point unit', 'Undefined Instruction', 'floating')","[['unsupported', 'Undefined Instruction', 'point unit'], ['unsupported', 'Undefined Instruction', 'point', 'undefined', 'floating'], ['point unit', 'Undefined Instruction', 'point', 'undefined', 'floating']]"
-"('user mode,', '-r14')","[['user mode,', '-r14']]"
-"('etc',)",[['etc']]
-"('18', '-ALU Structure', '-ALU')","[['18', '-ALU Structure', '-ALU']]"
-"('Dabs', 'RISC Machine Family Data', 'description')","[['Dabs', 'description', 'RISC Machine Family Data']]"
-"('32768', 'r0 register,')","[['32768', 'r0 register,']]"
-"('generated', 'full', 'Holds', 'scripts')","[['generated', 'scripts', 'full', 'Holds']]"
-"('Drop', 'least', 'significant', 'equal')","[['Drop', 'significant', 'least', 'equal']]"
-"('actual', 'ensure', 'waves', 'occurring', 'Compiles', 'latest')","[['waves', 'actual', 'ensure', 'occurring'], ['waves', 'actual', 'Compiles'], ['waves', 'actual', 'latest'], ['occurring', 'ensure', 'actual', 'Compiles'], ['occurring', 'ensure', 'actual', 'latest'], ['Compiles', 'actual', 'latest']]"
-"('make',)",[['make']]
-"('jump', 'different', 'interaction', 'main loop', 'interactions', 'enabled', 'times', 'machine', 'repeated', 'time', 'loop multiple')","[['different', 'jump', 'times', 'interaction', 'machine', 'main loop'], ['different', 'jump', 'enabled', 'interactions'], ['different', 'jump', 'enabled', 'repeated'], ['different', 'jump', 'times', 'interaction', 'machine', 'time'], ['different', 'jump', 'times', 'interaction', 'machine', 'loop multiple'], ['main loop', 'machine', 'interaction', 'times', 'jump', 'enabled', 'interactions'], ['main loop', 'machine', 'interaction', 'times', 'jump', 'enabled', 'repeated'], ['main loop', 'machine', 'time'], ['main loop', 'machine', 'loop multiple'], ['interactions', 'enabled', 'repeated'], ['interactions', 'enabled', 'jump', 'times', 'interaction', 'machine', 'time'], ['interactions', 'enabled', 'jump', 'times', 'interaction', 'machine', 'loop multiple'], ['repeated', 'enabled', 'jump', 'times', 'interaction', 'machine', 'time'], ['repeated', 'enabled', 'jump', 'times', 'interaction', 'machine', 'loop multiple'], ['time', 'machine', 'loop multiple']]"
-"('library work', 'already', 'modelsim', 'modelsim library', 'vlib')","[['already', 'library work', 'vlib', 'modelsim'], ['already', 'library work', 'vlib', 'modelsim library'], ['modelsim', 'vlib', 'modelsim library']]"
-"('run Linux,', 'Save', 'Link')","[['Save', 'run Linux,', 'Link']]"
-"('stages', 'adder', 'important')","[['stages', 'adder', 'important']]"
-"('-o elfsplitter.o', '-o xmodem.o', 'xmodem.o xmodem.c', 'crc16.o crc16.c', 'elfsplitter.o elfsplitter.c', '-o crc16.o', '2011')","[['-o elfsplitter.o', '2011', '-o xmodem.o'], ['-o elfsplitter.o', '2011', 'xmodem.o xmodem.c'], ['-o elfsplitter.o', '2011', 'crc16.o crc16.c'], ['-o elfsplitter.o', '2011', 'elfsplitter.o elfsplitter.c'], ['-o elfsplitter.o', '2011', '-o crc16.o'], ['-o xmodem.o', '2011', 'xmodem.o xmodem.c'], ['-o xmodem.o', '2011', 'crc16.o crc16.c'], ['-o xmodem.o', '2011', 'elfsplitter.o elfsplitter.c'], ['-o xmodem.o', '2011', '-o crc16.o'], ['xmodem.o xmodem.c', '2011', 'crc16.o crc16.c'], ['xmodem.o xmodem.c', '2011', 'elfsplitter.o elfsplitter.c'], ['xmodem.o xmodem.c', '2011', '-o crc16.o'], ['crc16.o crc16.c', '2011', 'elfsplitter.o elfsplitter.c'], ['crc16.o crc16.c', '2011', '-o crc16.o'], ['elfsplitter.o elfsplitter.c', '2011', '-o crc16.o']]"
-"('package', 'easiest way', 'GNU tool', 'tool chain', 'Sourcery', 'page')","[['package', 'easiest way', 'page', 'GNU tool'], ['package', 'easiest way', 'page', 'tool chain', 'Sourcery'], ['GNU tool', 'page', 'tool chain', 'Sourcery']]"
-"('19',)",[['19']]
-"('IRQ vector', 'IRQ mode', 'end', 'synthesis process', 'request', 'Execute stage', 'project documentation', 'IRQ address')","[['IRQ mode', 'request', 'IRQ vector', 'synthesis process'], ['IRQ mode', 'request', 'end', 'Execute stage'], ['IRQ mode', 'request', 'IRQ vector', 'project documentation'], ['IRQ mode', 'request', 'IRQ address'], ['synthesis process', 'IRQ vector', 'request', 'end', 'Execute stage'], ['synthesis process', 'IRQ vector', 'project documentation'], ['synthesis process', 'IRQ vector', 'request', 'IRQ address'], ['Execute stage', 'end', 'request', 'IRQ vector', 'project documentation'], ['Execute stage', 'end', 'request', 'IRQ address'], ['project documentation', 'IRQ vector', 'request', 'IRQ address']]"
-"('waveform', 'sys_clk', 'gtkwave', 'link', 'bug', 'sim')","[['waveform', 'bug', 'link', 'sys_clk'], ['waveform', 'bug', 'link', 'gtkwave'], ['waveform', 'bug', 'sim'], ['sys_clk', 'link', 'gtkwave'], ['sys_clk', 'link', 'bug', 'sim'], ['gtkwave', 'link', 'bug', 'sim']]"
-"('lsl', 'A23')","[['lsl', 'A23']]"
-"('number', 'synthesizing', 'relative', 'critical', 'uses', 'usually', 'considers')","[['synthesizing', 'uses', 'considers', 'critical', 'number', 'usually', 'relative']]"
-"('12',)",[['12']]
-"('-mno-thumb-interwork -ffreestanding', 'xmodem.o', '-march=armv2a -mno-thumb-interwork', 'elfsplitter.o', 'Core Specification May', 'crc16.o')","[['xmodem.o', '-mno-thumb-interwork -ffreestanding', '-march=armv2a -mno-thumb-interwork'], ['xmodem.o', '-mno-thumb-interwork -ffreestanding', 'elfsplitter.o'], ['xmodem.o', '-mno-thumb-interwork -ffreestanding', 'crc16.o', 'Core Specification May'], ['-march=armv2a -mno-thumb-interwork', '-mno-thumb-interwork -ffreestanding', 'elfsplitter.o'], ['-march=armv2a -mno-thumb-interwork', '-mno-thumb-interwork -ffreestanding', 'crc16.o', 'Core Specification May'], ['elfsplitter.o', '-mno-thumb-interwork -ffreestanding', 'crc16.o', 'Core Specification May']]"
-"('cc', 'lo', 'vs', 'higher')","[['lo', 'cc', 'higher', 'vs']]"
-"('stmia', 'ldmea', 'imm_8', 'stmfd', ""'P'"", 'lmddb', 'ldmfd', 'ldmia', 'ge', 'stmea', 'Offset', 'stmdb', 'rrx', 'Full Ascending')","[['stmia', 'Offset', 'ldmea'], ['stmia', 'Offset', 'imm_8'], ['stmia', 'Offset', 'stmea', 'Full Ascending', 'rrx', ""'P'""], ['stmia', 'Offset', 'lmddb'], ['stmia', 'Offset', 'ldmfd'], ['stmia', 'Offset', 'ldmia'], ['stmia', 'Offset', 'ge'], ['stmia', 'Offset', 'stmdb'], ['ldmea', 'Offset', 'imm_8'], ['ldmea', 'Offset', 'stmea', 'Full Ascending', 'rrx', ""'P'""], ['ldmea', 'Offset', 'lmddb'], ['ldmea', 'Offset', 'ldmfd'], ['ldmea', 'Offset', 'ldmia'], ['ldmea', 'Offset', 'ge'], ['ldmea', 'Offset', 'stmdb'], ['imm_8', 'Offset', 'stmea', 'Full Ascending', 'rrx', ""'P'""], ['imm_8', 'Offset', 'lmddb'], ['imm_8', 'Offset', 'ldmfd'], ['imm_8', 'Offset', 'ldmia'], ['imm_8', 'Offset', 'ge'], ['imm_8', 'Offset', 'stmdb'], [""'P'"", 'rrx', 'Full Ascending', 'stmea', 'Offset', 'lmddb'], [""'P'"", 'rrx', 'Full Ascending', 'stmea', 'Offset', 'ldmfd'], [""'P'"", 'rrx', 'Full Ascending', 'stmea', 'Offset', 'ldmia'], [""'P'"", 'rrx', 'Full Ascending', 'stmea', 'Offset', 'ge'], [""'P'"", 'rrx', 'Full Ascending', 'stmea', 'Offset', 'stmdb'], ['lmddb', 'Offset', 'ldmfd'], ['lmddb', 'Offset', 'ldmia'], ['lmddb', 'Offset', 'ge'], ['lmddb', 'Offset', 'stmdb'], ['ldmfd', 'Offset', 'ldmia'], ['ldmfd', 'Offset', 'ge'], ['ldmfd', 'Offset', 'stmdb'], ['ldmia', 'Offset', 'ge'], ['ldmia', 'Offset', 'stmdb'], ['ge', 'Offset', 'stmdb']]"
-"('shifter_operand L24', 'Cache Specification', 'LR U23 =')","[['shifter_operand L24', 'LR U23 =', 'Cache Specification']]"
-"('asr', 'c_in')","[['asr', 'c_in']]"
-"('stores', 'located', 'comes', 'operation', '256', 'causes')","[['stores', 'operation', 'located'], ['stores', 'operation', 'comes'], ['stores', 'operation', '256'], ['stores', 'operation', 'causes'], ['located', 'operation', 'comes'], ['located', 'operation', '256'], ['located', 'operation', 'causes'], ['comes', 'operation', '256'], ['comes', 'operation', 'causes'], ['256', 'operation', 'causes']]"
-"('size column', 'resource utilisation', 'resource')","[['size column', 'resource', 'resource utilisation']]"
-"('process', 'r8_firq', 'r9', 'sequential', 'Load coprocessor', 'Store multiple')","[['process', 'r8_firq', 'r9', 'sequential', 'Load coprocessor', 'Store multiple']]"
-"('r1', 'mov')","[['r1', 'mov']]"
-"('developed', 'modules')","[['developed', 'modules']]"
-"('transmit', 'put', 'transmitted')","[['transmit', 'transmitted', 'put']]"
-"('buses',)",[['buses']]
-"('Multiply', 'Little', 'slow', '34')","[['Multiply', '34', 'Little', 'slow']]"
-"('Start', '10.5')","[['Start', '10.5']]"
-"('Address exception', 'equivalence', 'target', '{ Negative,')","[['Address exception', 'target', 'equivalence'], ['Address exception', 'target', '{ Negative,'], ['equivalence', 'target', '{ Negative,']]"
-"('generate', 'Byte address', 'created')","[['Byte address', 'generate', 'created']]"
-"('current', ""Booth's"", 'concatenation')","[['current', ""Booth's"", 'concatenation']]"
-"('Amber', 'Amber Core Hardware', 'Core Hardware', 'Amber Core Hardware Verification', 'Core Hardware Verification', 'Core Hardware Verification Tests', 'Verification', 'Amber Core')","[['Amber', 'Amber Core Hardware Verification', 'Core Hardware Verification', 'Verification', 'Core Hardware'], ['Amber', 'Amber Core Hardware Verification', 'Core Hardware Verification', 'Verification', 'Amber Core Hardware', 'Core Hardware Verification Tests'], ['Amber', 'Amber Core Hardware Verification', 'Core Hardware Verification', 'Verification', 'Amber Core'], ['Core Hardware', 'Verification', 'Amber Core Hardware', 'Core Hardware Verification Tests'], ['Core Hardware', 'Verification', 'Amber Core'], ['Core Hardware Verification Tests', 'Amber Core Hardware', 'Verification', 'Amber Core']]"
-"('could', '50', 'occur')","[['could', '50', 'occur']]"
-"('catch', 'r3 bicne', 'interrupt function')","[['catch', 'r3 bicne', 'interrupt function']]"
-"('Directory', 'Stage', 'add r4,', 'str r1,')","[['Directory', 'Stage', 'add r4,', 'str r1,']]"
-"('implement', 'abort')","[['implement', 'abort']]"
-"('default', 'VCO')","[['default', 'VCO']]"
-"('a25_shifter.v', 'a23_decompile.v', 'cycle')","[['a25_shifter.v', 'cycle', 'a23_decompile.v']]"
-"('memory initialization', 'Verilog simulator')","[['memory initialization', 'Verilog simulator']]"
-"('addressing',)",[['addressing']]
-"('v6.5', 'simulator', 'Simulation', 'project', 'simulations', 'SE')","[['v6.5', 'simulations', 'simulator', 'Simulation'], ['v6.5', 'simulations', 'SE', 'project'], ['Simulation', 'simulator', 'simulations', 'SE', 'project']]"
-"('ldrb', 'ldr_str_pc')","[['ldrb', 'ldr_str_pc']]"
-"('read replacement', 'policy', 'Seperate instruction')","[['policy', 'read replacement', 'Seperate instruction']]"
-"('fully', 'therefore')","[['fully', 'therefore']]"
-"('using', '136', '41')","[['136', 'using', '41']]"
-"('set', 'loader')","[['set', 'loader']]"
-"('ldmfa', 'stmda', 'ldmda', 'Let', ""'S'"", 'nothing')","[['ldmfa', 'stmda', 'ldmda', 'Let', ""'S'"", 'nothing']]"
-"('Ignored',)",[['Ignored']]
-"('boot SRAM', 'Check', 'swap access')","[['boot SRAM', 'Check', 'swap access']]"
-"('Status', 'Dabhand Guide,', 'RISC Machine', 'Data Manual,', 'Copyright', 'Status Bits Part', 'Family', 'Technology Inc.,', 'optimized', 'Copyright Dabs', 'Operating', 'Copyright Dabs Press', 'FPGA Block RAMs', 'Bits', 'VLSI Technology')","[['Dabhand Guide,', 'Status', 'RISC Machine'], ['Dabhand Guide,', 'Status', 'Data Manual,'], ['Dabhand Guide,', 'Status', 'Copyright'], ['Dabhand Guide,', 'Status', 'Technology Inc.,', 'Status Bits Part'], ['Dabhand Guide,', 'Status', 'Copyright Dabs'], ['Dabhand Guide,', 'Status', 'Technology Inc.,', 'Operating'], ['Dabhand Guide,', 'Status', 'Technology Inc.,', 'Copyright Dabs Press'], ['Dabhand Guide,', 'Status', 'Technology Inc.,', 'FPGA Block RAMs'], ['Dabhand Guide,', 'Status', 'Technology Inc.,', 'optimized', 'Family', 'Bits'], ['Dabhand Guide,', 'Status', 'VLSI Technology'], ['RISC Machine', 'Status', 'Data Manual,'], ['RISC Machine', 'Status', 'Copyright'], ['RISC Machine', 'Status', 'Technology Inc.,', 'Status Bits Part'], ['RISC Machine', 'Status', 'Copyright Dabs'], ['RISC Machine', 'Status', 'Technology Inc.,', 'Operating'], ['RISC Machine', 'Status', 'Technology Inc.,', 'Copyright Dabs Press'], ['RISC Machine', 'Status', 'Technology Inc.,', 'FPGA Block RAMs'], ['RISC Machine', 'Status', 'Technology Inc.,', 'optimized', 'Family', 'Bits'], ['RISC Machine', 'Status', 'VLSI Technology'], ['Data Manual,', 'Status', 'Copyright'], ['Data Manual,', 'Status', 'Technology Inc.,', 'Status Bits Part'], ['Data Manual,', 'Status', 'Copyright Dabs'], ['Data Manual,', 'Status', 'Technology Inc.,', 'Operating'], ['Data Manual,', 'Status', 'Technology Inc.,', 'Copyright Dabs Press'], ['Data Manual,', 'Status', 'Technology Inc.,', 'FPGA Block RAMs'], ['Data Manual,', 'Status', 'Technology Inc.,', 'optimized', 'Family', 'Bits'], ['Data Manual,', 'Status', 'VLSI Technology'], ['Copyright', 'Status', 'Technology Inc.,', 'Status Bits Part'], ['Copyright', 'Status', 'Copyright Dabs'], ['Copyright', 'Status', 'Technology Inc.,', 'Operating'], ['Copyright', 'Status', 'Technology Inc.,', 'Copyright Dabs Press'], ['Copyright', 'Status', 'Technology Inc.,', 'FPGA Block RAMs'], ['Copyright', 'Status', 'Technology Inc.,', 'optimized', 'Family', 'Bits'], ['Copyright', 'Status', 'VLSI Technology'], ['Status Bits Part', 'Technology Inc.,', 'Status', 'Copyright Dabs'], ['Status Bits Part', 'Technology Inc.,', 'Operating'], ['Status Bits Part', 'Technology Inc.,', 'Copyright Dabs Press'], ['Status Bits Part', 'Technology Inc.,', 'FPGA Block RAMs'], ['Status Bits Part', 'Technology Inc.,', 'optimized', 'Family', 'Bits'], ['Status Bits Part', 'Technology Inc.,', 'Status', 'VLSI Technology'], ['Copyright Dabs', 'Status', 'Technology Inc.,', 'Operating'], ['Copyright Dabs', 'Status', 'Technology Inc.,', 'Copyright Dabs Press'], ['Copyright Dabs', 'Status', 'Technology Inc.,', 'FPGA Block RAMs'], ['Copyright Dabs', 'Status', 'Technology Inc.,', 'optimized', 'Family', 'Bits'], ['Copyright Dabs', 'Status', 'VLSI Technology'], ['Operating', 'Technology Inc.,', 'Copyright Dabs Press'], ['Operating', 'Technology Inc.,', 'FPGA Block RAMs'], ['Operating', 'Technology Inc.,', 'optimized', 'Family', 'Bits'], ['Operating', 'Technology Inc.,', 'Status', 'VLSI Technology'], ['Copyright Dabs Press', 'Technology Inc.,', 'FPGA Block RAMs'], ['Copyright Dabs Press', 'Technology Inc.,', 'optimized', 'Family', 'Bits'], ['Copyright Dabs Press', 'Technology Inc.,', 'Status', 'VLSI Technology'], ['FPGA Block RAMs', 'Technology Inc.,', 'optimized', 'Family', 'Bits'], ['FPGA Block RAMs', 'Technology Inc.,', 'Status', 'VLSI Technology'], ['Bits', 'Family', 'optimized', 'Technology Inc.,', 'Status', 'VLSI Technology']]"
-"('Meaning', 'eq', 'Format')","[['eq', 'Meaning', 'Format']]"
-"('MII Ethernet', 'Ethernet', 'MII Ethernet I/F', 'Ethernet I/F')","[['MII Ethernet', 'MII Ethernet I/F', 'Ethernet I/F', 'Ethernet']]"
-"('reason', 'modified', 'uncomment')","[['reason', 'modified', 'uncomment']]"
-"('contained', 'without')","[['contained', 'without']]"
-"('Wishbone interface,', 'seperate', 'Mhz', 'stage')","[['Mhz', 'Wishbone interface,', 'seperate', 'stage']]"
-"('Status Bits', 'FPGA Block', 'RISC Machine Family', 'VLSI Technology Inc.,')","[['FPGA Block', 'VLSI Technology Inc.,', 'Status Bits', 'RISC Machine Family']]"
-"('par step', 'par', 'seed', 'step', 'rerun map')","[['par step', 'seed', 'par'], ['par step', 'seed', 'step'], ['par step', 'seed', 'rerun map'], ['par', 'seed', 'step'], ['par', 'seed', 'rerun map'], ['step', 'seed', 'rerun map']]"
-"('operates',)",[['operates']]
-"('notation', 'remaining', 'extend')","[['notation', 'remaining', 'extend']]"
-"('Trace Utility', 'AMBER_DECOMPILE')","[['Trace Utility', 'AMBER_DECOMPILE']]"
-"('a25_icache.v', 'sw/boot-loader', ""'W'"", 'a25_core', 'register post-indexed,')","[['a25_icache.v', 'sw/boot-loader', ""'W'"", 'a25_core', 'register post-indexed,']]"
-"('consists', 'supports')","[['consists', 'supports']]"
-"('10.1', 'convenience', 'eth_top.v', 'Installing', 'memory module')","[['10.1', 'Installing', 'memory module', 'convenience', 'eth_top.v']]"
-"('hw/fpga/work', 'execute', 'address vector', 'hw', 'Interrupt request,', 'a23_alu.v')","[['hw/fpga/work', 'execute', 'address vector'], ['hw/fpga/work', 'execute', 'hw'], ['hw/fpga/work', 'execute', 'Interrupt request,'], ['hw/fpga/work', 'execute', 'a23_alu.v'], ['address vector', 'execute', 'hw'], ['address vector', 'execute', 'Interrupt request,'], ['address vector', 'execute', 'a23_alu.v'], ['hw', 'execute', 'Interrupt request,'], ['hw', 'execute', 'a23_alu.v'], ['Interrupt request,', 'execute', 'a23_alu.v']]"
-"('subsequent', 'oVerflow', 'Privileged')","[['oVerflow', 'subsequent', 'Privileged']]"
-"('password', 'Code', 'co', 'easiest')","[['password', 'Code', 'co'], ['password', 'Code', 'easiest'], ['co', 'Code', 'easiest']]"
-"('FPGA',)",[['FPGA']]
-"('operand', 'Bit clear')","[['operand', 'Bit clear']]"
-"('lowest', 'Exclusive', 'a25_config_definesv Defines', 'additional', 'consecutive')","[['lowest', 'additional', 'Exclusive'], ['lowest', 'additional', 'a25_config_definesv Defines'], ['lowest', 'additional', 'consecutive'], ['Exclusive', 'additional', 'a25_config_definesv Defines'], ['Exclusive', 'additional', 'consecutive'], ['a25_config_definesv Defines', 'additional', 'consecutive']]"
-"('signals', '4.8')","[['signals', '4.8']]"
-"('decompiler', 'multiple', 'Spartan-6 development')","[['decompiler', 'Spartan-6 development', 'multiple']]"
-"('Undefined Instructions', '30', 'Instructions')","[['Undefined Instructions', '30', 'Instructions']]"
-"('ib', 'Empty')","[['ib', 'Empty']]"
-"('Arithmetically', 'place')","[['Arithmetically', 'place']]"
-"('10.3.1',)",[['10.3.1']]
-"('processor',)",[['processor']]
-"('Fast Interrupt', 'mvn', 'memory')","[['Fast Interrupt', 'mvn', 'memory']]"
-"('Hardware', 'Hardware Verification')","[['Hardware', 'Hardware Verification']]"
-"('stack', 'connecting', '29', 'returning')","[['stack', '29', 'connecting', 'returning']]"
-"('24', 'passes', 'specified')","[['24', 'specified', 'passes']]"
+"('QNaN',)",[['QNaN']]
+"('5.6',)",[['5.6']]
+"('1996',)",[['1996']]
+"('known', 'Summery')","[['known', 'Summery']]"
+"('steps',)",[['steps']]
+"('102.7',)",[['102.7']]
+"('11', 'inf_o')","[['11', 'inf_o']]"
+"('zero',)",[['zero']]
+"('adding', 'integers')","[['adding', 'integers']]"
+"('FP', 'basic')","[['FP', 'basic']]"
+"('square-unit',)",[['square-unit']]
+"('logic elements:',)",[['logic elements:']]
+"('point unit', 'point')","[['point unit', 'point']]"
+"('formats', 'extended', 'Basic')","[['extended', 'formats', 'Basic']]"
+"('save hardware', 'pre-', 'time fmax')","[['save hardware', 'pre-', 'time fmax']]"
+"('architecture',)",[['architecture']]
+"('fraction',)",[['fraction']]
+"('comparsion', 'FPU comparsion')","[['comparsion', 'FPU comparsion']]"
+"('default', 'exactly')","[['default', 'exactly']]"
+"('1.0010',)",[['1.0010']]
+"('3.5',)",[['3.5']]
+"('seen', 'sign bit', 'corresponding', 'given', 'depending')","[['corresponding', 'sign bit', 'depending', 'seen', 'given']]"
+"('Invalid Operation',)",[['Invalid Operation']]
+"('represent',)",[['represent']]
+"('zA',)",[['zA']]
+"('lies', 'cause', 'simply')","[['lies', 'cause', 'simply']]"
+"('formula', 'understand', 'placeholder', 'sign')","[['formula', 'understand', 'placeholder'], ['formula', 'understand', 'sign'], ['placeholder', 'understand', 'sign']]"
+"('transformed',)",[['transformed']]
+"('priority', 'possible', 'VHDL', 'difficult')","[['priority', 'difficult', 'VHDL', 'possible']]"
+"('ine_o', '= add,')","[['ine_o', '= add,']]"
+"('Root',)",[['Root']]
+"('011', '10')","[['011', '10']]"
+"('importantly',)",[['importantly']]
+"('opa_i',)",[['opa_i']]
+"('operations', 'output', 'FPU operations:', 'start_i')","[['operations', 'FPU operations:', 'output'], ['operations', 'FPU operations:', 'start_i'], ['output', 'FPU operations:', 'start_i']]"
+"('easily', 'code', 'disable', 'modifying', 'Future', 'connecting', 'units', 'instantiating', 'totally')","[['easily', 'units', 'Future', 'code'], ['easily', 'units', 'Future', 'modifying'], ['easily', 'units', 'Future', 'connecting'], ['easily', 'units', 'disable', 'instantiating'], ['easily', 'units', 'Future', 'totally'], ['code', 'Future', 'modifying'], ['code', 'Future', 'connecting'], ['code', 'Future', 'units', 'disable', 'instantiating'], ['code', 'Future', 'totally'], ['modifying', 'Future', 'connecting'], ['modifying', 'Future', 'units', 'disable', 'instantiating'], ['modifying', 'Future', 'totally'], ['connecting', 'Future', 'units', 'disable', 'instantiating'], ['connecting', 'Future', 'totally'], ['instantiating', 'disable', 'units', 'Future', 'totally']]"
+"('represented', 'exact', 'faster')","[['represented', 'exact', 'faster']]"
+"('exponent e',)",[['exponent e']]
+"('+ infinity',)",[['+ infinity']]
+"('3.2.2',)",[['3.2.2']]
+"('differ', 'logic')","[['differ', 'logic']]"
+"('Hardware', 'Hardware implementation')","[['Hardware', 'Hardware implementation']]"
+"('status', 'encountered', 'status flag', 'five', 'bit status', 'defines')","[['five', 'encountered', 'defines', 'status', 'status flag', 'bit status']]"
+"('Kahan',)",[['Kahan']]
+"('situation', 'number representation', 'use fixed-point', 'way', 'etc')","[['situation', 'way', 'etc', 'number representation', 'use fixed-point']]"
+"('ready', 'modes')","[['ready', 'modes']]"
+"('base b=10,', 'base', 'choose')","[['base b=10,', 'base', 'choose']]"
+"('3.3.4',)",[['3.3.4']]
+"('better', 'table', 'stored')","[['table', 'better', 'stored']]"
+"('also', 'radix', 'called')","[['radix', 'also', 'called']]"
+"('1.11000010',)",[['1.11000010']]
+"('multiple', 'saving')","[['multiple', 'saving']]"
+"('operand', 'output_o', '32', 'fpu_op_i')","[['output_o', 'operand', '32'], ['output_o', 'operand', 'fpu_op_i'], ['32', 'operand', 'fpu_op_i']]"
+"('rounded',)",[['rounded']]
+"('multiplexer', 'elements')","[['multiplexer', 'elements']]"
+"('using', 'make')","[['using', 'make']]"
+"('Operation',)",[['Operation']]
+"('specified',)",[['specified']]
+"('1.1110',)",[['1.1110']]
+"('4.1',)",[['4.1']]
+"('000', '1.1001')","[['000', '1.1001']]"
+"('unbiased', 'exponent')","[['unbiased', 'exponent']]"
+"('Round',)",[['Round']]
+"('Formats', '3.1')","[['Formats', '3.1']]"
+"('26', '13')","[['26', '13']]"
+"('Multiply',)",[['Multiply']]
+"('starts', 'bit', 'significant', 'left')","[['bit', 'starts', 'left', 'significant']]"
+"('base number',)",[['base number']]
+"('mantissa', 'storage')","[['mantissa', 'storage']]"
+"('multiply', 'calculate')","[['multiply', 'calculate']]"
+"('Square', 'Square root:')","[['Square', 'Square root:']]"
+"('often', 'Since', 'subtractions', 'area')","[['often', 'area', 'Since'], ['often', 'area', 'subtractions'], ['Since', 'area', 'subtractions']]"
+"('nearest', 'Start signal', '= subtract,', 'overflow_o')","[['Start signal', 'nearest', 'overflow_o', '= subtract,']]"
+"('Result',)",[['Result']]
+"('mantissa m,',)","[['mantissa m,']]"
+"('00', '001')","[['00', '001']]"
+"('Synthesis',)",[['Synthesis']]
+"('uninitialized', 'signal')","[['uninitialized', 'signal']]"
+"('Input', 'Input signals:')","[['Input', 'Input signals:']]"
+"('MHz', 'MHz operating')","[['MHz', 'MHz operating']]"
+"('xml',)",[['xml']]
 "('Contents',)",[['Contents']]
-"('Linux execution,',)","[['Linux execution,']]"
-"('state machine', 'cache_swap', 'swp instruction', 'swap instruction')","[['cache_swap', 'state machine', 'swp instruction'], ['cache_swap', 'state machine', 'swap instruction'], ['swp instruction', 'state machine', 'swap instruction']]"
-"('diagram', 'trce', 'GTKWave')","[['trce', 'diagram', 'GTKWave']]"
-"('obtained', 'right')","[['obtained', 'right']]"
-"('Test equivalence', 'Update')","[['Test equivalence', 'Update']]"
-"('receive', 'packet')","[['receive', 'packet']]"
-"('outputs', 'compared')","[['outputs', 'compared']]"
-"('coprocessor', 'Verilog source file', 'firq', 'processor core')","[['Verilog source file', 'processor core', 'coprocessor', 'firq']]"
-"('clocks_resets.v',)",[['clocks_resets.v']]
-"('P24', 'W21')","[['P24', 'W21']]"
-"('twice', 'executes', 'whole', '137', 'row')","[['twice', 'executes', 'row', 'whole'], ['twice', 'executes', 'row', '137'], ['whole', 'row', '137']]"
-"('multiplies', 'Zero', '26', 'Negative', 'arithmetic')","[['multiplies', 'arithmetic', '26'], ['multiplies', 'arithmetic', 'Zero', 'Negative'], ['26', 'arithmetic', 'Zero', 'Negative']]"
-"('ldm2', '149')","[['ldm2', '149']]"
-"('FIRQ address', 'hardware test', 'FIRQ mode', 'store temporary', 'vector', 'synthesis scripts,')","[['FIRQ address', 'vector', 'hardware test'], ['FIRQ address', 'vector', 'FIRQ mode'], ['FIRQ address', 'vector', 'store temporary'], ['FIRQ address', 'vector', 'synthesis scripts,'], ['hardware test', 'vector', 'FIRQ mode'], ['hardware test', 'vector', 'store temporary'], ['hardware test', 'vector', 'synthesis scripts,'], ['FIRQ mode', 'vector', 'store temporary'], ['FIRQ mode', 'vector', 'synthesis scripts,'], ['store temporary', 'vector', 'synthesis scripts,']]"
-"('Selects', 'Descending')","[['Selects', 'Descending']]"
-"('2.1', '17')","[['2.1', '17']]"
-"('load instruction', 'IRQs', 'list', 'COREGOP', 'rsc', 'flag', 'Test', 'Store Example', 'MVN')","[['IRQs', 'flag', 'MVN', 'list'], ['IRQs', 'flag', 'MVN', 'load instruction', 'COREGOP'], ['IRQs', 'flag', 'MVN', 'load instruction', 'rsc'], ['IRQs', 'flag', 'MVN', 'Test'], ['IRQs', 'flag', 'MVN', 'Store Example'], ['list', 'MVN', 'load instruction', 'COREGOP'], ['list', 'MVN', 'load instruction', 'rsc'], ['list', 'MVN', 'Test'], ['list', 'MVN', 'Store Example'], ['COREGOP', 'load instruction', 'rsc'], ['COREGOP', 'load instruction', 'MVN', 'Test'], ['COREGOP', 'load instruction', 'MVN', 'Store Example'], ['rsc', 'load instruction', 'MVN', 'Test'], ['rsc', 'load instruction', 'MVN', 'Store Example'], ['Test', 'MVN', 'Store Example']]"
-"('load address', 'Also', 'Store coprocessor', 'configure', 'load instruction,')","[['Also', 'Store coprocessor', 'load address', 'configure', 'load instruction,']]"
-"('Byte', 'r14_firq')","[['Byte', 'r14_firq']]"
-"('Reverse subtract', ""'U'"", 'tst')","[[""'U'"", 'Reverse subtract', 'tst']]"
-"('ldm4',)",[['ldm4']]
-"('download', 'connection', 'UART connection', 'USB')","[['download', 'UART connection', 'USB', 'connection']]"
-"('Fast Interrupt mode,', 'finally', 'Adds', 'Interrupt mode,', 'numbers')","[['Fast Interrupt mode,', 'finally', 'Adds'], ['Fast Interrupt mode,', 'finally', 'Interrupt mode,', 'numbers'], ['Adds', 'finally', 'Interrupt mode,', 'numbers']]"
-"('boot-loader',)",[['boot-loader']]
-"('adding', 'within', 'one')","[['within', 'adding', 'one']]"
-"('a25_fetch.v', 'Virtex-6 development', 'sw')","[['a25_fetch.v', 'Virtex-6 development', 'sw']]"
-"('Fires', 'Undefined Instruction Interrupt', 'Executes', 'handled', 'triggered')","[['Fires', 'handled', 'Undefined Instruction Interrupt'], ['Fires', 'handled', 'Executes'], ['Fires', 'handled', 'triggered'], ['Undefined Instruction Interrupt', 'handled', 'Executes'], ['Undefined Instruction Interrupt', 'handled', 'triggered'], ['Executes', 'handled', 'triggered']]"
-"('Invalid condition', 'Invalid', 'inclusive')","[['Invalid condition', 'Invalid', 'inclusive']]"
-"('ways', 'bytes', 'Machine', 'see', 'Press', 'Technology', 'Guide', 'Inc.')","[['ways', 'see', 'Machine'], ['ways', 'see', 'bytes', 'Press'], ['ways', 'see', 'Technology'], ['ways', 'see', 'bytes', 'Guide'], ['ways', 'see', 'bytes', 'Inc.'], ['Machine', 'see', 'bytes', 'Press'], ['Machine', 'see', 'Technology'], ['Machine', 'see', 'bytes', 'Guide'], ['Machine', 'see', 'bytes', 'Inc.'], ['Press', 'bytes', 'see', 'Technology'], ['Press', 'bytes', 'Guide'], ['Press', 'bytes', 'Inc.'], ['Technology', 'see', 'bytes', 'Guide'], ['Technology', 'see', 'bytes', 'Inc.'], ['Guide', 'bytes', 'Inc.']]"
-"('Amber Amber',)",[['Amber Amber']]
-"('wave', 'stall signal', 'initialization', 'freeze', 'DDR3 main', 'Connected', 'simulator work', 'wave dump')","[['wave', 'Connected', 'initialization', 'stall signal'], ['wave', 'Connected', 'initialization', 'freeze'], ['wave', 'Connected', 'initialization', 'DDR3 main'], ['wave', 'Connected', 'initialization', 'simulator work'], ['wave', 'Connected', 'initialization', 'wave dump'], ['stall signal', 'initialization', 'freeze'], ['stall signal', 'initialization', 'DDR3 main'], ['stall signal', 'initialization', 'simulator work'], ['stall signal', 'initialization', 'wave dump'], ['freeze', 'initialization', 'DDR3 main'], ['freeze', 'initialization', 'simulator work'], ['freeze', 'initialization', 'wave dump'], ['DDR3 main', 'initialization', 'simulator work'], ['DDR3 main', 'initialization', 'wave dump'], ['simulator work', 'initialization', 'wave dump']]"
-"('checking', '32')","[['checking', '32']]"
-"('switches', 'command', 'line mode', 'user interface,')","[['command', 'switches', 'line mode'], ['command', 'switches', 'user interface,'], ['line mode', 'switches', 'user interface,']]"
-"('whilst', 'privileged')","[['whilst', 'privileged']]"
-"('printf function', 'project area', 'library', 'item', 'disk', 'select', 'area cp')","[['printf function', 'library', 'project area'], ['printf function', 'library', 'item'], ['printf function', 'library', 'disk'], ['printf function', 'library', 'select'], ['printf function', 'library', 'area cp'], ['project area', 'library', 'item'], ['project area', 'library', 'disk'], ['project area', 'library', 'select'], ['project area', 'library', 'area cp'], ['item', 'library', 'disk'], ['item', 'library', 'select'], ['item', 'library', 'area cp'], ['disk', 'library', 'select'], ['disk', 'library', 'area cp'], ['select', 'library', 'area cp']]"
-"('VCO clock frequency', 'FPGA makefile,')","[['VCO clock frequency', 'FPGA makefile,']]"
-"('along', 'Execute', 'Interrupt Type', 'operands')","[['Execute', 'Interrupt Type', 'along', 'operands']]"
-"('unified', 'best')","[['unified', 'best']]"
-"('swi', 'nop')","[['swi', 'nop']]"
-"('dumping', 'runs', 'thousand', 'follows')","[['dumping', 'follows', 'runs'], ['dumping', 'follows', 'thousand'], ['runs', 'follows', 'thousand']]"
-"('Ways', 'Position', 'adds', 'two', 'Carry flag')","[['Ways', 'adds', 'Position', 'two'], ['Ways', 'adds', 'Position', 'Carry flag'], ['two', 'Position', 'Carry flag']]"
-"('memory address', 'Verilog module structure', 'CP', 'value')","[['memory address', 'Verilog module structure', 'CP', 'value']]"
-"('teq', 'svc')","[['teq', 'svc']]"
-"('sbc',)",[['sbc']]
-"('sequences', 'block', 'Execute stage,')","[['block', 'sequences', 'Execute stage,']]"
-"('also',)",[['also']]
-"('01', 'Decrement After', 'else')","[['01', 'else', 'Decrement After']]"
-"('Full', 'fa', 'Flag', '{ full_adder_cout,', 'Unsigned')","[['Full', 'Flag', 'Unsigned', '{ full_adder_cout,', 'fa']]"
-"('clear', 'hi', 'complement notation', 'Increment')","[['clear', 'complement notation', 'hi'], ['clear', 'complement notation', 'Increment'], ['hi', 'complement notation', 'Increment']]"
-"('Released', '4.1')","[['Released', '4.1']]"
-"('o_wb_stb', 'a23_core', 'barrel shifter')","[['o_wb_stb', 'a23_core', 'barrel shifter']]"
-"('multiplication', 'corresponds')","[['multiplication', 'corresponds']]"
-"('swap_sel', 'rsb', 'Syntax')","[['swap_sel', 'Syntax', 'rsb']]"
-"('r8 -r14,',)","[['r8 -r14,']]"
-"('Note', '2.', 'ls')","[['2.', 'Note', 'ls']]"
-"('possibly', 'exit', 'procedure')","[['exit', 'possibly', 'procedure']]"
-"('tar.gz', 'files')","[['tar.gz', 'files']]"
-"('2.4.27', 'New Verilog', 'Alternatively', 'support', 'New Verilog Project', 'defines')","[['2.4.27', 'support', 'New Verilog'], ['2.4.27', 'support', 'Alternatively'], ['2.4.27', 'support', 'New Verilog Project'], ['2.4.27', 'support', 'defines'], ['New Verilog', 'support', 'Alternatively'], ['New Verilog', 'support', 'New Verilog Project'], ['New Verilog', 'support', 'defines'], ['Alternatively', 'support', 'New Verilog Project'], ['Alternatively', 'support', 'defines'], ['New Verilog Project', 'support', 'defines']]"
-"('received', 'Decode -The', 'contains', 'Interrupt Types', 'prepared', 'handles', 'Decode -The instruction', 'fetch stage', 'Types')","[['Interrupt Types', 'prepared', 'Decode -The', 'handles'], ['Interrupt Types', 'prepared', 'Decode -The instruction', 'received', 'contains', 'fetch stage'], ['Interrupt Types', 'prepared', 'Types'], ['handles', 'Decode -The', 'prepared', 'Decode -The instruction', 'received', 'contains', 'fetch stage'], ['handles', 'Decode -The', 'prepared', 'Types'], ['fetch stage', 'contains', 'received', 'Decode -The instruction', 'prepared', 'Types']]"
-"('banked', 'unpredictable', '36', 'transferred', 'indicates', 'instead')","[['banked', 'instead', 'unpredictable', 'indicates', 'transferred', '36']]"
-"('hw/vlog/amber23', 'a23_fetch', 'byte', 'a25_core.v', 'o_wb_dat')","[['hw/vlog/amber23', 'byte', 'a23_fetch'], ['hw/vlog/amber23', 'byte', 'a25_core.v'], ['hw/vlog/amber23', 'byte', 'o_wb_dat'], ['a23_fetch', 'byte', 'a25_core.v'], ['a23_fetch', 'byte', 'o_wb_dat'], ['a25_core.v', 'byte', 'o_wb_dat']]"
-"('Update Condition',)",[['Update Condition']]
-"('com port', 'boot loader', 'correct port', 'GNU package', 'browse', 'Xmodem protocol', 'Installer', 'fail', 'PATH', 'com', 'GNU/Linux version')","[['com port', 'GNU package', 'correct port', 'boot loader'], ['com port', 'GNU package', 'browse'], ['com port', 'GNU package', 'fail', 'Xmodem protocol'], ['com port', 'GNU package', 'Installer'], ['com port', 'GNU package', 'PATH'], ['com port', 'GNU package', 'com'], ['com port', 'GNU package', 'GNU/Linux version'], ['boot loader', 'correct port', 'GNU package', 'browse'], ['boot loader', 'correct port', 'GNU package', 'fail', 'Xmodem protocol'], ['boot loader', 'correct port', 'GNU package', 'Installer'], ['boot loader', 'correct port', 'GNU package', 'PATH'], ['boot loader', 'correct port', 'GNU package', 'com'], ['boot loader', 'correct port', 'GNU package', 'GNU/Linux version'], ['browse', 'GNU package', 'fail', 'Xmodem protocol'], ['browse', 'GNU package', 'Installer'], ['browse', 'GNU package', 'PATH'], ['browse', 'GNU package', 'com'], ['browse', 'GNU package', 'GNU/Linux version'], ['Xmodem protocol', 'fail', 'GNU package', 'Installer'], ['Xmodem protocol', 'fail', 'GNU package', 'PATH'], ['Xmodem protocol', 'fail', 'GNU package', 'com'], ['Xmodem protocol', 'fail', 'GNU package', 'GNU/Linux version'], ['Installer', 'GNU package', 'PATH'], ['Installer', 'GNU package', 'com'], ['Installer', 'GNU package', 'GNU/Linux version'], ['PATH', 'GNU package', 'com'], ['PATH', 'GNU package', 'GNU/Linux version'], ['com', 'GNU package', 'GNU/Linux version']]"
-"('repeatedly', 'multiplier')","[['repeatedly', 'multiplier']]"
-"('CRm',)",[['CRm']]
-"('peripherals', 'implemented', 'provides')","[['peripherals', 'provides', 'implemented']]"
-"('script',)",[['script']]
-"('svn', 'amber', 'install')","[['amber', 'svn', 'install']]"
-"('correct functionality', 'mux', 'Operation')","[['mux', 'correct functionality', 'Operation']]"
-"('a25_write_back', 'bank')","[['a25_write_back', 'bank']]"
-"('system.v',)",[['system.v']]
-"('DDR3 main memory', 'relating', 'Verilog simulator work', 'signal')","[['Verilog simulator work', 'relating', 'DDR3 main memory', 'signal']]"
-"('Xilinx Spartan-6 DDR3', 'copyright', 'mcb_ddr3.v', 'ISE software', 'Wishbone bridge', 'tool', 'user', 'correct memory', 'optain', 'Xilinx Coregen tool', 'Coregen tool', 'memory controller')","[['Xilinx Spartan-6 DDR3', 'mcb_ddr3.v', 'optain', 'copyright', 'memory controller', 'Wishbone bridge'], ['Xilinx Spartan-6 DDR3', 'mcb_ddr3.v', 'optain', 'copyright', 'memory controller', 'user', 'correct memory'], ['Xilinx Spartan-6 DDR3', 'mcb_ddr3.v', 'optain', 'copyright', 'memory controller', 'ISE software', 'tool', 'Xilinx Coregen tool'], ['Xilinx Spartan-6 DDR3', 'mcb_ddr3.v', 'optain', 'copyright', 'memory controller', 'Coregen tool'], ['Wishbone bridge', 'memory controller', 'user', 'correct memory'], ['Wishbone bridge', 'memory controller', 'ISE software', 'tool', 'Xilinx Coregen tool'], ['Wishbone bridge', 'memory controller', 'Coregen tool'], ['correct memory', 'user', 'memory controller', 'ISE software', 'tool', 'Xilinx Coregen tool'], ['correct memory', 'user', 'memory controller', 'Coregen tool'], ['Xilinx Coregen tool', 'tool', 'ISE software', 'memory controller', 'Coregen tool']]"
-"('bus', 'Wishbone system')","[['bus', 'Wishbone system']]"
-"('r12', 'r13', 'ip', 'sp', 'r11_firq', 'mcr', 'Store')","[['r12', 'Store', 'r13'], ['r12', 'Store', 'ip'], ['r12', 'Store', 'sp'], ['r12', 'Store', 'r11_firq'], ['r12', 'Store', 'mcr'], ['r13', 'Store', 'ip'], ['r13', 'Store', 'sp'], ['r13', 'Store', 'r11_firq'], ['r13', 'Store', 'mcr'], ['ip', 'Store', 'sp'], ['ip', 'Store', 'r11_firq'], ['ip', 'Store', 'mcr'], ['sp', 'Store', 'r11_firq'], ['sp', 'Store', 'mcr'], ['r11_firq', 'Store', 'mcr']]"
-"(""carry'"",)","[[""carry'""]]"
-"('loaded', 'flags', 'access memory', 'Amber register')","[['access memory', 'flags', 'loaded', 'Amber register']]"
-"('Amber Boot Loader v20110117211518', 'makefiles')","[['Amber Boot Loader v20110117211518', 'makefiles']]"
-"('middle', 'works', 'Checks', '104')","[['middle', 'Checks', 'works'], ['middle', 'Checks', '104'], ['works', 'Checks', '104']]"
-"('DDR3',)",[['DDR3']]
-"('addressing_mode', 'instruction c')","[['addressing_mode', 'instruction c']]"
-"('4.', 'Shifts', '00', 'Register Shifts')","[['4.', 'Register Shifts', 'Shifts'], ['4.', 'Register Shifts', '00'], ['Shifts', 'Register Shifts', '00']]"
-"('Move NOT', 'Move')","[['Move NOT', 'Move']]"
-"('SWI', 'Rd', 'Rn', 'CRn', 'MULT')","[['Rn', 'Rd', 'SWI', 'MULT', 'CRn']]"
-"('fields', 'followed')","[['fields', 'followed']]"
-"('offset_12', 'wishbone', 'Instantiated', 'Cache', 'a25_mem.v', 'a25_fetch', 'wishbone bus,', 'instruction cache')","[['offset_12', 'instruction cache', 'wishbone bus,', 'Instantiated', 'wishbone', 'Cache', 'a25_mem.v'], ['offset_12', 'instruction cache', 'wishbone bus,', 'Instantiated', 'wishbone', 'Cache', 'a25_fetch'], ['a25_mem.v', 'Cache', 'a25_fetch']]"
-"('return', 'Test Branch')","[['return', 'Test Branch']]"
-"('ror', 'orr', 'S bit')","[['orr', 'ror', 'S bit']]"
-"('FPGA development board', 'ALU')","[['FPGA development board', 'ALU']]"
-"('a23_core.v', 'o_wb_sel', 'Fetch', 'work directory,')","[['a23_core.v', 'work directory,', 'o_wb_sel'], ['a23_core.v', 'work directory,', 'Fetch'], ['o_wb_sel', 'work directory,', 'Fetch']]"
-"('command line', 'vsim')","[['command line', 'vsim']]"
-"('ANDing', 'port list')","[['ANDing', 'port list']]"
-"('.mem file', 'patch', 'Boot', 'Loader')","[['patch', '.mem file', 'Boot'], ['patch', '.mem file', 'Loader'], ['Boot', '.mem file', 'Loader']]"
-"('saves',)",[['saves']]
-"('cores', 'circle', 'MHz', 'think')","[['cores', 'MHz', 'think', 'circle']]"
-"('Data Transfer TRANS Block', 'Data Transfer MTRANS Branch', 'Transfer Software Interrupt SWI', 'Transfer Coprocessor Data COREGOP', 'Data CODTRANS Transfer Coprocessor', 'Xilinx SP605 Spartan-6 FPGA', 'COREGOP Operation Coprocessor CORTRANS', 'Data COREGOP Operation Coprocessor', 'Transfer TRANS Block Data', 'Coprocessor Data CODTRANS Transfer', 'known', 'Coprocessor CORTRANS Register Transfer', 'Register Transfer Software Interrupt', 'save', 'Block Data Transfer MTRANS', 'Coprocessor Data COREGOP Operation', 'Transfer MTRANS Branch BRANCH')","[['Data Transfer TRANS Block', 'save', 'Data Transfer MTRANS Branch'], ['Data Transfer TRANS Block', 'save', 'known', 'Transfer Software Interrupt SWI'], ['Data Transfer TRANS Block', 'save', 'known', 'Transfer Coprocessor Data COREGOP'], ['Data Transfer TRANS Block', 'save', 'Data CODTRANS Transfer Coprocessor'], ['Data Transfer TRANS Block', 'save', 'known', 'Xilinx SP605 Spartan-6 FPGA'], ['Data Transfer TRANS Block', 'save', 'known', 'COREGOP Operation Coprocessor CORTRANS'], ['Data Transfer TRANS Block', 'save', 'known', 'Data COREGOP Operation Coprocessor'], ['Data Transfer TRANS Block', 'save', 'Transfer TRANS Block Data'], ['Data Transfer TRANS Block', 'save', 'Coprocessor Data CODTRANS Transfer'], ['Data Transfer TRANS Block', 'save', 'known', 'Coprocessor CORTRANS Register Transfer'], ['Data Transfer TRANS Block', 'save', 'known', 'Register Transfer Software Interrupt'], ['Data Transfer TRANS Block', 'save', 'Block Data Transfer MTRANS'], ['Data Transfer TRANS Block', 'save', 'known', 'Coprocessor Data COREGOP Operation'], ['Data Transfer TRANS Block', 'save', 'Transfer MTRANS Branch BRANCH'], ['Data Transfer MTRANS Branch', 'save', 'known', 'Transfer Software Interrupt SWI'], ['Data Transfer MTRANS Branch', 'save', 'known', 'Transfer Coprocessor Data COREGOP'], ['Data Transfer MTRANS Branch', 'save', 'Data CODTRANS Transfer Coprocessor'], ['Data Transfer MTRANS Branch', 'save', 'known', 'Xilinx SP605 Spartan-6 FPGA'], ['Data Transfer MTRANS Branch', 'save', 'known', 'COREGOP Operation Coprocessor CORTRANS'], ['Data Transfer MTRANS Branch', 'save', 'known', 'Data COREGOP Operation Coprocessor'], ['Data Transfer MTRANS Branch', 'save', 'Transfer TRANS Block Data'], ['Data Transfer MTRANS Branch', 'save', 'Coprocessor Data CODTRANS Transfer'], ['Data Transfer MTRANS Branch', 'save', 'known', 'Coprocessor CORTRANS Register Transfer'], ['Data Transfer MTRANS Branch', 'save', 'known', 'Register Transfer Software Interrupt'], ['Data Transfer MTRANS Branch', 'save', 'Block Data Transfer MTRANS'], ['Data Transfer MTRANS Branch', 'save', 'known', 'Coprocessor Data COREGOP Operation'], ['Data Transfer MTRANS Branch', 'save', 'Transfer MTRANS Branch BRANCH'], ['Transfer Software Interrupt SWI', 'known', 'Transfer Coprocessor Data COREGOP'], ['Transfer Software Interrupt SWI', 'known', 'save', 'Data CODTRANS Transfer Coprocessor'], ['Transfer Software Interrupt SWI', 'known', 'Xilinx SP605 Spartan-6 FPGA'], ['Transfer Software Interrupt SWI', 'known', 'COREGOP Operation Coprocessor CORTRANS'], ['Transfer Software Interrupt SWI', 'known', 'Data COREGOP Operation Coprocessor'], ['Transfer Software Interrupt SWI', 'known', 'save', 'Transfer TRANS Block Data'], ['Transfer Software Interrupt SWI', 'known', 'save', 'Coprocessor Data CODTRANS Transfer'], ['Transfer Software Interrupt SWI', 'known', 'Coprocessor CORTRANS Register Transfer'], ['Transfer Software Interrupt SWI', 'known', 'Register Transfer Software Interrupt'], ['Transfer Software Interrupt SWI', 'known', 'save', 'Block Data Transfer MTRANS'], ['Transfer Software Interrupt SWI', 'known', 'Coprocessor Data COREGOP Operation'], ['Transfer Software Interrupt SWI', 'known', 'save', 'Transfer MTRANS Branch BRANCH'], ['Transfer Coprocessor Data COREGOP', 'known', 'save', 'Data CODTRANS Transfer Coprocessor'], ['Transfer Coprocessor Data COREGOP', 'known', 'Xilinx SP605 Spartan-6 FPGA'], ['Transfer Coprocessor Data COREGOP', 'known', 'COREGOP Operation Coprocessor CORTRANS'], ['Transfer Coprocessor Data COREGOP', 'known', 'Data COREGOP Operation Coprocessor'], ['Transfer Coprocessor Data COREGOP', 'known', 'save', 'Transfer TRANS Block Data'], ['Transfer Coprocessor Data COREGOP', 'known', 'save', 'Coprocessor Data CODTRANS Transfer'], ['Transfer Coprocessor Data COREGOP', 'known', 'Coprocessor CORTRANS Register Transfer'], ['Transfer Coprocessor Data COREGOP', 'known', 'Register Transfer Software Interrupt'], ['Transfer Coprocessor Data COREGOP', 'known', 'save', 'Block Data Transfer MTRANS'], ['Transfer Coprocessor Data COREGOP', 'known', 'Coprocessor Data COREGOP Operation'], ['Transfer Coprocessor Data COREGOP', 'known', 'save', 'Transfer MTRANS Branch BRANCH'], ['Data CODTRANS Transfer Coprocessor', 'save', 'known', 'Xilinx SP605 Spartan-6 FPGA'], ['Data CODTRANS Transfer Coprocessor', 'save', 'known', 'COREGOP Operation Coprocessor CORTRANS'], ['Data CODTRANS Transfer Coprocessor', 'save', 'known', 'Data COREGOP Operation Coprocessor'], ['Data CODTRANS Transfer Coprocessor', 'save', 'Transfer TRANS Block Data'], ['Data CODTRANS Transfer Coprocessor', 'save', 'Coprocessor Data CODTRANS Transfer'], ['Data CODTRANS Transfer Coprocessor', 'save', 'known', 'Coprocessor CORTRANS Register Transfer'], ['Data CODTRANS Transfer Coprocessor', 'save', 'known', 'Register Transfer Software Interrupt'], ['Data CODTRANS Transfer Coprocessor', 'save', 'Block Data Transfer MTRANS'], ['Data CODTRANS Transfer Coprocessor', 'save', 'known', 'Coprocessor Data COREGOP Operation'], ['Data CODTRANS Transfer Coprocessor', 'save', 'Transfer MTRANS Branch BRANCH'], ['Xilinx SP605 Spartan-6 FPGA', 'known', 'COREGOP Operation Coprocessor CORTRANS'], ['Xilinx SP605 Spartan-6 FPGA', 'known', 'Data COREGOP Operation Coprocessor'], ['Xilinx SP605 Spartan-6 FPGA', 'known', 'save', 'Transfer TRANS Block Data'], ['Xilinx SP605 Spartan-6 FPGA', 'known', 'save', 'Coprocessor Data CODTRANS Transfer'], ['Xilinx SP605 Spartan-6 FPGA', 'known', 'Coprocessor CORTRANS Register Transfer'], ['Xilinx SP605 Spartan-6 FPGA', 'known', 'Register Transfer Software Interrupt'], ['Xilinx SP605 Spartan-6 FPGA', 'known', 'save', 'Block Data Transfer MTRANS'], ['Xilinx SP605 Spartan-6 FPGA', 'known', 'Coprocessor Data COREGOP Operation'], ['Xilinx SP605 Spartan-6 FPGA', 'known', 'save', 'Transfer MTRANS Branch BRANCH'], ['COREGOP Operation Coprocessor CORTRANS', 'known', 'Data COREGOP Operation Coprocessor'], ['COREGOP Operation Coprocessor CORTRANS', 'known', 'save', 'Transfer TRANS Block Data'], ['COREGOP Operation Coprocessor CORTRANS', 'known', 'save', 'Coprocessor Data CODTRANS Transfer'], ['COREGOP Operation Coprocessor CORTRANS', 'known', 'Coprocessor CORTRANS Register Transfer'], ['COREGOP Operation Coprocessor CORTRANS', 'known', 'Register Transfer Software Interrupt'], ['COREGOP Operation Coprocessor CORTRANS', 'known', 'save', 'Block Data Transfer MTRANS'], ['COREGOP Operation Coprocessor CORTRANS', 'known', 'Coprocessor Data COREGOP Operation'], ['COREGOP Operation Coprocessor CORTRANS', 'known', 'save', 'Transfer MTRANS Branch BRANCH'], ['Data COREGOP Operation Coprocessor', 'known', 'save', 'Transfer TRANS Block Data'], ['Data COREGOP Operation Coprocessor', 'known', 'save', 'Coprocessor Data CODTRANS Transfer'], ['Data COREGOP Operation Coprocessor', 'known', 'Coprocessor CORTRANS Register Transfer'], ['Data COREGOP Operation Coprocessor', 'known', 'Register Transfer Software Interrupt'], ['Data COREGOP Operation Coprocessor', 'known', 'save', 'Block Data Transfer MTRANS'], ['Data COREGOP Operation Coprocessor', 'known', 'Coprocessor Data COREGOP Operation'], ['Data COREGOP Operation Coprocessor', 'known', 'save', 'Transfer MTRANS Branch BRANCH'], ['Transfer TRANS Block Data', 'save', 'Coprocessor Data CODTRANS Transfer'], ['Transfer TRANS Block Data', 'save', 'known', 'Coprocessor CORTRANS Register Transfer'], ['Transfer TRANS Block Data', 'save', 'known', 'Register Transfer Software Interrupt'], ['Transfer TRANS Block Data', 'save', 'Block Data Transfer MTRANS'], ['Transfer TRANS Block Data', 'save', 'known', 'Coprocessor Data COREGOP Operation'], ['Transfer TRANS Block Data', 'save', 'Transfer MTRANS Branch BRANCH'], ['Coprocessor Data CODTRANS Transfer', 'save', 'known', 'Coprocessor CORTRANS Register Transfer'], ['Coprocessor Data CODTRANS Transfer', 'save', 'known', 'Register Transfer Software Interrupt'], ['Coprocessor Data CODTRANS Transfer', 'save', 'Block Data Transfer MTRANS'], ['Coprocessor Data CODTRANS Transfer', 'save', 'known', 'Coprocessor Data COREGOP Operation'], ['Coprocessor Data CODTRANS Transfer', 'save', 'Transfer MTRANS Branch BRANCH'], ['Coprocessor CORTRANS Register Transfer', 'known', 'Register Transfer Software Interrupt'], ['Coprocessor CORTRANS Register Transfer', 'known', 'save', 'Block Data Transfer MTRANS'], ['Coprocessor CORTRANS Register Transfer', 'known', 'Coprocessor Data COREGOP Operation'], ['Coprocessor CORTRANS Register Transfer', 'known', 'save', 'Transfer MTRANS Branch BRANCH'], ['Register Transfer Software Interrupt', 'known', 'save', 'Block Data Transfer MTRANS'], ['Register Transfer Software Interrupt', 'known', 'Coprocessor Data COREGOP Operation'], ['Register Transfer Software Interrupt', 'known', 'save', 'Transfer MTRANS Branch BRANCH'], ['Block Data Transfer MTRANS', 'save', 'known', 'Coprocessor Data COREGOP Operation'], ['Block Data Transfer MTRANS', 'save', 'Transfer MTRANS Branch BRANCH'], ['Coprocessor Data COREGOP Operation', 'known', 'save', 'Transfer MTRANS Branch BRANCH']]"
-"('directories', '16384', 'would')","[['directories', 'would', '16384']]"
-"('tested', 'quite')","[['tested', 'quite']]"
-"('cd',)",[['cd']]
-"('VCD dump file', 'dump file', 'file')","[['VCD dump file', 'file', 'dump file']]"
-"('included',)",[['included']]
-"('pipeline stage', 'address_nxt')","[['pipeline stage', 'address_nxt']]"
-"('Decode', 'datapath')","[['Decode', 'datapath']]"
-"('website', '10.2', 'connect', 'simulate', 'still', 'Linux PC')","[['connect', '10.2', 'simulate'], ['connect', '10.2', 'still', 'website', 'Linux PC'], ['simulate', '10.2', 'still', 'website', 'Linux PC']]"
-"('00000053',)",[['00000053']]
-"('completed', 'cycles', '40')","[['cycles', 'completed', '40']]"
-"('Local', 'various')","[['Local', 'various']]"
-"('trial version', 'Trace', 'visit', 'trial', 'Program', 'line')","[['trial version', 'Trace', 'line', 'Program', 'visit'], ['trial version', 'Trace', 'line', 'Program', 'trial'], ['visit', 'Program', 'trial']]"
-"('create', 'Amber processor')","[['create', 'Amber processor']]"
-"('print',)",[['print']]
-"('stm_stream',)",[['stm_stream']]
-"('Ethernet MAC module', 'r3')","[['Ethernet MAC module', 'r3']]"
-"('ransom', 'simple interactin', 'cached', 'interrupts', 'FPU', 'checks')","[['simple interactin', 'ransom', 'cached', 'interrupts'], ['simple interactin', 'ransom', 'cached', 'FPU', 'checks'], ['interrupts', 'cached', 'FPU', 'checks']]"
-"('+ y', 'values', 'Determine')","[['+ y', 'Determine', 'values']]"
-"('vmlinux.mem file', 'image file', 'run boot-loader', 'format disk', 'change')","[['vmlinux.mem file', 'change', 'image file'], ['vmlinux.mem file', 'change', 'run boot-loader'], ['vmlinux.mem file', 'change', 'format disk'], ['image file', 'change', 'run boot-loader'], ['image file', 'change', 'format disk'], ['run boot-loader', 'change', 'format disk']]"
-"('addition', 'short')","[['addition', 'short']]"
-"('New', 'reads')","[['New', 'reads']]"
-"('a23_decode.v', 'offset', 'hw/vlog/amber25', 'Write enable,', 'Amber module', 'o_wb_cyc')","[['a23_decode.v', 'offset', 'hw/vlog/amber25', 'Write enable,', 'Amber module', 'o_wb_cyc']]"
-"('suite', '921600', 'sets')","[['suite', 'sets', '921600']]"
-"('source code', 'code', 'vlog', 'Verilog source code')","[['code', 'source code', 'vlog'], ['code', 'source code', 'Verilog source code'], ['vlog', 'source code', 'Verilog source code']]"
-"('rotated',)",[['rotated']]
-"('release', 'provided', 'terms')","[['release', 'provided', 'terms']]"
-"('Compare', 'reread', 'store address', 'clock', 'account', 'store instruction,', 'allow subtraction', 'register value,', 'subtract')","[['Compare', 'reread', 'store address'], ['Compare', 'reread', 'clock'], ['Compare', 'reread', 'account'], ['Compare', 'reread', 'store instruction,'], ['Compare', 'reread', 'allow subtraction'], ['Compare', 'reread', 'register value,'], ['Compare', 'reread', 'subtract'], ['store address', 'reread', 'clock'], ['store address', 'reread', 'account'], ['store address', 'reread', 'store instruction,'], ['store address', 'reread', 'allow subtraction'], ['store address', 'reread', 'register value,'], ['store address', 'reread', 'subtract'], ['clock', 'reread', 'account'], ['clock', 'reread', 'store instruction,'], ['clock', 'reread', 'allow subtraction'], ['clock', 'reread', 'register value,'], ['clock', 'reread', 'subtract'], ['account', 'reread', 'store instruction,'], ['account', 'reread', 'allow subtraction'], ['account', 'reread', 'register value,'], ['account', 'reread', 'subtract'], ['store instruction,', 'reread', 'allow subtraction'], ['store instruction,', 'reread', 'register value,'], ['store instruction,', 'reread', 'subtract'], ['allow subtraction', 'reread', 'register value,'], ['allow subtraction', 'reread', 'subtract'], ['register value,', 'reread', 'subtract']]"
-"('-o boot-loader.o', 'trace', '-o start.o', 'boot-loader.o boot-loader.c', 'trace utility', 'program trace')","[['-o boot-loader.o', 'trace', '-o start.o'], ['-o boot-loader.o', 'trace', 'boot-loader.o boot-loader.c'], ['-o boot-loader.o', 'trace', 'trace utility'], ['-o boot-loader.o', 'trace', 'program trace'], ['-o start.o', 'trace', 'boot-loader.o boot-loader.c'], ['-o start.o', 'trace', 'trace utility'], ['-o start.o', 'trace', 'program trace'], ['boot-loader.o boot-loader.c', 'trace', 'trace utility'], ['boot-loader.o boot-loader.c', 'trace', 'program trace'], ['trace utility', 'trace', 'program trace']]"
-"('i_irq', 'Project directory', 'mov r1,', 'directory structure', 'ldr r4,')","[['i_irq', 'directory structure', 'Project directory', 'mov r1,'], ['i_irq', 'directory structure', 'Project directory', 'ldr r4,'], ['mov r1,', 'Project directory', 'ldr r4,']]"
-"('configurable', 'printed', 'Defines')","[['configurable', 'Defines', 'printed']]"
-"('pc value', 'branch target,', 'branch', 'contain')","[['pc value', 'branch', 'contain', 'branch target,']]"
-"('ldm3', 'user mode', 'ldm')","[['user mode', 'ldm3', 'ldm']]"
-"('replacement policy', 'way')","[['replacement policy', 'way']]"
-"('stm instructions,', 'Ldm')","[['stm instructions,', 'Ldm']]"
-"('Link instruction', 'Ethernet MAC', 'correct return')","[['Link instruction', 'correct return', 'Ethernet MAC']]"
-"('8192', 'Mask', 'either', 'disables')","[['8192', 'either', 'Mask'], ['8192', 'either', 'disables'], ['Mask', 'either', 'disables']]"
-"('FPGA synthsis process', 'synthsis process', 'address')","[['FPGA synthsis process', 'synthsis process', 'address']]"
-"('decoded', 'increments', '22', 'active', 'fetched', 'calculates')","[['increments', 'decoded', 'active'], ['increments', 'decoded', '22', 'fetched'], ['increments', 'decoded', 'calculates'], ['active', 'decoded', '22', 'fetched'], ['active', 'decoded', 'calculates'], ['fetched', '22', 'decoded', 'calculates']]"
-"('strb', 'sub')","[['strb', 'sub']]"
-"('10.3.2', 'tools', 'disassembly', 'VCD')","[['10.3.2', 'tools', 'disassembly', 'VCD']]"
-"('movs_bug', 'Bug')","[['movs_bug', 'Bug']]"
-"('function', 'RAM16', 'bicne', 'uart', 'test_uart', 'internal', 'uart_rx', 'ethmac_reg')","[['RAM16', 'function', 'bicne'], ['RAM16', 'function', 'uart'], ['RAM16', 'function', 'test_uart'], ['RAM16', 'function', 'internal'], ['RAM16', 'function', 'uart_rx'], ['RAM16', 'function', 'ethmac_reg'], ['bicne', 'function', 'uart'], ['bicne', 'function', 'test_uart'], ['bicne', 'function', 'internal'], ['bicne', 'function', 'uart_rx'], ['bicne', 'function', 'ethmac_reg'], ['uart', 'function', 'test_uart'], ['uart', 'function', 'internal'], ['uart', 'function', 'uart_rx'], ['uart', 'function', 'ethmac_reg'], ['test_uart', 'function', 'internal'], ['test_uart', 'function', 'uart_rx'], ['test_uart', 'function', 'ethmac_reg'], ['internal', 'function', 'uart_rx'], ['internal', 'function', 'ethmac_reg'], ['uart_rx', 'function', 'ethmac_reg']]"
-"('Ethmac DMA access', 'Ethmac DMA', 'fit')","[['Ethmac DMA access', 'Ethmac DMA', 'fit']]"
-"('tar.gz file', 'server', 'Subversion', 'loader application', 'done so,', 'includes', 'Subversion server', 'Compiler')","[['tar.gz file', 'Compiler', 'Subversion'], ['tar.gz file', 'Compiler', 'loader application'], ['tar.gz file', 'Compiler', 'server', 'done so,', 'includes'], ['tar.gz file', 'Compiler', 'Subversion server'], ['Subversion', 'Compiler', 'loader application'], ['Subversion', 'Compiler', 'server', 'done so,', 'includes'], ['Subversion', 'Compiler', 'Subversion server'], ['loader application', 'Compiler', 'server', 'done so,', 'includes'], ['loader application', 'Compiler', 'Subversion server'], ['includes', 'done so,', 'server', 'Compiler', 'Subversion server']]"
-"('lower', 'calculate')","[['lower', 'calculate']]"
-"('-c -o', '-o', 'start.o', '-c')","[['-c -o', '-o', 'start.o'], ['-c -o', '-o', '-c'], ['start.o', '-o', '-c']]"
-"('Passed',)",[['Passed']]
-"('given', 'swaps', 'written', 'Swap', 'accumulate', 'result')","[['given', 'swaps', 'written', 'accumulate', 'Swap'], ['given', 'swaps', 'result'], ['Swap', 'accumulate', 'written', 'swaps', 'result']]"
-"('Synthesis Results', '11.1')","[['Synthesis Results', '11.1']]"
-"('p flag', 'r6', 'stall cycle', 'store instruction', 'tick', 'store')","[['p flag', 'tick', 'store instruction', 'r6', 'stall cycle', 'store']]"
-"('missed', 'Immediate post-indexed,', '108', 'strobe', 'Register post-indexed,', 'boundary', 'starting')","[['missed', 'strobe', 'boundary', '108', 'Immediate post-indexed,'], ['missed', 'strobe', 'boundary', '108', 'Register post-indexed,'], ['missed', 'strobe', 'starting'], ['Immediate post-indexed,', '108', 'Register post-indexed,'], ['Immediate post-indexed,', '108', 'boundary', 'strobe', 'starting'], ['Register post-indexed,', '108', 'boundary', 'strobe', 'starting']]"
-"('license', 'set architecture', 'RISC processor', 'Architecture', 'v2a instruction', 'ARM instruction')","[['set architecture', 'Architecture', 'v2a instruction', 'license', 'RISC processor'], ['set architecture', 'Architecture', 'ARM instruction'], ['RISC processor', 'license', 'v2a instruction', 'Architecture', 'ARM instruction']]"
-"('-Supervisor', '-User', 'stc')","[['-Supervisor', '-User', 'stc']]"
-"('Lesser', 'General Public', 'Condition', 'License', 'Lesser General Public License')","[['General Public', 'Condition', 'License', 'Lesser', 'Lesser General Public License']]"
-"('Unified', 'Unified instruction')","[['Unified', 'Unified instruction']]"
-"('crc16.o xmodem.o', '../mini-libc/libc_asm.o ../mini-libc/memcpy.o', '../mini-libc/printf.o ../mini-libc/libc_asm.o', '-Map', 'boot-loader.map', 'start.o crc16.o', '-Map boot-loader.map', 'xmodem.o elfsplitter.o', 'boot-loader.o start.o', 'elfsplitter.o ../mini-libc/printf.o')","[['crc16.o xmodem.o', '-Map', '../mini-libc/printf.o ../mini-libc/libc_asm.o'], ['crc16.o xmodem.o', '-Map', 'start.o crc16.o'], ['crc16.o xmodem.o', '-Map', '../mini-libc/libc_asm.o ../mini-libc/memcpy.o', 'boot-loader.map', '-Map boot-loader.map'], ['crc16.o xmodem.o', '-Map', 'xmodem.o elfsplitter.o'], ['crc16.o xmodem.o', '-Map', 'boot-loader.o start.o'], ['crc16.o xmodem.o', '-Map', 'elfsplitter.o ../mini-libc/printf.o'], ['../mini-libc/printf.o ../mini-libc/libc_asm.o', '-Map', 'start.o crc16.o'], ['../mini-libc/printf.o ../mini-libc/libc_asm.o', '-Map', '../mini-libc/libc_asm.o ../mini-libc/memcpy.o', 'boot-loader.map', '-Map boot-loader.map'], ['../mini-libc/printf.o ../mini-libc/libc_asm.o', '-Map', 'xmodem.o elfsplitter.o'], ['../mini-libc/printf.o ../mini-libc/libc_asm.o', '-Map', 'boot-loader.o start.o'], ['../mini-libc/printf.o ../mini-libc/libc_asm.o', '-Map', 'elfsplitter.o ../mini-libc/printf.o'], ['start.o crc16.o', '-Map', '../mini-libc/libc_asm.o ../mini-libc/memcpy.o', 'boot-loader.map', '-Map boot-loader.map'], ['start.o crc16.o', '-Map', 'xmodem.o elfsplitter.o'], ['start.o crc16.o', '-Map', 'boot-loader.o start.o'], ['start.o crc16.o', '-Map', 'elfsplitter.o ../mini-libc/printf.o'], ['-Map boot-loader.map', 'boot-loader.map', '../mini-libc/libc_asm.o ../mini-libc/memcpy.o', '-Map', 'xmodem.o elfsplitter.o'], ['-Map boot-loader.map', 'boot-loader.map', '../mini-libc/libc_asm.o ../mini-libc/memcpy.o', '-Map', 'boot-loader.o start.o'], ['-Map boot-loader.map', 'boot-loader.map', '../mini-libc/libc_asm.o ../mini-libc/memcpy.o', '-Map', 'elfsplitter.o ../mini-libc/printf.o'], ['xmodem.o elfsplitter.o', '-Map', 'boot-loader.o start.o'], ['xmodem.o elfsplitter.o', '-Map', 'elfsplitter.o ../mini-libc/printf.o'], ['boot-loader.o start.o', '-Map', 'elfsplitter.o ../mini-libc/printf.o']]"
-"('SDRAM I/F', 'SDRAM')","[['SDRAM I/F', 'SDRAM']]"
-"('Core Source Files', 'Core Source', 'r0')","[['Core Source', 'Core Source Files', 'r0']]"
-"('possible', 'Generates')","[['possible', 'Generates']]"
-"('Description',)",[['Description']]
-"('Amber core,', 'requested', 'operating', 'Load register byte', 'SWI exception handler')","[['requested', 'Amber core,', 'operating', 'Load register byte'], ['requested', 'Amber core,', 'operating', 'SWI exception handler'], ['Load register byte', 'operating', 'SWI exception handler']]"
-"('compatible', 'simulators', 'Modelsim SE', 'able', 'Modelsim SE v6.5')","[['compatible', 'simulators', 'Modelsim SE', 'able'], ['compatible', 'simulators', 'Modelsim SE v6.5'], ['able', 'Modelsim SE', 'simulators', 'Modelsim SE v6.5']]"
-"('tag', '""Acorn')","[['tag', '""Acorn']]"
-"('r5', 'Amber23', 'bitwise')","[['r5', 'bitwise', 'Amber23']]"
-"('stm2', 'stm instruction')","[['stm2', 'stm instruction']]"
-"('db', 'Logical')","[['db', 'Logical']]"
-"('functions', 'work')","[['functions', 'work']]"
-"('10.6.1', '10.7.2', 'button')","[['10.6.1', 'button', '10.7.2']]"
-"('viewer', 'grab', 'million', 'ticks', 'Build')","[['grab', 'viewer', 'million'], ['grab', 'viewer', 'ticks'], ['grab', 'viewer', 'Build'], ['million', 'viewer', 'ticks'], ['million', 'viewer', 'Build'], ['ticks', 'viewer', 'Build']]"
-"('case', 'edit', 'file system', 'bare', 'Linux file')","[['edit', 'case', 'file system'], ['edit', 'case', 'bare'], ['edit', 'case', 'Linux file'], ['file system', 'case', 'bare'], ['file system', 'case', 'Linux file'], ['bare', 'case', 'Linux file']]"
-"('IA32', 'Sourcery GNU', 'Transfer-', 'menu', 'Select', ""'l'"", 'Xmodem', 'COM14', 'pass', ""'j'"", 'loop', 'board')","[['Transfer-', 'loop', 'pass', 'menu', 'Select'], ['Transfer-', 'loop', 'IA32', 'Sourcery GNU', ""'l'""], ['Transfer-', 'loop', 'pass', 'Xmodem'], ['Transfer-', 'loop', 'pass', 'COM14'], ['Transfer-', 'loop', 'IA32', 'Sourcery GNU', ""'j'""], ['Transfer-', 'loop', 'IA32', 'Sourcery GNU', 'board'], ['Select', 'menu', 'pass', 'loop', 'IA32', 'Sourcery GNU', ""'l'""], ['Select', 'menu', 'pass', 'Xmodem'], ['Select', 'menu', 'pass', 'COM14'], ['Select', 'menu', 'pass', 'loop', 'IA32', 'Sourcery GNU', ""'j'""], ['Select', 'menu', 'pass', 'loop', 'IA32', 'Sourcery GNU', 'board'], [""'l'"", 'Sourcery GNU', 'IA32', 'loop', 'pass', 'Xmodem'], [""'l'"", 'Sourcery GNU', 'IA32', 'loop', 'pass', 'COM14'], [""'l'"", 'Sourcery GNU', ""'j'""], [""'l'"", 'Sourcery GNU', 'board'], ['Xmodem', 'pass', 'COM14'], ['Xmodem', 'pass', 'loop', 'IA32', 'Sourcery GNU', ""'j'""], ['Xmodem', 'pass', 'loop', 'IA32', 'Sourcery GNU', 'board'], ['COM14', 'pass', 'loop', 'IA32', 'Sourcery GNU', ""'j'""], ['COM14', 'pass', 'loop', 'IA32', 'Sourcery GNU', 'board'], [""'j'"", 'Sourcery GNU', 'board']]"
-"('normal',)",[['normal']]
-"('Settings', 'Define Propagation', 'calling', 'Modelsim GUI', 'compiling', 'design', 'simply', 'throughout', 'Project Settings,')","[['Settings', 'simply', 'Define Propagation', 'calling', 'Modelsim GUI'], ['Settings', 'simply', 'Define Propagation', 'compiling'], ['Settings', 'simply', 'Define Propagation', 'calling', 'design'], ['Settings', 'simply', 'throughout'], ['Settings', 'simply', 'Define Propagation', 'calling', 'Project Settings,'], ['Modelsim GUI', 'calling', 'Define Propagation', 'compiling'], ['Modelsim GUI', 'calling', 'design'], ['Modelsim GUI', 'calling', 'Define Propagation', 'simply', 'throughout'], ['Modelsim GUI', 'calling', 'Project Settings,'], ['compiling', 'Define Propagation', 'calling', 'design'], ['compiling', 'Define Propagation', 'simply', 'throughout'], ['compiling', 'Define Propagation', 'calling', 'Project Settings,'], ['design', 'calling', 'Define Propagation', 'simply', 'throughout'], ['design', 'calling', 'Project Settings,'], ['throughout', 'simply', 'Define Propagation', 'calling', 'Project Settings,']]"
-"('vmlinux', '.mem', 'vmlinux simulation')","[['.mem', 'vmlinux', 'vmlinux simulation']]"
-"('complicate', 'subtraction', 'accesses')","[['subtraction', 'complicate', 'accesses']]"
-"('source file', 'opcode_2', 'r14', 'instructon', 'irq', 'opcode_1', 'stall', 'coproc', 'target address', 'cmp')","[['source file', 'instructon', 'cmp', 'r14'], ['source file', 'instructon', 'irq'], ['source file', 'instructon', 'opcode_1'], ['source file', 'instructon', 'stall'], ['source file', 'instructon', 'opcode_2', 'coproc'], ['source file', 'instructon', 'target address'], ['r14', 'cmp', 'instructon', 'irq'], ['r14', 'cmp', 'instructon', 'opcode_1'], ['r14', 'cmp', 'instructon', 'stall'], ['r14', 'cmp', 'instructon', 'opcode_2', 'coproc'], ['r14', 'cmp', 'instructon', 'target address'], ['irq', 'instructon', 'opcode_1'], ['irq', 'instructon', 'stall'], ['irq', 'instructon', 'opcode_2', 'coproc'], ['irq', 'instructon', 'target address'], ['opcode_1', 'instructon', 'stall'], ['opcode_1', 'instructon', 'opcode_2', 'coproc'], ['opcode_1', 'instructon', 'target address'], ['stall', 'instructon', 'opcode_2', 'coproc'], ['stall', 'instructon', 'target address'], ['coproc', 'opcode_2', 'instructon', 'target address']]"
-"('Field', 'Undefined')","[['Field', 'Undefined']]"
-"('return address', 'uart_tx', 'ethmac_tx', 'cache1', 'Branch')","[['uart_tx', 'return address', 'ethmac_tx'], ['uart_tx', 'return address', 'cache1'], ['uart_tx', 'return address', 'Branch'], ['ethmac_tx', 'return address', 'cache1'], ['ethmac_tx', 'return address', 'Branch'], ['cache1', 'return address', 'Branch']]"
-"('-a', 'parity bits,', 'flow', 'run -a', 'stop bit', 'hardware flow')","[['-a', 'flow', 'parity bits,'], ['-a', 'flow', 'run -a'], ['-a', 'flow', 'stop bit'], ['-a', 'flow', 'hardware flow'], ['parity bits,', 'flow', 'run -a'], ['parity bits,', 'flow', 'stop bit'], ['parity bits,', 'flow', 'hardware flow'], ['run -a', 'flow', 'stop bit'], ['run -a', 'flow', 'hardware flow'], ['stop bit', 'flow', 'hardware flow']]"
-"('Xilinx', 'dialogue', 'HyperTerminal')","[['Xilinx', 'HyperTerminal', 'dialogue']]"
-"('Offset Encoding', 'sw/vmlinux', 'shift_imm', 'C source')","[['Offset Encoding', 'C source', 'sw/vmlinux', 'shift_imm']]"
-"('libc', 'run vmlinux')","[['libc', 'run vmlinux']]"
-"('hardware', 'Contains', 'a25_alu.v', 'FPGA synthesis')","[['hardware', 'Contains', 'a25_alu.v', 'FPGA synthesis']]"
-"('gcc', 'Feb', 'Tue', 'GMT')","[['Feb', 'gcc', 'Tue'], ['Feb', 'gcc', 'GMT'], ['Tue', 'gcc', 'GMT']]"
-"('a23_functions.v', 'hw/fpga', 'synthess', 'logic unit', 'o_wb_adr', 'source files,', 'compliment')","[['a23_functions.v', 'compliment', 'hw/fpga'], ['a23_functions.v', 'compliment', 'synthess', 'logic unit'], ['a23_functions.v', 'compliment', 'o_wb_adr'], ['a23_functions.v', 'compliment', 'synthess', 'source files,'], ['hw/fpga', 'compliment', 'synthess', 'logic unit'], ['hw/fpga', 'compliment', 'o_wb_adr'], ['hw/fpga', 'compliment', 'synthess', 'source files,'], ['logic unit', 'synthess', 'compliment', 'o_wb_adr'], ['logic unit', 'synthess', 'source files,'], ['o_wb_adr', 'compliment', 'synthess', 'source files,']]"
-"('chmod +x', 'chmod')","[['chmod +x', 'chmod']]"
-"('v20110117211518', 'build')","[['v20110117211518', 'build']]"
-"('Shell', 'utilities')","[['Shell', 'utilities']]"
-"('4.5.1', 'Tue Feb', '2010.0950')","[['4.5.1', 'Tue Feb', '2010.0950']]"
-"('appears',)",[['appears']]
-"('3.', 'Carry Flag')","[['3.', 'Carry Flag']]"
-"('shown',)",[['shown']]
-"(""release'"", 'Menu', 'XP', 'Run', 'click')","[[""release'"", 'click', 'Run', 'Menu'], [""release'"", 'click', 'XP'], ['Menu', 'Run', 'click', 'XP']]"
-"('individual', 'combined')","[['individual', 'combined']]"
-"('application example', 'stand-alone application', 'simple stand-alone', 'unit', 'complete')","[['application example', 'complete', 'stand-alone application'], ['application example', 'complete', 'simple stand-alone', 'unit'], ['stand-alone application', 'complete', 'simple stand-alone', 'unit']]"
-"('completion', 'takes', 'hour', 'User FIRQ IRQ', 'FIRQ IRQ > SVC', 'minutes', 'viewing', 'analysis', 'User FIRQ', 'FIRQ IRQ >', 'timing', 'FIRQ IRQ', 'User FIRQ IRQ >')","[['completion', 'hour', 'takes'], ['completion', 'hour', 'User FIRQ IRQ'], ['completion', 'hour', 'FIRQ IRQ > SVC'], ['completion', 'hour', 'User FIRQ IRQ >', 'minutes'], ['completion', 'hour', 'User FIRQ IRQ >', 'viewing'], ['completion', 'hour', 'analysis'], ['completion', 'hour', 'User FIRQ'], ['completion', 'hour', 'FIRQ IRQ >'], ['completion', 'hour', 'timing'], ['completion', 'hour', 'FIRQ IRQ'], ['takes', 'hour', 'User FIRQ IRQ'], ['takes', 'hour', 'FIRQ IRQ > SVC'], ['takes', 'hour', 'User FIRQ IRQ >', 'minutes'], ['takes', 'hour', 'User FIRQ IRQ >', 'viewing'], ['takes', 'hour', 'analysis'], ['takes', 'hour', 'User FIRQ'], ['takes', 'hour', 'FIRQ IRQ >'], ['takes', 'hour', 'timing'], ['takes', 'hour', 'FIRQ IRQ'], ['User FIRQ IRQ', 'hour', 'FIRQ IRQ > SVC'], ['User FIRQ IRQ', 'hour', 'User FIRQ IRQ >', 'minutes'], ['User FIRQ IRQ', 'hour', 'User FIRQ IRQ >', 'viewing'], ['User FIRQ IRQ', 'hour', 'analysis'], ['User FIRQ IRQ', 'hour', 'User FIRQ'], ['User FIRQ IRQ', 'hour', 'FIRQ IRQ >'], ['User FIRQ IRQ', 'hour', 'timing'], ['User FIRQ IRQ', 'hour', 'FIRQ IRQ'], ['FIRQ IRQ > SVC', 'hour', 'User FIRQ IRQ >', 'minutes'], ['FIRQ IRQ > SVC', 'hour', 'User FIRQ IRQ >', 'viewing'], ['FIRQ IRQ > SVC', 'hour', 'analysis'], ['FIRQ IRQ > SVC', 'hour', 'User FIRQ'], ['FIRQ IRQ > SVC', 'hour', 'FIRQ IRQ >'], ['FIRQ IRQ > SVC', 'hour', 'timing'], ['FIRQ IRQ > SVC', 'hour', 'FIRQ IRQ'], ['minutes', 'User FIRQ IRQ >', 'viewing'], ['minutes', 'User FIRQ IRQ >', 'hour', 'analysis'], ['minutes', 'User FIRQ IRQ >', 'hour', 'User FIRQ'], ['minutes', 'User FIRQ IRQ >', 'hour', 'FIRQ IRQ >'], ['minutes', 'User FIRQ IRQ >', 'hour', 'timing'], ['minutes', 'User FIRQ IRQ >', 'hour', 'FIRQ IRQ'], ['viewing', 'User FIRQ IRQ >', 'hour', 'analysis'], ['viewing', 'User FIRQ IRQ >', 'hour', 'User FIRQ'], ['viewing', 'User FIRQ IRQ >', 'hour', 'FIRQ IRQ >'], ['viewing', 'User FIRQ IRQ >', 'hour', 'timing'], ['viewing', 'User FIRQ IRQ >', 'hour', 'FIRQ IRQ'], ['analysis', 'hour', 'User FIRQ'], ['analysis', 'hour', 'FIRQ IRQ >'], ['analysis', 'hour', 'timing'], ['analysis', 'hour', 'FIRQ IRQ'], ['User FIRQ', 'hour', 'FIRQ IRQ >'], ['User FIRQ', 'hour', 'timing'], ['User FIRQ', 'hour', 'FIRQ IRQ'], ['FIRQ IRQ >', 'hour', 'timing'], ['FIRQ IRQ >', 'hour', 'FIRQ IRQ'], ['timing', 'hour', 'FIRQ IRQ']]"
-"('applied', 'providing')","[['applied', 'providing']]"
-"('encode', 'access Post-indexed:', 'adjusted', 'access I25,')","[['access Post-indexed:', 'encode', 'adjusted'], ['access Post-indexed:', 'encode', 'access I25,'], ['adjusted', 'encode', 'access I25,']]"
-"('product P,', 'let x', 'System')","[['product P,', 'System', 'let x']]"
-"('Performance', 'illegally', 'Linux Performance', 'words', 'skipping')","[['Performance', 'words', 'illegally'], ['Performance', 'words', 'Linux Performance'], ['Performance', 'words', 'skipping'], ['illegally', 'words', 'Linux Performance'], ['illegally', 'words', 'skipping'], ['Linux Performance', 'words', 'skipping']]"
-"('Processor', 'USR')","[['Processor', 'USR']]"
-"('47', '44')","[['47', '44']]"
-"('fed', 'exactly', '1.0', '0.75')","[['fed', '1.0', 'exactly', '0.75']]"
-"('assembly', 'simple application', 'Memory stage')","[['assembly', 'simple application', 'Memory stage']]"
-"('v11.5', 'Xilinx ISE', 'ISE', 'synthesis')","[['v11.5', 'Xilinx ISE', 'synthesis', 'ISE']]"
-"('depending',)",[['depending']]
-"('renamed', 'placement', 'map')","[['placement', 'renamed', 'map']]"
-"('Rm',)",[['Rm']]
-"(') printf', 'printf')","[[') printf', 'printf']]"
-"('Core Port', 'Core Port List')","[['Core Port', 'Core Port List']]"
-"('General Public License', 'GNU Lesser General', 'Amber Project')","[['General Public License', 'Amber Project', 'GNU Lesser General']]"
-"('FIRQ', 'GNU Tools Usage')","[['FIRQ', 'GNU Tools Usage']]"
-"('ldm1', '138')","[['ldm1', '138']]"
-"('management', 'variant', 'management unit', 'booting', 'memory management', 'configurations')","[['management', 'booting', 'variant', 'management unit'], ['management', 'booting', 'variant', 'memory management'], ['management', 'booting', 'variant', 'configurations'], ['management unit', 'variant', 'memory management'], ['management unit', 'variant', 'configurations'], ['memory management', 'variant', 'configurations']]"
-"('Immediate form', 'timers', 'port', 'form', 'entire system')","[['timers', 'entire system', 'Immediate form', 'port', 'form']]"
-"('Interrupt', 'addr_ex', 'adc')","[['addr_ex', 'Interrupt', 'adc']]"
-"('met', 'rerun', 'increment', 'new')","[['met', 'new', 'rerun'], ['met', 'new', 'increment'], ['rerun', 'new', 'increment']]"
-"('S20',)",[['S20']]
-"('resources', 'versions')","[['resources', 'versions']]"
-"('10',)",[['10']]
-"('ldr', 'User Mode', 'User')","[['ldr', 'User Mode', 'User']]"
-"('ld',)",[['ld']]
-"('cache', 'Seperate', 'Cond', 'algorithm')","[['cache', 'Seperate', 'Cond'], ['cache', 'Seperate', 'algorithm'], ['Cond', 'Seperate', 'algorithm']]"
-"('_outbyte',)",[['_outbyte']]
-"('Verilog file', 'Runs', 'everything', 'jumps', 'output file,', 'main reason', 'inside', 'Veritak project', 'start', 'Linux booting', 'validate', ""'Import source"", 'patch file')","[['Verilog file', 'patch file', 'Veritak project', 'everything'], ['Verilog file', 'patch file', 'jumps'], ['Verilog file', 'patch file', 'Runs', 'output file,'], ['Verilog file', 'patch file', 'Runs', 'main reason'], ['Verilog file', 'patch file', 'Veritak project', 'inside'], ['Verilog file', 'patch file', 'start'], ['Verilog file', 'patch file', 'Linux booting'], ['Verilog file', 'patch file', 'Veritak project', 'validate'], ['Verilog file', 'patch file', 'Runs', ""'Import source""], ['everything', 'Veritak project', 'patch file', 'jumps'], ['everything', 'Veritak project', 'patch file', 'Runs', 'output file,'], ['everything', 'Veritak project', 'patch file', 'Runs', 'main reason'], ['everything', 'Veritak project', 'inside'], ['everything', 'Veritak project', 'patch file', 'start'], ['everything', 'Veritak project', 'patch file', 'Linux booting'], ['everything', 'Veritak project', 'validate'], ['everything', 'Veritak project', 'patch file', 'Runs', ""'Import source""], ['jumps', 'patch file', 'Runs', 'output file,'], ['jumps', 'patch file', 'Runs', 'main reason'], ['jumps', 'patch file', 'Veritak project', 'inside'], ['jumps', 'patch file', 'start'], ['jumps', 'patch file', 'Linux booting'], ['jumps', 'patch file', 'Veritak project', 'validate'], ['jumps', 'patch file', 'Runs', ""'Import source""], ['output file,', 'Runs', 'main reason'], ['output file,', 'Runs', 'patch file', 'Veritak project', 'inside'], ['output file,', 'Runs', 'patch file', 'start'], ['output file,', 'Runs', 'patch file', 'Linux booting'], ['output file,', 'Runs', 'patch file', 'Veritak project', 'validate'], ['output file,', 'Runs', ""'Import source""], ['main reason', 'Runs', 'patch file', 'Veritak project', 'inside'], ['main reason', 'Runs', 'patch file', 'start'], ['main reason', 'Runs', 'patch file', 'Linux booting'], ['main reason', 'Runs', 'patch file', 'Veritak project', 'validate'], ['main reason', 'Runs', ""'Import source""], ['inside', 'Veritak project', 'patch file', 'start'], ['inside', 'Veritak project', 'patch file', 'Linux booting'], ['inside', 'Veritak project', 'validate'], ['inside', 'Veritak project', 'patch file', 'Runs', ""'Import source""], ['start', 'patch file', 'Linux booting'], ['start', 'patch file', 'Veritak project', 'validate'], ['start', 'patch file', 'Runs', ""'Import source""], ['Linux booting', 'patch file', 'Veritak project', 'validate'], ['Linux booting', 'patch file', 'Runs', ""'Import source""], ['validate', 'Veritak project', 'patch file', 'Runs', ""'Import source""]]"
-"('system clock', 'clock frequency')","[['system clock', 'clock frequency']]"
-"('buffered', 'requests', 'fetches', 'Either')","[['buffered', 'Either', 'requests'], ['buffered', 'Either', 'fetches'], ['requests', 'Either', 'fetches']]"
-"('bus ownership', 'Hardware libary', 'ownership')","[['bus ownership', 'ownership', 'Hardware libary']]"
-"('reset', 'reset logic,', 'Branch BRANCH', 'FPGA initialization', 'change mode', 'link register,', 'Data', 'exception occurs,')","[['reset logic,', 'FPGA initialization', 'Branch BRANCH'], ['reset logic,', 'FPGA initialization', 'reset', 'change mode'], ['reset logic,', 'FPGA initialization', 'reset', 'link register,'], ['reset logic,', 'FPGA initialization', 'Data'], ['reset logic,', 'FPGA initialization', 'exception occurs,'], ['Branch BRANCH', 'FPGA initialization', 'reset', 'change mode'], ['Branch BRANCH', 'FPGA initialization', 'reset', 'link register,'], ['Branch BRANCH', 'FPGA initialization', 'Data'], ['Branch BRANCH', 'FPGA initialization', 'exception occurs,'], ['change mode', 'reset', 'link register,'], ['change mode', 'reset', 'FPGA initialization', 'Data'], ['change mode', 'reset', 'FPGA initialization', 'exception occurs,'], ['link register,', 'reset', 'FPGA initialization', 'Data'], ['link register,', 'reset', 'FPGA initialization', 'exception occurs,'], ['Data', 'FPGA initialization', 'exception occurs,']]"
-"('control', 'datapath control', 'state')","[['control', 'state', 'datapath control']]"
-"('operations', 'small', 'caches', 'implementation')","[['operations', 'small', 'implementation', 'caches']]"
-"('SRAM', 'inflate_bug', 'swap', 'change_mode')","[['inflate_bug', 'SRAM', 'swap'], ['inflate_bug', 'SRAM', 'change_mode'], ['swap', 'SRAM', 'change_mode']]"
-"('Let P', 'less', '2nd')","[['Let P', '2nd', 'less']]"
-"('exception', 'processor mode', 'Change status', 'system synthesis')","[['exception', 'processor mode', 'Change status', 'system synthesis']]"
-"('flush function', 'flush')","[['flush function', 'flush']]"
-"('reasons', '21')","[['reasons', '21']]"
-"('a23_cache.v', 'i_wb_dat', 'compliment adder/subtractor', 'access type', 'encode_imm', 'a25_functions.v')","[['a23_cache.v', 'i_wb_dat', 'compliment adder/subtractor', 'access type', 'encode_imm', 'a25_functions.v']]"
-"('ease', 'character', 'period', 'long', '10.7.1', 'first', 'view')","[['ease', 'character', 'period'], ['ease', 'character', 'long'], ['ease', 'character', '10.7.1'], ['ease', 'character', 'first'], ['ease', 'character', 'view'], ['period', 'character', 'long'], ['period', 'character', '10.7.1'], ['period', 'character', 'first'], ['period', 'character', 'view'], ['long', 'character', '10.7.1'], ['long', 'character', 'first'], ['long', 'character', 'view'], ['10.7.1', 'character', 'first'], ['10.7.1', 'character', 'view'], ['first', 'character', 'view']]"
-"('pc', 'REGOP', 'shifter_operand')","[['pc', 'REGOP', 'shifter_operand']]"
-"('taking', 'reversed', 'order', 'take', 'allow', 'twos', 'present')","[['taking', 'take', 'reversed'], ['taking', 'take', 'order'], ['taking', 'take', 'allow'], ['taking', 'take', 'twos', 'present'], ['reversed', 'take', 'order'], ['reversed', 'take', 'allow'], ['reversed', 'take', 'twos', 'present'], ['order', 'take', 'allow'], ['order', 'take', 'twos', 'present'], ['allow', 'take', 'twos', 'present']]"
-"('a25_multiply.v', 'correct')","[['a25_multiply.v', 'correct']]"
-"('especially', 'Logic Unit', 'functionality', 'purpose', 'Logic', 'Unit')","[['especially', 'functionality', 'purpose'], ['especially', 'functionality', 'Logic'], ['especially', 'functionality', 'Logic Unit', 'Unit'], ['purpose', 'functionality', 'Logic'], ['purpose', 'functionality', 'Logic Unit', 'Unit'], ['Logic', 'functionality', 'Logic Unit', 'Unit']]"
-"('registers', 'uart_rxint', 'carry clear', 'bic_bug')","[['registers', 'carry clear', 'uart_rxint'], ['registers', 'carry clear', 'bic_bug'], ['uart_rxint', 'carry clear', 'bic_bug']]"
-"('none', 'Change', 'triggering', 'Sets')","[['Change', 'none', 'Sets', 'triggering']]"
-"('simple', 'interactin', 'random', 'ransom timer', 'flow_bug', 'cache3')","[['interactin', 'simple', 'flow_bug', 'random', 'ransom timer']]"
-"('complement', 'Example', 'MVN operation')","[['complement', 'MVN operation', 'Example']]"
-"('single', 'based', 'detail')","[['based', 'single', 'detail']]"
-"('11', '1.1', '23')","[['1.1', '11', '23']]"
-"('read',)",[['read']]
-"('DMA', 'hiboot', 'RAM8', 'mem', 'tb_uart', 'ethernet', 'cache2')","[['hiboot', 'DMA', 'RAM8'], ['hiboot', 'DMA', 'mem'], ['hiboot', 'DMA', 'tb_uart'], ['hiboot', 'DMA', 'ethernet'], ['hiboot', 'DMA', 'cache2'], ['RAM8', 'DMA', 'mem'], ['RAM8', 'DMA', 'tb_uart'], ['RAM8', 'DMA', 'ethernet'], ['RAM8', 'DMA', 'cache2'], ['mem', 'DMA', 'tb_uart'], ['mem', 'DMA', 'ethernet'], ['mem', 'DMA', 'cache2'], ['tb_uart', 'DMA', 'ethernet'], ['tb_uart', 'DMA', 'cache2'], ['ethernet', 'DMA', 'cache2']]"
-"('execution code', 'execution', 'condition execution')","[['execution code', 'execution', 'condition execution']]"
-"('vmlinux.mem', 'init file', 'image', 'boot process', 'boot', 'disk image', 'init', 'RAM disk')","[['init file', 'boot', 'image', 'boot process'], ['init file', 'boot', 'image', 'vmlinux.mem', 'init', 'disk image'], ['init file', 'boot', 'RAM disk'], ['boot process', 'image', 'vmlinux.mem', 'init', 'disk image'], ['boot process', 'image', 'boot', 'RAM disk'], ['disk image', 'init', 'vmlinux.mem', 'image', 'boot', 'RAM disk']]"
-"('Operand', 'Operand Encoding', 'Opcode Encoding', '4.3')","[['Operand Encoding', 'Operand', 'Opcode Encoding'], ['Operand Encoding', 'Operand', '4.3'], ['Opcode Encoding', 'Operand', '4.3']]"
-"('SP605 development', 'USB port', 'use boot-loader')","[['SP605 development', 'use boot-loader', 'USB port']]"
-"('mul',)",[['mul']]
-"('simultaneously', 'Currently', 'allows', 'lists', 'indicate', 'every')","[['lists', 'simultaneously', 'indicate'], ['lists', 'simultaneously', 'Currently', 'allows', 'every'], ['indicate', 'simultaneously', 'Currently', 'allows', 'every']]"
-"('4.5', 'section')","[['4.5', 'section']]"
-"('screen grab', 'wall time', 'wall', 'GTKWave viewer', 'finished', 'Usage')","[['screen grab', 'GTKWave viewer', 'wall time'], ['screen grab', 'GTKWave viewer', 'wall', 'finished', 'Usage'], ['wall time', 'GTKWave viewer', 'wall', 'finished', 'Usage']]"
-"('System -A', 'address tag', 'VLSI')","[['System -A', 'VLSI', 'address tag']]"
-"('barrel_shift',)",[['barrel_shift']]
-"('multiply', 'go')","[['multiply', 'go']]"
-"('Function', 'Plus', 'Left')","[['Function', 'Left', 'Plus']]"
-"('cache_swap_bug', 'flow3', 'sequence')","[['cache_swap_bug', 'sequence', 'flow3']]"
-"('i_wb_ack', 'decode pipeline')","[['i_wb_ack', 'decode pipeline']]"
-"('bs_c_in', 'da', 'Rotate Right', 'cout_sel', 'carry_in', 'carry')","[['bs_c_in', 'Rotate Right', 'da'], ['bs_c_in', 'Rotate Right', 'cout_sel'], ['bs_c_in', 'Rotate Right', 'carry', 'carry_in'], ['da', 'Rotate Right', 'cout_sel'], ['da', 'Rotate Right', 'carry', 'carry_in'], ['cout_sel', 'Rotate Right', 'carry', 'carry_in']]"
-"('include', 'r15', '27', 'Common')","[['r15', 'include', 'Common', '27']]"
-"('restrict', 'elf', 'steps', 'remember')","[['restrict', 'steps', 'elf', 'remember']]"
-"('45',)",[['45']]
-"('reading', 'invalidated', 'Fills')","[['invalidated', 'reading', 'Fills']]"
-"('register bank,', 'back', 'execute stage,')","[['register bank,', 'back', 'execute stage,']]"
-"('constrains', 'Simply', 'fails', 'call', 'automatically')","[['Simply', 'call', 'fails'], ['Simply', 'call', 'constrains', 'automatically'], ['fails', 'call', 'constrains', 'automatically']]"
-"('276411',)",[['276411']]
-"('Swap Byte', 'third')","[['Swap Byte', 'third']]"
-"('add instruction', 'regop', 'ddr31', ""'s'"", 'swp_lock_bug', 'condition', 'interrupt swi')","[['add instruction', 'interrupt swi', 'condition', 'regop'], ['add instruction', 'interrupt swi', 'condition', 'ddr31'], ['add instruction', 'interrupt swi', 'condition', ""'s'""], ['add instruction', 'interrupt swi', 'condition', 'swp_lock_bug'], ['regop', 'condition', 'ddr31'], ['regop', 'condition', ""'s'""], ['regop', 'condition', 'swp_lock_bug'], ['ddr31', 'condition', ""'s'""], ['ddr31', 'condition', 'swp_lock_bug'], [""'s'"", 'condition', 'swp_lock_bug']]"
-"('Wishbone interface', 'load example', 'Load multiple', 'rest', 'block loads,', 'a25_wishbone.v', 'loads', 'r9_firq')","[['load example', 'rest', 'Load multiple'], ['load example', 'rest', 'loads'], ['Load multiple', 'rest', 'loads']]"
-"('debug', 'a23_execute.v', 'debug module', 'Ethmac', 'shifter')","[['debug', 'shifter', 'a23_execute.v'], ['debug', 'shifter', 'debug module', 'Ethmac'], ['a23_execute.v', 'shifter', 'debug module', 'Ethmac']]"
-"('register_bank', 'alu', 'Xilinx library', 'Co-processor', 'a23_fetch.v', 'execute pipeline', 'a25_dcache.v', 'i_wb_err')","[['register_bank', 'Co-processor', 'alu'], ['register_bank', 'Co-processor', 'Xilinx library', 'a23_fetch.v'], ['register_bank', 'Co-processor', 'Xilinx library', 'execute pipeline'], ['register_bank', 'Co-processor', 'Xilinx library', 'a25_dcache.v'], ['register_bank', 'Co-processor', 'Xilinx library', 'i_wb_err'], ['alu', 'Co-processor', 'Xilinx library', 'a23_fetch.v'], ['alu', 'Co-processor', 'Xilinx library', 'execute pipeline'], ['alu', 'Co-processor', 'Xilinx library', 'a25_dcache.v'], ['alu', 'Co-processor', 'Xilinx library', 'i_wb_err'], ['a23_fetch.v', 'Xilinx library', 'execute pipeline'], ['a23_fetch.v', 'Xilinx library', 'a25_dcache.v'], ['a23_fetch.v', 'Xilinx library', 'i_wb_err'], ['execute pipeline', 'Xilinx library', 'a25_dcache.v'], ['execute pipeline', 'Xilinx library', 'i_wb_err'], ['a25_dcache.v', 'Xilinx library', 'i_wb_err']]"
-"('describes', 'Processor mode', '8.4', 'table')","[['Processor mode', 'describes', '8.4', 'table']]"
-"('addresses', 'area', 'read value', 'mov instruction,', 'run time', 'broke')","[['area', 'broke', 'addresses', 'read value'], ['area', 'broke', 'addresses', 'mov instruction,'], ['area', 'broke', 'addresses', 'run time'], ['read value', 'addresses', 'mov instruction,'], ['read value', 'addresses', 'run time'], ['mov instruction,', 'addresses', 'run time']]"
-"('276311',)",[['276311']]
-"('core', 'FPGA system', 'MAC', 'Amber processor core', 'toolset', 'ARM')","[['Amber processor core', 'core', 'FPGA system', 'MAC', 'toolset'], ['Amber processor core', 'core', 'FPGA system', 'MAC', 'ARM'], ['toolset', 'MAC', 'ARM']]"
-"('Wishbone bus', 'registered', 'hit')","[['Wishbone bus', 'registered', 'hit']]"
-"('test', 'verify', 'run barrel_shift', 'language tests,')","[['verify', 'test', 'run barrel_shift'], ['verify', 'test', 'language tests,'], ['run barrel_shift', 'test', 'language tests,']]"
-"('controller', 'Virtex-6 controller')","[['controller', 'Virtex-6 controller']]"
-"('not_sel', 'Equivalent', 'vc', 'Stack')","[['not_sel', 'Equivalent', 'vc'], ['not_sel', 'Equivalent', 'Stack'], ['vc', 'Equivalent', 'Stack']]"
-"('verified', 'Versions', 'earlier', 'v2a ISA', 'note', 'explicitly', '2.6', '2.4')","[['verified', 'note', 'v2a ISA', 'Versions'], ['verified', 'note', 'v2a ISA', 'earlier'], ['verified', 'note', 'v2a ISA', '2.6'], ['verified', 'note', 'v2a ISA', 'explicitly', '2.4'], ['Versions', 'v2a ISA', 'earlier'], ['Versions', 'v2a ISA', '2.6'], ['Versions', 'v2a ISA', 'explicitly', '2.4'], ['earlier', 'v2a ISA', '2.6'], ['earlier', 'v2a ISA', 'explicitly', '2.4'], ['2.6', 'v2a ISA', 'explicitly', '2.4']]"
-"('Index', 'pl', 'Minus', 'signed', 'left')","[['pl', 'Index', 'Minus'], ['pl', 'Index', 'signed', 'left'], ['Minus', 'Index', 'signed', 'left']]"
-"('product', 'EOR shifter_operand S', 'Rn EOR shifter_operand S', 'Rn EOR shifter_operand', 'EOR shifter_operand', 'Rn EOR')","[['Rn EOR shifter_operand S', 'product', 'Rn EOR shifter_operand', 'EOR shifter_operand'], ['Rn EOR shifter_operand S', 'product', 'EOR shifter_operand S', 'Rn EOR'], ['EOR shifter_operand', 'Rn EOR shifter_operand', 'product', 'EOR shifter_operand S', 'Rn EOR']]"
-"('blocks', 'around', 'marked', 'large', 'Verilog simulation', 'Usually', 'traces')","[['around', 'Verilog simulation', 'marked', 'blocks', 'large'], ['around', 'Verilog simulation', 'marked', 'Usually'], ['around', 'Verilog simulation', 'marked', 'traces'], ['large', 'blocks', 'marked', 'Usually'], ['large', 'blocks', 'marked', 'traces'], ['Usually', 'marked', 'traces']]"
-"('use', 'loader program', 'entire simulation', 'get', 'sim directory,', 'execution code,', 'store instructions,', 'dump file,', 'execute bit', 'want', 'waveform viewer,', 'utility')","[['use', 'execution code,', 'utility', 'loader program'], ['use', 'execution code,', 'utility', 'entire simulation'], ['use', 'execution code,', 'get'], ['use', 'execution code,', 'utility', 'sim directory,'], ['use', 'execution code,', 'utility', 'store instructions,'], ['use', 'execution code,', 'utility', 'dump file,'], ['use', 'execution code,', 'utility', 'execute bit'], ['use', 'execution code,', 'want'], ['use', 'execution code,', 'utility', 'waveform viewer,'], ['loader program', 'utility', 'entire simulation'], ['loader program', 'utility', 'execution code,', 'get'], ['loader program', 'utility', 'sim directory,'], ['loader program', 'utility', 'store instructions,'], ['loader program', 'utility', 'dump file,'], ['loader program', 'utility', 'execute bit'], ['loader program', 'utility', 'execution code,', 'want'], ['loader program', 'utility', 'waveform viewer,'], ['entire simulation', 'utility', 'execution code,', 'get'], ['entire simulation', 'utility', 'sim directory,'], ['entire simulation', 'utility', 'store instructions,'], ['entire simulation', 'utility', 'dump file,'], ['entire simulation', 'utility', 'execute bit'], ['entire simulation', 'utility', 'execution code,', 'want'], ['entire simulation', 'utility', 'waveform viewer,'], ['get', 'execution code,', 'utility', 'sim directory,'], ['get', 'execution code,', 'utility', 'store instructions,'], ['get', 'execution code,', 'utility', 'dump file,'], ['get', 'execution code,', 'utility', 'execute bit'], ['get', 'execution code,', 'want'], ['get', 'execution code,', 'utility', 'waveform viewer,'], ['sim directory,', 'utility', 'store instructions,'], ['sim directory,', 'utility', 'dump file,'], ['sim directory,', 'utility', 'execute bit'], ['sim directory,', 'utility', 'execution code,', 'want'], ['sim directory,', 'utility', 'waveform viewer,'], ['store instructions,', 'utility', 'dump file,'], ['store instructions,', 'utility', 'execute bit'], ['store instructions,', 'utility', 'execution code,', 'want'], ['store instructions,', 'utility', 'waveform viewer,'], ['dump file,', 'utility', 'execute bit'], ['dump file,', 'utility', 'execution code,', 'want'], ['dump file,', 'utility', 'waveform viewer,'], ['execute bit', 'utility', 'execution code,', 'want'], ['execute bit', 'utility', 'waveform viewer,'], ['want', 'execution code,', 'utility', 'waveform viewer,']]"
-"('ramdisk image', 'GUI', 'format ramdisk', 'vmlinux.mem memory', 'propagate', 'mvn r7,', 'r0 register', 'Define')","[['ramdisk image', 'r0 register', 'format ramdisk'], ['ramdisk image', 'r0 register', 'propagate'], ['ramdisk image', 'r0 register', 'vmlinux.mem memory', 'GUI', 'mvn r7,'], ['ramdisk image', 'r0 register', 'Define'], ['format ramdisk', 'r0 register', 'propagate'], ['format ramdisk', 'r0 register', 'vmlinux.mem memory', 'GUI', 'mvn r7,'], ['format ramdisk', 'r0 register', 'Define'], ['propagate', 'r0 register', 'vmlinux.mem memory', 'GUI', 'mvn r7,'], ['propagate', 'r0 register', 'Define'], ['mvn r7,', 'GUI', 'vmlinux.mem memory', 'r0 register', 'Define']]"
-"('shifted', 'Core Verilog Structure', 'store example')","[['shifted', 'store example', 'Core Verilog Structure']]"
-"('UART', 'L20', 'UART I/F')","[['UART', 'L20', 'UART I/F']]"
-"('Xilinx Virtex-6', 'Xilinx Virtex-6 DDR3')","[['Xilinx Virtex-6', 'Xilinx Virtex-6 DDR3']]"
-"('DDR3 memory', 'mov instruction', 'uart_reg', 'shift amount', 'bcc', 'ddr33')","[['DDR3 memory', 'mov instruction', 'uart_reg', 'shift amount', 'bcc', 'ddr33']]"
-"('Encode Immediate Value Encoding', 'Immediate Value Encoding', 'Encode Immediate', 'Value Encoding', 'Immediate Value', 'Encode Immediate Value', 'Store register byte')","[['Encode Immediate Value Encoding', 'Store register byte', 'Immediate Value'], ['Encode Immediate Value Encoding', 'Store register byte', 'Encode Immediate', 'Immediate Value Encoding', 'Value Encoding', 'Encode Immediate Value'], ['Immediate Value', 'Store register byte', 'Encode Immediate', 'Immediate Value Encoding', 'Value Encoding', 'Encode Immediate Value']]"
-"('bridge', 'controller bridge')","[['bridge', 'controller bridge']]"
-"('memory subsystem', 'stm1', 'worst case', 'stream')","[['memory subsystem', 'stream', 'worst case', 'stm1']]"
-"('word', 'a23_multiply.v', 'instantiated', 'a25_decode.v', 'hw/vlog/tb', 'Wishbone', 'Fetch stage', 'cause')","[['a23_multiply.v', 'word', 'cause', 'instantiated'], ['a23_multiply.v', 'word', 'a25_decode.v'], ['a23_multiply.v', 'word', 'hw/vlog/tb'], ['a23_multiply.v', 'word', 'Fetch stage', 'Wishbone'], ['instantiated', 'cause', 'word', 'a25_decode.v'], ['instantiated', 'cause', 'word', 'hw/vlog/tb'], ['instantiated', 'cause', 'word', 'Fetch stage', 'Wishbone'], ['a25_decode.v', 'word', 'hw/vlog/tb'], ['a25_decode.v', 'word', 'Fetch stage', 'Wishbone'], ['hw/vlog/tb', 'word', 'Fetch stage', 'Wishbone']]"
-"('Rn OR shifter_operand', 'Rn OR')","[['Rn OR shifter_operand', 'Rn OR']]"
-"('fp', 'r10_firq', 'instruction fetches,', 'buffer', 'read request', 'Store register', 'access', 'instance')","[['r10_firq', 'buffer', 'fp', 'instruction fetches,'], ['r10_firq', 'buffer', 'Store register', 'access'], ['r10_firq', 'buffer', 'read request', 'instance'], ['instruction fetches,', 'fp', 'buffer', 'Store register', 'access'], ['instruction fetches,', 'fp', 'buffer', 'read request', 'instance'], ['access', 'Store register', 'buffer', 'read request', 'instance']]"
-"('Shift Encoding',)",[['Shift Encoding']]
-"('DDR3 SDRAM', 'DDR3 SDRAM I/F')","[['DDR3 SDRAM', 'DDR3 SDRAM I/F']]"
-"('negated', 'Always', 'Rn shifter_operand S', 'unconditional', 'Rn shifter_operand')","[['Always', 'Rn shifter_operand S', 'unconditional'], ['Always', 'Rn shifter_operand S', 'negated', 'Rn shifter_operand'], ['unconditional', 'Rn shifter_operand S', 'negated', 'Rn shifter_operand']]"
-"('divided',)",[['divided']]
-"('kernel', 'AMBER_DUMP_VCD', 'xst', ""compile'"", ""'Import"", ""files'"", 'AMBER_DUMP_START', 'version', 'directory', 'memory file')","[['AMBER_DUMP_VCD', 'version', 'xst'], ['AMBER_DUMP_VCD', 'version', 'memory file', ""compile'""], ['AMBER_DUMP_VCD', 'version', ""'Import""], ['AMBER_DUMP_VCD', 'version', 'memory file', ""files'""], ['AMBER_DUMP_VCD', 'version', 'memory file', 'AMBER_DUMP_START'], ['AMBER_DUMP_VCD', 'version', 'memory file', 'kernel', 'directory'], ['xst', 'version', 'memory file', ""compile'""], ['xst', 'version', ""'Import""], ['xst', 'version', 'memory file', ""files'""], ['xst', 'version', 'memory file', 'AMBER_DUMP_START'], ['xst', 'version', 'memory file', 'kernel', 'directory'], [""compile'"", 'memory file', 'version', ""'Import""], [""compile'"", 'memory file', ""files'""], [""compile'"", 'memory file', 'AMBER_DUMP_START'], [""compile'"", 'memory file', 'kernel', 'directory'], [""'Import"", 'version', 'memory file', ""files'""], [""'Import"", 'version', 'memory file', 'AMBER_DUMP_START'], [""'Import"", 'version', 'memory file', 'kernel', 'directory'], [""files'"", 'memory file', 'AMBER_DUMP_START'], [""files'"", 'memory file', 'kernel', 'directory'], ['AMBER_DUMP_START', 'memory file', 'kernel', 'directory']]"
-"('lrd',)",[['lrd']]
-"('older', 'supported', 'incorporating', 'architecture', 'covered', 'patents')","[['incorporating', 'architecture', 'covered'], ['incorporating', 'architecture', 'supported', 'older', 'patents'], ['covered', 'architecture', 'supported', 'older', 'patents']]"
-"('lines', 'Part', 'Manual')","[['lines', 'Manual', 'Part']]"
-"('frequency', 'speed', 'change it,', 'VCO clock')","[['speed', 'frequency', 'VCO clock', 'change it,']]"
-"('command line,', 'FPGA target', 'Virtex-6', 'target device', 'Virtex-6 FPGA,')","[['command line,', 'Virtex-6', 'Virtex-6 FPGA,', 'FPGA target', 'target device']]"
-"('execution stage', 'boot memory', 'main', 'tag RAM')","[['execution stage', 'main', 'boot memory'], ['execution stage', 'main', 'tag RAM'], ['boot memory', 'main', 'tag RAM']]"
-"('SWI exception', 'Verilog Structure', 'Core Verilog', 'r14_svc', 'interrupt', 'r13_irq')","[['Verilog Structure', 'SWI exception', 'Core Verilog'], ['Verilog Structure', 'SWI exception', 'r14_svc'], ['Verilog Structure', 'SWI exception', 'interrupt'], ['Verilog Structure', 'SWI exception', 'r13_irq'], ['Core Verilog', 'SWI exception', 'r14_svc'], ['Core Verilog', 'SWI exception', 'interrupt'], ['Core Verilog', 'SWI exception', 'r13_irq'], ['r14_svc', 'SWI exception', 'interrupt'], ['r14_svc', 'SWI exception', 'r13_irq'], ['interrupt', 'SWI exception', 'r13_irq']]"
-"('Hyper', 'linker', 'correct version', 'Terminal', 'applications', 'UART port', 'ISA', 'create bx', 'download longer', 'tell')","[['linker', 'applications', 'Hyper', 'correct version'], ['linker', 'applications', 'Hyper', 'create bx', 'tell', 'UART port'], ['linker', 'applications', 'ISA'], ['linker', 'applications', 'Hyper', 'download longer'], ['correct version', 'Hyper', 'create bx', 'tell', 'UART port'], ['correct version', 'Hyper', 'create bx', 'tell', 'Terminal', 'applications', 'ISA'], ['correct version', 'Hyper', 'download longer'], ['UART port', 'tell', 'create bx', 'Hyper', 'applications', 'ISA'], ['UART port', 'tell', 'create bx', 'Hyper', 'download longer'], ['ISA', 'applications', 'Hyper', 'download longer']]"
-"('Shift', 'fd')","[['Shift', 'fd']]"
-"('Rn XOR shifter_operand', 'Shift Left', 'positive', 'zero', 'Rn XOR', 'XOR shifter_operand')","[['Rn XOR shifter_operand', 'zero', 'Rn XOR']]"
-"('ngbbuild', 'Hello World', 'name', 'colum')","[['ngbbuild', 'name', 'colum', 'Hello World']]"
-"(""'I'"", 'stm', 'flag state')","[['stm', ""'I'"", 'flag state']]"
-"('input', 'means', 'setting', 'Name Description', 'subtracting')","[['means', 'input', 'setting'], ['means', 'input', 'subtracting', 'Name Description'], ['setting', 'input', 'subtracting', 'Name Description']]"
-"('ldc', 'decode', 'usr', 'simple example')","[['decode', 'ldc', 'simple example', 'usr']]"
-"('test source', 'Includes')","[['test source', 'Includes']]"
-"('str',)",[['str']]
-"('cpsr_carry', 'cpsr_carry barrel_shift_carry')","[['cpsr_carry', 'cpsr_carry barrel_shift_carry']]"
-"('Direction', 'Project directory structure')","[['Direction', 'Project directory structure']]"
-"('Uses', 'Used', 'terminate')","[['Uses', 'terminate', 'Used']]"
-"('always', 'later', 'goes')","[['always', 'goes', 'later']]"
-"('offset_12 B22', 'Rn offset_12 B22')","[['offset_12 B22', 'Rn offset_12 B22']]"
-"('development', 'a25_execute.v', 'module', 'hw/vlog/xv6_ddr3')","[['development', 'a25_execute.v', 'module', 'hw/vlog/xv6_ddr3']]"
-"('stand-alone replacement', 'a25_execute', 'Back stage', 'Write', 'a25_core/', 'replacement')","[['a25_execute', 'a25_core/', 'replacement', 'Write', 'stand-alone replacement', 'Back stage']]"
-"('high', 'necessary', 'IRQ mask,', 'mask', 'logical', 'conditionally', 'logically', 'another', '2.2.2', 'Total', 'explains')","[['high', 'conditionally', 'Total', 'necessary', 'IRQ mask,'], ['high', 'conditionally', 'mask'], ['high', 'conditionally', 'logical'], ['high', 'conditionally', 'logically'], ['high', 'conditionally', 'another'], ['high', 'conditionally', '2.2.2'], ['high', 'conditionally', 'explains'], ['IRQ mask,', 'necessary', 'Total', 'conditionally', 'mask'], ['IRQ mask,', 'necessary', 'Total', 'conditionally', 'logical'], ['IRQ mask,', 'necessary', 'Total', 'conditionally', 'logically'], ['IRQ mask,', 'necessary', 'Total', 'conditionally', 'another'], ['IRQ mask,', 'necessary', 'Total', 'conditionally', '2.2.2'], ['IRQ mask,', 'necessary', 'Total', 'conditionally', 'explains'], ['mask', 'conditionally', 'logical'], ['mask', 'conditionally', 'logically'], ['mask', 'conditionally', 'another'], ['mask', 'conditionally', '2.2.2'], ['mask', 'conditionally', 'explains'], ['logical', 'conditionally', 'logically'], ['logical', 'conditionally', 'another'], ['logical', 'conditionally', '2.2.2'], ['logical', 'conditionally', 'explains'], ['logically', 'conditionally', 'another'], ['logically', 'conditionally', '2.2.2'], ['logically', 'conditionally', 'explains'], ['another', 'conditionally', '2.2.2'], ['another', 'conditionally', 'explains'], ['2.2.2', 'conditionally', 'explains']]"
-"('fragment', 'link cause')","[['fragment', 'link cause']]"
-"('SP605 development board', 'Xilinx SP605 development', 'help')","[['SP605 development board', 'help', 'Xilinx SP605 development']]"
-"('interface', 'end point', 'pipeline architecture', 'pipeline structure', 'instruction caches,')","[['end point', 'interface', 'pipeline architecture'], ['end point', 'interface', 'pipeline structure'], ['end point', 'interface', 'instruction caches,'], ['pipeline architecture', 'interface', 'pipeline structure'], ['pipeline architecture', 'interface', 'instruction caches,'], ['pipeline structure', 'interface', 'instruction caches,']]"
-"('IRQ', 'random timer', 'whole bunch', 'timer', 'bunch')","[['IRQ', 'whole bunch', 'bunch', 'random timer'], ['IRQ', 'whole bunch', 'bunch', 'timer'], ['random timer', 'bunch', 'timer']]"
-"('decide', 'RAMs')","[['decide', 'RAMs']]"
-"('write', 'cacheable_area', 'flow1', 'execute instruction')","[['write', 'execute instruction', 'cacheable_area'], ['write', 'execute instruction', 'flow1'], ['cacheable_area', 'execute instruction', 'flow1']]"
-"('Action', 'mi', 'Equal', 'immediate')","[['Equal', 'Action', 'mi', 'immediate']]"
-"('Reverse', 'Stack Load', 'Shift Right', 'Load Equivalent', 'ia', 'Carry', 'Stack Load Equivalent')","[['Reverse', 'ia', 'Carry', 'Shift Right'], ['Reverse', 'ia', 'Carry', 'Load Equivalent'], ['Reverse', 'ia', 'Stack Load', 'Stack Load Equivalent'], ['Shift Right', 'Carry', 'Load Equivalent'], ['Shift Right', 'Carry', 'ia', 'Stack Load', 'Stack Load Equivalent'], ['Load Equivalent', 'Carry', 'ia', 'Stack Load', 'Stack Load Equivalent']]"
-"('Project Directory', 'Amber25', 'Directory Structure')","[['Project Directory', 'Amber25', 'Directory Structure']]"
-"('48',)",[['48']]
-"('Disassembly',)",[['Disassembly']]
-"('brings', 'sure', 'event', 'netlist', 'Propagation')","[['brings', 'Propagation', 'sure', 'event'], ['brings', 'Propagation', 'netlist'], ['event', 'sure', 'Propagation', 'netlist']]"
-"('register value', 'shift operation', 'shift', 'ddr32', 'swp', 'barrel')","[['shift operation', 'register value', 'shift'], ['shift operation', 'register value', 'ddr32'], ['shift operation', 'register value', 'swp'], ['shift operation', 'register value', 'barrel'], ['shift', 'register value', 'ddr32'], ['shift', 'register value', 'swp'], ['shift', 'register value', 'barrel'], ['ddr32', 'register value', 'swp'], ['ddr32', 'register value', 'barrel'], ['swp', 'register value', 'barrel']]"
-"('available', 'Windows', 'Run HyperTerminal', 'Accessories', 'supplied', 'Communications', 'Start Menu')","[['available', 'Windows', 'Communications', 'Run HyperTerminal', 'Accessories'], ['available', 'Windows', 'Communications', 'supplied'], ['available', 'Windows', 'Communications', 'Start Menu'], ['Accessories', 'Run HyperTerminal', 'Communications', 'supplied'], ['Accessories', 'Run HyperTerminal', 'Communications', 'Start Menu'], ['supplied', 'Communications', 'Start Menu']]"
-"('status', 'Mode')","[['status', 'Mode']]"
-"('copro_write_data', '-Amber System')","[['copro_write_data', '-Amber System']]"
-"('shifter_operand S',)",[['shifter_operand S']]
-"('Coprocessor Data', 'Figure', 'Transfer', 'SP605', 'Xilinx SP605', 'Data Transfer', 'SWAP', 'BRANCH', 'Coprocessor', 'User mode', 'FPGA board', 'Single Data')","[['Coprocessor Data', 'FPGA board', 'Transfer'], ['Coprocessor Data', 'FPGA board', 'Figure', 'Xilinx SP605'], ['Coprocessor Data', 'FPGA board', 'Figure', 'Data Transfer'], ['Coprocessor Data', 'FPGA board', 'SWAP'], ['Coprocessor Data', 'FPGA board', 'Figure', 'BRANCH'], ['Coprocessor Data', 'FPGA board', 'Single Data', 'SP605', 'Coprocessor', 'User mode'], ['Transfer', 'FPGA board', 'Figure', 'Xilinx SP605'], ['Transfer', 'FPGA board', 'Figure', 'Data Transfer'], ['Transfer', 'FPGA board', 'SWAP'], ['Transfer', 'FPGA board', 'Figure', 'BRANCH'], ['Transfer', 'FPGA board', 'Single Data', 'SP605', 'Coprocessor', 'User mode'], ['Xilinx SP605', 'Figure', 'Data Transfer'], ['Xilinx SP605', 'Figure', 'FPGA board', 'SWAP'], ['Xilinx SP605', 'Figure', 'BRANCH'], ['Xilinx SP605', 'Figure', 'FPGA board', 'Single Data', 'SP605', 'Coprocessor', 'User mode'], ['Data Transfer', 'Figure', 'FPGA board', 'SWAP'], ['Data Transfer', 'Figure', 'BRANCH'], ['Data Transfer', 'Figure', 'FPGA board', 'Single Data', 'SP605', 'Coprocessor', 'User mode'], ['SWAP', 'FPGA board', 'Figure', 'BRANCH'], ['SWAP', 'FPGA board', 'Single Data', 'SP605', 'Coprocessor', 'User mode'], ['BRANCH', 'Figure', 'FPGA board', 'Single Data', 'SP605', 'Coprocessor', 'User mode']]"
-"('Accumulate', 'A21')","[['Accumulate', 'A21']]"
-"('Width', 'add r1,', 'i_clk', 'mov r0,')","[['Width', 'i_clk', 'add r1,'], ['Width', 'i_clk', 'mov r0,'], ['add r1,', 'i_clk', 'mov r0,']]"
-"('flexible', 'ISE v11.5', 'options', 'must')","[['flexible', 'ISE v11.5', 'must', 'options']]"
-"('well', 'generates', 'final')","[['generates', 'well', 'final']]"
-"('compares', 'bits', 'performs')","[['compares', 'bits', 'performs']]"
-"('276031', 'u main')","[['276031', 'u main']]"
-"('aid', '100', 'debugging')","[['aid', '100', 'debugging']]"
-"('timer_module.v',)",[['timer_module.v']]
-"('host', 'modify', 'development board', 'specify', 'compiler')","[['modify', 'host', 'compiler', 'development board'], ['modify', 'host', 'specify'], ['development board', 'compiler', 'host', 'specify']]"
-"('31', 'initial', 'length')","[['31', 'initial', 'length']]"
-"('Boot-Loader',)",[['Boot-Loader']]
-"('unregistered', 'hits', 'gets', 'filled', 'output')","[['hits', 'unregistered', 'gets'], ['hits', 'unregistered', 'output', 'filled'], ['gets', 'unregistered', 'output', 'filled']]"
-"('46',)",[['46']]
-"('main memory', 'decode stage')","[['main memory', 'decode stage']]"
-"('target_address', 'cmn')","[['target_address', 'cmn']]"
-"('enable', 'needing', 'saved', 'currently', 'locations', 'stored', 'highest', 'requires')","[['enable', 'highest', 'saved'], ['enable', 'highest', 'currently', 'needing', 'stored', 'locations'], ['enable', 'highest', 'currently', 'requires'], ['saved', 'highest', 'currently', 'needing', 'stored', 'locations'], ['saved', 'highest', 'currently', 'requires'], ['locations', 'stored', 'needing', 'currently', 'requires']]"
-"('Swap SWAP Single', 'REGOP Multiply MULT', 'Data Processing REGOP', 'extensively', 'Single Data Swap', 'Data Swap SWAP')","[['Swap SWAP Single', 'extensively', 'REGOP Multiply MULT'], ['Swap SWAP Single', 'extensively', 'Data Processing REGOP'], ['Swap SWAP Single', 'extensively', 'Single Data Swap'], ['Swap SWAP Single', 'extensively', 'Data Swap SWAP'], ['REGOP Multiply MULT', 'extensively', 'Data Processing REGOP'], ['REGOP Multiply MULT', 'extensively', 'Single Data Swap'], ['REGOP Multiply MULT', 'extensively', 'Data Swap SWAP'], ['Data Processing REGOP', 'extensively', 'Single Data Swap'], ['Data Processing REGOP', 'extensively', 'Data Swap SWAP'], ['Single Data Swap', 'extensively', 'Data Swap SWAP']]"
-"('erased', 'temporary', 'started', 'FIRQ address vector', 'Fast Interrupt request,', 'makes', 'Causes')","[['FIRQ address vector', 'started', 'Fast Interrupt request,'], ['FIRQ address vector', 'started', 'temporary', 'makes'], ['FIRQ address vector', 'started', 'erased', 'Causes'], ['Fast Interrupt request,', 'started', 'temporary', 'makes'], ['Fast Interrupt request,', 'started', 'erased', 'Causes'], ['makes', 'temporary', 'started', 'erased', 'Causes']]"
-"('updated', 'base')","[['updated', 'base']]"
-"('B22',)",[['B22']]
-"('independent', 'processing', '12288', 'tells', '4096')","[['independent', 'processing', '12288', 'tells', '4096']]"
-"('ALU Function Encoding', 'performing')","[['ALU Function Encoding', 'performing']]"
-"('front', 'Using', 'test.', 'ram', 'listing')","[['front', 'Using', 'test.'], ['front', 'Using', 'ram'], ['front', 'Using', 'listing'], ['test.', 'Using', 'ram'], ['test.', 'Using', 'listing'], ['ram', 'Using', 'listing']]"
-"('Shifter Operand', 'z v', 'v c', 'Shifter', 'n z')","[['Shifter Operand', 'Shifter', 'z v'], ['Shifter Operand', 'Shifter', 'v c'], ['Shifter Operand', 'Shifter', 'n z'], ['z v', 'Shifter', 'v c'], ['z v', 'Shifter', 'n z'], ['v c', 'Shifter', 'n z']]"
-"('Distinguishes', 'L20 Distinguishes')","[['Distinguishes', 'L20 Distinguishes']]"
-"('MMU', 'v2a', 'Linux kernel')","[['MMU', 'Linux kernel', 'v2a']]"
-"('interrupt controller', 'Primary')","[['interrupt controller', 'Primary']]"
-"('Download', 'added', 'onto', 'asks')","[['Download', 'onto', 'added'], ['Download', 'onto', 'asks'], ['added', 'onto', 'asks']]"
-"('Data Swap', 'Coprocessor CORTRANS Register', 'REGOP Multiply', 'SWAP Single', 'Block Data', 'Processing', '2001', 'Pipeline Structure', 'Transfer Software Interrupt', 'Coprocessor Data COREGOP', 'Transfer MTRANS Branch', 'Transfer TRANS', 'Data CODTRANS Transfer', 'Data COREGOP Operation', 'COREGOP Operation Coprocessor', 'SP605 Spartan-6 FPGA', 'Xilinx SP605 Spartan-6', 'Block Data Transfer', 'Coprocessor Data CODTRANS', 'Transfer Coprocessor Data', 'Data Transfer MTRANS', 'Swap SWAP', 'Register Transfer Software')","[['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor CORTRANS Register'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'REGOP Multiply'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'SWAP Single'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Block Data'], ['Data Swap', 'SP605 Spartan-6 FPGA', '2001'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Pipeline Structure'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Software Interrupt'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data COREGOP'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer MTRANS Branch'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Transfer TRANS'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Data CODTRANS Transfer'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Data COREGOP Operation'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'COREGOP Operation Coprocessor'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Xilinx SP605 Spartan-6'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Block Data Transfer'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data CODTRANS'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Coprocessor Data'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Data Transfer MTRANS'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Data Swap', 'SP605 Spartan-6 FPGA', 'Processing', 'Register Transfer Software'], ['Coprocessor CORTRANS Register', 'Processing', 'SP605 Spartan-6 FPGA', 'REGOP Multiply'], ['Coprocessor CORTRANS Register', 'Processing', 'SP605 Spartan-6 FPGA', 'SWAP Single'], ['Coprocessor CORTRANS Register', 'Processing', 'SP605 Spartan-6 FPGA', 'Block Data'], ['Coprocessor CORTRANS Register', 'Processing', 'SP605 Spartan-6 FPGA', '2001'], ['Coprocessor CORTRANS Register', 'Processing', 'SP605 Spartan-6 FPGA', 'Pipeline Structure'], ['Coprocessor CORTRANS Register', 'Processing', 'Transfer Software Interrupt'], ['Coprocessor CORTRANS Register', 'Processing', 'Coprocessor Data COREGOP'], ['Coprocessor CORTRANS Register', 'Processing', 'Transfer MTRANS Branch'], ['Coprocessor CORTRANS Register', 'Processing', 'SP605 Spartan-6 FPGA', 'Transfer TRANS'], ['Coprocessor CORTRANS Register', 'Processing', 'Data CODTRANS Transfer'], ['Coprocessor CORTRANS Register', 'Processing', 'Data COREGOP Operation'], ['Coprocessor CORTRANS Register', 'Processing', 'COREGOP Operation Coprocessor'], ['Coprocessor CORTRANS Register', 'Processing', 'Xilinx SP605 Spartan-6'], ['Coprocessor CORTRANS Register', 'Processing', 'Block Data Transfer'], ['Coprocessor CORTRANS Register', 'Processing', 'Coprocessor Data CODTRANS'], ['Coprocessor CORTRANS Register', 'Processing', 'Transfer Coprocessor Data'], ['Coprocessor CORTRANS Register', 'Processing', 'Data Transfer MTRANS'], ['Coprocessor CORTRANS Register', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Coprocessor CORTRANS Register', 'Processing', 'Register Transfer Software'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'SWAP Single'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Block Data'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', '2001'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Pipeline Structure'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Software Interrupt'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data COREGOP'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer MTRANS Branch'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Transfer TRANS'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Data CODTRANS Transfer'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Data COREGOP Operation'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'COREGOP Operation Coprocessor'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Xilinx SP605 Spartan-6'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Block Data Transfer'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data CODTRANS'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Coprocessor Data'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Data Transfer MTRANS'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['REGOP Multiply', 'SP605 Spartan-6 FPGA', 'Processing', 'Register Transfer Software'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Block Data'], ['SWAP Single', 'SP605 Spartan-6 FPGA', '2001'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Pipeline Structure'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Software Interrupt'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data COREGOP'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer MTRANS Branch'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Transfer TRANS'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Data CODTRANS Transfer'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Data COREGOP Operation'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'COREGOP Operation Coprocessor'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Xilinx SP605 Spartan-6'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Block Data Transfer'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data CODTRANS'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Coprocessor Data'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Data Transfer MTRANS'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['SWAP Single', 'SP605 Spartan-6 FPGA', 'Processing', 'Register Transfer Software'], ['Block Data', 'SP605 Spartan-6 FPGA', '2001'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Pipeline Structure'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Software Interrupt'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data COREGOP'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer MTRANS Branch'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Transfer TRANS'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Data CODTRANS Transfer'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Data COREGOP Operation'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'COREGOP Operation Coprocessor'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Xilinx SP605 Spartan-6'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Block Data Transfer'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data CODTRANS'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Coprocessor Data'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Data Transfer MTRANS'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Block Data', 'SP605 Spartan-6 FPGA', 'Processing', 'Register Transfer Software'], ['2001', 'SP605 Spartan-6 FPGA', 'Pipeline Structure'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Software Interrupt'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data COREGOP'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer MTRANS Branch'], ['2001', 'SP605 Spartan-6 FPGA', 'Transfer TRANS'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Data CODTRANS Transfer'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Data COREGOP Operation'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'COREGOP Operation Coprocessor'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Xilinx SP605 Spartan-6'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Block Data Transfer'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data CODTRANS'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Coprocessor Data'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Data Transfer MTRANS'], ['2001', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['2001', 'SP605 Spartan-6 FPGA', 'Processing', 'Register Transfer Software'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Software Interrupt'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data COREGOP'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer MTRANS Branch'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Transfer TRANS'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Data CODTRANS Transfer'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Data COREGOP Operation'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'COREGOP Operation Coprocessor'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Xilinx SP605 Spartan-6'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Block Data Transfer'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data CODTRANS'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Coprocessor Data'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Data Transfer MTRANS'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Pipeline Structure', 'SP605 Spartan-6 FPGA', 'Processing', 'Register Transfer Software'], ['Transfer Software Interrupt', 'Processing', 'Coprocessor Data COREGOP'], ['Transfer Software Interrupt', 'Processing', 'Transfer MTRANS Branch'], ['Transfer Software Interrupt', 'Processing', 'SP605 Spartan-6 FPGA', 'Transfer TRANS'], ['Transfer Software Interrupt', 'Processing', 'Data CODTRANS Transfer'], ['Transfer Software Interrupt', 'Processing', 'Data COREGOP Operation'], ['Transfer Software Interrupt', 'Processing', 'COREGOP Operation Coprocessor'], ['Transfer Software Interrupt', 'Processing', 'Xilinx SP605 Spartan-6'], ['Transfer Software Interrupt', 'Processing', 'Block Data Transfer'], ['Transfer Software Interrupt', 'Processing', 'Coprocessor Data CODTRANS'], ['Transfer Software Interrupt', 'Processing', 'Transfer Coprocessor Data'], ['Transfer Software Interrupt', 'Processing', 'Data Transfer MTRANS'], ['Transfer Software Interrupt', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Transfer Software Interrupt', 'Processing', 'Register Transfer Software'], ['Coprocessor Data COREGOP', 'Processing', 'Transfer MTRANS Branch'], ['Coprocessor Data COREGOP', 'Processing', 'SP605 Spartan-6 FPGA', 'Transfer TRANS'], ['Coprocessor Data COREGOP', 'Processing', 'Data CODTRANS Transfer'], ['Coprocessor Data COREGOP', 'Processing', 'Data COREGOP Operation'], ['Coprocessor Data COREGOP', 'Processing', 'COREGOP Operation Coprocessor'], ['Coprocessor Data COREGOP', 'Processing', 'Xilinx SP605 Spartan-6'], ['Coprocessor Data COREGOP', 'Processing', 'Block Data Transfer'], ['Coprocessor Data COREGOP', 'Processing', 'Coprocessor Data CODTRANS'], ['Coprocessor Data COREGOP', 'Processing', 'Transfer Coprocessor Data'], ['Coprocessor Data COREGOP', 'Processing', 'Data Transfer MTRANS'], ['Coprocessor Data COREGOP', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Coprocessor Data COREGOP', 'Processing', 'Register Transfer Software'], ['Transfer MTRANS Branch', 'Processing', 'SP605 Spartan-6 FPGA', 'Transfer TRANS'], ['Transfer MTRANS Branch', 'Processing', 'Data CODTRANS Transfer'], ['Transfer MTRANS Branch', 'Processing', 'Data COREGOP Operation'], ['Transfer MTRANS Branch', 'Processing', 'COREGOP Operation Coprocessor'], ['Transfer MTRANS Branch', 'Processing', 'Xilinx SP605 Spartan-6'], ['Transfer MTRANS Branch', 'Processing', 'Block Data Transfer'], ['Transfer MTRANS Branch', 'Processing', 'Coprocessor Data CODTRANS'], ['Transfer MTRANS Branch', 'Processing', 'Transfer Coprocessor Data'], ['Transfer MTRANS Branch', 'Processing', 'Data Transfer MTRANS'], ['Transfer MTRANS Branch', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Transfer MTRANS Branch', 'Processing', 'Register Transfer Software'], ['Transfer TRANS', 'SP605 Spartan-6 FPGA', 'Processing', 'Data CODTRANS Transfer'], ['Transfer TRANS', 'SP605 Spartan-6 FPGA', 'Processing', 'Data COREGOP Operation'], ['Transfer TRANS', 'SP605 Spartan-6 FPGA', 'Processing', 'COREGOP Operation Coprocessor'], ['Transfer TRANS', 'SP605 Spartan-6 FPGA', 'Processing', 'Xilinx SP605 Spartan-6'], ['Transfer TRANS', 'SP605 Spartan-6 FPGA', 'Processing', 'Block Data Transfer'], ['Transfer TRANS', 'SP605 Spartan-6 FPGA', 'Processing', 'Coprocessor Data CODTRANS'], ['Transfer TRANS', 'SP605 Spartan-6 FPGA', 'Processing', 'Transfer Coprocessor Data'], ['Transfer TRANS', 'SP605 Spartan-6 FPGA', 'Processing', 'Data Transfer MTRANS'], ['Transfer TRANS', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Transfer TRANS', 'SP605 Spartan-6 FPGA', 'Processing', 'Register Transfer Software'], ['Data CODTRANS Transfer', 'Processing', 'Data COREGOP Operation'], ['Data CODTRANS Transfer', 'Processing', 'COREGOP Operation Coprocessor'], ['Data CODTRANS Transfer', 'Processing', 'Xilinx SP605 Spartan-6'], ['Data CODTRANS Transfer', 'Processing', 'Block Data Transfer'], ['Data CODTRANS Transfer', 'Processing', 'Coprocessor Data CODTRANS'], ['Data CODTRANS Transfer', 'Processing', 'Transfer Coprocessor Data'], ['Data CODTRANS Transfer', 'Processing', 'Data Transfer MTRANS'], ['Data CODTRANS Transfer', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Data CODTRANS Transfer', 'Processing', 'Register Transfer Software'], ['Data COREGOP Operation', 'Processing', 'COREGOP Operation Coprocessor'], ['Data COREGOP Operation', 'Processing', 'Xilinx SP605 Spartan-6'], ['Data COREGOP Operation', 'Processing', 'Block Data Transfer'], ['Data COREGOP Operation', 'Processing', 'Coprocessor Data CODTRANS'], ['Data COREGOP Operation', 'Processing', 'Transfer Coprocessor Data'], ['Data COREGOP Operation', 'Processing', 'Data Transfer MTRANS'], ['Data COREGOP Operation', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Data COREGOP Operation', 'Processing', 'Register Transfer Software'], ['COREGOP Operation Coprocessor', 'Processing', 'Xilinx SP605 Spartan-6'], ['COREGOP Operation Coprocessor', 'Processing', 'Block Data Transfer'], ['COREGOP Operation Coprocessor', 'Processing', 'Coprocessor Data CODTRANS'], ['COREGOP Operation Coprocessor', 'Processing', 'Transfer Coprocessor Data'], ['COREGOP Operation Coprocessor', 'Processing', 'Data Transfer MTRANS'], ['COREGOP Operation Coprocessor', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['COREGOP Operation Coprocessor', 'Processing', 'Register Transfer Software'], ['Xilinx SP605 Spartan-6', 'Processing', 'Block Data Transfer'], ['Xilinx SP605 Spartan-6', 'Processing', 'Coprocessor Data CODTRANS'], ['Xilinx SP605 Spartan-6', 'Processing', 'Transfer Coprocessor Data'], ['Xilinx SP605 Spartan-6', 'Processing', 'Data Transfer MTRANS'], ['Xilinx SP605 Spartan-6', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Xilinx SP605 Spartan-6', 'Processing', 'Register Transfer Software'], ['Block Data Transfer', 'Processing', 'Coprocessor Data CODTRANS'], ['Block Data Transfer', 'Processing', 'Transfer Coprocessor Data'], ['Block Data Transfer', 'Processing', 'Data Transfer MTRANS'], ['Block Data Transfer', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Block Data Transfer', 'Processing', 'Register Transfer Software'], ['Coprocessor Data CODTRANS', 'Processing', 'Transfer Coprocessor Data'], ['Coprocessor Data CODTRANS', 'Processing', 'Data Transfer MTRANS'], ['Coprocessor Data CODTRANS', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Coprocessor Data CODTRANS', 'Processing', 'Register Transfer Software'], ['Transfer Coprocessor Data', 'Processing', 'Data Transfer MTRANS'], ['Transfer Coprocessor Data', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Transfer Coprocessor Data', 'Processing', 'Register Transfer Software'], ['Data Transfer MTRANS', 'Processing', 'SP605 Spartan-6 FPGA', 'Swap SWAP'], ['Data Transfer MTRANS', 'Processing', 'Register Transfer Software'], ['Swap SWAP', 'SP605 Spartan-6 FPGA', 'Processing', 'Register Transfer Software']]"
-"('mlas_bug', 'mla')","[['mlas_bug', 'mla']]"
-"('Single Data Transfer TRANS', 'SWAP Single Data Transfer', 'freely', 'REGOP Multiply MULT Single', 'Swap SWAP Single Data', 'Single Data Swap SWAP', 'Data Processing REGOP Multiply', 'Data Swap SWAP Single')","[['Single Data Transfer TRANS', 'freely', 'SWAP Single Data Transfer'], ['Single Data Transfer TRANS', 'freely', 'REGOP Multiply MULT Single'], ['Single Data Transfer TRANS', 'freely', 'Swap SWAP Single Data'], ['Single Data Transfer TRANS', 'freely', 'Single Data Swap SWAP'], ['Single Data Transfer TRANS', 'freely', 'Data Processing REGOP Multiply'], ['Single Data Transfer TRANS', 'freely', 'Data Swap SWAP Single'], ['SWAP Single Data Transfer', 'freely', 'REGOP Multiply MULT Single'], ['SWAP Single Data Transfer', 'freely', 'Swap SWAP Single Data'], ['SWAP Single Data Transfer', 'freely', 'Single Data Swap SWAP'], ['SWAP Single Data Transfer', 'freely', 'Data Processing REGOP Multiply'], ['SWAP Single Data Transfer', 'freely', 'Data Swap SWAP Single'], ['REGOP Multiply MULT Single', 'freely', 'Swap SWAP Single Data'], ['REGOP Multiply MULT Single', 'freely', 'Single Data Swap SWAP'], ['REGOP Multiply MULT Single', 'freely', 'Data Processing REGOP Multiply'], ['REGOP Multiply MULT Single', 'freely', 'Data Swap SWAP Single'], ['Swap SWAP Single Data', 'freely', 'Single Data Swap SWAP'], ['Swap SWAP Single Data', 'freely', 'Data Processing REGOP Multiply'], ['Swap SWAP Single Data', 'freely', 'Data Swap SWAP Single'], ['Single Data Swap SWAP', 'freely', 'Data Processing REGOP Multiply'], ['Single Data Swap SWAP', 'freely', 'Data Swap SWAP Single'], ['Data Processing REGOP Multiply', 'freely', 'Data Swap SWAP Single']]"
-"('Xilinx Spartan-6',)",[['Xilinx Spartan-6']]
-"('changes', '107')","[['changes', '107']]"
-"('identical', 'ones', '2048')","[['ones', 'identical', '2048']]"
-"('unless', 'Overall', 'better', 'completely', 'details', 'closely', 'performance')","[['unless', 'better', 'completely', 'details'], ['unless', 'better', 'completely', 'closely'], ['unless', 'better', 'completely', 'Overall', 'performance'], ['details', 'completely', 'closely'], ['details', 'completely', 'Overall', 'performance'], ['closely', 'completely', 'Overall', 'performance']]"
-"('$AMBER_BASE', 'switch', 'menu item', 'correct operation', 'Verilog Project')","[['$AMBER_BASE', 'correct operation', 'switch'], ['$AMBER_BASE', 'correct operation', 'menu item'], ['$AMBER_BASE', 'correct operation', 'Verilog Project'], ['switch', 'correct operation', 'menu item'], ['switch', 'correct operation', 'Verilog Project'], ['menu item', 'correct operation', 'Verilog Project']]"
-"('system service', 'Software')","[['system service', 'Software']]"
-"('mounts', 'configured', 'error')","[['configured', 'mounts', 'error']]"
-"('modifications', 'focus', 'Value')","[['focus', 'modifications', 'Value']]"
-"('3072', 'resulting', 'Block', 'fast', 'FIRQ Mask,')","[['resulting', 'FIRQ Mask,', 'Block', '3072', 'fast']]"
-"('needed', 'LR U23', 'Save PC', 'including', 'shifter_operand L24 =')","[['needed', 'shifter_operand L24 =', 'LR U23'], ['needed', 'shifter_operand L24 =', 'including', 'Save PC'], ['LR U23', 'shifter_operand L24 =', 'including', 'Save PC']]"
-"('Core', 'Core Specification')","[['Core', 'Core Specification']]"
-"('inputs', 'Swaps', 'zeros', 'Increment After', 'Decrement Before', 'Overflow')","[['inputs', 'Swaps', 'zeros', 'Increment After'], ['inputs', 'Swaps', 'zeros', 'Decrement Before'], ['inputs', 'Swaps', 'zeros', 'Overflow'], ['Increment After', 'zeros', 'Decrement Before'], ['Increment After', 'zeros', 'Overflow'], ['Decrement Before', 'zeros', 'Overflow']]"
+"('Million', 'reasons', 'fond', 'Modelsim', '2nd', 'flag', 'underflow flag', 'Worth')","[['fond', 'flag', 'Million', 'underflow flag', 'Modelsim'], ['fond', 'flag', 'reasons', '2nd'], ['fond', 'flag', 'Worth'], ['Modelsim', 'underflow flag', 'Million', 'flag', 'reasons', '2nd'], ['Modelsim', 'underflow flag', 'Million', 'flag', 'Worth'], ['2nd', 'reasons', 'flag', 'Worth']]"
+"('signaling', 'types', 'quiet')","[['types', 'signaling', 'quiet']]"
+"('handle', 'makes')","[['handle', 'makes']]"
+"('compare', 'remainder')","[['compare', 'remainder']]"
+"('listed', 'higher')","[['listed', 'higher']]"
+"('Inexact',)",[['Inexact']]
+"('35',)",[['35']]
+"('283',)",[['283']]
+"('floating', 'processing', 'complies')","[['processing', 'floating', 'complies']]"
+"('leave', 'positions')","[['leave', 'positions']]"
+"('society', 'computer', 'IEEE', '1985', '754')","[['society', '754', 'computer', 'IEEE'], ['society', '754', '1985'], ['IEEE', 'computer', '754', '1985']]"
+"('needs', 'cost', 'arithmetic')","[['needs', 'arithmetic', 'cost']]"
+"('show below:', 'wide', 'layout', 'show')","[['show below:', 'show', 'wide', 'layout']]"
+"('say', 'add')","[['say', 'add']]"
+"('2110', '1.0000')","[['2110', '1.0000']]"
+"('919',)",[['919']]
+"('thing', 'reduce', 'divider', 'precision', 'extra')","[['reduce', 'thing', 'extra', 'divider'], ['reduce', 'thing', 'extra', 'precision'], ['divider', 'extra', 'precision']]"
+"('1530',)",[['1530']]
+"('done', 'combine', 'although', 'unit')","[['done', 'unit', 'combine', 'although']]"
+"('input', 'otherwise')","[['input', 'otherwise']]"
+"('taken', 'instead', 'multiplier', 'approximately', 'times')","[['instead', 'taken', 'times', 'multiplier'], ['instead', 'taken', 'times', 'approximately'], ['multiplier', 'times', 'approximately']]"
+"('division', 'multiplications', 'divisions')","[['division', 'divisions', 'multiplications']]"
+"('10000', '00000')","[['10000', '00000']]"
+"('= multiply,', 'underflow_o', 'round')","[['= multiply,', 'underflow_o', 'round']]"
+"('Square Root',)",[['Square Root']]
+"('Pro', 'FPGA')","[['Pro', 'FPGA']]"
+"('binary', 'decimal', 'exponents')","[['decimal', 'binary', 'exponents']]"
+"('Calculate',)",[['Calculate']]
+"('occurs', 'Two')","[['occurs', 'Two']]"
+"('representations', 'include', 'like', 'negative')","[['representations', 'negative', 'like', 'include']]"
+"('give',)",[['give']]
+"('1991', 'Scientist Should Know About', 'Every', 'Scientist Should Know')","[['Scientist Should Know About', '1991', 'Every'], ['Scientist Should Know About', '1991', 'Scientist Should Know'], ['Every', '1991', 'Scientist Should Know']]"
+"('4.4',)",[['4.4']]
+"('snan_o', '111')","[['snan_o', '111']]"
+"('8.1', 'intended', 'synthesized')","[['8.1', 'intended', 'synthesized']]"
+"('= divide,', 'div_zero_o')","[['= divide,', 'div_zero_o']]"
+"('3.47', 'truncated', 'get truncated,', 'Basically', 'excess')","[['3.47', 'truncated', 'get truncated,'], ['3.47', 'truncated', 'Basically'], ['3.47', 'truncated', 'excess'], ['get truncated,', 'truncated', 'Basically'], ['get truncated,', 'truncated', 'excess'], ['Basically', 'truncated', 'excess']]"
+"('12.1019', '1.0001', 'work', 'Another', 'digital', '34.0000')","[['12.1019', 'Another', 'work', '1.0001'], ['12.1019', 'Another', 'digital'], ['12.1019', 'Another', '34.0000'], ['1.0001', 'work', 'Another', 'digital'], ['1.0001', 'work', 'Another', '34.0000'], ['digital', 'Another', '34.0000']]"
+"('small', 'written', 'made', 'top')","[['small', 'made', 'written', 'top']]"
+"('zB',)",[['zB']]
+"('defined', 'standard')","[['defined', 'standard']]"
+"('giving', 'three')","[['giving', 'three']]"
+"('Jidan Al-Eryani', 'Jidan', 'processing unit')","[['Jidan Al-Eryani', 'processing unit', 'Jidan']]"
+"('Underflow',)",[['Underflow']]
+"('different',)",[['different']]
+"('fractions', 'Add')","[['fractions', 'Add']]"
+"('10-45', '3.4', 'fixed', '1038', 'one')","[['10-45', 'one', '3.4', 'fixed'], ['10-45', 'one', '1038'], ['fixed', '3.4', 'one', '1038']]"
+"('bits', 'groups', 'comes')","[['bits', 'comes', 'groups']]"
+"('last', 'take', 'back')","[['last', 'back', 'take']]"
+"('Exceptions', '3.2')","[['Exceptions', '3.2']]"
+"('result', 'Not-a-Number')","[['result', 'Not-a-Number']]"
+"('2.5',)",[['2.5']]
+"('mentioning', 'supposedly', 'miscellaneous', 'bench', 'FPU', 'differently', 'choosing', 'bugs')","[['mentioning', 'bench', 'supposedly'], ['mentioning', 'bench', 'miscellaneous'], ['mentioning', 'bench', 'choosing', 'FPU'], ['mentioning', 'bench', 'differently'], ['mentioning', 'bench', 'bugs'], ['supposedly', 'bench', 'miscellaneous'], ['supposedly', 'bench', 'choosing', 'FPU'], ['supposedly', 'bench', 'differently'], ['supposedly', 'bench', 'bugs'], ['miscellaneous', 'bench', 'choosing', 'FPU'], ['miscellaneous', 'bench', 'differently'], ['miscellaneous', 'bench', 'bugs'], ['FPU', 'choosing', 'bench', 'differently'], ['FPU', 'choosing', 'bench', 'bugs'], ['differently', 'bench', 'bugs']]"
+"('happens', 'every', 'However', 'SNaN string otherwise')","[['happens', 'However', 'every'], ['happens', 'However', 'SNaN string otherwise'], ['every', 'However', 'SNaN string otherwise']]"
+"('following', 'supports')","[['following', 'supports']]"
+"('normalized', 'else')","[['normalized', 'else']]"
+"('3.2.3',)",[['3.2.3']]
+"('format is:', 'single-precision')","[['format is:', 'single-precision']]"
+"('sometimes', 'turned', 'temporally', 'guard', 'mode', 'infinite', 'holders', 'ever')","[['temporally', 'sometimes', 'ever', 'guard'], ['temporally', 'sometimes', 'mode'], ['temporally', 'sometimes', 'turned', 'infinite'], ['temporally', 'sometimes', 'holders'], ['guard', 'ever', 'sometimes', 'mode'], ['guard', 'ever', 'sometimes', 'turned', 'infinite'], ['guard', 'ever', 'sometimes', 'holders'], ['mode', 'sometimes', 'turned', 'infinite'], ['mode', 'sometimes', 'holders'], ['infinite', 'turned', 'sometimes', 'holders']]"
+"('larger',)",[['larger']]
+"('signals', 'Output', 'Output signals:')","[['signals', 'Output', 'Output signals:']]"
+"('1.1100',)",[['1.1100']]
+"('3.2.4',)",[['3.2.4']]
+"('6.17',)",[['6.17']]
+"('decreased', 'amount', 'effecting', 'reduced')","[['effecting', 'amount', 'decreased', 'reduced']]"
+"('Meeting', 'run', 'able', 'goals')","[['able', 'Meeting', 'run', 'goals']]"
+"('2100', '0.0011')","[['2100', '0.0011']]"
+"('discussed',)",[['discussed']]
+"('QNaN exception:',)",[['QNaN exception:']]
+"('Overflow',)",[['Overflow']]
+"('subtract', 'square root,')","[['subtract', 'square root,']]"
+"('Square-Root',)",[['Square-Root']]
+"('00000000',)",[['00000000']]
+"('Signal', 'Name', 'Signal Name')","[['Name', 'Signal', 'Signal Name']]"
+"('even', 'Start')","[['even', 'Start']]"
+"('Width', 'clk_i')","[['Width', 'clk_i']]"
+"('hand',)",[['hand']]
+"('Addition', 'Number')","[['Addition', 'Number']]"
+"('divide-by-zero exception', 'divide-by-zero')","[['divide-by-zero exception', 'divide-by-zero']]"
+"('demonstrate', 'divide')","[['demonstrate', 'divide']]"
+"('outlined', 'sections', 'commented', 'see')","[['outlined', 'commented', 'sections'], ['outlined', 'commented', 'see'], ['sections', 'commented', 'see']]"
+"('Binary', 'Standard')","[['Binary', 'Standard']]"
+"('infinitely', 'halfway')","[['infinitely', 'halfway']]"
+"('Windows', 'Distiller', '7.0', 'Acrobat Distiller')","[['Windows', 'Distiller', '7.0'], ['Windows', 'Distiller', 'Acrobat Distiller'], ['7.0', 'Distiller', 'Acrobat Distiller']]"
+"('according',)",[['according']]
+"('wanted', 'saved')","[['wanted', 'saved']]"
+"('Test', 'verification', '4.3')","[['Test', '4.3', 'verification']]"
+"('Division', '12')","[['Division', '12']]"
+"('serial', 'cycles', 'done serial', 'parallel', 'Disadvantage')","[['serial', 'parallel', 'cycles', 'done serial'], ['serial', 'parallel', 'Disadvantage'], ['done serial', 'cycles', 'parallel', 'Disadvantage']]"
+"('doesnt', 'double-precision', 'concern')","[['doesnt', 'double-precision', 'concern']]"
+"('II v.5',)",[['II v.5']]
+"('10000001', '0.5')","[['10000001', '0.5']]"
+"('towards', 'opposite')","[['towards', 'opposite']]"
+"('precise', 'precise results,')","[['precise', 'precise results,']]"
+"('lowering', 'enable', 'dividing', 'decreases', 'Decreasing', 'speed')","[['lowering', 'enable', 'dividing'], ['lowering', 'enable', 'decreases'], ['lowering', 'enable', 'Decreasing'], ['lowering', 'enable', 'speed'], ['dividing', 'enable', 'decreases'], ['dividing', 'enable', 'Decreasing'], ['dividing', 'enable', 'speed'], ['decreases', 'enable', 'Decreasing'], ['decreases', 'enable', 'speed'], ['Decreasing', 'enable', 'speed']]"
+"('exceeds', 'maximum', 'operands')","[['exceeds', 'operands', 'maximum']]"
+"('files', 'compiled', 'order')","[['compiled', 'files', 'order']]"
+"('diagram', 'flow diagram', 'complex', 'flow', 'subtracting')","[['flow diagram', 'flow', 'complex', 'diagram', 'subtracting']]"
+"('important', 'compared', 'parameters')","[['compared', 'important', 'parameters']]"
+"('multiplication', 'numbers', 'differentiate')","[['numbers', 'multiplication', 'differentiate']]"
+"('less',)",[['less']]
+"('exponent and/or', 'exception', 'precision range')","[['exponent and/or', 'exception', 'precision range']]"
+"('please', 'much', 'algorithms', 'detail')","[['please', 'much', 'detail', 'algorithms']]"
+"('whenever', 'denormalization', 'inexact', 'tininess')","[['whenever', 'tininess', 'denormalization'], ['whenever', 'tininess', 'inexact'], ['denormalization', 'tininess', 'inexact']]"
+"('want',)",[['want']]
+"('added', 'occurred')","[['added', 'occurred']]"
+"('clock signal', 'opb_i')","[['clock signal', 'opb_i']]"
+"('four', 'shifted', '0.0010')","[['shifted', 'four', '0.0010']]"
+"('2006', 'Copyright')","[['2006', 'Copyright']]"
+"('operation', 'invalid')","[['operation', 'invalid']]"
+"('24', 'eL', '22', 'eS')","[['eL', '24', '22'], ['eL', '24', 'eS'], ['22', '24', 'eS']]"
+"('right', 'equal')","[['right', 'equal']]"
+"('square', 'root', 'sign bit:')","[['square', 'root', 'sign bit:']]"
+"('fully', 'allows')","[['fully', 'allows']]"
+"('done parallel', 'save', 'save clock', 'clock cycles,')","[['done parallel', 'save', 'save clock'], ['done parallel', 'save', 'clock cycles,'], ['save clock', 'save', 'clock cycles,']]"
+"('34',)",[['34']]
+"('rounding',)",[['rounding']]
+"('3.2.6', 'Infinity')","[['3.2.6', 'Infinity']]"
+"('Addition unit:',)",[['Addition unit:']]
+"('hardware', 'square-root algorithm', 'square-root', 'algorithm')","[['square-root algorithm', 'hardware', 'square-root'], ['square-root algorithm', 'hardware', 'algorithm'], ['square-root', 'hardware', 'algorithm']]"
+"('increase', 'root operation', 'clock')","[['increase', 'root operation', 'clock']]"
+"('brought', 'come')","[['brought', 'come']]"
+"('verify', 'used', 'Thats')","[['verify', 'used', 'Thats']]"
+"('result precision',)",[['result precision']]
+"('2140',)",[['2140']]
+"('3.3.2', 'Round-to-Zero')","[['3.3.2', 'Round-to-Zero']]"
+"('actual', 'help', 'leading', 'actually', 'bias', 'therefore', 'whole', 'implicit')","[['help', 'whole', 'therefore', 'leading'], ['help', 'whole', 'therefore', 'actually'], ['help', 'whole', 'therefore', 'bias'], ['help', 'whole', 'therefore', 'actual', 'implicit'], ['leading', 'therefore', 'actually'], ['leading', 'therefore', 'bias'], ['leading', 'therefore', 'actual', 'implicit'], ['actually', 'therefore', 'bias'], ['actually', 'therefore', 'actual', 'implicit'], ['bias', 'therefore', 'actual', 'implicit']]"
+"('Floating',)",[['Floating']]
+"('010', '01')","[['010', '01']]"
+"('fmax',)",[['fmax']]
+"('928',)",[['928']]
+"('needed', 'Logic')","[['needed', 'Logic']]"
+"('Synplify', 'Cyclone', 'v.5', 'II', 'Synplify Pro')","[['v.5', 'Synplify', 'Synplify Pro', 'Cyclone', 'II']]"
+"('Value',)",[['Value']]
+"('unused', '101', 'zero_o')","[['unused', '101', 'zero_o']]"
+"('0.0001', 'remember', 'yield', 'number')","[['0.0001', 'number', 'remember'], ['0.0001', 'number', 'yield'], ['remember', 'number', 'yield']]"
+"('shown below:',)",[['shown below:']]
+"('fracB',)",[['fracB']]
+"('replaced', 'multipliers')","[['replaced', 'multipliers']]"
+"('regard', 'detect', 'signaled')","[['detect', 'regard', 'signaled']]"
+"('including',)",[['including']]
+"('Fraction',)",[['Fraction']]
+"('3.2.5',)",[['3.2.5']]
+"('internally', 'sticky')","[['internally', 'sticky']]"
+"('may', 'addition')","[['may', 'addition']]"
+"('Zero', '3.2.7')","[['Zero', '3.2.7']]"
+"('qnan_o', '110')","[['qnan_o', '110']]"
+"('powers', 'away', '0.01', 'commercial')","[['away', 'powers', 'commercial', '0.01']]"
+"('3.2.1', 'Invalid')","[['3.2.1', 'Invalid']]"
+"('100',)",[['100']]
+"('3.3.3', 'Round-Up')","[['3.3.3', 'Round-Up']]"
+"('easy',)",[['easy']]
+"('Loss', 'loss', 'underflow', 'implementer', 'choice', 'detected', 'time', 'implemented', 'events', 'Tininess', 'accuracy')","[['Loss', 'time', 'Tininess', 'loss'], ['Loss', 'time', 'Tininess', 'underflow'], ['Loss', 'time', 'implementer'], ['Loss', 'time', 'choice'], ['Loss', 'time', 'detected'], ['Loss', 'time', 'implemented'], ['Loss', 'time', 'events'], ['Loss', 'time', 'accuracy'], ['loss', 'Tininess', 'underflow'], ['loss', 'Tininess', 'time', 'implementer'], ['loss', 'Tininess', 'time', 'choice'], ['loss', 'Tininess', 'time', 'detected'], ['loss', 'Tininess', 'time', 'implemented'], ['loss', 'Tininess', 'time', 'events'], ['loss', 'Tininess', 'time', 'accuracy'], ['underflow', 'Tininess', 'time', 'implementer'], ['underflow', 'Tininess', 'time', 'choice'], ['underflow', 'Tininess', 'time', 'detected'], ['underflow', 'Tininess', 'time', 'implemented'], ['underflow', 'Tininess', 'time', 'events'], ['underflow', 'Tininess', 'time', 'accuracy'], ['implementer', 'time', 'choice'], ['implementer', 'time', 'detected'], ['implementer', 'time', 'implemented'], ['implementer', 'time', 'events'], ['implementer', 'time', 'accuracy'], ['choice', 'time', 'detected'], ['choice', 'time', 'implemented'], ['choice', 'time', 'events'], ['choice', 'time', 'accuracy'], ['detected', 'time', 'implemented'], ['detected', 'time', 'events'], ['detected', 'time', 'accuracy'], ['implemented', 'time', 'events'], ['implemented', 'time', 'accuracy'], ['events', 'time', 'accuracy']]"
+"('digits', 'real', 'could', 'use', 'systems')","[['digits', 'systems', 'real'], ['digits', 'systems', 'could', 'use'], ['real', 'systems', 'could', 'use']]"
+"('test', 'source', 'boundary', 'test bench')","[['source', 'test', 'boundary'], ['source', 'test', 'test bench'], ['boundary', 'test', 'test bench']]"
+"('NaN',)",[['NaN']]
+"('SNaN string', 'SNaN', 'SNaN exception')","[['SNaN string', 'SNaN', 'SNaN exception']]"
+"('11000',)",[['11000']]
+"('Point Unit', '36', 'Unit', 'Point')","[['Point Unit', 'Point', '36', 'Unit']]"
+"('implementation', 'behind', 'explain', 'describe', 'theory')","[['behind', 'theory', 'implementation', 'explain', 'describe']]"
+"('Nr',)",[['Nr']]
+"('Lets', 'two')","[['Lets', 'two']]"
+"('Compilation', '4.2')","[['Compilation', '4.2']]"
+"('diff', 'exponent diff')","[['diff', 'exponent diff']]"
+"('Multiplication unit:',)",[['Multiplication unit:']]
+"('produced', 'Electronics', 'Electrical', 'Although', 'Engineers')","[['produced', 'Electrical', 'Electronics'], ['produced', 'Electrical', 'Although'], ['produced', 'Electrical', 'Engineers'], ['Electronics', 'Electrical', 'Although'], ['Electronics', 'Electrical', 'Engineers'], ['Although', 'Electrical', 'Engineers']]"
+"('Multiplication',)",[['Multiplication']]
+"('0.1', 'brings', 'problems', 'financial', 'thought')","[['0.1', 'financial', 'problems'], ['0.1', 'financial', 'brings', 'thought'], ['problems', 'financial', 'brings', 'thought']]"
+"('684',)",[['684']]
+"('accurate', 'left-shift', 'lets')","[['accurate', 'lets', 'left-shift']]"
+"('explained', '127')","[['explained', '127']]"
+"('1.7', '17')","[['1.7', '17']]"
+"('specifies',)",[['specifies']]
+"('Total', '4387')","[['Total', '4387']]"
+"('FP numbers:',)",[['FP numbers:']]
+"('eO',)",[['eO']]
+"('00000001',)",[['00000001']]
+"('3.3.1',)",[['3.3.1']]
+"('smallest',)",[['smallest']]
+"('exceptions', 'non', 'handling')","[['exceptions', 'handling', 'non']]"
+"('Subtraction',)",[['Subtraction']]
+"('Rounding', 'Modes', '3.3')","[['Rounding', '3.3', 'Modes']]"
+"('never', 'set')","[['never', 'set']]"
+"('applications', 'cannot', 'Using', 'fractional')","[['Using', 'cannot', 'applications', 'fractional']]"
+"('bin', 'b0-23')","[['bin', 'b0-23']]"
+"('biased', 'values', 'special')","[['biased', 'special', 'values']]"
+"('without', 'results')","[['without', 'results']]"
+"('due',)",[['due']]
+"('= sign',)",[['= sign']]
+"('count',)",[['count']]
+"('Step',)",[['Step']]
+"('ease', 'window', 'scale', 'solution')","[['ease', 'solution', 'window'], ['ease', 'solution', 'scale'], ['window', 'solution', 'scale']]"
+"('889', '259', 'another')","[['889', '259', 'another']]"
+"('provided', 'within')","[['provided', 'within']]"
+"('positive', 'except', 'always')","[['positive', 'always', 'except']]"
+"('fracA',)",[['fracA']]
+"('save logic', 'output multiplexer', 'multiplexer code,')","[['save logic', 'output multiplexer', 'multiplexer code,']]"
+"('Altera Quartus II', 'Altera Quartus II v.5', 'Altera Quartus')","[['Altera Quartus II', 'Altera Quartus II v.5', 'Altera Quartus']]"
+"('storage holders,',)","[['storage holders,']]"
+"('*3468', 'Usselmann')","[['*3468', 'Usselmann']]"
+"('representation', 'example')","[['representation', 'example']]"
+"('would',)",[['would']]
+"('detect faster',)",[['detect faster']]
+"('achieved', 'successfully', 'beginning', 'stated')","[['achieved', 'successfully', 'beginning', 'stated']]"
+"('7392', 'Cycles', 'Clock Cycles', 'Clock')","[['Clock Cycles', '7392', 'Cycles', 'Clock']]"
+"('Without',)",[['Without']]
+"('subtraction',)",[['subtraction']]
+"('stages',)",[['stages']]
+"('Conversions', 'strings', 'format')","[['Conversions', 'format', 'strings']]"
 "('Introduction',)",[['Introduction']]
-"('screen', 'Amber package')","[['screen', 'Amber package']]"
-"('Amber UART',)",[['Amber UART']]
-"('wishbone interface', 'pipeline', 'instruction', 'core Instruction', 'miss', 'conflict')","[['wishbone interface', 'pipeline', 'conflict', 'instruction'], ['wishbone interface', 'pipeline', 'conflict', 'core Instruction', 'miss'], ['instruction', 'conflict', 'core Instruction', 'miss']]"
-"('patch files,', 'source code,', 'waveform viewer', 'instructions')","[['patch files,', 'instructions', 'source code,'], ['patch files,', 'instructions', 'waveform viewer'], ['source code,', 'instructions', 'waveform viewer']]"
-"('Read', 'asserted', 'read cycle', 'Active')","[['Read', 'asserted', 'Active', 'read cycle']]"
-"('object', '14', 'Back')","[['14', 'object', 'Back']]"
-"('S22', 'rightmost', 'Examine')","[['rightmost', 'S22', 'Examine']]"
-"('standard',)",[['standard']]
-"('Linux', 'Verilog source', 'Verilog', 'Amber project')","[['Verilog source', 'Amber project', 'Linux', 'Verilog']]"
-"('verifying', 'supporting', 'FPGA synthesis makefile')","[['verifying', 'FPGA synthesis makefile', 'supporting']]"
-"('together', 'generating', 'preceding', 'assumes', 'Otherwise')","[['together', 'assumes', 'generating', 'preceding'], ['together', 'assumes', 'generating', 'Otherwise'], ['preceding', 'generating', 'Otherwise']]"
-"('GNU linker,', 'Hyper Terminal', 'working')","[['GNU linker,', 'working', 'Hyper Terminal']]"
-"('store log', 'Category', 'Bit', 'log')","[['Category', 'store log', 'Bit', 'log']]"
-"('Rotate', 'CO', 'ea', '{ c_in,', 'Ignore', 'Decrement')","[['Rotate', '{ c_in,', 'Decrement', 'CO', 'ea'], ['Rotate', '{ c_in,', 'Ignore'], ['ea', 'CO', 'Decrement', '{ c_in,', 'Ignore']]"
-"('complex', '15', 'encoding')","[['15', 'complex', 'encoding']]"
-"('Mnemonic', 'Mnemonic extension', 'extension')","[['Mnemonic', 'Mnemonic extension', 'extension']]"
-"('stmib', 'lmdib', 'stmfa', 'Use', 'Signed', 'lt', 'b_zero_extend_8', 'Empty Descending', 'Rn -shifter_operand')","[['stmib', 'Signed', 'b_zero_extend_8', 'Rn -shifter_operand', 'lmdib'], ['stmib', 'Signed', 'stmfa'], ['stmib', 'Signed', 'b_zero_extend_8', 'lt', 'Use'], ['stmib', 'Signed', 'b_zero_extend_8', 'Empty Descending'], ['lmdib', 'Rn -shifter_operand', 'b_zero_extend_8', 'Signed', 'stmfa'], ['lmdib', 'Rn -shifter_operand', 'b_zero_extend_8', 'lt', 'Use'], ['lmdib', 'Rn -shifter_operand', 'b_zero_extend_8', 'Empty Descending'], ['stmfa', 'Signed', 'b_zero_extend_8', 'lt', 'Use'], ['stmfa', 'Signed', 'b_zero_extend_8', 'Empty Descending'], ['Use', 'lt', 'b_zero_extend_8', 'Empty Descending']]"
-"('detected', 'larger')","[['detected', 'larger']]"
-"('4.4', 'exception handler', 'handler', 'determine', 'service')","[['exception handler', '4.4', 'handler'], ['exception handler', '4.4', 'determine'], ['exception handler', '4.4', 'service'], ['handler', '4.4', 'determine'], ['handler', '4.4', 'service'], ['determine', '4.4', 'service']]"
-"('alone', 'real', 'Amber project area')","[['alone', 'real', 'Amber project area']]"
-"('20', 'boot-loader application', 'wrapping', 'sources', 'misses', 'issues')","[['20', 'wrapping', 'misses', 'boot-loader application'], ['20', 'wrapping', 'sources'], ['20', 'wrapping', 'issues'], ['boot-loader application', 'misses', 'wrapping', 'sources'], ['boot-loader application', 'misses', 'wrapping', 'issues'], ['sources', 'wrapping', 'issues']]"
-"('Load register', 'r12_firq', 'second', 'Verilog module', 'lp', '( lp', 'r13_svc', 'Subtract')","[['Load register', 'lp', 'Verilog module', 'r12_firq'], ['Load register', 'lp', 'Verilog module', 'Subtract', '( lp', 'second'], ['Load register', 'lp', 'Verilog module', 'r13_svc'], ['r12_firq', 'Verilog module', 'Subtract', '( lp', 'second'], ['r12_firq', 'Verilog module', 'r13_svc'], ['second', '( lp', 'Subtract', 'Verilog module', 'r13_svc']]"
-"('logic', 'index', 'executed', 'shift logic', 'Ethmac project')","[['logic', 'index', 'executed', 'shift logic'], ['logic', 'index', 'executed', 'Ethmac project'], ['shift logic', 'executed', 'Ethmac project']]"
-"('Increment Before', ""two's"", '1.', 'Arithmetic', 'sign')","[['Increment Before', ""two's"", 'Arithmetic', '1.'], ['Increment Before', ""two's"", 'sign'], ['1.', 'Arithmetic', ""two's"", 'sign']]"
-"('Rn offset_12 B22 =', 'Rn offset_12', 'offset_12 B22 =')","[['Rn offset_12 B22 =', 'offset_12 B22 =', 'Rn offset_12']]"
-"('Configurable',)",[['Configurable']]
-"('Data COREGOP', 'SWAP Single Data', 'Register Transfer', 'Transfer MTRANS', 'Data CODTRANS', 'Coprocessor CORTRANS', 'Single', 'Transfer Coprocessor', 'Data Transfer TRANS', 'Transfer Software', 'Data Processing', 'SP605 Spartan-6', 'Single Data Transfer', 'COREGOP Operation', 'Transfer TRANS Block', 'Interrupt SWI')","[['Data COREGOP', 'Single', 'Register Transfer'], ['Data COREGOP', 'Single', 'Transfer MTRANS'], ['Data COREGOP', 'Single', 'Data CODTRANS'], ['Data COREGOP', 'Single', 'Coprocessor CORTRANS'], ['Data COREGOP', 'Single', 'Transfer Coprocessor'], ['Data COREGOP', 'Single', 'Transfer Software'], ['Data COREGOP', 'Single', 'Data Processing'], ['Data COREGOP', 'Single', 'COREGOP Operation'], ['Register Transfer', 'Single', 'Transfer MTRANS'], ['Register Transfer', 'Single', 'Data CODTRANS'], ['Register Transfer', 'Single', 'Coprocessor CORTRANS'], ['Register Transfer', 'Single', 'Transfer Coprocessor'], ['Register Transfer', 'Single', 'Transfer Software'], ['Register Transfer', 'Single', 'Data Processing'], ['Register Transfer', 'Single', 'COREGOP Operation'], ['Transfer MTRANS', 'Single', 'Data CODTRANS'], ['Transfer MTRANS', 'Single', 'Coprocessor CORTRANS'], ['Transfer MTRANS', 'Single', 'Transfer Coprocessor'], ['Transfer MTRANS', 'Single', 'Transfer Software'], ['Transfer MTRANS', 'Single', 'Data Processing'], ['Transfer MTRANS', 'Single', 'COREGOP Operation'], ['Data CODTRANS', 'Single', 'Coprocessor CORTRANS'], ['Data CODTRANS', 'Single', 'Transfer Coprocessor'], ['Data CODTRANS', 'Single', 'Transfer Software'], ['Data CODTRANS', 'Single', 'Data Processing'], ['Data CODTRANS', 'Single', 'COREGOP Operation'], ['Coprocessor CORTRANS', 'Single', 'Transfer Coprocessor'], ['Coprocessor CORTRANS', 'Single', 'Transfer Software'], ['Coprocessor CORTRANS', 'Single', 'Data Processing'], ['Coprocessor CORTRANS', 'Single', 'COREGOP Operation'], ['Transfer Coprocessor', 'Single', 'Transfer Software'], ['Transfer Coprocessor', 'Single', 'Data Processing'], ['Transfer Coprocessor', 'Single', 'COREGOP Operation'], ['Transfer Software', 'Single', 'Data Processing'], ['Transfer Software', 'Single', 'COREGOP Operation'], ['Data Processing', 'Single', 'COREGOP Operation']]"
-"('Spartan-6',)",[['Spartan-6']]
-"('FPGA development', 'Core pipeline', 'evironment', 'Pipeline Operation', 'modificatiosn', 'structure', 'processor system')","[['FPGA development', 'evironment', 'Pipeline Operation'], ['FPGA development', 'evironment', 'Core pipeline', 'modificatiosn'], ['FPGA development', 'evironment', 'structure'], ['FPGA development', 'evironment', 'processor system'], ['Pipeline Operation', 'evironment', 'Core pipeline', 'modificatiosn'], ['Pipeline Operation', 'evironment', 'structure'], ['Pipeline Operation', 'evironment', 'processor system'], ['modificatiosn', 'Core pipeline', 'evironment', 'structure'], ['modificatiosn', 'Core pipeline', 'evironment', 'processor system'], ['structure', 'evironment', 'processor system']]"
-"('Amber system', 'Scaled register offset', 'DDR3 controller', 'Xilinx Coregen')","[['Amber system', 'Xilinx Coregen', 'DDR3 controller', 'Scaled register offset']]"
-"('rightward', 'Let m')","[['rightward', 'Let m']]"
-"('ln', 'boot-loader.o')","[['ln', 'boot-loader.o']]"
-"('indexing', 'modes')","[['indexing', 'modes']]"
-"('Send', 'next')","[['Send', 'next']]"
-"('sends', 'packets', 'Memory')","[['sends', 'Memory', 'packets']]"
-"('le', 'bit', 'Repeat', 'greater', 'done y')","[['bit', 'le', 'done y', 'Repeat', 'greater']]"
-"('writes', 'register', 'Register List', 'CRd')","[['writes', 'Register List', 'CRd', 'register']]"
-"('r14_irq', 'r13_firq', '( pc')","[['r14_irq', '( pc', 'r13_firq']]"
-"('102', '109')","[['102', '109']]"
-"('Wishbone Interface', 'FPGA synthesis process', 'IRQ address vector', 'executing', 'location', 'Interface')","[['Wishbone Interface', 'location', 'FPGA synthesis process'], ['Wishbone Interface', 'location', 'IRQ address vector'], ['Wishbone Interface', 'location', 'executing'], ['Wishbone Interface', 'location', 'Interface'], ['FPGA synthesis process', 'location', 'IRQ address vector'], ['FPGA synthesis process', 'location', 'executing'], ['FPGA synthesis process', 'location', 'Interface'], ['IRQ address vector', 'location', 'executing'], ['IRQ address vector', 'location', 'Interface'], ['executing', 'location', 'Interface']]"
-"('wishbone access', 'Load', 'Set Encoding')","[['Load', 'wishbone access', 'Set Encoding']]"
-"('Reset', 'Processor Mode')","[['Reset', 'Processor Mode']]"
-"('connection dialogue', 'UART interface', 'done')","[['connection dialogue', 'done', 'UART interface']]"
-"('immediately', 'leaves', 'Word', 'Finally', 'unchanged')","[['immediately', 'Word', 'leaves', 'Finally'], ['immediately', 'Word', 'unchanged'], ['Finally', 'leaves', 'Word', 'unchanged']]"
-"('additions', 'Configuration', 'Core Type', 'Cache Configuration')","[['Configuration', 'additions', 'Core Type'], ['Configuration', 'additions', 'Cache Configuration'], ['Core Type', 'additions', 'Cache Configuration']]"
-"('EOR', 'Rs', 'shifter_operand S bit', 'al', ""'L'"")","[['Rs', 'al', 'EOR', 'shifter_operand S bit'], ['Rs', 'al', 'EOR', ""'L'""], ['shifter_operand S bit', 'EOR', ""'L'""]]"
-"('load', 'subset', 'reread instruction', 'pre_fetch_instruction register', 'system', 'start_address', 'mode', 'execute stage', 'fetch')","[['load', 'reread instruction', 'fetch', 'subset'], ['load', 'reread instruction', 'mode', 'pre_fetch_instruction register'], ['load', 'reread instruction', 'system'], ['load', 'reread instruction', 'start_address', 'execute stage'], ['subset', 'fetch', 'reread instruction', 'mode', 'pre_fetch_instruction register'], ['subset', 'fetch', 'reread instruction', 'system'], ['subset', 'fetch', 'reread instruction', 'start_address', 'execute stage'], ['pre_fetch_instruction register', 'mode', 'reread instruction', 'system'], ['pre_fetch_instruction register', 'mode', 'reread instruction', 'start_address', 'execute stage'], ['system', 'reread instruction', 'start_address', 'execute stage']]"
-"('frame', 'correctly')","[['frame', 'correctly']]"
-"('Empty Ascending', 'Full Descending', 'Stack Store', 'Store Equivalent', 'shifter_operand -Rn', 'Fill')","[['Empty Ascending', 'Fill', 'Full Descending'], ['Empty Ascending', 'Fill', 'Stack Store'], ['Empty Ascending', 'Fill', 'Store Equivalent'], ['Empty Ascending', 'Fill', 'shifter_operand -Rn'], ['Full Descending', 'Fill', 'Stack Store'], ['Full Descending', 'Fill', 'Store Equivalent'], ['Full Descending', 'Fill', 'shifter_operand -Rn'], ['Stack Store', 'Fill', 'Store Equivalent'], ['Stack Store', 'Fill', 'shifter_operand -Rn'], ['Store Equivalent', 'Fill', 'shifter_operand -Rn']]"
-"('adder/subtractor', 'synthsis', 'FPGA synthsis', 'Tick')","[['adder/subtractor', 'FPGA synthsis', 'Tick', 'synthsis']]"
-"('lsr', 'Stack Store Equivalent')","[['lsr', 'Stack Store Equivalent']]"
-"('gt', 'directly')","[['gt', 'directly']]"
-"('Name',)",[['Name']]
-"('early',)",[['early']]
-"('iMPACT', 'via', 'like', 'anything', '10.6', 'starts', 'Programs', 'messages', 'specific')","[['iMPACT', 'messages', '10.6', 'via', 'like'], ['iMPACT', 'messages', 'anything'], ['iMPACT', 'messages', '10.6', 'via', 'starts'], ['iMPACT', 'messages', '10.6', 'via', 'Programs'], ['iMPACT', 'messages', '10.6', 'specific'], ['like', 'via', '10.6', 'messages', 'anything'], ['like', 'via', 'starts'], ['like', 'via', 'Programs'], ['like', 'via', '10.6', 'specific'], ['anything', 'messages', '10.6', 'via', 'starts'], ['anything', 'messages', '10.6', 'via', 'Programs'], ['anything', 'messages', '10.6', 'specific'], ['starts', 'via', 'Programs'], ['starts', 'via', '10.6', 'specific'], ['Programs', 'via', '10.6', 'specific']]"
-"('puts', 'IA32 GNU/Linux Installer', 'Code Sourcery GNU', 'downloads', 'documentation', 'Sourcery GNU package', 'waiting', 'IA32 GNU/Linux', 'completes')","[['IA32 GNU/Linux Installer', 'waiting', 'documentation', 'Sourcery GNU package', 'puts', 'Code Sourcery GNU'], ['IA32 GNU/Linux Installer', 'waiting', 'documentation', 'Sourcery GNU package', 'downloads'], ['IA32 GNU/Linux Installer', 'waiting', 'documentation', 'Sourcery GNU package', 'IA32 GNU/Linux'], ['IA32 GNU/Linux Installer', 'waiting', 'documentation', 'Sourcery GNU package', 'completes'], ['Code Sourcery GNU', 'puts', 'Sourcery GNU package', 'downloads'], ['Code Sourcery GNU', 'puts', 'Sourcery GNU package', 'IA32 GNU/Linux'], ['Code Sourcery GNU', 'puts', 'Sourcery GNU package', 'completes'], ['downloads', 'Sourcery GNU package', 'IA32 GNU/Linux'], ['downloads', 'Sourcery GNU package', 'completes'], ['IA32 GNU/Linux', 'Sourcery GNU package', 'completes']]"
-"('device', 'FPGA target device')","[['device', 'FPGA target device']]"
-"('core instead,', 'synthesize')","[['core instead,', 'synthesize']]"
-"('conflict_rd', 'address exception', 'add')","[['conflict_rd', 'address exception', 'add']]"
-"('export XILINX=/opt/Xilinx/11.1/ISE', 'following', 'export')","[['export XILINX=/opt/Xilinx/11.1/ISE', 'export', 'following']]"
-"('Dabhand', '-A', 'RISC', 'Amber FPGA')","[['Dabhand', 'RISC', '-A'], ['Dabhand', 'RISC', 'Amber FPGA'], ['-A', 'RISC', 'Amber FPGA']]"
-"('size', 'FPGA device', 'shows')","[['size', 'FPGA device', 'shows']]"
-"('ed', 'amount', 'append', 'Extent', 'find')","[['ed', 'append', 'Extent', 'amount', 'find']]"
-"('MII', 'Specification', 'I25', 'Immediate', 'PC', 'LR', 'L24', 'U23')","[['I25', 'Specification', 'U23', 'PC'], ['I25', 'Specification', 'MII', 'Immediate', 'LR'], ['I25', 'Specification', 'MII', 'Immediate', 'L24'], ['PC', 'U23', 'Specification', 'MII', 'Immediate', 'LR'], ['PC', 'U23', 'Specification', 'MII', 'Immediate', 'L24'], ['LR', 'Immediate', 'L24']]"
-"('compile', 'software')","[['compile', 'software']]"
-"('World', 'line mode,', 'type')","[['line mode,', 'World', 'type']]"
-"('a2x_core.v',)",[['a2x_core.v']]
-"('three', 'capable')","[['three', 'capable']]"
-"('GNU tool chain', 'compiled', 'GNU cross-compiler', 'ready', 'Sourcery package,', 'Code Sourcery package,')","[['GNU tool chain', 'compiled', 'GNU cross-compiler'], ['GNU tool chain', 'compiled', 'Sourcery package,', 'ready'], ['GNU tool chain', 'compiled', 'Code Sourcery package,'], ['GNU cross-compiler', 'compiled', 'Sourcery package,', 'ready'], ['GNU cross-compiler', 'compiled', 'Code Sourcery package,'], ['ready', 'Sourcery package,', 'compiled', 'Code Sourcery package,']]"
-"('-C', '> boot-loader.dis', 'boot-loader_memparams.v arm-none-linux-gnueabi-objdump', '> boot-loader.mem', 'boot-loader.mem boot-loader_memparams.v', 'boot-loader.mem')","[['> boot-loader.dis', '-C', 'boot-loader_memparams.v arm-none-linux-gnueabi-objdump'], ['> boot-loader.dis', '-C', '> boot-loader.mem'], ['> boot-loader.dis', '-C', 'boot-loader.mem boot-loader_memparams.v'], ['> boot-loader.dis', '-C', 'boot-loader.mem'], ['boot-loader_memparams.v arm-none-linux-gnueabi-objdump', '-C', '> boot-loader.mem'], ['boot-loader_memparams.v arm-none-linux-gnueabi-objdump', '-C', 'boot-loader.mem boot-loader_memparams.v'], ['boot-loader_memparams.v arm-none-linux-gnueabi-objdump', '-C', 'boot-loader.mem'], ['> boot-loader.mem', '-C', 'boot-loader.mem boot-loader_memparams.v'], ['> boot-loader.mem', '-C', 'boot-loader.mem'], ['boot-loader.mem boot-loader_memparams.v', '-C', 'boot-loader.mem']]"
-"('represent', 'predetermined', 'ALU Function', 'involves', 'respectively')","[['predetermined', 'represent', 'ALU Function'], ['predetermined', 'represent', 'involves', 'respectively'], ['ALU Function', 'represent', 'involves', 'respectively']]"
-"('library file', 'Copy', 'stand', 'C program')","[['Copy', 'library file', 'stand'], ['Copy', 'library file', 'C program'], ['stand', 'library file', 'C program']]"
-"('range', '106')","[['range', '106']]"
-"('Table', '4.7', 'data')","[['Table', 'data', '4.7']]"
-"('cp', 'libc library', 'initrd', 'bitgen')","[['cp', 'libc library', 'initrd'], ['cp', 'libc library', 'bitgen'], ['initrd', 'libc library', 'bitgen']]"
-"('Block RAMs', 'FIRQs', 'link register')","[['Block RAMs', 'link register', 'FIRQs']]"
-"('running', '80')","[['running', '80']]"
-"('end_address', 'amber source')","[['end_address', 'amber source']]"
-"('12.1', 'etc.', '10.4', 'installed')","[['12.1', 'etc.', '10.4', 'installed']]"
-"('16', 'TRANS', '( sp', '( ip')","[['16', 'TRANS', '( sp'], ['16', 'TRANS', '( ip'], ['( sp', 'TRANS', '( ip']]"
-"('GNU/Linux', 'Code Sourcery', 'GNU')","[['Code Sourcery', 'GNU/Linux', 'GNU']]"
-"('comment', 'turn', '10.4.3', 'free')","[['comment', 'turn', 'free', '10.4.3']]"
-"('parity', 'flow control', 'changed', 'stop', 'Verilog code,', 'prior')","[['parity', 'flow control', 'stop', 'changed', 'Verilog code,'], ['parity', 'flow control', 'stop', 'changed', 'prior'], ['Verilog code,', 'changed', 'prior']]"
-"('Lite', 'Linux version')","[['Lite', 'Linux version']]"
-"('called.', 'Create', 'omit', 'gives')","[['Create', 'called.', 'gives', 'omit']]"
-"('overload', 'Verilog implementation')","[['overload', 'Verilog implementation']]"
-"('hiboot mem', 'entire', 'entire sequence', 'DMA access', 'code sequence')","[['hiboot mem', 'entire', 'DMA access', 'entire sequence'], ['hiboot mem', 'entire', 'code sequence'], ['entire sequence', 'DMA access', 'entire', 'code sequence']]"
-"('354', 'passed', 'embedded')","[['354', 'passed', 'embedded']]"
-"('Write Back stage', 'limited', 'Write Back', 'comprise', 'sending')","[['limited', 'Write Back', 'sending', 'Write Back stage', 'comprise']]"
-"('depend', 'Next', 'protocol', 'programs')","[['Next', 'depend', 'protocol', 'programs']]"
-"('""Hello', 'lenght', 'World""', 'AMBER_DUMP_LENGTH define', 'simple test', '/dev/root', 'addr f0000000,', '/sbin/init', 'addr', 'mov r10,', ""type 'run"", 'program', 'f0000000', 'str r10,', 'test pass', 'test ethmac-test,', 'pass value', 'c8', 'run understands,', 'c4', 'simulation control', ""-h'"", 'simulation', 'run hello-world')","[['""Hello', 'simulation', 'lenght'], ['""Hello', 'simulation', 'World""'], ['""Hello', 'simulation', 'addr', 'AMBER_DUMP_LENGTH define'], ['""Hello', 'simulation', 'simple test'], ['""Hello', 'simulation', '/dev/root'], ['""Hello', 'simulation', 'addr f0000000,'], ['""Hello', 'simulation', '/sbin/init'], ['""Hello', 'simulation', 'addr', 'mov r10,'], ['""Hello', 'simulation', ""type 'run""], ['""Hello', 'simulation', 'program'], ['""Hello', 'simulation', 'f0000000'], ['""Hello', 'simulation', 'addr', 'str r10,'], ['""Hello', 'simulation', 'addr', 'test pass'], ['""Hello', 'simulation', 'addr', 'test ethmac-test,'], ['""Hello', 'simulation', 'addr', 'pass value'], ['""Hello', 'simulation', 'c8'], ['""Hello', 'simulation', 'addr', 'run understands,'], ['""Hello', 'simulation', 'addr', 'c4'], ['""Hello', 'simulation', 'addr', 'simulation control'], ['""Hello', 'simulation', ""-h'""], ['""Hello', 'simulation', 'addr', 'run hello-world'], ['lenght', 'simulation', 'World""'], ['lenght', 'simulation', 'addr', 'AMBER_DUMP_LENGTH define'], ['lenght', 'simulation', 'simple test'], ['lenght', 'simulation', '/dev/root'], ['lenght', 'simulation', 'addr f0000000,'], ['lenght', 'simulation', '/sbin/init'], ['lenght', 'simulation', 'addr', 'mov r10,'], ['lenght', 'simulation', ""type 'run""], ['lenght', 'simulation', 'program'], ['lenght', 'simulation', 'f0000000'], ['lenght', 'simulation', 'addr', 'str r10,'], ['lenght', 'simulation', 'addr', 'test pass'], ['lenght', 'simulation', 'addr', 'test ethmac-test,'], ['lenght', 'simulation', 'addr', 'pass value'], ['lenght', 'simulation', 'c8'], ['lenght', 'simulation', 'addr', 'run understands,'], ['lenght', 'simulation', 'addr', 'c4'], ['lenght', 'simulation', 'addr', 'simulation control'], ['lenght', 'simulation', ""-h'""], ['lenght', 'simulation', 'addr', 'run hello-world'], ['World""', 'simulation', 'addr', 'AMBER_DUMP_LENGTH define'], ['World""', 'simulation', 'simple test'], ['World""', 'simulation', '/dev/root'], ['World""', 'simulation', 'addr f0000000,'], ['World""', 'simulation', '/sbin/init'], ['World""', 'simulation', 'addr', 'mov r10,'], ['World""', 'simulation', ""type 'run""], ['World""', 'simulation', 'program'], ['World""', 'simulation', 'f0000000'], ['World""', 'simulation', 'addr', 'str r10,'], ['World""', 'simulation', 'addr', 'test pass'], ['World""', 'simulation', 'addr', 'test ethmac-test,'], ['World""', 'simulation', 'addr', 'pass value'], ['World""', 'simulation', 'c8'], ['World""', 'simulation', 'addr', 'run understands,'], ['World""', 'simulation', 'addr', 'c4'], ['World""', 'simulation', 'addr', 'simulation control'], ['World""', 'simulation', ""-h'""], ['World""', 'simulation', 'addr', 'run hello-world'], ['AMBER_DUMP_LENGTH define', 'addr', 'simulation', 'simple test'], ['AMBER_DUMP_LENGTH define', 'addr', 'simulation', '/dev/root'], ['AMBER_DUMP_LENGTH define', 'addr', 'simulation', 'addr f0000000,'], ['AMBER_DUMP_LENGTH define', 'addr', 'simulation', '/sbin/init'], ['AMBER_DUMP_LENGTH define', 'addr', 'mov r10,'], ['AMBER_DUMP_LENGTH define', 'addr', 'simulation', ""type 'run""], ['AMBER_DUMP_LENGTH define', 'addr', 'simulation', 'program'], ['AMBER_DUMP_LENGTH define', 'addr', 'simulation', 'f0000000'], ['AMBER_DUMP_LENGTH define', 'addr', 'str r10,'], ['AMBER_DUMP_LENGTH define', 'addr', 'test pass'], ['AMBER_DUMP_LENGTH define', 'addr', 'test ethmac-test,'], ['AMBER_DUMP_LENGTH define', 'addr', 'pass value'], ['AMBER_DUMP_LENGTH define', 'addr', 'simulation', 'c8'], ['AMBER_DUMP_LENGTH define', 'addr', 'run understands,'], ['AMBER_DUMP_LENGTH define', 'addr', 'c4'], ['AMBER_DUMP_LENGTH define', 'addr', 'simulation control'], ['AMBER_DUMP_LENGTH define', 'addr', 'simulation', ""-h'""], ['AMBER_DUMP_LENGTH define', 'addr', 'run hello-world'], ['simple test', 'simulation', '/dev/root'], ['simple test', 'simulation', 'addr f0000000,'], ['simple test', 'simulation', '/sbin/init'], ['simple test', 'simulation', 'addr', 'mov r10,'], ['simple test', 'simulation', ""type 'run""], ['simple test', 'simulation', 'program'], ['simple test', 'simulation', 'f0000000'], ['simple test', 'simulation', 'addr', 'str r10,'], ['simple test', 'simulation', 'addr', 'test pass'], ['simple test', 'simulation', 'addr', 'test ethmac-test,'], ['simple test', 'simulation', 'addr', 'pass value'], ['simple test', 'simulation', 'c8'], ['simple test', 'simulation', 'addr', 'run understands,'], ['simple test', 'simulation', 'addr', 'c4'], ['simple test', 'simulation', 'addr', 'simulation control'], ['simple test', 'simulation', ""-h'""], ['simple test', 'simulation', 'addr', 'run hello-world'], ['/dev/root', 'simulation', 'addr f0000000,'], ['/dev/root', 'simulation', '/sbin/init'], ['/dev/root', 'simulation', 'addr', 'mov r10,'], ['/dev/root', 'simulation', ""type 'run""], ['/dev/root', 'simulation', 'program'], ['/dev/root', 'simulation', 'f0000000'], ['/dev/root', 'simulation', 'addr', 'str r10,'], ['/dev/root', 'simulation', 'addr', 'test pass'], ['/dev/root', 'simulation', 'addr', 'test ethmac-test,'], ['/dev/root', 'simulation', 'addr', 'pass value'], ['/dev/root', 'simulation', 'c8'], ['/dev/root', 'simulation', 'addr', 'run understands,'], ['/dev/root', 'simulation', 'addr', 'c4'], ['/dev/root', 'simulation', 'addr', 'simulation control'], ['/dev/root', 'simulation', ""-h'""], ['/dev/root', 'simulation', 'addr', 'run hello-world'], ['addr f0000000,', 'simulation', '/sbin/init'], ['addr f0000000,', 'simulation', 'addr', 'mov r10,'], ['addr f0000000,', 'simulation', ""type 'run""], ['addr f0000000,', 'simulation', 'program'], ['addr f0000000,', 'simulation', 'f0000000'], ['addr f0000000,', 'simulation', 'addr', 'str r10,'], ['addr f0000000,', 'simulation', 'addr', 'test pass'], ['addr f0000000,', 'simulation', 'addr', 'test ethmac-test,'], ['addr f0000000,', 'simulation', 'addr', 'pass value'], ['addr f0000000,', 'simulation', 'c8'], ['addr f0000000,', 'simulation', 'addr', 'run understands,'], ['addr f0000000,', 'simulation', 'addr', 'c4'], ['addr f0000000,', 'simulation', 'addr', 'simulation control'], ['addr f0000000,', 'simulation', ""-h'""], ['addr f0000000,', 'simulation', 'addr', 'run hello-world'], ['/sbin/init', 'simulation', 'addr', 'mov r10,'], ['/sbin/init', 'simulation', ""type 'run""], ['/sbin/init', 'simulation', 'program'], ['/sbin/init', 'simulation', 'f0000000'], ['/sbin/init', 'simulation', 'addr', 'str r10,'], ['/sbin/init', 'simulation', 'addr', 'test pass'], ['/sbin/init', 'simulation', 'addr', 'test ethmac-test,'], ['/sbin/init', 'simulation', 'addr', 'pass value'], ['/sbin/init', 'simulation', 'c8'], ['/sbin/init', 'simulation', 'addr', 'run understands,'], ['/sbin/init', 'simulation', 'addr', 'c4'], ['/sbin/init', 'simulation', 'addr', 'simulation control'], ['/sbin/init', 'simulation', ""-h'""], ['/sbin/init', 'simulation', 'addr', 'run hello-world'], ['mov r10,', 'addr', 'simulation', ""type 'run""], ['mov r10,', 'addr', 'simulation', 'program'], ['mov r10,', 'addr', 'simulation', 'f0000000'], ['mov r10,', 'addr', 'str r10,'], ['mov r10,', 'addr', 'test pass'], ['mov r10,', 'addr', 'test ethmac-test,'], ['mov r10,', 'addr', 'pass value'], ['mov r10,', 'addr', 'simulation', 'c8'], ['mov r10,', 'addr', 'run understands,'], ['mov r10,', 'addr', 'c4'], ['mov r10,', 'addr', 'simulation control'], ['mov r10,', 'addr', 'simulation', ""-h'""], ['mov r10,', 'addr', 'run hello-world'], [""type 'run"", 'simulation', 'program'], [""type 'run"", 'simulation', 'f0000000'], [""type 'run"", 'simulation', 'addr', 'str r10,'], [""type 'run"", 'simulation', 'addr', 'test pass'], [""type 'run"", 'simulation', 'addr', 'test ethmac-test,'], [""type 'run"", 'simulation', 'addr', 'pass value'], [""type 'run"", 'simulation', 'c8'], [""type 'run"", 'simulation', 'addr', 'run understands,'], [""type 'run"", 'simulation', 'addr', 'c4'], [""type 'run"", 'simulation', 'addr', 'simulation control'], [""type 'run"", 'simulation', ""-h'""], [""type 'run"", 'simulation', 'addr', 'run hello-world'], ['program', 'simulation', 'f0000000'], ['program', 'simulation', 'addr', 'str r10,'], ['program', 'simulation', 'addr', 'test pass'], ['program', 'simulation', 'addr', 'test ethmac-test,'], ['program', 'simulation', 'addr', 'pass value'], ['program', 'simulation', 'c8'], ['program', 'simulation', 'addr', 'run understands,'], ['program', 'simulation', 'addr', 'c4'], ['program', 'simulation', 'addr', 'simulation control'], ['program', 'simulation', ""-h'""], ['program', 'simulation', 'addr', 'run hello-world'], ['f0000000', 'simulation', 'addr', 'str r10,'], ['f0000000', 'simulation', 'addr', 'test pass'], ['f0000000', 'simulation', 'addr', 'test ethmac-test,'], ['f0000000', 'simulation', 'addr', 'pass value'], ['f0000000', 'simulation', 'c8'], ['f0000000', 'simulation', 'addr', 'run understands,'], ['f0000000', 'simulation', 'addr', 'c4'], ['f0000000', 'simulation', 'addr', 'simulation control'], ['f0000000', 'simulation', ""-h'""], ['f0000000', 'simulation', 'addr', 'run hello-world'], ['str r10,', 'addr', 'test pass'], ['str r10,', 'addr', 'test ethmac-test,'], ['str r10,', 'addr', 'pass value'], ['str r10,', 'addr', 'simulation', 'c8'], ['str r10,', 'addr', 'run understands,'], ['str r10,', 'addr', 'c4'], ['str r10,', 'addr', 'simulation control'], ['str r10,', 'addr', 'simulation', ""-h'""], ['str r10,', 'addr', 'run hello-world'], ['test pass', 'addr', 'test ethmac-test,'], ['test pass', 'addr', 'pass value'], ['test pass', 'addr', 'simulation', 'c8'], ['test pass', 'addr', 'run understands,'], ['test pass', 'addr', 'c4'], ['test pass', 'addr', 'simulation control'], ['test pass', 'addr', 'simulation', ""-h'""], ['test pass', 'addr', 'run hello-world'], ['test ethmac-test,', 'addr', 'pass value'], ['test ethmac-test,', 'addr', 'simulation', 'c8'], ['test ethmac-test,', 'addr', 'run understands,'], ['test ethmac-test,', 'addr', 'c4'], ['test ethmac-test,', 'addr', 'simulation control'], ['test ethmac-test,', 'addr', 'simulation', ""-h'""], ['test ethmac-test,', 'addr', 'run hello-world'], ['pass value', 'addr', 'simulation', 'c8'], ['pass value', 'addr', 'run understands,'], ['pass value', 'addr', 'c4'], ['pass value', 'addr', 'simulation control'], ['pass value', 'addr', 'simulation', ""-h'""], ['pass value', 'addr', 'run hello-world'], ['c8', 'simulation', 'addr', 'run understands,'], ['c8', 'simulation', 'addr', 'c4'], ['c8', 'simulation', 'addr', 'simulation control'], ['c8', 'simulation', ""-h'""], ['c8', 'simulation', 'addr', 'run hello-world'], ['run understands,', 'addr', 'c4'], ['run understands,', 'addr', 'simulation control'], ['run understands,', 'addr', 'simulation', ""-h'""], ['run understands,', 'addr', 'run hello-world'], ['c4', 'addr', 'simulation control'], ['c4', 'addr', 'simulation', ""-h'""], ['c4', 'addr', 'run hello-world'], ['simulation control', 'addr', 'simulation', ""-h'""], ['simulation control', 'addr', 'run hello-world'], [""-h'"", 'simulation', 'addr', 'run hello-world']]"
-"('miss occurs,', 'Set')","[['miss occurs,', 'Set']]"
-"('8.1', '2.2.1', 'unsigned')","[['8.1', 'unsigned', '2.2.1']]"
+"('Al-Eryani',)",[['Al-Eryani']]
+"('cases',)",[['cases']]
+"('efficient', 'calculated', 'iterative', 'fast', 'need', 'implementations', 'loops', 'divisors')","[['efficient', 'calculated', 'divisors', 'implementations', 'iterative', 'fast', 'need'], ['efficient', 'calculated', 'divisors', 'implementations', 'loops'], ['need', 'fast', 'iterative', 'implementations', 'loops']]"
+"('Worth mentioning', 'Million test')","[['Worth mentioning', 'Million test']]"
+"('Conclusion',)",[['Conclusion']]
+"('divided', 'components')","[['divided', 'components']]"
+"('process', 'serially', 'schools', 'taught')","[['serially', 'process', 'schools'], ['serially', 'process', 'taught'], ['schools', 'process', 'taught']]"
+"('QNaN string',)",[['QNaN string']]
+"('supported',)",[['supported']]
+"('necessary', 'normal')","[['necessary', 'normal']]"
+"('0.0100',)",[['0.0100']]
+"('vectors', '14')","[['vectors', '14']]"
+"('VHDL code,', 'detail please')","[['VHDL code,', 'detail please']]"
+"('NA',)",[['NA']]
+"('Interface',)",[['Interface']]
+"('round-up',)",[['round-up']]
+"('pipelining', 'throughput', 'reach')","[['pipelining', 'throughput', 'reach']]"
+"('project', 'dependent', 'width', 'basic-', 'doesnt concern')","[['width', 'dependent', 'project', 'basic-', 'doesnt concern']]"
+"('IEP1C6Q240C6', 'Quartus', 'FPUs', 'Cyclone IEP1C6Q240C6', 'Quartus II', 'Quartus II v.5')","[['FPUs', 'IEP1C6Q240C6', 'Quartus', 'Cyclone IEP1C6Q240C6', 'Quartus II', 'Quartus II v.5']]"
+"('Institute', 'common', 'define')","[['Institute', 'common', 'define']]"
+"('whenever tininess', 'denormalization loss', 'underflow exception', 'exception whenever')","[['whenever tininess', 'underflow exception', 'denormalization loss'], ['whenever tininess', 'underflow exception', 'exception whenever'], ['denormalization loss', 'underflow exception', 'exception whenever']]"
+"('1.4', 'losing')","[['1.4', 'losing']]"
+"('independent', 'chip', 'since')","[['independent', 'chip', 'since']]"
+"('Acrobat PDFMaker', 'Word', 'Acrobat', 'PDFMaker')","[['Word', 'Acrobat', 'Acrobat PDFMaker', 'PDFMaker']]"
+"('Step1', 'get')","[['Step1', 'get']]"
+"('Square-root unit:', 'Square-root')","[['Square-root unit:', 'Square-root']]"
+"('exponent range', 'maximum value', 'range', 'infinity', 'doesnt trigger')","[['exponent range', 'infinity', 'maximum value'], ['exponent range', 'infinity', 'range'], ['exponent range', 'infinity', 'doesnt trigger'], ['maximum value', 'infinity', 'range'], ['maximum value', 'infinity', 'doesnt trigger'], ['range', 'infinity', 'doesnt trigger']]"
+"('Divide',)",[['Divide']]
+"('whole range', '-27', 'exponent placeholder,', 'fraction bit')","[['whole range', '-27', 'exponent placeholder,'], ['whole range', '-27', 'fraction bit'], ['exponent placeholder,', '-27', 'fraction bit']]"
+"('QNaN exception', 'shall')","[['QNaN exception', 'shall']]"
+"('Computer', 'David', 'Scientist', 'Goldberg', 'Know', 'Arithmetic')","[['David', 'Arithmetic', 'Goldberg'], ['David', 'Arithmetic', 'Scientist', 'Computer', 'Know'], ['Goldberg', 'Arithmetic', 'Scientist', 'Computer', 'Know']]"
+"('integer',)",[['integer']]
+"('current', 'modular', 'designed', 'core')","[['modular', 'current', 'designed'], ['modular', 'current', 'core'], ['designed', 'current', 'core']]"
+"('restricted', 'overflow', 'trigger', 'overflow exception')","[['restricted', 'overflow', 'trigger', 'overflow exception']]"
+"('1.1101',)",[['1.1101']]
+"('Top unit:', 'Top', '326')","[['Top unit:', 'Top', '326']]"
+"('Division unit:',)",[['Division unit:']]
+"('hardware area',)",[['hardware area']]
+"('value',)",[['value']]
+"('Altera',)",[['Altera']]
+"('string', 'subject')","[['string', 'subject']]"
+"('Subtract',)",[['Subtract']]
+"('ready_o', 'rmode_i', 'Description')","[['ready_o', 'Description', 'rmode_i']]"
+"('Single precision', 'Single')","[['Single precision', 'Single']]"
+"('Rounded',)",[['Rounded']]
+"('post-normalization unit',)",[['post-normalization unit']]
+"('fracO',)",[['fracO']]
+"('frequency', 'MHz operating frequency', 'operating')","[['frequency', 'MHz operating frequency', 'operating']]"
+"('open', 'presented')","[['open', 'presented']]"
+"('zeros',)",[['zeros']]
+"('11111111',)",[['11111111']]
+"('shown', 'lot')","[['shown', 'lot']]"
+"('shift', 'smaller', 'us', 'gives')","[['shift', 'smaller', 'us', 'gives']]"
+"('tested', 'verified')","[['tested', 'verified']]"
