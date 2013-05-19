@@ -1,0 +1,77 @@
+"('vhdl simulation', 'vhdl simulation model', 'design unit name', 'fast synthesis')","[['design unit name', 'vhdl simulation', 'vhdl simulation model', 'fast synthesis']]"
+"('status', 'recognizes', 'code', 'infinity', 'verilog')","[['recognizes', 'status', 'code', 'infinity'], ['recognizes', 'status', 'code', 'verilog'], ['infinity', 'code', 'verilog']]"
+"('information', 'version')","[['information', 'version']]"
+"('normal', 'default', 'complement', 'complement integer', 'number', ""two's"", 'converted', 'integer number', 'integer')","[['normal', 'number', ""two's"", 'converted'], ['normal', 'number', ""two's"", 'default', 'complement', 'integer', 'complement integer', 'integer number'], ['converted', ""two's"", 'default', 'complement', 'integer', 'complement integer', 'integer number']]"
+"('generic', 'map')","[['generic', 'map']]"
+"('instantiation',)",[['instantiation']]
+"('dw_fp_flt2i datasheet', 'datasheet')","[['dw_fp_flt2i datasheet', 'datasheet']]"
+"('rounding', 'mode')","[['rounding', 'mode']]"
+"('inst_rnd',)",[['inst_rnd']]
+"('download', 'directory')","[['download', 'directory']]"
+"('windows', 'acrobat distiller')","[['windows', 'acrobat distiller']]"
+"('port', 'port map')","[['port', 'port map']]"
+"('vhdl simulation model source', 'rnd')","[['vhdl simulation model source', 'rnd']]"
+"('building', 'block')","[['building', 'block']]"
+"('component instantiation', 'hdl usage', 'hdl usage through')","[['hdl usage', 'component instantiation', 'hdl usage through']]"
+"('usage', 'hdl', 'component')","[['hdl', 'usage', 'component']]"
+"('inf', 'nan')","[['inf', 'nan']]"
+"('using',)",[['using']]
+"('entity',)",[['entity']]
+"('generator', 'area', 'overview', 'datapath', 'library', 'employed')","[['generator', 'area', 'library', 'datapath', 'overview'], ['generator', 'area', 'employed'], ['overview', 'datapath', 'library', 'area', 'employed']]"
+"('better', 'timing', 'datapath generator', 'designware datapath')","[['timing', 'designware datapath', 'better', 'datapath generator']]"
+"('configuration',)",[['configuration']]
+"('documentation', 'ip documentation', 'block ip')","[['ip documentation', 'documentation', 'block ip']]"
+"('comment', 'line', 'preceding', 'uncomment')","[['preceding', 'line', 'comment', 'uncomment']]"
+"('std_logic_arith', 'std_logic_arith package,')","[['std_logic_arith', 'std_logic_arith package,']]"
+"('begin',)",[['begin']]
+"('isize', 'denormal', 'word length')","[['isize', 'denormal', 'word length']]"
+"('positive',)",[['positive']]
+"('related',)",[['related']]
+"('features',)",[['features']]
+"('32', 'z_inst')","[['32', 'z_inst']]"
+"('//', 'instance', '// instance')","[['instance', '//', '// instance']]"
+"('hdl usage through component',)",[['hdl usage through component']]
+"('ieee_compliance',)",[['ieee_compliance']]
+"('word', 'license', 'required', 'feature', 'fast', 'fraction', 'model source code')","[['word', 'required', 'fast', 'feature'], ['word', 'required', 'license', 'fraction'], ['word', 'required', 'model source code'], ['feature', 'fast', 'required', 'license', 'fraction'], ['feature', 'fast', 'required', 'model source code'], ['fraction', 'license', 'required', 'model source code']]"
+"('topics',)",[['topics']]
+"('models',)",[['models']]
+"('standard',)",[['standard']]
+"('ip', 'ip directory', 'star', 'download information:')","[['ip directory', 'star', 'ip', 'download information:']]"
+"('endmodule',)",[['endmodule']]
+"('inst_sig_width',)",[['inst_sig_width']]
+"('integer converter', 'converter')","[['integer converter', 'converter']]"
+"('u1',)",[['u1']]
+"('use', 'inst_isize')","[['use', 'inst_isize']]"
+"('benefits',)",[['benefits']]
+"('7.1', 'framemaker')","[['7.1', 'framemaker']]"
+"('31', 'fast synthesis model', 'license feature')","[['fast synthesis model', '31', 'license feature']]"
+"('conforms', 'accuracy', '754')","[['accuracy', 'conforms', '754']]"
+"('dw_fp_flt2i',)",[['dw_fp_flt2i']]
+"('designware building', 'designware', 'block ip documentation overview', 'block ip documentation', 'ip documentation overview')","[['designware', 'designware building', 'ip documentation overview', 'block ip documentation overview'], ['designware', 'designware building', 'block ip documentation'], ['block ip documentation overview', 'ip documentation overview', 'designware building', 'block ip documentation']]"
+"('source', '512')","[['source', '512']]"
+"('sig_width',)",[['sig_width']]
+"('module',)",[['module']]
+"('implementation', 'direction', 'values')","[['direction', 'implementation', 'values']]"
+"('distiller', 'acrobat', '7.0.5')","[['acrobat', 'distiller', '7.0.5']]"
+"('architecture',)",[['architecture']]
+"('following',)",[['following']]
+"('end',)",[['end']]
+"('output', 'biased', 'exponent')","[['output', 'biased', 'exponent']]"
+"('ieee single,', 'description', 'name', 'format', 'bits', 'precision', '253', 'custom', 'pin name', 'pin', 'double', 'input', 'ieee', 'parameterizable')","[['ieee single,', 'ieee', 'custom', 'format', 'description'], ['ieee single,', 'ieee', 'custom', 'precision'], ['ieee single,', 'ieee', 'custom', 'format', 'bits', 'input', '253'], ['ieee single,', 'ieee', 'custom', 'format', 'bits', 'input', 'name', 'pin name'], ['ieee single,', 'ieee', 'custom', 'format', 'bits', 'input', 'name', 'pin'], ['ieee single,', 'ieee', 'custom', 'format', 'parameterizable', 'double'], ['description', 'format', 'custom', 'precision'], ['description', 'format', 'bits', 'input', '253'], ['description', 'format', 'bits', 'input', 'name', 'pin name'], ['description', 'format', 'bits', 'input', 'name', 'pin'], ['description', 'format', 'parameterizable', 'double'], ['precision', 'custom', 'format', 'bits', 'input', '253'], ['precision', 'custom', 'format', 'bits', 'input', 'name', 'pin name'], ['precision', 'custom', 'format', 'bits', 'input', 'name', 'pin'], ['precision', 'custom', 'format', 'parameterizable', 'double'], ['253', 'input', 'name', 'pin name'], ['253', 'input', 'name', 'pin'], ['253', 'input', 'bits', 'format', 'parameterizable', 'double'], ['pin name', 'name', 'pin'], ['pin name', 'name', 'input', 'bits', 'format', 'parameterizable', 'double'], ['pin', 'name', 'input', 'bits', 'format', 'parameterizable', 'double']]"
+"('parameter inst_ieee_compliance',)",[['parameter inst_ieee_compliance']]
+"('status_inst',)",[['status_inst']]
+"('design unit', 'synthesis model', 'simulation', 'length', 'design', 'unit')","[['design unit', 'simulation', 'length', 'synthesis model'], ['design unit', 'simulation', 'design', 'unit'], ['synthesis model', 'length', 'simulation', 'design', 'unit']]"
+"('package', 'types', 'numeric', '23')","[['package', 'numeric', '23', 'types']]"
+"('translate_on', 'pragma')","[['translate_on', 'pragma']]"
+"('xml',)",[['xml']]
+"('inst_a',)",[['inst_a']]
+"('translate_off',)",[['translate_off']]
+"('table1-6function', 'example', 'implementations', 'table1-5function')","[['table1-6function', 'example', 'implementations'], ['table1-6function', 'example', 'table1-5function'], ['implementations', 'example', 'table1-5function']]"
+"('table9',)",[['table9']]
+"('verilog simulation model source', 'verilog simulation model', 'field', 'verilog simulation', 'model', 'model source', 'synthesis')","[['verilog simulation model source', 'verilog simulation', 'verilog simulation model', 'model', 'synthesis', 'field'], ['verilog simulation model source', 'verilog simulation', 'verilog simulation model', 'model', 'model source'], ['field', 'synthesis', 'model', 'model source']]"
+"('fp', 'function', 'vhdl', 'rtl', 'zero', 'exp_width')","[['rtl', 'vhdl', 'function', 'zero'], ['rtl', 'vhdl', 'fp', 'exp_width'], ['zero', 'function', 'vhdl', 'fp', 'exp_width']]"
+"('dw_fp_flt2i_inst',)",[['dw_fp_flt2i_inst']]
+"('single', 'either')","[['single', 'either']]"
+"('inst',)",[['inst']]
+"('inputs', 'flags')","[['inputs', 'flags']]"
+"('width', 'inst_exp_width', 'parameter')","[['width', 'parameter', 'inst_exp_width']]"

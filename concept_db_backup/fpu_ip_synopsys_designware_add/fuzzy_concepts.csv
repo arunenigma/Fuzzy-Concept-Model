@@ -1,0 +1,83 @@
+"('field', 'verilog simulation', 'synthesis')","[['field', 'synthesis', 'verilog simulation']]"
+"('fractional part', 'library', 'fractional')","[['fractional part', 'fractional', 'library']]"
+"('inst_rnd',)",[['inst_rnd']]
+"('information', 'version')","[['information', 'version']]"
+"('direction', 'name', 'pin', 'implementation', 'verilog simulation model', 'single', 'synthesis model', 'two', 'pin name', 'values', 'either', 'license feature', 'model', 'bits')","[['direction', 'bits', 'implementation', 'name', 'pin'], ['direction', 'bits', 'implementation', 'name', 'model', 'synthesis model', 'verilog simulation model'], ['direction', 'bits', 'implementation', 'name', 'values', 'single', 'two'], ['direction', 'bits', 'implementation', 'name', 'model', 'pin name'], ['direction', 'bits', 'implementation', 'name', 'values', 'either'], ['direction', 'bits', 'implementation', 'name', 'model', 'license feature'], ['pin', 'name', 'model', 'synthesis model', 'verilog simulation model'], ['pin', 'name', 'values', 'single', 'two'], ['pin', 'name', 'model', 'pin name'], ['pin', 'name', 'values', 'either'], ['pin', 'name', 'model', 'license feature'], ['verilog simulation model', 'synthesis model', 'model', 'name', 'values', 'single', 'two'], ['verilog simulation model', 'synthesis model', 'model', 'pin name'], ['verilog simulation model', 'synthesis model', 'model', 'name', 'values', 'either'], ['verilog simulation model', 'synthesis model', 'model', 'license feature'], ['two', 'single', 'values', 'name', 'model', 'pin name'], ['two', 'single', 'values', 'either'], ['two', 'single', 'values', 'name', 'model', 'license feature'], ['pin name', 'model', 'name', 'values', 'either'], ['pin name', 'model', 'license feature'], ['either', 'values', 'name', 'model', 'license feature']]"
+"('std_logic_arith', 'denormals.', 'designware')","[['std_logic_arith', 'denormals.', 'designware']]"
+"('use',)",[['use']]
+"('models',)",[['models']]
+"('rounding', 'mode')","[['rounding', 'mode']]"
+"('fully', 'generated', 'including')","[['fully', 'generated', 'including']]"
+"('employed', 'numeric', 'area')","[['employed', 'area', 'numeric']]"
+"('biased', 'exponent', 'numbers', 'output', 'data', 'port')","[['exponent', 'biased', 'numbers', 'output', 'data'], ['exponent', 'biased', 'numbers', 'output', 'port'], ['data', 'output', 'port']]"
+"('windows', 'acrobat distiller')","[['windows', 'acrobat distiller']]"
+"('ieee single,', 'ieee')","[['ieee single,', 'ieee']]"
+"('generic',)",[['generic']]
+"('using', 'generator', 'package')","[['using', 'generator', 'package']]"
+"('compatible', 'available', 'zeros', 'controls')","[['compatible', 'controls', 'zeros', 'available']]"
+"('number',)",[['number']]
+"('integer',)",[['integer']]
+"('entity',)",[['entity']]
+"('sig_width',)",[['sig_width']]
+"('configuration',)",[['configuration']]
+"('31', 'exponents')","[['31', 'exponents']]"
+"('model source', 'required', 'license')","[['model source', 'required', 'license']]"
+"('double', 'format', 'produce', 'adds', 'parameterizable')","[['double', 'adds', 'format', 'parameterizable', 'produce']]"
+"('compatibility',)",[['compatibility']]
+"('map', 'port map')","[['map', 'port map']]"
+"('building', 'block ip documentation overview', 'block ip documentation', 'block', 'ip documentation overview')","[['building', 'block', 'block ip documentation overview'], ['building', 'block', 'block ip documentation'], ['building', 'block', 'ip documentation overview'], ['block ip documentation overview', 'block', 'block ip documentation'], ['block ip documentation overview', 'block', 'ip documentation overview'], ['block ip documentation', 'block', 'ip documentation overview']]"
+"('related',)",[['related']]
+"('features',)",[['features']]
+"('better', 'therefore', 'types', 'operates')","[['types', 'therefore', 'better', 'operates']]"
+"('range', 'part')","[['range', 'part']]"
+"('sum', 'precision', 'custom')","[['sum', 'precision', 'custom']]"
+"('//', 'instance', '// instance')","[['//', 'instance', '// instance']]"
+"('function', 'rtl')","[['function', 'rtl']]"
+"('infinities', 'work', 'functionality')","[['infinities', 'functionality', 'work']]"
+"('+ b', 'word length', 'rnd')","[['+ b', 'word length', 'rnd']]"
+"('source', 'code', '253', 'simulation', 'source code')","[['253', 'simulation', 'source', 'code', 'source code']]"
+"('topics',)",[['topics']]
+"('positive', '23')","[['positive', '23']]"
+"('adder',)",[['adder']]
+"('ip', 'ip directory', 'star', 'download information:')","[['ip', 'star', 'ip directory'], ['ip', 'star', 'download information:'], ['ip directory', 'star', 'download information:']]"
+"('endmodule',)",[['endmodule']]
+"('inst_sig_width',)",[['inst_sig_width']]
+"('exp_width',)",[['exp_width']]
+"('designware building', 'documentation', 'ip documentation', 'block ip')","[['documentation', 'designware building', 'ip documentation'], ['documentation', 'designware building', 'block ip'], ['ip documentation', 'designware building', 'block ip']]"
+"('translate_on',)",[['translate_on']]
+"('timing', 'standard')","[['timing', 'standard']]"
+"('design', 'design unit name', 'unit', 'design unit')","[['design', 'unit', 'design unit name', 'design unit']]"
+"('7.1', 'framemaker')","[['7.1', 'framemaker']]"
+"('dw_fp_add_inst',)",[['dw_fp_add_inst']]
+"('comment', 'preceding', 'width', 'uncomment', 'line', 'parameter')","[['preceding', 'line', 'comment', 'parameter', 'width'], ['preceding', 'line', 'comment', 'uncomment'], ['width', 'parameter', 'comment', 'uncomment']]"
+"('std_logic_arith package,', 'ieee_compliance parameter', 'datapath', 'overview')","[['ieee_compliance parameter', 'std_logic_arith package,', 'datapath', 'overview']]"
+"('instantiation', 'hdl', 'hdl usage through')","[['instantiation', 'hdl', 'hdl usage through']]"
+"('datasheet', 'dw_fp_add', 'dw_fp_add datasheet')","[['datasheet', 'dw_fp_add datasheet', 'dw_fp_add']]"
+"('benefits',)",[['benefits']]
+"('inst_exp_width',)",[['inst_exp_width']]
+"('status', 'flags', 'word', 'fraction')","[['flags', 'status', 'fraction', 'word']]"
+"('implementations',)",[['implementations']]
+"('status_inst',)",[['status_inst']]
+"('distiller', 'acrobat', '7.0.5')","[['distiller', 'acrobat', '7.0.5']]"
+"('download', 'directory')","[['download', 'directory']]"
+"('architecture',)",[['architecture']]
+"('vhdl', 'hdl usage through component', 'component', 'dw_add_fp', 'component instantiation', 'hdl usage')","[['vhdl', 'component', 'component instantiation', 'hdl usage through component'], ['vhdl', 'component', 'dw_add_fp'], ['vhdl', 'component', 'component instantiation', 'hdl usage'], ['hdl usage through component', 'component instantiation', 'component', 'dw_add_fp'], ['hdl usage through component', 'component instantiation', 'hdl usage'], ['dw_add_fp', 'component', 'component instantiation', 'hdl usage']]"
+"('end',)",[['end']]
+"('compliant', 'datapath generator', 'designware datapath')","[['datapath generator', 'compliant', 'designware datapath']]"
+"('previously', 'set', 'module')","[['previously', 'module', 'set']]"
+"('parameter ieee_compliance',)",[['parameter ieee_compliance']]
+"('vhdl simulation', 'vhdl simulation model', 'simulation model')","[['vhdl simulation model', 'vhdl simulation', 'simulation model']]"
+"('translate_off', 'pragma')","[['translate_off', 'pragma']]"
+"('inst_b', 'z_inst', 'ieee_compliance')","[['z_inst', 'inst_b', 'ieee_compliance']]"
+"('input', 'length', 'feature')","[['length', 'input', 'feature']]"
+"('xml',)",[['xml']]
+"('inst_a',)",[['inst_a']]
+"('description',)",[['description']]
+"('usage', 'verilog')","[['usage', 'verilog']]"
+"('nans.',)",[['nans.']]
+"('u1',)",[['u1']]
+"('754',)",[['754']]
+"('considered', 'backward')","[['considered', 'backward']]"
+"('following',)",[['following']]
+"('begin',)",[['begin']]
+"('inst',)",[['inst']]

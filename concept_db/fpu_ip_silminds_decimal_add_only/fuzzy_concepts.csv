@@ -1,0 +1,48 @@
+"('vhdl',)",[['vhdl']]
+"('ip core product', 'ip core product data', 'core product data sheet')","[['ip core product data', 'ip core product', 'core product data sheet']]"
+"('detailed', 'provided', 'enable', 'parameters', 'generic', 'number', 'table', 'found', 'automatic', '90')","[['enable', 'parameters', 'detailed', 'number', 'generic'], ['enable', 'parameters', 'provided', 'table'], ['enable', 'parameters', 'detailed', 'found'], ['enable', 'parameters', 'detailed', 'automatic'], ['enable', 'parameters', 'detailed', 'number', '90'], ['generic', 'number', 'detailed', 'parameters', 'provided', 'table'], ['generic', 'number', 'detailed', 'found'], ['generic', 'number', 'detailed', 'automatic'], ['generic', 'number', '90'], ['table', 'provided', 'parameters', 'detailed', 'found'], ['table', 'provided', 'parameters', 'detailed', 'automatic'], ['table', 'provided', 'parameters', 'detailed', 'number', '90'], ['found', 'detailed', 'automatic'], ['found', 'detailed', 'number', '90'], ['automatic', 'detailed', 'number', '90']]"
+"('business', 'constraint', 'efficient', 'cover', 'deliverable', 'generation')","[['business', 'deliverable', 'constraint'], ['business', 'deliverable', 'efficient'], ['business', 'deliverable', 'cover'], ['business', 'deliverable', 'generation'], ['constraint', 'deliverable', 'efficient'], ['constraint', 'deliverable', 'cover'], ['constraint', 'deliverable', 'generation'], ['efficient', 'deliverable', 'cover'], ['efficient', 'deliverable', 'generation'], ['cover', 'deliverable', 'generation']]"
+"('key features', 'key')","[['key features', 'key']]"
+"('driven', 'depends', 'vectors', 'could')","[['driven', 'depends', 'could', 'vectors']]"
+"('core', 'decimal', 'support', 'implementation support')","[['decimal', 'core', 'support', 'implementation support']]"
+"('encrypted', 'text', 'netlist', 'plain')","[['text', 'plain', 'encrypted', 'netlist']]"
+"('45.1', '0.74')","[['45.1', '0.74']]"
+"('dfp adder units decadd64/128', 'dfp adder units')","[['dfp adder units decadd64/128', 'dfp adder units']]"
+"('test bench', 'environments', 'bench')","[['environments', 'test bench', 'bench']]"
+"('model', 'configurations', 'tool', 'negotiated', 'innovative')","[['model', 'configurations', 'tool'], ['model', 'configurations', 'negotiated'], ['model', 'configurations', 'innovative'], ['tool', 'configurations', 'negotiated'], ['tool', 'configurations', 'innovative'], ['negotiated', 'configurations', 'innovative']]"
+"('www.silminds.com',)",[['www.silminds.com']]
+"('vhdl source code', 'vhdl source')","[['vhdl source code', 'vhdl source']]"
+"('specification', 'hdl', 'core specification')","[['specification', 'core specification', 'hdl']]"
+"('decadd64-pipe4', '2.03', 'm2')","[['decadd64-pipe4', 'm2', '2.03']]"
+"('code', 'nm', 'source code:', 'documentation', 'sample', 'source')","[['code', 'documentation', 'nm'], ['code', 'documentation', 'source', 'source code:'], ['code', 'documentation', 'sample'], ['nm', 'documentation', 'source', 'source code:'], ['nm', 'documentation', 'sample'], ['source code:', 'source', 'documentation', 'sample']]"
+"('compact', 'rtl', 'comprise', 'deployment')","[['compact', 'deployment', 'rtl'], ['compact', 'deployment', 'comprise'], ['rtl', 'deployment', 'comprise']]"
+"('made', 'benches', 'reliable', 'parameterized', 'combined', 'easy', 'flexible', 'architectures', 'size')","[['made', 'flexible', 'reliable', 'benches', 'architectures', 'parameterized'], ['made', 'flexible', 'combined'], ['made', 'flexible', 'easy'], ['made', 'flexible', 'size'], ['parameterized', 'architectures', 'benches', 'reliable', 'flexible', 'combined'], ['parameterized', 'architectures', 'benches', 'reliable', 'flexible', 'easy'], ['parameterized', 'architectures', 'benches', 'reliable', 'flexible', 'size'], ['combined', 'flexible', 'easy'], ['combined', 'flexible', 'size'], ['easy', 'flexible', 'size']]"
+"('on-chip', 'dfpa on-chip')","[['on-chip', 'dfpa on-chip']]"
+"('full test',)",[['full test']]
+"('features',)",[['features']]
+"('applications',)",[['applications']]
+"('units',)",[['units']]
+"('design',)",[['design']]
+"('implementation', 'ip core implementation', 'core implementation support', 'core implementation')","[['implementation', 'ip core implementation', 'core implementation', 'core implementation support']]"
+"('verilog test', 'verilog test bench')","[['verilog test', 'verilog test bench']]"
+"('16.4', '2.55')","[['16.4', '2.55']]"
+"('adder units decadd64/128', 'adder units', 'decadd64/128')","[['adder units', 'adder units decadd64/128', 'decadd64/128']]"
+"('core product', 'data sheet', 'core product data', 'ip core')","[['core product', 'ip core', 'data sheet'], ['core product', 'ip core', 'core product data'], ['data sheet', 'ip core', 'core product data']]"
+"('optimized', 'speed', 'either')","[['optimized', 'speed', 'either']]"
+"('following', 'using', 'valid')","[['following', 'using', 'valid']]"
+"('processors', 'next')","[['processors', 'next']]"
+"('compact core', 'coprocessor', 'core size,', 'comprise arbitrary', 'ip')","[['compact core', 'coprocessor', 'comprise arbitrary'], ['compact core', 'coprocessor', 'core size,', 'ip'], ['comprise arbitrary', 'coprocessor', 'core size,', 'ip']]"
+"('delay',)",[['delay']]
+"('test vector', 'business model', 'ieee', 'generation tool', 'agreement', 'vector generation', 'test', 'conformance')","[['business model', 'test', 'test vector', 'generation tool', 'ieee'], ['business model', 'test', 'conformance', 'agreement'], ['business model', 'test', 'test vector', 'vector generation'], ['ieee', 'generation tool', 'test vector', 'test', 'conformance', 'agreement'], ['ieee', 'generation tool', 'test vector', 'vector generation'], ['agreement', 'conformance', 'test', 'test vector', 'vector generation']]"
+"('56.7',)",[['56.7']]
+"('pipelining', 'pipeline', 'stages', 'performance')","[['pipelining', 'performance', 'pipeline'], ['pipelining', 'performance', 'stages'], ['pipeline', 'performance', 'stages']]"
+"('boards', 'accelerator', 'dfpa accelerator', 'dfpa')","[['boards', 'accelerator', 'dfpa accelerator', 'dfpa']]"
+"('scripts', 'synthesis')","[['scripts', 'synthesis']]"
+"('suites',)",[['suites']]
+"('fo4', 'fpga', 'versions', 'area', 'decadd64-comb', 'code versions,')","[['versions', 'area', 'fo4', 'decadd64-comb'], ['versions', 'area', 'fpga', 'code versions,'], ['decadd64-comb', 'fo4', 'area', 'fpga', 'code versions,']]"
+"('items', 'cases', 'verified', 'type', 'licensing')","[['items', 'cases', 'verified'], ['items', 'cases', 'type'], ['items', 'cases', 'licensing'], ['verified', 'cases', 'type'], ['verified', 'cases', 'licensing'], ['type', 'cases', 'licensing']]"
+"('core source', 'tsmc')","[['core source', 'tsmc']]"
+"('decadd128-comb', 'nand2')","[['decadd128-comb', 'nand2']]"
+"('product verification', 'product', 'verification', 'ip deliverable')","[['product verification', 'ip deliverable', 'product', 'verification']]"
+"('source code', 'verilog source', 'verilog', 'verilog source code')","[['verilog source', 'source code', 'verilog', 'verilog source code']]"
+"('summarizes', 'technical', 'pipelined', 'combinational', 'synthesized')","[['summarizes', 'technical', 'combinational'], ['summarizes', 'technical', 'pipelined', 'synthesized'], ['combinational', 'technical', 'pipelined', 'synthesized']]"

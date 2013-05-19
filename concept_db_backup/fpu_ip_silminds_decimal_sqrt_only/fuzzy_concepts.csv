@@ -1,0 +1,50 @@
+"('754-2008', 'ieee', 'significand')","[['754-2008', 'ieee', 'significand']]"
+"('3.55', 'nand2', '62.22')","[['3.55', '62.22', 'nand2']]"
+"('square root units nrdecdiv64/128', 'square root units')","[['square root units nrdecdiv64/128', 'square root units']]"
+"('rsa siq',)",[['rsa siq']]
+"('exponent final', 'exponent final quotient')","[['exponent final', 'exponent final quotient']]"
+"('intermediate result', 'intermediate result exception flags', 'intermediate result exception')","[['intermediate result', 'intermediate result exception', 'intermediate result exception flags']]"
+"('dfp newtonraphson', 'newtonraphson square')","[['dfp newtonraphson', 'newtonraphson square']]"
+"('control', 'master control', 'master')","[['control', 'master', 'master control']]"
+"('78.11', '15')","[['78.11', '15']]"
+"('result exception flags final', 'result exception flags', 'result exception')","[['result exception flags final', 'result exception flags', 'result exception']]"
+"('operand', 'bit', 'produce', 'sign')","[['bit', 'sign', 'operand', 'produce']]"
+"('units', 'architectures', 'parameterized', 'arbitrary')","[['units', 'parameterized', 'architectures', 'arbitrary']]"
+"('newtonraphson square root units', 'newtonraphson square root')","[['newtonraphson square root units', 'newtonraphson square root']]"
+"('underflow flag',)",[['underflow flag']]
+"('summarizes', 'detailed', 'designs', 'synthesized', 'technical', 'combinational', 'found', '90', 'table')","[['designs', 'summarizes', 'combinational', 'synthesized'], ['designs', 'summarizes', 'technical', '90', 'detailed', 'found'], ['designs', 'summarizes', 'technical', '90', 'detailed', 'table'], ['synthesized', 'combinational', 'summarizes', 'technical', '90', 'detailed', 'found'], ['synthesized', 'combinational', 'summarizes', 'technical', '90', 'detailed', 'table'], ['found', 'detailed', 'table']]"
+"('normalization', 'significand normalization')","[['normalization', 'significand normalization']]"
+"('invalid flag',)",[['invalid flag']]
+"('functions', 'unit')","[['functions', 'unit']]"
+"('fo4', 'nr', 'nrdecsqrt64-comb')","[['fo4', 'nr', 'nrdecsqrt64-comb']]"
+"('features',)",[['features']]
+"('decodes', 'format')","[['decodes', 'format']]"
+"('applications',)",[['applications']]
+"('compact', 'rtl', 'nrdecsqrt64/128', 'comprise', 'deployment')","[['compact', 'deployment', 'rtl'], ['compact', 'deployment', 'nrdecsqrt64/128'], ['compact', 'deployment', 'comprise'], ['rtl', 'deployment', 'nrdecsqrt64/128'], ['rtl', 'deployment', 'comprise'], ['nrdecsqrt64/128', 'deployment', 'comprise']]"
+"('rounder',)",[['rounder']]
+"('compact core', 'coprocessor', 'core size,', 'comprise arbitrary')","[['compact core', 'coprocessor', 'core size,'], ['compact core', 'coprocessor', 'comprise arbitrary'], ['core size,', 'coprocessor', 'comprise arbitrary']]"
+"('fixed', 'divider')","[['fixed', 'divider']]"
+"('18',)",[['18']]
+"('design',)",[['design']]
+"('deliverable', 'ip deliverable')","[['deliverable', 'ip deliverable']]"
+"('key features', 'key')","[['key features', 'key']]"
+"('cycles',)",[['cycles']]
+"('block diagram',)",[['block diagram']]
+"('m2', '2.80', 'area')","[['m2', 'area', '2.80']]"
+"('qtz rsa', 'iqa qtz rsa', 'iqa qtz')","[['qtz rsa', 'iqa qtz rsa', 'iqa qtz']]"
+"('root designs,', 'dfp square root designs,', 'decimal interchange', 'dfp square root', 'square root designs,', 'nrdecsqrt128 ip core')","[['dfp square root designs,', 'dfp square root', 'root designs,', 'nrdecsqrt128 ip core', 'decimal interchange'], ['dfp square root designs,', 'dfp square root', 'root designs,', 'square root designs,'], ['decimal interchange', 'nrdecsqrt128 ip core', 'root designs,', 'square root designs,']]"
+"('detection', 'input', 'input detection', 'infinity')","[['detection', 'input', 'input detection', 'infinity']]"
+"('test vector', 'generation tool', 'vector generation')","[['generation tool', 'test vector', 'vector generation']]"
+"('root unit', 'square root', 'square root unit functions', 'square root unit')","[['square root', 'square root unit', 'square root unit functions']]"
+"('sign bit,', 'exponent')","[['sign bit,', 'exponent']]"
+"('overflow flag',)",[['overflow flag']]
+"('interchange format', 'nrdecsqrt128 ip', 'product verification', 'decimal interchange format', 'dfp square')","[['nrdecsqrt128 ip', 'product verification', 'interchange format', 'decimal interchange format'], ['nrdecsqrt128 ip', 'product verification', 'dfp square'], ['decimal interchange format', 'interchange format', 'product verification', 'dfp square']]"
+"('made', 'reliable', 'combined', 'easy', 'flexible', 'size')","[['made', 'flexible', 'combined'], ['made', 'flexible', 'easy'], ['made', 'flexible', 'reliable', 'size'], ['combined', 'flexible', 'easy'], ['combined', 'flexible', 'reliable', 'size'], ['easy', 'flexible', 'reliable', 'size']]"
+"('sample', 'performance', 'data', 'nm', 'tsmc')","[['sample', 'performance', 'data'], ['sample', 'performance', 'nm', 'tsmc'], ['data', 'performance', 'nm', 'tsmc']]"
+"('configurations',)",[['configurations']]
+"('right', 'shifter')","[['right', 'shifter']]"
+"('dfp newtonraphson square root', 'dfp newtonraphson square')","[['dfp newtonraphson square root', 'dfp newtonraphson square']]"
+"('delay', 'cycle delay', 'cycle')","[['delay', 'cycle', 'cycle delay']]"
+"('exp result',)",[['exp result']]
+"('siq iqa qtz rsa', 'siq iqa', 'siq iqa qtz')","[['siq iqa qtz rsa', 'siq iqa qtz', 'siq iqa']]"
+"('output formulation', 'formulation')","[['output formulation', 'formulation']]"

@@ -1,0 +1,75 @@
+"('fp load/store,',)","[['fp load/store,']]"
+"('result',)",[['result']]
+"('qne bit',)",[['qne bit']]
+"('division', 'fdivs', 'fstod', 'fstod fdtos', 'latency')","[['division', 'latency', 'fstod fdtos', 'fdivs'], ['division', 'latency', 'fstod fdtos', 'fstod'], ['fdivs', 'fstod fdtos', 'fstod']]"
+"('sp', 'nv')","[['sp', 'nv']]"
+"('leon integer', 'deferred-trap queue')","[['leon integer', 'deferred-trap queue']]"
+"('grfpc lite interface',)",[['grfpc lite interface']]
+"('conversion', 'cc', 'fsqrtd', 'fabss', '65', 'formats', 'integer')","[['fsqrtd', 'integer', 'conversion', 'cc', 'fabss'], ['fsqrtd', 'integer', 'conversion', '65'], ['fsqrtd', 'integer', 'conversion', 'formats'], ['fabss', 'cc', 'conversion', '65'], ['fabss', 'cc', 'conversion', 'formats'], ['65', 'conversion', 'formats']]"
+"('addition', 'sp dp dp', 'dp dp')","[['sp dp dp', 'addition', 'dp dp']]"
+"('core configuration',)",[['core configuration']]
+"('also', 'results', 'special')","[['results', 'also', 'special']]"
+"('status information', 'fpu register file')","[['status information', 'fpu register file']]"
+"('supported',)",[['supported']]
+"('absolute value', 'round-to-zero')","[['absolute value', 'round-to-zero']]"
+"('exceptions', 'error condition', 'see section', 'sequence error:', 'supervisor software')","[['error condition', 'exceptions', 'supervisor software', 'sequence error:', 'see section']]"
+"('fstoi',)",[['fstoi']]
+"('operation', 'inexact')","[['operation', 'inexact']]"
+"('negate',)",[['negate']]
+"('nx',)",[['nx']]
+"('op1',)",[['op1']]
+"('double', 'handles', 'numbers', 'format')","[['double', 'numbers', 'handles', 'format']]"
+"('invalid operation', 'infinity', 'underflow')","[['infinity', 'invalid operation', 'underflow']]"
+"('fsubd',)",[['fsubd']]
+"('sweden www.aeroflex.com/gaisler',)",[['sweden www.aeroflex.com/gaisler']]
+"('generation', 'division-by-zero', 'uf', 'dz')","[['generation', 'dz', 'division-by-zero', 'uf']]"
+"('functional description',)",[['functional description']]
+"('ab tel',)",[['ab tel']]
+"('aeroflex gaisler ab',)",[['aeroflex gaisler ab']]
+"('fp register', 'fp register file')","[['fp register', 'fp register file']]"
+"('operations', 'move', 'copies', '2.2.3', 'operand', 'sparc v8', 'v8 instruction')","[['copies', 'operand', 'move', '2.2.3'], ['copies', 'operand', 'move', 'operations', 'v8 instruction', 'sparc v8'], ['2.2.3', 'move', 'operations', 'v8 instruction', 'sparc v8']]"
+"('fdivs fdivd',)",[['fdivs fdivd']]
+"('compare', 'fmovs', 'invalid exception')","[['compare', 'fmovs', 'invalid exception']]"
+"('fsr register',)",[['fsr register']]
+"('worst-case', 'worst-case instruction')","[['worst-case', 'worst-case instruction']]"
+"('v8 integer unit', 'grfpu lite control', 'grfpu lite control unit', 'leon3 sparc v8', 'sparc v8 integer')","[['v8 integer unit', 'grfpu lite control unit', 'grfpu lite control'], ['v8 integer unit', 'grfpu lite control unit', 'leon3 sparc v8'], ['v8 integer unit', 'grfpu lite control unit', 'sparc v8 integer'], ['grfpu lite control', 'grfpu lite control unit', 'leon3 sparc v8'], ['grfpu lite control', 'grfpu lite control unit', 'sparc v8 integer'], ['leon3 sparc v8', 'grfpu lite control unit', 'sparc v8 integer']]"
+"('grfpu lite',)",[['grfpu lite']]
+"('value',)",[['value']]
+"('output',)",[['output']]
+"('leon3 processor', 'processor pipeline', '/ ram')","[['processor pipeline', 'leon3 processor', '/ ram']]"
+"('precision float-cc',)",[['precision float-cc']]
+"('bit integer',)",[['bit integer']]
+"('supports', 'arithmetic', 'sparc v8 instruction')","[['supports', 'arithmetic', 'sparc v8 instruction']]"
+"('gaisler ab',)",[['gaisler ab']]
+"('v8 specification', 'sparc v8 specification', 'grfpc lite', 'state register', 'lite control unit', 'leon integer unit', 'grfpu lite floating-point', 'grfpu lite floating-point unit')","[['sparc v8 specification', 'v8 specification', 'state register', 'lite control unit'], ['sparc v8 specification', 'v8 specification', 'state register', 'grfpc lite', 'grfpu lite floating-point', 'grfpu lite floating-point unit', 'leon integer unit'], ['lite control unit', 'state register', 'grfpc lite', 'grfpu lite floating-point', 'grfpu lite floating-point unit', 'leon integer unit']]"
+"('comparison', 'fdivd', 'square-root', 'dp')","[['comparison', 'square-root', 'fdivd', 'dp']]"
+"('int', '57', 'fcmpd')","[['57', 'int', 'fcmpd']]"
+"('timing', 'multiplication', 'floating', 'throughput', 'fstoi fdtoi')","[['timing', 'floating', 'throughput', 'multiplication'], ['timing', 'floating', 'throughput', 'fstoi fdtoi'], ['multiplication', 'throughput', 'fstoi fdtoi']]"
+"('nan', 'signaling', 'invalid', 'point')","[['nan', 'invalid', 'point', 'signaling']]"
+"('aeroflex gaisler',)",[['aeroflex gaisler']]
+"('double-precision register',)",[['double-precision register']]
+"('stdfq instruction', 'instruction code')","[['stdfq instruction', 'instruction code']]"
+"('gaisler ab tel',)",[['gaisler ab tel']]
+"('round-to-zero mode', 'integer conversion', 'nv nv,', 'absolute')","[['integer conversion', 'absolute', 'round-to-zero mode', 'nv nv,']]"
+"('ftt field:',)",[['ftt field:']]
+"('section', 'see')","[['section', 'see']]"
+"('dp sp', 'sp dp sp')","[['dp sp', 'sp dp sp']]"
+"('nvm bit',)",[['nvm bit']]
+"('register file,',)","[['register file,']]"
+"('seu protection', 'instruction restart', 'controller conform', 'bch coding,', 'fpu mode', 'rst holdn', 'fpu register', 'restart function', 'bit error')","[['instruction restart', 'fpu register', 'bch coding,'], ['instruction restart', 'fpu register', 'controller conform', 'fpu mode'], ['instruction restart', 'fpu register', 'controller conform', 'seu protection', 'rst holdn'], ['instruction restart', 'fpu register', 'restart function'], ['instruction restart', 'fpu register', 'bit error'], ['bch coding,', 'fpu register', 'controller conform', 'fpu mode'], ['bch coding,', 'fpu register', 'controller conform', 'seu protection', 'rst holdn'], ['bch coding,', 'fpu register', 'restart function'], ['bch coding,', 'fpu register', 'bit error'], ['fpu mode', 'controller conform', 'seu protection', 'rst holdn'], ['fpu mode', 'controller conform', 'fpu register', 'restart function'], ['fpu mode', 'controller conform', 'fpu register', 'bit error'], ['rst holdn', 'seu protection', 'controller conform', 'fpu register', 'restart function'], ['rst holdn', 'seu protection', 'controller conform', 'fpu register', 'bit error'], ['restart function', 'fpu register', 'bit error']]"
+"('trap model', 'lite interface')","[['trap model', 'lite interface']]"
+"('codes', 'number')","[['codes', 'number']]"
+"('grfpu lite / grfpu-ft',)",[['grfpu lite / grfpu-ft']]
+"('file rfo2', 'register file', 'register file rfo2')","[['file rfo2', 'register file', 'register file rfo2']]"
+"('parity error', 'fpop operation complete', 'fpop operation')","[['fpop operation complete', 'parity error', 'fpop operation']]"
+"('rounded',)",[['rounded']]
+"('implement', 'summarized')","[['implement', 'summarized']]"
+"('generated', 'either', 'quiet')","[['either', 'generated', 'quiet']]"
+"('op2',)",[['op2']]
+"('grfpc lite control', 'grfpc lite control unit')","[['grfpc lite control', 'grfpc lite control unit']]"
+"('ieee standard', 'integer unit', 'v8 integer', 'lite control')","[['integer unit', 'lite control', 'ieee standard', 'v8 integer']]"
+"('fdtoi',)",[['fdtoi']]
+"('fitod', 'instruction', 'nx nv,', 'subtraction')","[['fitod', 'subtraction', 'nx nv,', 'instruction']]"
+"('detects', 'overflow', 'implemented', 'includes')","[['overflow', 'implemented', 'detects', 'includes']]"
+"('faddd', 'sp dp')","[['faddd', 'sp dp']]"
+"('cell count',)",[['cell count']]

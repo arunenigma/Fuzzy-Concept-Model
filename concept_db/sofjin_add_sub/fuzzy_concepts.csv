@@ -1,0 +1,99 @@
+"('added', 'standard')","[['added', 'standard']]"
+"('xml',)",[['xml']]
+"('generation', 'xilinx fpga')","[['generation', 'xilinx fpga']]"
+"('mantissa', 'match', 'alignment', 'alignment stage')","[['match', 'mantissa', 'alignment', 'alignment stage']]"
+"('addition stage', 'normalization stage', 'normalization', 'stage')","[['addition stage', 'normalization', 'normalization stage'], ['addition stage', 'normalization', 'stage'], ['normalization stage', 'normalization', 'stage']]"
+"('detailed', 'documentation', 'user documentation', 'user')","[['detailed', 'documentation', 'user', 'user documentation']]"
+"('table', 'modules', 'signal table:')","[['table', 'modules', 'signal table:']]"
+"('201', 'decides', 'addition', 'mode', 'operation', '361')","[['addition', 'decides', '361', 'operation', 'mode']]"
+"('positive', 'deliverables')","[['positive', 'deliverables']]"
+"('web', 'biased', 'negative', 'exponents', 'field', 'easier')","[['web', 'field', 'exponents', 'negative', 'biased'], ['web', 'field', 'exponents', 'easier'], ['biased', 'negative', 'exponents', 'easier']]"
+"('point addition', '/ subtraction')","[['point addition', '/ subtraction']]"
+"('test', 'benches', 'compared', 'results', 'vectors')","[['benches', 'test', 'results', 'compared'], ['benches', 'test', 'vectors'], ['compared', 'results', 'test', 'vectors']]"
+"('handling', 'beginning')","[['handling', 'beginning']]"
+"('three',)",[['three']]
+"('32', 'description', 'clk')","[['32', 'description', 'clk']]"
+"('first',)",[['first']]
+"('bit', 'sign bit,', 'form', 'significant', 'sign')","[['significant', 'bit', 'form', 'sign bit,', 'sign']]"
+"('without',)",[['without']]
+"('operations', 'use')","[['operations', 'use']]"
+"('virtex5', 'xc5vlx30ff324')","[['virtex5', 'xc5vlx30ff324']]"
+"('102', '2900', '066')","[['102', '2900', '066']]"
+"('latency', 'compliance', '754')","[['compliance', 'latency', '754']]"
+"('real', 'processors', 'optimized', 'important', 'measure', 'integrable', 'speed', 'flexible')","[['important', 'real', 'processors', 'measure'], ['important', 'real', 'processors', 'speed', 'integrable', 'optimized', 'flexible'], ['measure', 'processors', 'speed', 'integrable', 'optimized', 'flexible']]"
+"('barun',)",[['barun']]
+"('figure',)",[['figure']]
+"('microsoft word', 'word', 'microsoft')","[['word', 'microsoft word', 'microsoft']]"
+"('sum', 'slice count')","[['sum', 'slice count']]"
+"('normalization part', 'adder/', 'point adder/', 'addition/subtraction operation', 'adder/ subtracter')","[['normalization part', 'adder/', 'point adder/'], ['normalization part', 'adder/', 'addition/subtraction operation'], ['normalization part', 'adder/', 'adder/ subtracter'], ['point adder/', 'adder/', 'addition/subtraction operation'], ['point adder/', 'adder/', 'adder/ subtracter'], ['addition/subtraction operation', 'adder/', 'adder/ subtracter']]"
+"('mobius tower,', 'fax', 'tel', 'epip', 'sjr ipark,', 'santa', 'softjin')","[['mobius tower,', 'tel', 'fax'], ['mobius tower,', 'tel', 'softjin', 'santa', 'epip'], ['mobius tower,', 'tel', 'sjr ipark,'], ['fax', 'tel', 'softjin', 'santa', 'epip'], ['fax', 'tel', 'sjr ipark,'], ['epip', 'santa', 'softjin', 'tel', 'sjr ipark,']]"
+"('major', 'steps', 'performed', 'multiplier')","[['steps', 'major', 'performed'], ['steps', 'major', 'multiplier'], ['performed', 'major', 'multiplier']]"
+"('exhaustive', 'simulation')","[['exhaustive', 'simulation']]"
+"('entire system', 'mhz', 'input port')","[['entire system', 'mhz', 'input port']]"
+"('bottleneck', 'subtracter')","[['bottleneck', 'subtracter']]"
+"('features',)",[['features']]
+"('dsp processors', 'ieee', 'dsp')","[['dsp processors', 'dsp', 'ieee']]"
+"('used', 'bits')","[['used', 'bits']]"
+"('avoid', 'stages', 'later')","[['stages', 'avoid', 'later']]"
+"('available', '331', 'synchronous', 'system', 'design', 'supports')","[['331', 'system', 'synchronous', 'available', 'design', 'supports']]"
+"('xilinx', 'emulated', 'ccode')","[['xilinx', 'emulated', 'ccode']]"
+"('binary',)",[['binary']]
+"('virtex4', 'xc4vlx15sf363')","[['virtex4', 'xc4vlx15sf363']]"
+"('latency y fully synchronous', 'latency y fully', 'fpga', 'latency y', 'y optimized', 'y supports floating point', 'y fully synchronous', 'y available', 'y compliance', 'y compatible,', 'point addition/subtraction', 'y supports floating', 'y supports', 'y fully')","[['latency y fully synchronous', 'latency y', 'latency y fully'], ['latency y fully synchronous', 'latency y', 'fpga', 'y available', 'y optimized'], ['latency y fully synchronous', 'latency y', 'fpga', 'y fully', 'y fully synchronous'], ['latency y fully synchronous', 'latency y', 'fpga', 'y available', 'y compliance'], ['latency y fully', 'latency y', 'fpga', 'y available', 'y optimized'], ['latency y fully', 'latency y', 'fpga', 'y fully', 'y fully synchronous'], ['latency y fully', 'latency y', 'fpga', 'y available', 'y compliance'], ['y optimized', 'y available', 'fpga', 'y fully', 'y fully synchronous'], ['y optimized', 'y available', 'y compliance'], ['y fully synchronous', 'y fully', 'fpga', 'y available', 'y compliance']]"
+"('suite', 'ca', 'page', 'floor')","[['suite', 'page', 'ca'], ['suite', 'page', 'floor'], ['ca', 'page', 'floor']]"
+"('present', 'swaps', 'additionally')","[['present', 'swaps', 'additionally']]"
+"('input', 'second')","[['input', 'second']]"
+"('port',)",[['port']]
+"('introduction',)",[['introduction']]
+"('stored',)",[['stored']]
+"('x1', 'fraction')","[['x1', 'fraction']]"
+"('implementation', 'comparator stage', 'comparator')","[['implementation', 'comparator', 'comparator stage']]"
+"('large', 'required')","[['large', 'required']]"
+"('sjr', 'white field,', 'bangalore', 'mobius')","[['sjr', 'white field,', 'bangalore'], ['sjr', 'white field,', 'mobius'], ['bangalore', 'white field,', 'mobius']]"
+"('white', 'pvt', '408')","[['white', '408', 'pvt']]"
+"('generally', 'namely', 'part', 'complicated')","[['generally', 'namely', 'complicated', 'part']]"
+"('gordon ave,', 'santa clara,', 'gordon', 'www.softjin.com')","[['gordon ave,', 'gordon', 'santa clara,', 'www.softjin.com']]"
+"('fig',)",[['fig']]
+"('designers', 'helps')","[['designers', 'helps']]"
+"('fields', 'shown')","[['fields', 'shown']]"
+"('blocks',)",[['blocks']]
+"('width', 'data', 'inb', 'data width')","[['data', 'width', 'data width', 'inb']]"
+"('fully', 'single', 'clock', 'wide')","[['fully', 'wide', 'clock', 'single']]"
+"('inputs', 'adjusted', 'subtracted')","[['inputs', 'subtracted', 'adjusted']]"
+"('represented', 'performance', 'representing')","[['represented', 'performance', 'representing']]"
+"('comparison', 'verification')","[['comparison', 'verification']]"
+"('applications', 'useful', 'arithmetic', 'dynamic')","[['useful', 'applications', 'arithmetic'], ['useful', 'applications', 'dynamic'], ['arithmetic', 'applications', 'dynamic']]"
+"('source code', 'code', 'rtl source', 'source', 'generated', 'rtl source code')","[['rtl source', 'code', 'source code', 'rtl source code', 'source'], ['rtl source', 'code', 'generated'], ['source', 'rtl source code', 'source code', 'code', 'generated']]"
+"('fpu', 'figure2')","[['fpu', 'figure2']]"
+"('point numbers:', 'floating point', 'investigated', 'point adder/subtracter', 'point', 'point representation:', 'point number', 'format', 'prototyping', 'perform', 'range', 'subtraction', 'thoroughly', 'floating')","[['point numbers:', 'point', 'floating', 'floating point'], ['point numbers:', 'point', 'floating', 'point representation:'], ['point numbers:', 'point', 'floating', 'format', 'investigated', 'prototyping'], ['point numbers:', 'point', 'floating', 'format', 'perform'], ['point numbers:', 'point', 'floating', 'format', 'range'], ['point numbers:', 'point', 'floating', 'subtraction'], ['point numbers:', 'point', 'floating', 'format', 'thoroughly'], ['floating point', 'floating', 'point representation:'], ['floating point', 'floating', 'format', 'investigated', 'prototyping'], ['floating point', 'floating', 'format', 'perform'], ['floating point', 'floating', 'format', 'range'], ['floating point', 'floating', 'subtraction'], ['floating point', 'floating', 'format', 'thoroughly'], ['point representation:', 'floating', 'format', 'investigated', 'prototyping'], ['point representation:', 'floating', 'format', 'perform'], ['point representation:', 'floating', 'format', 'range'], ['point representation:', 'floating', 'subtraction'], ['point representation:', 'floating', 'format', 'thoroughly'], ['prototyping', 'investigated', 'format', 'perform'], ['prototyping', 'investigated', 'format', 'range'], ['prototyping', 'investigated', 'format', 'floating', 'subtraction'], ['prototyping', 'investigated', 'format', 'thoroughly'], ['perform', 'format', 'range'], ['perform', 'format', 'floating', 'subtraction'], ['perform', 'format', 'thoroughly'], ['range', 'format', 'floating', 'subtraction'], ['range', 'format', 'thoroughly'], ['subtraction', 'floating', 'format', 'thoroughly']]"
+"('x m',)",[['x m']]
+"('dsp processors use',)",[['dsp processors use']]
+"('rapid', 'number')","[['rapid', 'number']]"
+"('output',)",[['output']]
+"('gpl ghostscript', 'gpl', 'ghostscript')","[['gpl', 'gpl ghostscript', 'ghostscript']]"
+"('918041779999', '7731745', 'us', '7731714', '10011', '918041157070')","[['918041779999', '10011', '7731745'], ['918041779999', '10011', 'us'], ['918041779999', '10011', '7731714'], ['918041779999', '10011', '918041157070'], ['7731745', '10011', 'us'], ['7731745', '10011', '7731714'], ['7731745', '10011', '918041157070'], ['us', '10011', '7731714'], ['us', '10011', '918041157070'], ['7731714', '10011', '918041157070']]"
+"('bias',)",[['bias']]
+"('294',)",[['294']]
+"('ipark', 'clara', 'india', 'karnataka', 'usa')","[['ipark', 'usa', 'clara'], ['ipark', 'usa', 'india'], ['ipark', 'usa', 'karnataka'], ['clara', 'usa', 'india'], ['clara', 'usa', 'karnataka'], ['india', 'usa', 'karnataka']]"
+"('overview', 'model', 'numbers')","[['overview', 'numbers', 'model']]"
+"('definition', 'signal definition table', 'signal definition')","[['definition', 'signal definition', 'signal definition table']]"
+"('orsignbit', 'bias m')","[['orsignbit', 'bias m']]"
+"('using',)",[['using']]
+"('8.15', '5.2', 'version')","[['8.15', 'version', '5.2']]"
+"('560', 'technologies', '95051', '1st')","[['560', 'technologies', '95051', '1st']]"
+"('functional', 'functional description:')","[['functional', 'functional description:']]"
+"('signal',)",[['signal']]
+"('entire', 'frequency')","[['entire', 'frequency']]"
+"('representation',)",[['representation']]
+"('general',)",[['general']]
+"('direction', 'ina')","[['direction', 'ina']]"
+"('approaches', 'verified', 'value')","[['approaches', 'value', 'verified']]"
+"('add/sub', 'ip', 'ip performance', 'performance table', 'fpu add/sub', 'ip performance table', 'fpu add/sub ip', 'fpu add/sub ip performance', 'point add/sub')","[['ip performance table', 'ip performance', 'performance table', 'ip', 'add/sub', 'fpu add/sub ip'], ['ip performance table', 'ip performance', 'performance table', 'fpu add/sub', 'fpu add/sub ip performance'], ['ip performance table', 'ip performance', 'performance table', 'ip', 'add/sub', 'point add/sub'], ['fpu add/sub ip', 'add/sub', 'ip', 'performance table', 'fpu add/sub', 'fpu add/sub ip performance'], ['fpu add/sub ip', 'add/sub', 'point add/sub'], ['fpu add/sub ip performance', 'fpu add/sub', 'performance table', 'ip', 'add/sub', 'point add/sub']]"
+"('count', 'fed', 'slice')","[['count', 'fed', 'slice']]"
+"('rtl', 'behavioral model', 'verilog', 'verilog behavioral,', 'behavioral')","[['behavioral model', 'behavioral', 'rtl', 'verilog'], ['behavioral model', 'behavioral', 'rtl', 'verilog behavioral,'], ['verilog', 'rtl', 'verilog behavioral,']]"
+"('ave', 'tower', 'email')","[['ave', 'tower', 'email']]"
+"('compatible', 'families')","[['compatible', 'families']]"
+"('smaller', 'result', 'larger')","[['result', 'smaller', 'larger']]"
+"('following',)",[['following']]
+"('device', 'op')","[['device', 'op']]"
+"('significand', 'signmagnitude form', ""'fraction'"", 'exponent', 'signmagnitude')","[['significand', 'signmagnitude', 'signmagnitude form'], ['significand', 'signmagnitude', 'exponent', ""'fraction'""], ['signmagnitude form', 'signmagnitude', 'exponent', ""'fraction'""]]"

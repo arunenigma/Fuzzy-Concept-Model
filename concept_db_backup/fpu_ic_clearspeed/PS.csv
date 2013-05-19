@@ -1,0 +1,1381 @@
+radiated,except,0.4152310588096995,NA
+sources,decoupled,0.4421000073567692,NA
+typically,tying,0.41180517176983406,NA
+multiple-data,address space,0.40684514127305343,NA
+1.1.3,mono execution unit,0.4121403975295222,NA
+restarted,jtag test specification,0.43516898148056254,NA
+parameters,closely,0.3916003184362046,NA
+clocking,2.7.2,0.4825241620095436,NA
+transactions,threads,0.41865579397267033,NA
+csx700 dram controller,general,0.4162711012199904,NA
+htx_eop,transaction,0.49787028585573617,NA
+depend,ctap config depend,0.37292612942007636,NA
+applied,reset.,0.6920068000303847,NA
+hrss part,interference.,0.4104631512996123,NA
+reset,ratio,0.40550715968236817,NA
+floating,point,0.36205076614844656,NA
+returned,passes,0.39755991232526594,NA
+layout,reside,0.40529771807621934,NA
+items,frequently,0.42053525223296373,NA
+traffic,set,0.4146962915902724,NA
+jitter,may,0.40110011408729535,NA
+ideally,powerful,0.5299784255623268,NA
+resistor,required,0.46960310584005,NA
+power,bus.,0.4214605358165185,NA
+background,operation.,0.4217889179206867,NA
+emissions,except,0.4182322301259271,NA
+various,flow,0.40580307155925854,NA
+input,used.,0.40996246142852244,NA
+hgnt,boot system,0.3872222717239949,NA
+msl,unique position,0.38470423670122345,NA
+variable,features,0.413058316841328,NA
+master,drams.,0.5251616940894339,NA
+scalable,suited,0.570269821645979,NA
+details,traversing,0.4276188703250117,NA
+include analog,ground.,0.3937429500990535,NA
+mono execution,brefclk_n,0.38528791147712854,NA
+threads,thread,0.4211758245100642,NA
+organized,continuous,0.40326232842607446,NA
+brefclk_p,port,0.3849284000816512,NA
+developed,second,0.4580752839379574,NA
+avoid,absolute maximum,0.4141651713751698,NA
+issues,second,0.4971051532109924,NA
+bootstrap sequence,bootstrap,0.4070544197692106,NA
+figure2,pcie subsystem,0.4479579861930132,NA
+table19,inter-processor,0.4270009273089019,NA
+host debug port,1.3,0.3866039492707847,NA
+extracted,traversing,0.4245709729743001,NA
+following,messages,0.4128865703469609,NA
+pecl,register,0.39865912270742176,NA
+parallel termination,require,0.44566466094767343,NA
+express interface,pci express interface,0.31719204255066014,NA
+"reference voltage,",ieee,0.43303513474112443,NA
+signals,width,0.4369324700964046,NA
+semaphores,closely,0.38845001352019404,NA
+exceed,within,0.46002145653916865,NA
+interrupts.,below.,0.3915013113084807,NA
+using,capable,0.513458514208293,NA
+host interface,device,0.420131896537209,NA
+pairs,organized,0.3954847890694482,NA
+1.1.1,overview,0.45817996252139903,NA
+sequential,design,0.42233115817317346,NA
+3.5,3.5,0.0,NA
+dram,ecc,0.39835419086909873,NA
+64,configurable,0.3797688035356553,NA
+hardware.,"slave interface,",0.6241287922616985,NA
+syspll,host,0.42222972931221975,NA
+figure5,figure5,0.18660733019125703,NA
+indicated,accesses,0.39103186490006514,NA
+transferred,assertion,0.4630291281221092,NA
+consumption,traversing,0.41091152378281004,NA
+stream,assertion,0.4449370078646901,NA
+following,synchronous,0.38351981765684373,NA
+pcie specification,reset and/or,0.46723778153470086,NA
+possibility,lock,0.44078356279882897,NA
+interfaces,interfaces,0.0,NA
+includes,plus,0.408740583748599,NA
+hdp protocol,transmit port,0.4170929992181206,NA
+marking,marking,0.18660733019125703,NA
+4.5,4.5,0.0,NA
+1.1.5,input-output,0.18962204827642298,NA
+targets.,match,0.5358908950970237,NA
+transfers,meets,0.4210033204774688,NA
+plus,includes,0.408740583748599,NA
+pins,geographic,0.4208524824474739,NA
+hrxeop signal,issue hardware,0.4574438637551783,NA
+"clock input,",frequently,0.46693106735447976,NA
+stable,maximum,0.4193180444255475,NA
+tied,typically,0.4492575615291139,NA
+hdp,hdp,0.3110122169854284,NA
+ended,swing,0.4580600183547147,NA
+eight,collection,0.4181842462139309,NA
+exceptionally,elements,0.5367524403650664,NA
+main system,bvref,0.3840042229012699,NA
+whether,lines,0.4175918347020009,NA
+devices,straightforward,0.4030029577737753,NA
+2.8,jtag boundary scan,0.42440122623291204,NA
+swing,ended,0.4580600183547147,NA
+drams.,master,0.5251616940894339,NA
+reference clock,hclk,0.37029309180488174,NA
+always,shows,0.4250450460283729,NA
+whole,below.,0.41454324699213807,NA
+controlled.,part,0.5192528628791155,NA
+shifted,continuous,0.44082289781989187,NA
+blocks,bridged,0.417638814443292,NA
+config space,unit,0.42795562233847395,NA
+birq_n pin,birq_n,0.38852755310689413,NA
+counts,large,0.4049045163342058,NA
+connecting,load,0.5201234667511296,NA
+"ccb blocking,",gpio pin,0.43099015609586844,NA
+assembly,handling,0.7587368483347602,NA
+including,checking,0.4785670986588756,NA
+services,monitors,0.3931420076806753,NA
+efficient,operates,0.4274698895586366,NA
+_n,reset,0.3972909805422158,NA
+processor debug,debug,0.6794296364276307,NA
+types,handling,0.3945810071789285,NA
+host debug,debug port,0.4093070449439746,NA
+clk_n,reference,0.41225030549566355,NA
+allows,specification,0.39656219737056797,NA
+whatever frequency,port,0.42614966220589545,NA
+address width,straightforward,0.41340481844406746,NA
+targets,addresses,0.4366941992630029,NA
+3.4.2,3.4.2,0.18660733019125703,NA
+"jtag port,",sstl class,0.41967050568180997,NA
+runt,problems.,0.4108573570254396,NA
+level,providing,0.3992136407831225,NA
+match,targets.,0.5358908950970237,NA
+use,traversing,0.4255627327704612,NA
+3.1,recommended,0.3039860644000682,NA
+revision,revision history,0.2981511389978043,NA
+x1,reset and/or,0.5158908132245611,NA
+whatever,nature,0.40018029716021336,NA
+device use,ieee,0.43303513474112443,NA
+ccbr interface,control.,0.5539803333535848,NA
+movements,operating,0.39417700158270597,NA
+unused,pci express base,0.44620010791279324,NA
+signals,range,0.3956300064784707,NA
+around,implementation,0.45482490600043113,NA
+optimized,designs,0.41163399922882743,NA
+dma,host processor,0.393990160901716,NA
+give,see,0.39911244283817343,NA
+position,virtual,0.447591415629577,NA
+applying,set,0.3969293511454091,NA
+"master interface,",hardware.,0.5427512359765575,NA
+triggered,marked,0.39638432301060184,NA
+jtag test,control.,0.5268654824079242,NA
+"mono data,",port,0.4509967038780948,NA
+ieee1149.1,control.,0.3974723577106632,NA
+fpgas,targets.,0.4364547326492311,NA
+handling,types,0.3945810071789285,NA
+capable,using,0.513458514208293,NA
+clamping,speeds,0.4122708475617413,NA
+application,system performance,0.5593945083429744,NA
+depending,receive,0.421225490737774,NA
+lines,whether,0.4175918347020009,NA
+avci,unique position,0.3819382275874601,NA
+suited,scalable,0.570269821645979,NA
+inputs.,express base,0.5700483931732354,NA
+supply,absolute maximum,0.41758997945324017,NA
+issue,speeds,0.3963055784923933,NA
+means,combination,0.3973903803614879,NA
+processor core,dma,0.37260327201907123,NA
+based,product,0.4179565907767465,NA
+configurations,condition,0.6707270772658612,NA
+functions,negotiating,0.3990458767161798,NA
+cdo,host processor,0.3951193949998539,NA
+2.7.2,clocking,0.4825241620095436,NA
+2.3,2.3,0.18660733019125703,NA
+4.2,pci express interface,0.3181377347438834,NA
+bits,devices,0.41361349300980377,NA
+gpio pin,interference.,0.44203246921536027,NA
+device.,configured,0.6780901294786812,NA
+jtag,bavdd,0.3954201699381812,NA
+corresponding,lock,0.41293649240398406,NA
+dedicated,efficient,0.40945823962163086,NA
+2.7,2.7,0.0,NA
+hif_en_n,host,0.39267594721309007,NA
+pulled,operation,0.4331153652356375,NA
+loads,see,0.39577079348905614,NA
+hrxeop,transaction,0.5069361495265159,NA
+concurrently.,protocol,0.398491639866923,NA
+ibis,nature,0.43309181647032463,NA
+"slave interface,",hardware.,0.6241287922616985,NA
+pio,memory,0.4981842004598829,NA
+performance computing,systems.,0.5978880976602498,NA
+sets,processed,0.3726396065285939,NA
+associated,flexible,0.44501281070535625,NA
+line,drive,0.3889084667901003,NA
+bypassed,lock,0.505378033377421,NA
+program flow,ports,0.3951238193688013,NA
+diagram,configurations,0.6588265805905273,NA
+input clock,passes,0.44184629165624967,NA
+assigned,correct ddr2 design,0.4099719916458751,NA
+pcie config space,presents,0.4306923877379635,NA
+hdk,port,0.38791425529907825,NA
+lm86,kbyte,0.40869070878076985,NA
+checking,including,0.4785670986588756,NA
+cas,ccb.,0.4193243051711333,NA
+operates,efficient,0.4274698895586366,NA
+blocking,put,0.4237937783022942,NA
+"processing solution,",mtap architecture,0.4445811106085553,NA
+occur,bit,0.3876295764187648,NA
+instructions,instructions,0.24880977358834272,NA
+entire,removes,0.4751479391362736,NA
+configurable,csx700 dram controller,0.4146765283603099,NA
+features,features,0.0,NA
+number,advanced,0.39989826252420646,NA
+collection,eight,0.4181842462139309,NA
+x16,device,0.4364401776856348,NA
+registers,split,0.4016352992723235,NA
+termination,vref,0.4098588536923775,NA
+rest,signal,0.4379447929296286,NA
+csx700 die,national instruments,0.42026042117767404,NA
+usual,machine,0.40816435431258447,NA
+boot system,hgnt,0.3872222717239949,NA
+point,csx700 floating point,0.581278856385334,NA
+accesses,errors,0.3941305091639871,NA
+feeding,except,0.4257351584164959,NA
+removed,controlled.,0.43642494327378195,NA
+series,used,0.4294124498347461,NA
+since,common,0.4251115944352603,NA
+compliant,uses,0.4181216136601121,NA
+tap,tap,0.24880977358834272,NA
+operation,pulled,0.4331153652356375,NA
+synchronization,hardware.,0.537709386237887,NA
+frequencies,ctap config depend,0.39223505022682836,NA
+maximum,minimum,0.4629768465256688,NA
+contained,interrupts,0.4413056046842177,NA
+perst_n,host,0.4233437081515313,NA
+vss range,hrxeop signal,0.43255796275870934,NA
+compatibility,disconnecting,0.45249554411389253,NA
+pads,problems.,0.41453461692484006,NA
+booting,communication,0.4490698398733339,NA
+address,high-performance,0.5685758890131508,NA
+paths,well,0.39399614625913865,NA
+ccb.,cas,0.4193243051711333,NA
+syspll.,register,0.39865912270742176,NA
+2.7.3,2.7.3,0.0,NA
+point application,high-performance,0.5320975450034077,NA
+appropriate,temperature,0.4212329235804921,NA
+stopclock,v1.1,0.41022467655639794,NA
+interference.,gpio pin,0.44203246921536027,NA
+data,cannot,0.43123065565009017,NA
+error,reset control,0.4211434258609934,NA
+io power,bus.,0.45197684646276626,NA
+locations,map,0.4351874633950912,NA
+1.5,memory,0.22194562868894577,NA
+clock,processor.,0.48756512054280243,NA
+scaled,fpga,0.46992459683492466,NA
+10,directly,0.4089378954428321,NA
+lvttl i/os,pcie configuration,0.4429437069331142,NA
+"system bus,",multi-device,0.3844914667693955,NA
+table10,table10,0.18660733019125703,NA
+flotherm,adaptor,0.39585156958650897,NA
+bvref pin,bypass,0.4035652826112608,NA
+table14,table14,0.0,NA
+duplex port,correction,0.40342908897968727,NA
+issue hardware,hrxeop signal,0.4574438637551783,NA
+pcie bar,reset and/or,0.4850815855489844,NA
+column,reside,0.4023154405574447,NA
+resistors.,pins.,0.44717400412753466,NA
+supported,configurations,0.4214397687004764,NA
+minimum length,units.,0.42386022188232525,NA
+handled,marked,0.4058859763795856,NA
+correct ddr2 design,addresses,0.4136278182680494,NA
+"achieve this,",ground,0.4721884667922804,NA
+pice,bvref pin,0.3818234438084476,NA
+messages,set,0.41698982949930224,NA
+"transmit slew,",port,0.4553179285167382,NA
+access,continuous,0.6549896397422412,NA
+modify,possible,0.39342033453270864,NA
+set,map,0.42626287091878,NA
+purpose i/o,sram,0.409304764961358,NA
+pcie,pcie,0.369406347521468,NA
+either,identifies,0.406492243737041,NA
+systems.,point coprocessor,0.9573655973046268,NA
+hardware,reside,0.422267385880105,NA
+directly,10,0.4089378954428321,NA
+assertion,bytes,0.5021281319174536,NA
+mtap processor,analog,0.36329176062824386,NA
+processor,multiple-data,0.39589013890772484,NA
+purpose,utility,0.4094911929044452,NA
+ddr2,on-chip,0.40836992381399223,NA
+decoupled,hence,0.4907077745253813,NA
+section2.7.4.4,table10,0.18660733019125703,NA
+bridge ccbr,bridge ccbr,0.18660733019125703,NA
+capability,type,0.4995287054532687,NA
+thermal,processor system,0.40904600158655247,NA
+altogether,split,0.40894333197793875,NA
+avtr,ratio,0.38613746493959666,NA
+without,connection,0.5294226943799243,NA
+class,pins.,0.4230038857954466,NA
+bmon,bus monitor,0.4047587753307553,NA
+drive,line,0.3889084667901003,NA
+specific,fixed,0.4177105128463406,NA
+x8,reset and/or,0.4148438412693385,NA
+services,1.8,0.23411000881172353,NA
+block,connections,0.4986594097346987,NA
+card,polarity,0.4193594955707992,NA
+main,hrxeop signal,0.42115120580423976,NA
+varying,lower,0.4114594851101328,NA
+individually,turn,0.5331898247271418,NA
+internal,traversing,0.42664966440198576,NA
+alter,lvttl i/os,0.40754540195720285,NA
+ids,reside,0.40514968118354555,NA
+except,tying,0.4662509711855676,NA
+product,developed,0.44075146770397605,NA
+amount,put,0.4162165868977585,NA
+1.1.2,mono controller,0.23593432072592266,NA
+pci express,pci express,0.18660733019125703,NA
+mapped,counts,0.3863872768182974,NA
+resistors,terminates,0.3935053018536849,NA
+programmable,altogether,0.39537551460072407,NA
+slew,nature,0.4371929915448322,NA
+completion,controlled.,0.4414420480478165,NA
+mean,addresses,0.40717442245687047,NA
+bus address,reside,0.46326429765107113,NA
+removes,taken,0.6149272813623362,NA
+providing,remote,0.4080607997302427,NA
+"board layout,",boot,0.4024253746282428,NA
+clkin_p,adaptor,0.38512882312145874,NA
+lengths,addresses,0.4151234563466076,NA
+multiplied,active,0.4031568328758056,NA
+synchronization.,nearest,0.42835393541748795,NA
+debug port,host debug,0.4093070449439746,NA
+array processor,clearconnect,0.44320316460796716,NA
+duplex,correction,0.49651599930396323,NA
+pin,lists,0.3086336835104801,NA
+history,revision history,0.3147913286322101,NA
+main part,unit,0.6159789264480752,NA
+supplies,3.4.4,0.2845248931168323,NA
+data,capacitor,0.40909156575960065,NA
+register control,hrss,0.3780698019526489,NA
+another,enable,0.39225843454010423,NA
+i/o signal,i/o signal,0.18660733019125703,NA
+integrated,die,0.4142595523197175,NA
+handles,marked,0.4602476651326659,NA
+nc,ddr interface,0.6158193570704052,NA
+frequency,interrupt,0.4056329076748901,NA
+slot,polarity,0.4356459079901939,NA
+csx,high-performance,0.4065904008558653,NA
+time,closely,0.3971262395239554,NA
+performs,24,0.38367163645548613,NA
+masters,wider,0.4350825838156003,NA
+device logic,register,0.4110828939178719,NA
+instruction code,drams.,0.4536642269907191,NA
+related,presents,0.39942283212712004,NA
+meets,transfers,0.4210033204774688,NA
+faster,design,0.4181650383067063,NA
+problems.,removed,0.43254884461441534,NA
+nearest,operation.,0.4602154652341398,NA
+every,first,0.39337371449170616,NA
+use,initially,0.408264918021029,NA
+used,hence,0.4121157521413855,NA
+3.6,3.6,0.0,NA
+clearconnect on-chip,chip,0.4357423677701581,NA
+memory reference,ieee,0.4458538078179695,NA
+separate,driven,0.4006224519083581,NA
+voltage,bootstrap sequence,0.37811626514139873,NA
+embedded,model,0.4562129358108029,NA
+models,incoming,0.3909218914355381,NA
+7.0,elements,0.44747696470335346,NA
+hrxval,transaction,0.42081044465410794,NA
+local,connected,0.47447328964138086,NA
+within,complicated,0.4822667375628708,NA
+active,wait,0.40925968016430475,NA
+planning,map,0.4513542815722852,NA
+disabled,respectively,0.3870410579988293,NA
+accelerators,family,0.492602344119178,NA
+memory,1.5,0.22194562868894577,NA
+power-down.,figure2,0.44197817413249846,NA
+device,x16,0.4364401776856348,NA
+pcie subsystem,tap controller:,0.606256929748644,NA
+sstl,dc,0.300598308736767,NA
+measurement,speed,0.4305390476919381,NA
+"birq_ n,",ii mode,0.42964990948684395,NA
+type column,boot,0.43650492021133,NA
+downstream,eight,0.4094096928809715,NA
+comprises,"ddr2 dram interfaces,",0.4046987124867118,NA
+parallel,csx700 die,0.3946162382641624,NA
+pci express host,pci express host,0.18660733019125703,NA
+absolute,minimum,0.4955985884569097,NA
+storage,disconnecting,0.4630663286114096,NA
+ground.,address space,0.4743940970456145,NA
+normally,jtag test specification,0.4763951640032339,NA
+runs,assertion,0.4338924494639478,NA
+debug adaptor,bus.,0.40852048624044396,NA
+framemaker,7.2,0.21202005064133908,NA
+case,chips,0.4238190447820601,NA
+brefclk_n,mono execution,0.38528791147712854,NA
+units,asynchronously,0.4665530853924493,NA
+address aperture,ddr2 design,0.40888502667567417,NA
+pvci,boot system,0.3872222717239949,NA
+test specification,control.,0.46308403529360825,NA
+csx700 floating point processor,csx700 floating,0.3270992940247243,NA
+never,maximum,0.4079031362338419,NA
+space,"ccb blocking,",0.4300978714747956,NA
+transferring,features,0.5287898109413337,NA
+figure24,figure24,0.0,NA
+pll,i/o,0.38510961044747893,NA
+pci express interface,motherboards,0.4737913655641535,NA
+instruments,access,0.5002118341784474,NA
+supply.,include,0.38116061431102616,NA
+standards,range,0.4220461974884418,NA
+2.5,2.5,0.18660733019125703,NA
+summarized,drives,0.3855604999798186,NA
+2.4,2.4,0.0,NA
+72,position,0.4361488378992596,NA
+timings,addresses,0.4055804991085957,NA
+bring,wait,0.47226033695336767,NA
+support,closely,0.4067775128450343,NA
+header,node,0.4194361598600322,NA
+asserted,absolute maximum,0.4330639322576674,NA
+input pin,vdd,0.4126942788115682,NA
+requires,machine,0.4492136963134026,NA
+processor are:,hrxeop signal,0.45680576372962783,NA
+clk_p,reference,0.4028061978069984,NA
+bandwidth storage,address space,0.3933652440348975,NA
+put,blocking,0.4237937783022942,NA
+multiple processing,data.,0.39913475080504335,NA
+reset sequences:,pcie subsystem,0.52413918816489,NA
+note,load,0.45847189312208564,NA
+3.3,maximum,0.3071637452903177,NA
+see,tables,0.3999478551754528,NA
+express,express,0.18660733019125703,NA
+ctap,birq_n,0.3803237194380068,NA
+thread,threads,0.4211758245100642,NA
+ratio,reset,0.40550715968236817,NA
+bootstrap,bootstrap sequence,0.4070544197692106,NA
+debug,multiplication ratio,0.6950528494911571,NA
+slow,tables,0.39089648980868025,NA
+code,store,0.41941914520463147,NA
+vref pin,pll control,0.42087879865469435,NA
+construct,addition,0.42101785539042563,NA
+interface,"dram interfaces,",0.48377111545408674,NA
+nature,programmed,0.4459869723686319,NA
+turn,output clock,0.6437012119703518,NA
+pe contains:,ground.,0.3937429500990535,NA
+connection,without,0.5294226943799243,NA
+synchronize,assertion,0.4019449353861662,NA
+csx700 dram,processor.,0.4290429254875274,NA
+termed,monitors,0.396207753418854,NA
+mark,hence,0.418049546460624,NA
+resources,chips,0.41846883233910204,NA
+however,state machine,0.41902668719694,NA
+unconnected,tying,0.40077931137345685,NA
+flexibly,storage,0.4366393673676168,NA
+pci,pci,0.18660733019125703,NA
+areas,jtag test specification,0.4525161913880161,NA
+default,lowest,0.4198377520376647,NA
+high,voltage level,0.4226704915834477,NA
+implemented,sequential,0.39555760091814457,NA
+memory space,configured,0.3254817585458556,NA
+consult clearspeed,ctap config,0.47415575634147805,NA
+ors,forwarded,0.3984049579377496,NA
+protected,organized,0.39026462093329634,NA
+key,amounts,0.4959645591807683,NA
+absolute maximum,asserted,0.4330639322576674,NA
+devices,others,0.42595034312893293,NA
+3.1.1,supply,0.5345456585516447,NA
+load,connecting,0.5201234667511296,NA
+supports,access memory,0.5846525725459155,NA
+edges,marked,0.4082165122290622,NA
+toggling,lower,0.4325600780633017,NA
+dma engine,national instruments,0.41701588595042166,NA
+controls,64,0.3735037474811789,NA
+temperature,speed,0.46900819788563874,NA
+host processor,cdo,0.3951193949998539,NA
+processor system,thermal,0.40904600158655247,NA
+operated,straightforward,0.39891472924061133,NA
+address space,ground.,0.4743940970456145,NA
+respective,faster,0.397433229607129,NA
+high-performance,address,0.5685758890131508,NA
+express base,inputs.,0.5700483931732354,NA
+1.1,1.1,0.0,NA
+hardware,core,0.6381258734146568,NA
+used.,cas latency,0.42630738714097755,NA
+pull-ups.,adaptor,0.39346873703872,NA
+outside,runs,0.4167941682188122,NA
+point coprocessor,systems.,0.9573655973046268,NA
+environments.,"slave interface,",0.4545922166676549,NA
+incoming,well,0.40971757850515145,NA
+analog,drams.,0.4407691368178569,NA
+ddr,m1_dsq8,0.49356163261905983,NA
+wait,machines,0.49206947226753833,NA
+htxdn,vss,0.386950989187415,NA
+execution,mono,0.38505471962129034,NA
+trap,controlled,0.40650760020825316,NA
+condition,configurations,0.6707270772658612,NA
+level,96,0.4506644724188775,NA
+2.1.4,2.1.4,0.24880977358834272,NA
+via,similarly,0.5536896028829917,NA
+consists,cannot,0.3760364372703186,NA
+xml,xml,0.0,NA
+peripheral,altogether,0.40002225602343877,NA
+motherboards,pci express interface,0.4737913655641535,NA
+up.,problems.,0.41791536264598805,NA
+thus,advanced,0.38749871415612613,NA
+jedec msl,unique position,0.40350393183077504,NA
+standard.,conform,0.39739606826361,NA
+mono execution unit,1.1.3,0.4121403975295222,NA
+system,main system,0.3804182026700232,NA
+share,traversing,0.40546106715655117,NA
+capacitor,data.,0.6302436983974896,NA
+track,lock,0.4856222474101113,NA
+scan,scan test,0.3646645586824677,NA
+hdp.,class,0.3827858331120854,NA
+service,straightforward,0.42665985830689407,NA
+unit.,below.,0.4509329268178723,NA
+dqs,cas,0.3818602187803802,NA
+hdp bus,bridge,0.4036450552952569,NA
+start,causing,0.3902380289976351,NA
+figure23,figure23,0.18660733019125703,NA
+slave,generated,0.4268833945534542,NA
+lane reversal,configuration,0.40935759567210495,NA
+connect,reversal.,0.6969968308392159,NA
+ports,program flow,0.3951238193688013,NA
+double,including,0.4022091087443871,NA
+ii,unique,0.4400485123422617,NA
+type,capability,0.4995287054532687,NA
+together,words,0.384290297248319,NA
+varies,addresses,0.421026103665494,NA
+computing,computing,0.3198982803278692,NA
+birq_,register,0.4014348822337754,NA
+programming,machine,0.41441855641171793,NA
+filter is:,simd,0.4365937507476184,NA
+maximum,low,0.43173477689113765,NA
+board,hrxeop signal,0.4367476083142576,NA
+link configuration,reversal,0.48603979953720305,NA
+128,marked,0.3914499434904679,NA
+interconnected,chip-to-chip interface,0.397757333159875,NA
+pin,mn_vref,0.423299355110919,NA
+pins,host,0.41060442904699296,NA
+timing,fixed,0.4138655156315292,NA
+lane,lane reversal,0.3723754664702655,NA
+close,used,0.45751134456086207,NA
+2.7.4,configuration,0.4229991828623584,NA
+relates,optional,0.39182767562898824,NA
+processing,processing and/or,0.8315927519655666,NA
+connected.,cas latency,0.40905225094447695,NA
+engine,synchronization.,0.41823465337644145,NA
+chained,continuous,0.3932290630234323,NA
+accessed,die,0.41071156350357424,NA
+nominal,wait,0.4326314750082859,NA
+used,close,0.45751134456086207,NA
+bootstrap sequence,ieee,0.4501266988435845,NA
+pull-up resistor,unused,0.4331925982571019,NA
+adaptor,ccb.,0.41610564624271484,NA
+sstl operating,unique position,0.407609808101211,NA
+simultaneously,common,0.40903759966114894,NA
+figure,figure7,0.24961010781846377,NA
+controllable,wider,0.39766985257552534,NA
+type,assigned,0.3961645020235155,NA
+alu,port,0.4644793721960681,NA
+instruction fetch,units.,0.4267961964620245,NA
+m1,hrxeop signal,0.4225715280888196,NA
+on-chip,ddr2,0.40836992381399223,NA
+processor,csx700 floating point,0.37217594891773825,NA
+synchronous,following,0.38351981765684373,NA
+stored,another,0.39021561126829063,NA
+start link,bypass,0.39735720079174447,NA
+asserting,set,0.3943961938261213,NA
+kit.,match,0.41705648250415495,NA
+split,altogether,0.40894333197793875,NA
+placed,used,0.40820259157521366,NA
+functioning,lower,0.4140970592292789,NA
+dram controller,ddr2 dram,0.40076548157648,NA
+compute power,ground.,0.39117691388448617,NA
+"device core,",brefclk_n,0.38278999745755315,NA
+glitch,independent,0.389685715673076,NA
+certain,using,0.42287606675609696,NA
+minimum,absolute,0.4955985884569097,NA
+lower,toggling,0.4325600780633017,NA
+unused,typically,0.40711200753284654,NA
+humidity,bidirectional,0.4072698464621562,NA
+ii mode,"birq_ n,",0.42964990948684395,NA
+programmed,nature,0.4459869723686319,NA
+hrss,dma unit,0.41382442964900207,NA
+away,weak,0.407287720004653,NA
+mn_vref,pin,0.423299355110919,NA
+bypass,pcie configuration,0.44536236319114314,NA
+general,csx700 dram controller,0.4162711012199904,NA
+i/o voltage,lock,0.45030719434500727,NA
+dqs ratio,bus.,0.44035619605748316,NA
+one,proprietary,0.44882902764858046,NA
+voltage reference,termination,0.39586665661324494,NA
+fpga,scaled,0.46992459683492466,NA
+section2.7.4.4,section2.7.4.4,0.18660733019125703,NA
+channel,amounts,0.5034258190858397,NA
+below.,unit.,0.4509329268178723,NA
+ddr2 dram,bus master,0.42362156345579743,NA
+need,closely,0.4096605213022008,NA
+identified,measured,0.38759090593348977,NA
+figure8,in-circuit,0.6574210957974329,NA
+uniquely,addresses,0.4691956010124146,NA
+power-up,figure2,0.40022551423655567,NA
+set,messages,0.41698982949930224,NA
+full,bridged,0.4065350594133956,NA
+shows,always,0.4250450460283729,NA
+ddr2-533 dram,processor.,0.42453480342384947,NA
+device processor,bridge,0.43745312698248695,NA
+"boot time,",ddr2 design,0.4039986751286659,NA
+50,available,0.40271163317106506,NA
+count,local,0.4192853645794966,NA
+well.,units.,0.4053991660122154,NA
+pipelined,relative,0.38767054383625454,NA
+simulation,common,0.4237509918498024,NA
+3.4.4,supplies,0.2845248931168323,NA
+results,optimized,0.3984421731482801,NA
+byte,wider,0.40065698710972436,NA
+ctap config depend,frequencies,0.39223505022682836,NA
+2.1,2.1,0.18660733019125703,NA
+low-latency access,processor.,0.4129463840274189,NA
+low-latency,ddr2-533,0.39345227033466,NA
+thermal monitor,thermal,0.3820078856340084,NA
+events,thread,0.4203007046046294,NA
+settings,map,0.45326240527769246,NA
+features,peripherals,0.6670788336602845,NA
+clocks,units,0.43400150883818245,NA
+concurrent,component,0.39419209345944956,NA
+2.8.1,2.8.1,0.24880977358834272,NA
+elements.,elements.,0.18660733019125703,NA
+pci express base,unused,0.44620010791279324,NA
+initialization,compliant,0.4067078488145938,NA
+consult,ctap config,0.37907681055017695,NA
+bypass,problems.,0.412033691295531,NA
+flow control,forwarded,0.41784176672363715,NA
+bandwidth,simd,0.4820275676209534,NA
+in-circuit debug,assist,0.8451314315067527,NA
+cycle,relative,0.41127311015666296,NA
+program,forwarded,0.40486414204005194,NA
+m1_dsq8,ddr,0.49356163261905983,NA
+host logic,assist,0.7777147499175757,NA
+csx700 floating,csx700 floating point,0.3452033514665871,NA
+standard,standard,0.3110122169854284,NA
+taking,jtag test specification,0.44512834472422796,NA
+achieve,continuation,0.39639114882725635,NA
+amplitude,nature,0.3967570104829562,NA
+on-chip sram,bridge,0.3953658557618151,NA
+htxval,transaction,0.41174458098332817,NA
+applications,turn,0.41702790963207265,NA
+vref pin,hdp clock,0.42087879865469435,NA
+pll config,pcie plls,0.4462167029956934,NA
+2.6,2.6,0.18660733019125703,NA
+reversal.,connect,0.6969968308392159,NA
+reduce power,bus.,0.4181493478380612,NA
+geographic,target,0.4225830809547021,NA
+bar,accessible,0.4894649211393592,NA
+national,processors,0.4156757527138041,NA
+1.10,bus ccb,0.2586046985886624,NA
+forwarded,flow control,0.41784176672363715,NA
+operating,position,0.4004761653001559,NA
+avtt,_n,0.39266926756865433,NA
+assist,in-circuit debug,0.8451314315067527,NA
+traces,support,0.40290487602243574,NA
+test,removes,0.5416756608043032,NA
+subsystems,"ddr2 dram interfaces,",0.4018365259317848,NA
+point,issues,0.41348770608552315,NA
+24,performs,0.38367163645548613,NA
+pecl mode,vref pin,0.41430443475508333,NA
+cas latency,used.,0.42630738714097755,NA
+enumeration,unique,0.41088936290564626,NA
+ranks,monitors,0.41000360924065793,NA
+memory bandwidth,boot,0.39711433567447385,NA
+bridge,device processor,0.43745312698248695,NA
+unconnected.,ii mode,0.4207615101215715,NA
+packaging,component,0.4112362578344596,NA
+permits,anywhere,0.41672465586891877,NA
+controller,processor.,0.44827231302819204,NA
+memory,pio,0.4981842004598829,NA
+clearconnect,array processor,0.44320316460796716,NA
+16,interface,0.6220543142481666,NA
+different,passes,0.40045328652852985,NA
+many,clock signal,0.4640270031530613,NA
+signal,hence,0.4573934966961627,NA
+individual,without,0.44515365454371075,NA
+flow,assertion,0.4499078636307815,NA
+2.1.5,2.1.5,0.18660733019125703,NA
+variety,systems.,0.6065879027908392,NA
+config,clock frequency,0.4690467628720567,NA
+rate,cores,0.4728372130200613,NA
+pe,processor,0.3802370549481544,NA
+tables,see,0.3999478551754528,NA
+host,perst_n,0.4233437081515313,NA
+dq,ccb.,0.4154818347720817,NA
+table,contents,0.19818553039054979,NA
+characteristics,ratings,0.39327499112317005,NA
+pin bypass,interference.,0.413222298774953,NA
+elements,7.0,0.44747696470335346,NA
+internally,due,0.38309729601286646,NA
+physical,respect,0.6547681188611763,NA
+in-circuit,figure8,0.6574210957974329,NA
+resetting,higher,0.46277431380931433,NA
+glue,glue logic,0.4095355533215033,NA
+connected,local,0.47447328964138086,NA
+employ on-die,register,0.42236279326882953,NA
+state machine,however,0.41902668719694,NA
+unit,reset and/or,0.7326009758325114,NA
+detailing,map,0.40967521849423433,NA
+tying,except,0.4662509711855676,NA
+diagrams,marked,0.41233956966295776,NA
+links,using,0.4118475679483051,NA
+"i/o pads,",pcie plls,0.41514759981608057,NA
+7.2,framemaker,0.21202005064133908,NA
+isu,isu,0.24880977358834272,NA
+hirq_n,mono unit,0.3861205494836537,NA
+connector.,pcb trace,0.47077254580119077,NA
+figure5,figure23,0.18660733019125703,NA
+memory unit,memory unit,0.18660733019125703,NA
+peripherals,features,0.6670788336602845,NA
+"national instruments lm86,",continuous,0.4110561572790583,NA
+system,used.,0.40498746242844086,NA
+second,issues,0.4971051532109924,NA
+possible,modify,0.39342033453270864,NA
+processed,counts,0.38550910238924513,NA
+mono,mono execution,0.47444343724631366,NA
+ecc,dram,0.39835419086909873,NA
+important,initialization,0.40021825928952465,NA
+integration,processor system,0.4081944105516002,NA
+system service,straightforward,0.41128954696714365,NA
+two,local,0.4024677897584297,NA
+jedec,centre,0.39178039955570565,NA
+configuration,2.7.4,0.4229991828623584,NA
+compliant.,below.,0.42045517527459453,NA
+amounts,channel,0.5034258190858397,NA
+description,organized,0.3900716583422704,NA
+serial,jtag test specification,0.42794083306600006,NA
+transaction.,hrxeop signal,0.39184643378601286,NA
+accessible,clocked.,0.49979827765107876,NA
+"core clock,",pcie plls,0.4191796132231542,NA
+logic.,interface.,0.46133890198764854,NA
+boot system,pvci,0.3872222717239949,NA
+2.2,lists,0.43886142794156674,NA
+resynchronized,machine,0.438356527185507,NA
+life,providing,0.3976069579259241,NA
+75,meets,0.41502973796559944,NA
+provides,elements,0.495093019018027,NA
+bandwidth access,connector.,0.3844842649140485,NA
+simulated,forwarded,0.39557214073833463,NA
+vdd,input pin,0.4126942788115682,NA
+mtap architecture,processing and/or,0.6729537513318875,NA
+employ,pins.,0.4821387530438708,NA
+table18,ecc,0.3853247698155589,NA
+hrxstp,software control,0.38847152738443064,NA
+mechanical,mechanical,0.0,NA
+thermal,thermal monitor,0.3820078856340084,NA
+transmit,mode,0.4453385502834918,NA
+3.4.3,3.4.3,0.0,NA
+"clearconnect bus,",bridge,0.4352380074445568,NA
+rev,accessible,0.4985066080871139,NA
+pulses,use,0.4004759718791368,NA
+streamed,whenever,0.4330150983970395,NA
+receiver,whose,0.3878673022127572,NA
+attached,final,0.5361002535333468,NA
+processing multiple,address space,0.41225641620900694,NA
+conditions,test,0.474110541931982,NA
+pcie config,reset and/or,0.488615728833134,NA
+ac,ac,0.0,NA
+configure,tying,0.41595541673532704,NA
+clocked.,accessible,0.49979827765107876,NA
+correct ddr2,node,0.4799610671520843,NA
+stop,turn,0.4325535469436563,NA
+i/o power,address space,0.3921058325566235,NA
+specification,allows,0.39656219737056797,NA
+minimize,reset control,0.45653448196582347,NA
+reset and/or,unit,0.7326009758325114,NA
+addition,meet,0.46890551052887613,NA
+provided,transfers,0.4174009953595462,NA
+gpio,host,0.3961365177636132,NA
+straightforward,latency,0.4333405080474416,NA
+transmit,units,0.4053143027357646,NA
+main core,pcie plls,0.419986015904569,NA
+bus master,ddr2 dram,0.42362156345579743,NA
+similarly,via,0.5536896028829917,NA
+length,closely,0.4027968302808534,NA
+1.2,1.2,0.18660733019125703,NA
+information,ordering,0.4231512302464336,NA
+jesd8-15a,register,0.3977338695319706,NA
+revision history,history,0.3147913286322101,NA
+example,conversion,0.43643301259827805,NA
+forwarding,continuous,0.4025972418803593,NA
+include,provided.,0.41294443002507447,NA
+flotherm package,bus.,0.4713445971382382,NA
+control register,rate interface,0.420144770527014,NA
+section4.3,section4.3,0.0,NA
+ratings,characteristics,0.39327499112317005,NA
+birq_n,birq_n pin,0.38852755310689413,NA
+pins.,employ,0.4821387530438708,NA
+left,turn,0.5510829726829238,NA
+ddr2-533,low-latency,0.39345227033466,NA
+150,swing,0.4573294212682307,NA
+hours,position,0.39660048236704143,NA
+errors,accesses,0.3941305091639871,NA
+96,level,0.4506644724188775,NA
+encoded,range,0.4006079616858394,NA
+floor,unique,0.40419163801264496,NA
+marked,single,0.4750434314258329,NA
+bidirectional,humidity,0.4072698464621562,NA
+require,controlled.,0.450044610440327,NA
+test access,jtag boundary,0.4937446652087171,NA
+receiver equalization,port,0.4488360915587732,NA
+ground,"achieve this,",0.4721884667922804,NA
+figure23,figure5,0.18660733019125703,NA
+master,addresses,0.45710213152475954,NA
+state,differential,0.4224501947825611,NA
+thdn1/thdp1,kbyte,0.4052575428067451,NA
+reset whenever,pcie plls,0.41030918372759206,NA
+ctap configuration,main core,0.416799171056275,NA
+protocol,application.,0.4450544968118869,NA
+limited,supported,0.3755563185828647,NA
+speed port,bridge,0.39315073622388497,NA
+hreq,cas,0.3890648507786019,NA
+nine,conform,0.5264602993808366,NA
+lvttl,lvttl,0.18660733019125703,NA
+also,swing,0.4327540423913588,NA
+pll reference,"jtag port,",0.4016043436209727,NA
+correction,duplex,0.49651599930396323,NA
+thread,nature,0.4058845664785729,NA
+connecting,bridged,0.43423073914288374,NA
+present,level,0.39536903841102206,NA
+refer,matched,0.41191992507732567,NA
+putting,put,0.3994408696742519,NA
+"synchronization events,",debug,0.6778673151212781,NA
+layer,controlled,0.45028191375848,NA
+package,without,0.44300260637372096,NA
+enables,efficient,0.4038048992555827,NA
+stopclock_in,control.,0.39255940635306336,NA
+floor life,mu i/o,0.3869825110408145,NA
+measured,assigned,0.39184599958829913,NA
+latency access,bridge,0.4130868120652558,NA
+interrupt,1.6,0.47977975510079224,NA
+first,every,0.39337371449170616,NA
+communication,booting,0.4490698398733339,NA
+identifies,components,0.4214450752943571,NA
+chip-to-chip,chip,0.5268139296328974,NA
+differential,machine,0.44685329242068,NA
+voltages,termination,0.6413643154031974,NA
+m1_dsq0,ddr,0.48967947222433256,NA
+cores.,nearest,0.41037373703651825,NA
+combination,wider,0.41066305073582127,NA
+detected,optimized,0.4083073354561924,NA
+node,correct ddr2,0.4799610671520843,NA
+3.4.1,3.4.1,0.0,NA
+timing,working,0.42956085776207653,NA
+correct,global,0.40786695823431524,NA
+basically,addresses,0.4119636196724849,NA
+payload,correct ddr2,0.40973316796157755,NA
+sequencing,3.1.1,0.5026507688778512,NA
+receive,depending,0.421225490737774,NA
+uses,compliant,0.4181216136601121,NA
+dma unit,hrss,0.41382442964900207,NA
+terminates,use,0.39452382189300794,NA
+particular,lock,0.45894398043379225,NA
+carry,units,0.402193504173643,NA
+treated,marked,0.4105761876344475,NA
+hours.,unique,0.39498226628476824,NA
+conform,nine,0.5264602993808366,NA
+usually,turn,0.41989790580849895,NA
+ensure,within,0.4440364302303315,NA
+performed,associated,0.40457002324787417,NA
+perform synchronization,debug,0.6825542790403359,NA
+multi-drop,debug,0.4708350306382634,NA
+kept,put,0.3956049486441986,NA
+data.,pcb trace,0.8176450272898191,NA
+advanced,number,0.39989826252420646,NA
+addressing,large,0.38688944724231494,NA
+filter,example,0.265230235228322,NA
+support multiple,altogether,0.40102122235177096,NA
+chip-to-chip interface,interconnected,0.397757333159875,NA
+v1.1,reset and/or,0.4302099166079284,NA
+tolerant.,instruction fetch,0.40184041253458125,NA
+csx700,sram,0.3656543518800544,NA
+matched,refer,0.41191992507732567,NA
+x4,reset and/or,0.4143135332325637,NA
+store,code,0.41941914520463147,NA
+powerful,ideally,0.5299784255623268,NA
+purposes,absolute maximum,0.39912335833505935,NA
+asynchronous,without,0.4264823340801545,NA
+dynamically,swing,0.41023977883731805,NA
+base,required,0.4380920469965463,NA
+family,unparalleled,1.0,NA
+multiplication ratio,debug,0.6950528494911571,NA
+output,faster,0.39686340604744663,NA
+weak,hence,0.4211653330224918,NA
+"device.""",control.,0.38856763337501354,NA
+bridge port,bridge port,0.18660733019125703,NA
+requirements.,transmit port,0.4149180894142915,NA
+fpu,interrupt,0.4553578465765662,NA
+implementation,around,0.45482490600043113,NA
+parameters.,ground,0.409992346178905,NA
+single-instruction multiple-data,address space,0.3971434784697194,NA
+coprocessor,systems.,0.5471470997022273,NA
+transaction,hrxeop,0.5069361495265159,NA
+small,related,0.36809138146596315,NA
+sram,device core,0.41331477658122956,NA
+pll control,vref pin,0.42087879865469435,NA
+software control,hrxstp,0.38847152738443064,NA
+national instruments,csx700 die,0.42026042117767404,NA
+entire device,pcie plls,0.4183732105417395,NA
+external,channel,0.3889038722211072,NA
+operations,forwarded,0.3968773067636941,NA
+input register,unit.,0.41158522722711727,NA
+architecture,systems,0.4623487908100709,NA
+apply,engines,0.43401020175044286,NA
+remote,providing,0.4080607997302427,NA
+pci express interface,4.2,0.3181377347438834,NA
+logical,map,0.4360856199604908,NA
+tap controller,tap controller,0.24880977358834272,NA
+single,marked,0.4750434314258329,NA
+drives,however,0.39130028210879114,NA
+test,conditions,0.474110541931982,NA
+base specification,inputs.,0.48679956478403597,NA
+meet,addition,0.46890551052887613,NA
+mu i/o,unique position,0.4046053598834391,NA
+references,counts,0.396158592686171,NA
+1.7,1.7,0.0,NA
+ordering,information,0.4231512302464336,NA
+speeds,runs,0.42518431822817737,NA
+transmit port,alu,0.4531202569017307,NA
+3.4,termination,0.25820980408514493,NA
+backward,model,0.39529845143198894,NA
+eliminate,typically,0.6006065672444032,NA
+conforms,correcting,0.40259989803795054,NA
+irq,de-emphasis,0.3858279289083642,NA
+mu,cdi,0.4152011907554263,NA
+processing and/or,processing,0.8315927519655666,NA
+higher,resetting,0.46277431380931433,NA
+hclk,voltage reference,0.38386033751907495,NA
+construct dual-chip,board.,0.4190854871600518,NA
+due,line,0.3857697055085831,NA
+glue logic,glue,0.4095355533215033,NA
+passes,input clock,0.44184629165624967,NA
+working,timing,0.42956085776207653,NA
+design,sequential,0.42233115817317346,NA
+signals.,drams.,0.40901898640676815,NA
+polarity,reversal.,0.6006051892880124,NA
+simd,bandwidth,0.4820275676209534,NA
+caches.,trace,0.40436542873210096,NA
+unit contains:,port,0.43911333612182557,NA
+pll control register,swing,0.42515618030181246,NA
+tolerate,instruction fetch,0.3959684633751828,NA
+clock frequency,config,0.4690467628720567,NA
+asynchronously,units,0.4665530853924493,NA
+may,pins.,0.40313626395731283,NA
+i/o,pll,0.38510961044747893,NA
+bandwidth.,ii,0.41233514736390164,NA
+buffering,map,0.44776165531068646,NA
+bootstrap,whole,0.40024199414311257,NA
+tap controller:,pcie subsystem,0.606256929748644,NA
+reset.,care,0.8843887016495284,NA
+inactive,tying,0.4407220652556999,NA
+contents,table,0.19818553039054979,NA
+note,lines,0.4083894995389154,NA
+transfer description,bridge,0.42859264883076653,NA
+link negotiation,unit,0.5112570861844997,NA
+dma operation,national instruments,0.41701588595042166,NA
+wider,masters,0.4350825838156003,NA
+monitor,device processor,0.40280877478151716,NA
+transaction type,hrxstp,0.37713785475443545,NA
+development,controllable,0.39598893316588,NA
+perform,via,0.44940734721208325,NA
+interrupt,fpu,0.4553578465765662,NA
+global,correct,0.40786695823431524,NA
+sstl i/o,sstl class,0.427413146565026,NA
+long,starts,0.37426146805570304,NA
+port,alu,0.4644793721960681,NA
+control.,ccbr interface,0.5539803333535848,NA
+external memory,correction,0.4278849111706941,NA
+vddiomn,register,0.40236013540922655,NA
+polarity reversal,reversal,0.4210798709329882,NA
+logic,system performance,0.4468178468948562,NA
+clock,optimized,0.39695271422200357,NA
+switching,transmit,0.3923472611969877,NA
+trace,targets.,0.5093550553918199,NA
+words,together,0.384290297248319,NA
+register,employ on-die,0.42236279326882953,NA
+pin.,pins.,0.4585523647036917,NA
+core,hardware,0.6381258734146568,NA
+package model,bus.,0.43259264023448707,NA
+request.,eight,0.4006351395480121,NA
+io,bus.,0.4048221136164255,NA
+special,24,0.37960681314851963,NA
+1.3,host debug port,0.3866039492707847,NA
+components,identifies,0.4214450752943571,NA
+limit,away,0.4015616500414407,NA
+backward compatibility,address space,0.3895870096000756,NA
+compliant state,pll reference,0.40095025808399826,NA
+form,targets.,0.5109657750243897,NA
+4.3,4.3,0.0,NA
+range,standards,0.4220461974884418,NA
+bus.,flotherm package,0.4713445971382382,NA
+ddr2 design,boot,0.4407957852844701,NA
+presents,pcie config space,0.4306923877379635,NA
+"dram interfaces,",interface,0.48377111545408674,NA
+de-emphasis,port,0.3897517046636488,NA
+bytes,assertion,0.5021281319174536,NA
+"ddr2 dram interfaces,",onto,0.4051017845332762,NA
+semaphore,hardware.,0.5176612088438765,NA
+forms,correct ddr2 design,0.40022004661682015,NA
+executing,continuous,0.3949414357370885,NA
+respect,physical,0.6547681188611763,NA
+rising,fixed,0.42302345045396167,NA
+phy,pcie bar,0.4795796101393036,NA
+multidrop connection,bus.,0.4213589683706003,NA
+boot,ddr2 design,0.4407957852844701,NA
+fields,sequential,0.40613426622242343,NA
+access control,bus.,0.43419745050075664,NA
+reversal,link configuration,0.48603979953720305,NA
+registers.,"master interface,",0.46679885011042604,NA
+flow,various,0.40580307155925854,NA
+equalization,nature,0.39522828645045993,NA
+others,devices,0.42595034312893293,NA
+4.1,test,0.294410797789867,NA
+clock signal,order,0.46435862016872126,NA
+output clock,turn,0.6437012119703518,NA
+interface.,logic.,0.46133890198764854,NA
+simple,disconnecting,0.40788072328707164,NA
+differential,sstl clock,0.5934365869021251,NA
+common,since,0.4251115944352603,NA
+controlled,layer,0.45028191375848,NA
+use.,straightforward,0.40791055862406594,NA
+sstl clock,differential,0.5934365869021251,NA
+bridged,connecting,0.43423073914288374,NA
+bus,dual-chip,0.4397016096652158,NA
+large,counts,0.4049045163342058,NA
+wide,connected,0.4182184956086771,NA
+whenever,streamed,0.4330150983970395,NA
+unique position,sstl operating,0.407609808101211,NA
+input-output,1.1.5,0.18962204827642298,NA
+input reference,pcie plls,0.4119219890904216,NA
+acrobat,7.0,0.4136042428109551,NA
+4.6.1,4.6.1,0.0,NA
+id,layout,0.39996284879376176,NA
+fixed,rising,0.42302345045396167,NA
+designed,designed,0.0,NA
+machine,requires,0.4492136963134026,NA
+"concurrent transfers,",mu i/o,0.3886346531198106,NA
+negotiation,accessible,0.40550639948163775,NA
+groups,reside,0.43579598562502553,NA
+enumeration cycle,multi-device,0.3844914667693955,NA
+utility,purpose,0.4094911929044452,NA
+kbyte,lm86,0.40869070878076985,NA
+mono,mono unit,0.40221649279223803,NA
+vss,hrxeop,0.42431380353674547,NA
+hdp clock,vref pin,0.42087879865469435,NA
+kernel,transactions,0.40964382923739356,NA
+records,access,0.5002118341784474,NA
+provide,bit,0.3955481419560929,NA
+board.,addition,0.4226381751952367,NA
+elements,exceptionally,0.5367524403650664,NA
+"error correction,",used.,0.4034544495803088,NA
+causing,start,0.3902380289976351,NA
+example,example type,0.30090252509085597,NA
+reference,centre,0.4273608777975279,NA
+4.4,4.4,0.18660733019125703,NA
+alter configuration,pcie subsystem,0.45810970726010053,NA
+response,bytes,0.3916308706017912,NA
+buref0..9,reference,0.41162069831641923,NA
+still,tying,0.4231018179690119,NA
+hdp i/o,processor.,0.4328931506671836,NA
+complicated,within,0.4822667375628708,NA
+additional,controls,0.37287842862931136,NA
+rate interface,control register,0.420144770527014,NA
+media,without,0.4219698162729067,NA
+srefclk_p,ratio,0.3891781248353809,NA
+output,shared,0.443247091894712,NA
+windows,7.0,0.31350878359867973,NA
+component,packaging,0.4112362578344596,NA
+low,maximum,0.43173477689113765,NA
+transfer,pcie bar,0.45664528716572705,NA
+bga,array,0.375263818931232,NA
+frequently,"clock input,",0.46693106735447976,NA
+1.8,services,0.23411000881172353,NA
+bridge port,flotherm,0.37312078276934935,NA
+sstl class,sstl i/o,0.427413146565026,NA
+2.7.1,reset,0.3385349935242781,NA
+boundary,jtag boundary scan,0.40334502430061125,NA
+encoding,engines,0.4174333715782643,NA
+rise,lock,0.44377900605905063,NA
+part,wider,0.4038469142994667,NA
+part,controlled.,0.5192528628791155,NA
+parallelism,capacitor,0.5553681261506613,NA
+cores,rate,0.4728372130200613,NA
+sixteen,without,0.43183484801638206,NA
+subsystem,care,0.5680134273959462,NA
+lowest,default,0.4198377520376647,NA
+prior,forwarded,0.407979172305529,NA
+1.4,1.4,0.18660733019125703,NA
+clkin_n,cas,0.3818602187803802,NA
+outputs,toggling,0.41018895383292264,NA
+driven,separate,0.4006224519083581,NA
+ccb,bus ccb,0.32573208682078914,NA
+disconnecting,storage,0.4630663286114096,NA
+interfaces,ground,0.390273154366727,NA
+edge,see,0.3874568131530446,NA
+multiple processor,bus.,0.41493972730552214,NA
+system service,system service,0.18660733019125703,NA
+damage,lock,0.503254531189662,NA
+enable,another,0.39225843454010423,NA
+correcting,store,0.41400355461568994,NA
+multidrop,adaptor,0.38632023939535315,NA
+pcb trace,data.,0.8176450272898191,NA
+clearspeed,clock frequency,0.4271252440820962,NA
+width,signals,0.4369324700964046,NA
+descriptions,sequential,0.39022118587309745,NA
+held,lock,0.47096179229406815,NA
+pin pair,interrupt,0.39580474694028883,NA
+vddioc,jtag,0.38801833341962544,NA
+pcie plls,pll config,0.4462167029956934,NA
+negotiating,functions,0.3990458767161798,NA
+designed,coprocessor,0.3331476084925469,NA
+collectively,monitors,0.3977406262879434,NA
+incorporates,anywhere,0.419284067368119,NA
+inputs,typically,0.4422325051833889,NA
+"bar apertures,",unit,0.4112953295692688,NA
+final,attached,0.5361002535333468,NA
+supply,3.1.1,0.5345456585516447,NA
+instruction,hrxeop signal,0.449116854814243,NA
+control,port,0.39918815126453266,NA
+apertures,functions,0.38756533612343946,NA
+tightly,addresses,0.48243435144412505,NA
+memory width,bus.,0.41975415810433075,NA
+flotherm package model,without,0.47003668034662355,NA
+upstream,eight,0.4039255970478719,NA
+diodes,threads,0.40933841996147613,NA
+headings,storage,0.40106552434981374,NA
+continuous,access,0.6549896397422412,NA
+pcb,multiple processing,0.37001647845166175,NA
+1.1.4,1.1.4,0.0,NA
+observed,wait,0.42868023926219206,NA
+chip,chip-to-chip,0.5268139296328974,NA
+order,clock signal,0.46435862016872126,NA
+nomenclature,reside,0.444900244883051,NA
+multi-device,class,0.3916733506466874,NA
+core clock,software control,0.3725043504114393,NA
+bus ccb,ccb,0.32573208682078914,NA
+mono controller,1.1.2,0.23593432072592266,NA
+according,related,0.3945882979651975,NA
+access memory,multiple,0.612540658455253,NA
+device pin,interference.,0.41460187251262326,NA
+4.6,4.6,0.18660733019125703,NA
+multiple,access memory,0.612540658455253,NA
+"i/o capability,",processing,0.5080317461422353,NA
+model,contains,0.46680871344130115,NA
+terminated.,problems.,0.40850468848525673,NA
+must,independent,0.4040080171101905,NA
+unique,ii,0.4400485123422617,NA
+ieee,bootstrap sequence,0.4501266988435845,NA
+chips,case,0.4238190447820601,NA
+compute,model,0.4593499644098706,NA
+odt,register,0.40004700247059855,NA
+ddr interface,nc,0.6158193570704052,NA
+pcie configuration,bypass,0.44536236319114314,NA
+jtag test specification,normally,0.4763951640032339,NA
+recommended,3.1,0.3039860644000682,NA
+traversing,monitors,0.49584448990966035,NA
+sstl dc,absolute maximum,0.39445894011269766,NA
+sequences,resetting,0.4174672152710112,NA
+bavdd,jtag,0.3954201699381812,NA
+jtag boundary scan,2.8,0.42440122623291204,NA
+conversion,generated,0.4471364777480892,NA
+csx700 floating point,point,0.581278856385334,NA
+network,unique position,0.39629056177367655,NA
+biasing,ports,0.3939132881061411,NA
+multiple,ccb.,0.4011501532013173,NA
+dual-chip,bus,0.4397016096652158,NA
+function,range,0.407505950659222,NA
+contains,model,0.46680871344130115,NA
+provided.,include,0.41294443002507447,NA
+relative,cycle,0.41127311015666296,NA
+operation.,nearest,0.4602154652341398,NA
+avddn,ground.,0.3942058239658222,NA
+widths,physical,0.5657422616213484,NA
+execution unit,array,0.371604261468014,NA
+"space ratio,",interference.,0.4035652826112608,NA
+massive,map,0.4441690290490878,NA
+available,50,0.40271163317106506,NA
+map,settings,0.45326240527769246,NA
+operate,bus.,0.4342161650284797,NA
+floating,blocking,0.4188245665699193,NA
+training.,part,0.42657477283319534,NA
+jtag boundary,access port,0.5238771664152678,NA
+htxstp,transaction,0.39134638772407365,NA
+starts,absolute maximum,0.3798539911999805,NA
+application.,protocol,0.4450544968118869,NA
+sensitivity,network.,0.4137723707288856,NA
+speed,temperature,0.46900819788563874,NA
+switched,identifies,0.4029685928558492,NA
+designs,optimized,0.41163399922882743,NA
+jtag port,turn,0.6385473972822651,NA
+maximum performance,sstl operating,0.3930580148356085,NA
+termination,voltages,0.6413643154031974,NA
+cdi,reference voltage,0.4934759484777131,NA
+cannot,data,0.43123065565009017,NA
+handling,assembly,0.7587368483347602,NA
+thread switching,vss range,0.403205361583387,NA
+60,cycle,0.4093905865699734,NA
+system performance,application,0.5593945083429744,NA
+anywhere,access,0.42163313383041473,NA
+bus monitor,bmon,0.4047587753307553,NA
+mode,transmit,0.4453385502834918,NA
+reduce,traversing,0.4530316933391087,NA
+reside,system logic,0.48944151778727957,NA
+monitors,traversing,0.49584448990966035,NA
+access port,jtag boundary,0.5238771664152678,NA
+on-chip network,chip,0.4268098381433519,NA
+unparalleled,family,1.0,NA
+generated,conversion,0.4471364777480892,NA
+connections,block,0.4986594097346987,NA
+proprietary,one,0.44882902764858046,NA
+debug.,cas latency,0.4077249327755153,NA
+one,forwarded,0.3979544698115073,NA
+whose,units,0.3878901156685422,NA
+moisture,unique,0.41758708779864756,NA
+csx700 device,host system,0.3702382211432542,NA
+1.6,interrupt,0.47977975510079224,NA
+performance,targets.,0.5081679237682725,NA
+figure7,figure,0.24961010781846377,NA
+mac,traversing,0.4325513172955225,NA
+pcie system,interference.,0.4287128933122288,NA
+target,geographic,0.4225830809547021,NA
+optional,traversing,0.4354719872414105,NA
+reset control,correction,0.4657664905653537,NA
+respectively,simulation,0.42116165649914633,NA
+scan test,jtag boundary,0.46361216400216637,NA
+network.,ii,0.41540342085263793,NA
+machines,wait,0.49206947226753833,NA
+strobes,reside,0.41466224057108686,NA
+2.1.1,2.1.1,0.0,NA
+"aperture unit,",ddr2 design,0.4113282024491783,NA
+units.,instruction fetch,0.4267961964620245,NA
+latency,straightforward,0.4333405080474416,NA
+"pcie bar apertures,",using,0.3944294568786448,NA
+system memory,processors,0.41946691385622525,NA
+particular,engines,0.41015194227821755,NA
+processors,system memory,0.41946691385622525,NA
+although,swing,0.39697959088116636,NA
+initially,use,0.408264918021029,NA
+lists,2.2,0.43886142794156674,NA
+aggregate,ii,0.40849980550298126,NA
+onto,"ddr2 dram interfaces,",0.4051017845332762,NA
+extended,see,0.39574270966947317,NA
+hence,decoupled,0.4907077745253813,NA
+functional,accesses,0.39098145535710793,NA
+pcie interface,reset and/or,0.5092230624850305,NA
+"host interface,",interconnected,0.3888327248771983,NA
+device number,sstl operating,0.39702668572622735,NA
+taken,removes,0.6149272813623362,NA
+"appropriate device,",bridge,0.40201121437560533,NA
+bus,bus monitor,0.3620339959666938,NA
+virtual,position,0.447591415629577,NA
+rates,traffic,0.4032900210861628,NA
+configured,device.,0.6780901294786812,NA
+class ii,typically,0.4423056226057527,NA
+careful,addresses,0.48353758064676755,NA
+2.7.5,thermal,0.3500614580385009,NA
+reset,2.7.1,0.3385349935242781,NA
+run,reset.,0.5011395832564476,NA
+acting,voltage level,0.39704723853562796,NA
+mono unit,mono,0.40221649279223803,NA
+fetch,assertion,0.4112909284596435,NA
+approximately,unused,0.3912062294154637,NA
+sys,local,0.41439122759026314,NA
+20,50,0.39525792319288994,NA
+power consumption,chips,0.41316019983828384,NA
+systems,architecture,0.4623487908100709,NA
+unsupported,condition,0.4823551594464384,NA
+require parallel,require,0.4408346609099962,NA
+free,timing,0.37118818583521646,NA
+multiplication,proprietary,0.4405372321724431,NA
+continuation,operation.,0.4172767811850813,NA
+engines,apply,0.43401020175044286,NA
+2.1.2,2.1.2,0.0,NA
+pair,well,0.40384000799017145,NA
+clocking,without,0.4430549124892387,NA
+care,reset.,0.8843887016495284,NA
+acrobat elements,acrobat,0.33207770076981713,NA
+..,load,0.3881166921545334,NA
+making,powerful,0.4142367142978007,NA
+transparently,closely,0.39088767002222286,NA
+channels,identifies,0.3955301097375154,NA
+requirements,made,0.3748049989587537,NA
+mechanisms,access,0.42163313383041473,NA
+class,unique position,0.40624727705472347,NA
+specification,working,0.42742237029389835,NA
+ccbr,ctap,0.37243994514722406,NA
+skew,node,0.42261857834727845,NA
+sequence,voltage level,0.39635672640578895,NA
+pin count,correction,0.4287457584922179,NA
+length transaction,hrxeop signal,0.45489146365297634,NA
+system logic,reside,0.48944151778727957,NA
+configuration,connect,0.5313876868689685,NA
+device core,sram,0.41331477658122956,NA
+overview,1.1.1,0.45817996252139903,NA
+bit,provide,0.3955481419560929,NA
+lock,bypassed,0.505378033377421,NA
+dc,sstl,0.300598308736767,NA
+table10,section2.7.4.4,0.18660733019125703,NA
+well,incoming,0.40971757850515145,NA
+vddio,pll,0.38177812745795203,NA
+3.7,3.7,0.24880977358834272,NA
+ctap config,consult clearspeed,0.47415575634147805,NA
+example type,example,0.30090252509085597,NA
+host,debug port,0.372315193478253,NA
+extremely,set,0.4063990627774987,NA
+external,straightforward,0.41555980087242755,NA
+flexible,block,0.4534545077485745,NA
+optimize,bus address,0.422427834238586,NA
+permits,mechanisms,0.41672465586891877,NA
+ability,turn,0.4523797437416036,NA
+1149.1,drams.,0.4306475086322929,NA
+required,resistor,0.46960310584005,NA
+bringup.,port,0.3874548929579356,NA
+shared,output,0.443247091894712,NA
+pull-up,system,0.3796783498312739,NA
+requested,design,0.4109729778388356,NA
+centre,reference,0.4273608777975279,NA
+split transaction,mu i/o,0.38588108298815044,NA
+overall,forwarded,0.393817998221831,NA
+host system,debug,0.6231860693989358,NA
+reference voltage,cdi,0.4934759484777131,NA
+banks,without,0.4845413411655421,NA
+array,bga,0.375263818931232,NA
+carries,addresses,0.41370514593270824,NA
+hrxdn,transaction,0.39361285364176857,NA
+strength,problems.,0.41795410811504147,NA
+access,scan test,0.44076286318651975,NA
+made,scaled,0.414187950103037,NA
+lvttl.,low-latency,0.3867064003506114,NA
+responsible,passes,0.4012542901407263,NA
+spreadsheet,reside,0.40116138837117515,NA
+flow control,marked,0.4501356070193338,NA
+strobe,units.,0.41171963965030073,NA
+include multiple,data.,0.4002617112581968,NA
+inter-processor,table19,0.4270009273089019,NA
+independent,must,0.4040080171101905,NA
+processor.,clock,0.48756512054280243,NA
+minimize jitter,ieee,0.42448935268989435,NA
+typically,eliminate,0.6006065672444032,NA
+software,hrxeop signal,0.43087324617655903,NA
+incorporates,mechanisms,0.419284067368119,NA
+analog,memory,0.40231842152183966,NA
+"class ii,",multi-device,0.38470423670122345,NA
+m0,hrxeop,0.4418963044070186,NA
+absolute maximum,sstl dc,0.39445894011269766,NA
+ctap system,sstl i/o,0.4016043436209727,NA
+description,description,0.0,NA
+mtap,processor,0.36930458920995296,NA
+class ii mode,also,0.41658616116573083,NA
+x2,reset and/or,0.4529887078274938,NA
+allow,forwarded,0.4106185932505134,NA
+branching,forwarded,0.3942922562960785,NA
+vref,termination,0.4098588536923775,NA
+solution,provides,0.43145088221520267,NA
+processing power,boot,0.3987076473606046,NA
+interrupts,block,0.4439826529884161,NA
+enumerated,position,0.41319687216251255,NA
+3.2,handling,0.3207181533970157,NA
+lanes,targets.,0.5096571276857462,NA
+bvref,pins,0.3964068931690968,NA
+wired,without,0.440209160535506,NA
+bridge,interrupt,0.4149040202491487,NA
+bga trace,boot,0.4107597297724897,NA
+closely,need,0.4096605213022008,NA
+whose reference,port,0.43695272380250383,NA
+"optimize performance,",boot,0.4066742057912578,NA
+receivers,typically,0.5127220687848029,NA
+link,pcie bar,0.4287121302775398,NA
+affect,note,0.4418307865760149,NA
+host lane,configuration,0.4150643749283561,NA
+mono execution,mono,0.47444343724631366,NA
+addresses,careful,0.48353758064676755,NA
+1.9,bus,0.3441378236018949,NA
+provision,straightforward,0.4062583729935158,NA
+correct,trace,0.41474901818196336,NA
+aperture,match,0.4551296438203168,NA
+interface,16,0.6220543142481666,NA
+2.1.3,2.1.3,0.0,NA
+voltage level,high,0.4226704915834477,NA
+die,integrated,0.4142595523197175,NA
+packet,unique,0.408401194047625,NA

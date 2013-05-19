@@ -1,0 +1,387 @@
+gives,final,0.5998934795181976,NA
+speed,grade,0.4913019044030451,NA
+special,request,0.33887310562255046,NA
+pipelined,clock,0.534736672896123,NA
+global,reset,0.27989801624095867,NA
+changes,"ip core updates,",0.6404911823910342,NA
+deliverables,deliverables,0.0,NA
+floating,point,0.42666627341823543,NA
+following,table,0.4638217229234829,NA
+mhz,apex20ke,0.410361172694742,NA
+verilog,bench environment,0.4477188705814513,NA
+implementation support,implementation,0.4078751027274627,NA
+environment,underflow,0.6815784275225402,NA
+282,fax,0.6943814598727603,NA
+core performance,core,0.44725317201307335,NA
+system,system clock,0.5494083765756659,NA
+licensing,licensing,0.0,NA
+pins,description,0.30189853448268494,NA
+performance,performance,0.0,NA
+sized,location,0.5212985666631422,NA
+main fp pipelined,main fp pipelined unit,0.4343569437560804,NA
+companies,sized,0.5006735545082349,NA
+30,3100,0.3953864080398475,NA
+ieee-754 precision,algo-rithm,0.4439743808816325,NA
+analysis,performs,0.45975265147433486,NA
+dfpdiv,algo-rithm,0.42785137795860584,NA
+comprehensible,simple,0.9424264570552289,NA
+core implementation,ip core implementation,0.5479891187961947,NA
+fully,simulation,0.4925682516017388,NA
+divide function,pipelined,0.4672078987355506,NA
+modification,please,0.5661747137329577,NA
+code,vhdl source,0.5240579462003662,NA
+single site license,site license,0.44785977377721975,NA
+hdl,core specification,0.4730115060216862,NA
+input,output,0.4583538346907339,NA
+survey,route,1.0,NA
+enable,computing,0.46825359420453233,NA
+control,data,0.4338695296954642,NA
+num-ber,multi sites license,0.5006062789773986,NA
+function,settings,0.5939741330495156,NA
+vhdl source code,vhdl source code or/and,0.48416308307557315,NA
+real,cycle,0.5881879734990471,NA
+rtl,hdl source,0.5501607879707522,NA
+setting,rounding,0.8577370710115992,NA
+settings,function,0.5939741330495156,NA
+single precision,format,0.43605280787820916,NA
+makes,function,0.5357100425145147,NA
+source code:,source,0.4947208919185042,NA
+places,chips,0.5530298479581569,NA
+operation,test bench,0.49841304139436887,NA
+automatic,simulation,0.5331752327103825,NA
+branches,unlimited,0.5111318103947131,NA
+underflow,environment,0.6815784275225402,NA
+results,available,0.42522511705578386,NA
+single site,middle,0.5679203888334966,NA
+full,precision,0.617994053637881,NA
+ip core:,ip,0.47689608401577516,NA
+coprocessor,coprocessor,0.29240214997078656,NA
+reference,tests,0.5216745887411194,NA
+core,specification,0.39756748877307035,NA
+middle,single,0.6648873483575857,NA
+32,66,0.5542806902980202,NA
+fpga edif/ngo/ngd/qxp/vqm,netlist,0.4899604815029757,NA
+manufactured,product,0.6188074926798662,NA
+"core updates,",minor,0.553846109269256,NA
+krzyzak,tomasz,0.7204049547859952,NA
+full ieee-754 compliance,data processing,0.4415205285372872,NA
+distributors,distributors,0.0,NA
+input,input,0.0,NA
+easy,methods,0.5895718745410191,NA
+rounding,setting,0.8577370710115992,NA
+74,37,0.5444874891063964,NA
+called,code,0.4688609898786539,NA
+core area,core area,0.389869533294382,NA
+phone,email,0.6188019470112174,NA
+vhdl source code or/and,vhdl source code,0.48416308307557315,NA
+one,one,0.40936300995910113,NA
+several,time,0.47846861613239206,NA
+datasheet,datasheet,0.0,NA
+license option,site license option,0.4295444917293012,NA
+data processing,ieee-754 compliance,0.5686975750654013,NA
+royalty-per-chip,"royalty-per-chip fees,",0.4306399647439409,NA
+accuracy,clock cycle,0.4403700611244149,NA
+site license option,license option,0.4295444917293012,NA
+result,alignment,0.5549568002976311,NA
+poland,poland,0.29240214997078656,NA
+ieee-754 compliance,data processing,0.5686975750654013,NA
+clk,type,0.42749702915998017,NA
+pipelined,complex information,0.5426096044946719,NA
+ieee-754,ieee-754,0.3837778218366573,NA
+application,example,0.6961168885526239,NA
+2780,cyclone,0.4175520464703283,NA
+bus,data bus,0.4145083841724737,NA
+site,middle,0.5222411260831542,NA
+pipeline,vhdl source,0.4558906804826122,NA
+algorithms,dsp,0.23052606286815058,NA
+2.21,2.21,0.0,NA
+result composer,composer,0.4548395384636942,NA
+digital core,contact,0.5058282408054743,NA
+88,2270,0.3776755178091779,NA
+free,several,0.46967042601545883,NA
+contact,digital core,0.5058282408054743,NA
+sites,manufactured,0.5504183483366151,NA
+scripts,synthesis,0.45795979051517,NA
+point,floating,0.42666627341823543,NA
+point,results,0.5642975525371624,NA
+algo-rithm,ieee-754 precision,0.4439743808816325,NA
+netlist,available,0.3439244081466844,NA
+ufo,data bus,0.4302336941472922,NA
+classes,arguments,0.5086154579367883,NA
+xml,xml,0.0,NA
+regarding,chips,0.5223238630384078,NA
+table,following,0.4638217229234829,NA
+route,survey,1.0,NA
+underflow flag,underflow,0.28594831966101913,NA
+maintenance,months,0.37065624896784394,NA
+levels,mathematics,0.5018863187946486,NA
+internal,synchronous,0.45835905626050283,NA
+pipelined divider unit,pipelined divider,0.457407998975047,NA
+fp pipelined,main fp pipelined,0.43011066255598107,NA
+unlimited,product,0.5884298777005738,NA
+apex20ke,mhz,0.410361172694742,NA
+2502,104,0.42241165454451357,NA
+system clock,system,0.5494083765756659,NA
+source,verilog rtl,0.46971489799929333,NA
+appropriate,arguments,0.5055261124943122,NA
+two,next,0.48409217773728724,NA
+vhdl source,code,0.5240579462003662,NA
+format,single precision,0.43605280787820916,NA
+alignment,result,0.5549568002976311,NA
+pipelined unit,main fp pipelined,0.4258643813558817,NA
+gives,devices,0.5739674448457833,NA
+site license,single site license,0.44785977377721975,NA
+complex information,pipelined,0.5426096044946719,NA
+40,mercury,0.37815426187434337,NA
+source,source code:,0.4947208919185042,NA
+func-tion,result composer,0.43625776728740906,NA
+-7,mercury,0.3827035774505615,NA
+static,design,0.4684662700649763,NA
+compliant,cycle,0.6939531770592003,NA
+numbers,periods,0.46879947186629667,NA
+product,manufactured,0.6188074926798662,NA
+verilog source code,verilog source code or/and,0.48416308307557315,NA
+within,use,0.4815377948508117,NA
+apex20kc,apex20kc,0.0,NA
+apex20k,fmax,0.44949521030085254,NA
+invalid,operation,0.4808611742689339,NA
+fp pipelined unit,divide function,0.4342149063734289,NA
+overflow,environment,0.477324016144107,NA
+performs,arguments,0.4704905284025868,NA
+tel,48,0.3945064435164467,NA
+logic,cells,0.6613520435841301,NA
+delivered,formats,0.5030262733279134,NA
+output,output,0.3289524187171348,NA
+latency,divide,0.5224716599887852,NA
+rst,rst,0.0,NA
+core design,distributors,0.582610082797143,NA
+core specification,hdl,0.4730115060216862,NA
+verilog test,test,0.4785952060939721,NA
+project,dedicated,0.6217928981119852,NA
+66,32,0.5542806902980202,NA
+single precision real,precision real,0.7187252740523207,NA
+block diagram,diagram,0.620256537292847,NA
+65,stratix-ii,0.294271856095712,NA
+key features,key,0.57252677089393,NA
+diagram,block diagram,0.620256537292847,NA
+methods,easy,0.5895718745410191,NA
+local,digital core design,0.5393163207355458,NA
+clearly,simple,0.7536023737877393,NA
+fed,cycle,0.6130334216741795,NA
+complex,flags,0.5710810854417331,NA
+key,key features,0.57252677089393,NA
+supports,next,0.4945275101437658,NA
+48,82,0.5155078489419391,NA
+corporate,unlimited,0.5653905114807182,NA
+block,diagram,0.5310358110564236,NA
+result flag,result,0.3594999129054614,NA
+example,application,0.6961168885526239,NA
+request,please,0.47782613922290923,NA
+defined,make,0.5785287565408198,NA
+included,standard,0.4823549657049941,NA
+verilog source,precision,0.4971799088370006,NA
+cells,logic,0.6613520435841301,NA
+without,defined,0.4881736831736787,NA
+selected,time,0.5174579628430489,NA
+3100,apex20ke,0.40743860790754377,NA
+license,option,0.45683867245465265,NA
+use,cases,0.5525207997935825,NA
+ip,ip core:,0.47689608401577516,NA
+headquarters,headquarters,0.0,NA
+37,74,0.5444874891063964,NA
+divide,flags,0.44608313206035577,NA
+design,local,0.534239506313152,NA
+versions,"ip core updates,",0.8981111585186352,NA
+main,ieee-754 number,0.4797874792071433,NA
+email support,email,0.407160907864899,NA
+divider,dfpdiv-,0.438916467475909,NA
+features,key features,0.36298146901896816,NA
+math,math,0.0,NA
+format support,single precision,0.42595458010019255,NA
+digital,distributors,0.5082867656739094,NA
+ncsim,fully,0.41567540446979656,NA
+verilog test bench,test,0.5101043724997816,NA
+arithmetic,embedded,0.47615163375568487,NA
+"ip core updates,",versions,0.8981111585186352,NA
+dedicated,project,0.6217928981119852,NA
+standard,included,0.4823549657049941,NA
+single,next,0.4711075729913029,NA
+time,selected,0.5174579628430489,NA
+symbol,symbol,0.0,NA
+2010,microsoft word,0.7336880760473191,NA
+overview,overview,0.0,NA
+data bus,ufo,0.4302336941472922,NA
+bench,underflow,0.5689155280772292,NA
+word,microsoft word,0.7642470353123497,NA
+contact,contact,0.0,NA
+area,devices,0.5405879420771268,NA
+verilog source code or/and,verilog source code,0.48416308307557315,NA
+invalid,result,0.7277227871801296,NA
+major,"ip core updates,",0.5405982799058976,NA
+41-902,bytom,0.29721004001129053,NA
+42,2720,0.3403057104036365,NA
+flex10ke,speed,0.36455114682443807,NA
+specification,core,0.39756748877307035,NA
+application,application,0.0,NA
+tomasz,krzyzak,0.7204049547859952,NA
+precision real,single precision real,0.7187252740523207,NA
+simple,comprehensible,0.9424264570552289,NA
+cycle,compliant,0.6939531770592003,NA
+pipelined divider,divider unit,0.5103555595130034,NA
+option,site,0.5153704517254136,NA
+stratix,2720,0.548571087179103,NA
+21,latency,0.48718121258976776,NA
+fax,282,0.6943814598727603,NA
+fp,ieee-754 number,0.8976086443397876,NA
+description,pins,0.30189853448268494,NA
+ofo,output,0.36599166148707246,NA
+please,check,0.5008449390828217,NA
+source code,verilog rtl,0.6039481884260942,NA
+stratix-ii,65,0.294271856095712,NA
+first,single,0.4497800609180858,NA
+hdl source,modelsim,0.6945470636873433,NA
+processing,data,0.4643519338144404,NA
+company,multi sites,0.5357147811525158,NA
+wroclawska,wroclawska,0.21930161247808988,NA
+dsp,algorithms,0.23052606286815058,NA
+netlist,fpga edif/ngo/ngd/qxp/vqm,0.4899604815029757,NA
+type,clk,0.42749702915998017,NA
+-5,cyclone,0.41291440145108044,NA
+example application,example,0.3696072657269881,NA
+cases,use,0.5525207997935825,NA
+results,point,0.5642975525371624,NA
+licensed,manufactured,0.5504183483366151,NA
+interface,simple,0.3084906823471873,NA
+notes,installation,0.33062535840195906,NA
+test bench,operation,0.49841304139436887,NA
+floating,results,0.5315653114783718,NA
+86,2040,0.44263478593963046,NA
+2270,cyclone-ii,0.40541630482146707,NA
+en,system clock,0.47532708611196406,NA
+cyclone,2780,0.4175520464703283,NA
+synthesis,scripts,0.45795979051517,NA
+support,email,0.505232949624615,NA
+pin,pin,0.0,NA
+grade,speed,0.4913019044030451,NA
+result,invalid,0.7277227871801296,NA
+82,48,0.5155078489419391,NA
+small,sized,0.41471918952663894,NA
+available,results,0.42522511705578386,NA
+altera,core performance,0.3290562984517244,NA
+modelsim,hdl source,0.6945470636873433,NA
+composer,result composer,0.4548395384636942,NA
+underflow,underflow flag,0.28594831966101913,NA
+next,uses,0.5120354340966128,NA
+responses,reference,0.4939841341461395,NA
+mercury,-7,0.3827035774505615,NA
+tomasz krzyzak,tomasz,0.40577719148803926,NA
+customers,chips,0.567174204868173,NA
+data,processing,0.4643519338144404,NA
+104,2502,0.42241165454451357,NA
+device,device,0.0,NA
+ip core implementation,core implementation,0.5479891187961947,NA
+ifo,overflow flag,0.4628254039335176,NA
+checker,compliance,0.5782710790986811,NA
+arguments,classes,0.5086154579367883,NA
+place,survey,0.9807377240155593,NA
+mathematics,clock,0.5346404619428713,NA
+check,please,0.5008449390828217,NA
+acex1k,logic cells,0.48305198134766697,NA
+multi sites,company,0.5357147811525158,NA
+main fp pipelined unit,main fp pipelined,0.4343569437560804,NA
+precision,full,0.617994053637881,NA
+chips,customers,0.567174204868173,NA
+number,cycle,0.5952224775923215,NA
+make,defined,0.5785287565408198,NA
+given,data,0.5193251597990448,NA
+apex-ii,apex-ii,0.0,NA
+ip core,ip core implementation,0.38261476342159134,NA
+location,sized,0.5212985666631422,NA
+uses,next,0.5120354340966128,NA
+fmax,apex20k,0.44949521030085254,NA
+test,verilog test bench,0.5101043724997816,NA
+94,94,0.21930161247808988,NA
+106,106,0.0,NA
+months,maintenance,0.37065624896784394,NA
+performance,core,0.3711232829131341,NA
+divide,latency,0.5224716599887852,NA
+configurable,configurable,0.0,NA
+programming,source code:,0.4135244331612054,NA
+final,gives,0.5998934795181976,NA
+required,required,0.3289524187171348,NA
+main fp,fp pipelined unit,0.43260847502662775,NA
+minor,"core updates,",0.553846109269256,NA
+synchronous,internal,0.45835905626050283,NA
+bench environment,verilog,0.4477188705814513,NA
+code,called,0.4688609898786539,NA
+full accuracy,full,0.4025231454182918,NA
+core implementation support,core implementation,0.4932961718761872,NA
+information,gives,0.5318769219901898,NA
+running,unlimited,0.5574837609622806,NA
+licensing,simple,0.6080931677180578,NA
+simulation,automatic,0.5331752327103825,NA
+instantiation,multi,0.47114631506893817,NA
+computing,enable,0.46825359420453233,NA
+technical,documentation,0.7850014875861414,NA
+multi sites license,num-ber,0.5006062789773986,NA
+output,input,0.4583538346907339,NA
+flags,complex,0.5710810854417331,NA
+ieee-754 number,fp,0.8976086443397876,NA
+business,project,0.46580202597072945,NA
+documentation,technical,0.7850014875861414,NA
+clock cycle,divide,0.4836776628752234,NA
+core,core performance,0.44725317201307335,NA
+ip core instantiation,num-ber,0.4760934436666842,NA
+bytom,41-902,0.29721004001129053,NA
+tests,reference,0.5216745887411194,NA
+design,static,0.4684662700649763,NA
+fees,simple,0.7053331713615588,NA
+reset,global,0.27989801624095867,NA
+overflow flag,ifo,0.4628254039335176,NA
+logic cells,acex1k,0.48305198134766697,NA
+please,modification,0.5661747137329577,NA
+cyclone-ii,2270,0.40541630482146707,NA
+macros,rtl,0.49948945234753866,NA
+email,phone,0.6188019470112174,NA
+please check:,please,0.3841062536359588,NA
+devices,gives,0.5739674448457833,NA
+digital core design,local,0.5393163207355458,NA
+2720,stratix,0.548571087179103,NA
+unit,divider unit,0.4139747154340408,NA
+microsoft word,word,0.7642470353123497,NA
+-6,2040,0.3507468000547182,NA
+embedded,arithmetic,0.47615163375568487,NA
+data,given,0.5193251597990448,NA
+verilog rtl,source code,0.6039481884260942,NA
+divider unit,pipelined divider,0.5103555595130034,NA
+implementation,ip core implementation,0.46321120235831437,NA
+clock,pipelined,0.534736672896123,NA
+every,numbers,0.4638507520486923,NA
+2040,86,0.44263478593963046,NA
+appears,every,0.4634151924011038,NA
+periods,cycle,0.5039620008466047,NA
+distributors,core design,0.582610082797143,NA
+verilog,macros,0.4642411099962221,NA
+installation,notes,0.33062535840195906,NA
+delivery,delivery,0.0,NA
+flag,ifo,0.43467274706401837,NA
+arguments,cycle,0.542482665866732,NA
+formats,delivered,0.5030262733279134,NA
+dfpdiv-,divider,0.438916467475909,NA
+code or/and,code,0.40197449217006076,NA
+divide operation,algo-rithm,0.4288288185947489,NA
+microsoft,microsoft word,0.3952119584214675,NA
+50,2780,0.4042339993915451,NA
+updates,minor,0.5355606063844247,NA
+full ieee-754 precision,algo-rithm,0.4317611405031782,NA
+"royalty-per-chip fees,",royalty-per-chip,0.4306399647439409,NA
+core instantiation,multi sites license,0.4498006630461475,NA
+single,middle,0.6648873483575857,NA
+simple,simple interface,0.3829483558166165,NA
+used,cases,0.4334264268456466,NA
+vhdl,hdl source,0.4445152470366696,NA
+full ieee-754,full ieee-754 compliance,0.435871957118767,NA
+multi,company,0.4965291280407555,NA
+fpga,fpga edif/ngo/ngd/qxp/vqm,0.45309112202297297,NA
+compliance,checker,0.5782710790986811,NA
+simple interface,simple,0.3829483558166165,NA

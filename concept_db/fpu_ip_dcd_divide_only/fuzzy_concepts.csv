@@ -1,0 +1,120 @@
+"('ip', 'ip core:')","[['ip', 'ip core:']]"
+"('test', 'verilog test', 'verilog test bench')","[['verilog test', 'test', 'verilog test bench']]"
+"('full', 'precision', 'verilog source', 'full accuracy')","[['verilog source', 'precision', 'full', 'full accuracy']]"
+"('algo-rithm', 'dfpdiv', 'divide operation', 'ieee-754 precision', 'full ieee-754 precision')","[['dfpdiv', 'algo-rithm', 'divide operation'], ['dfpdiv', 'algo-rithm', 'ieee-754 precision'], ['dfpdiv', 'algo-rithm', 'full ieee-754 precision'], ['divide operation', 'algo-rithm', 'ieee-754 precision'], ['divide operation', 'algo-rithm', 'full ieee-754 precision'], ['ieee-754 precision', 'algo-rithm', 'full ieee-754 precision']]"
+"('stratix-ii', '65')","[['stratix-ii', '65']]"
+"('company', 'instantiation', 'multi sites', 'multi')","[['instantiation', 'multi', 'company', 'multi sites']]"
+"('xml',)",[['xml']]
+"('acex1k', 'logic cells')","[['acex1k', 'logic cells']]"
+"('site license option', 'license option')","[['site license option', 'license option']]"
+"('apex-ii',)",[['apex-ii']]
+"('algorithms', 'dsp')","[['algorithms', 'dsp']]"
+"('cyclone-ii', '88', '2270')","[['cyclone-ii', '2270', '88']]"
+"('mercury', '-7', '40')","[['-7', 'mercury', '40']]"
+"('fp', 'ieee-754 number', 'main')","[['fp', 'ieee-754 number', 'main']]"
+"('sized', 'small', 'companies', 'location')","[['small', 'sized', 'companies'], ['small', 'sized', 'location'], ['companies', 'sized', 'location']]"
+"('simple interface', 'simple', 'interface', 'licensing', 'fees', 'comprehensible', 'clearly')","[['simple interface', 'simple', 'interface'], ['simple interface', 'simple', 'fees'], ['simple interface', 'simple', 'comprehensible'], ['simple interface', 'simple', 'clearly'], ['interface', 'simple', 'fees'], ['interface', 'simple', 'comprehensible'], ['interface', 'simple', 'clearly'], ['fees', 'simple', 'comprehensible'], ['fees', 'simple', 'clearly'], ['comprehensible', 'simple', 'clearly']]"
+"('core', 'specification', 'core performance', 'altera', 'performance')","[['specification', 'core', 'core performance', 'altera']]"
+"('poland',)",[['poland']]
+"('diagram', 'block diagram', 'block')","[['block diagram', 'diagram', 'block']]"
+"('use', 'within', 'cases', 'used')","[['within', 'use', 'cases', 'used']]"
+"('configurable',)",[['configurable']]
+"('wroclawska',)",[['wroclawska']]
+"('local', 'static', 'design', 'digital core design')","[['static', 'design', 'local', 'digital core design']]"
+"('available', 'fpga', 'netlist', 'point', 'results', 'floating', 'fpga edif/ngo/ngd/qxp/vqm')","[['available', 'fpga', 'netlist', 'point', 'results', 'floating', 'fpga edif/ngo/ngd/qxp/vqm']]"
+"('following', 'table')","[['following', 'table']]"
+"('rst',)",[['rst']]
+"('fmax', 'apex20k')","[['fmax', 'apex20k']]"
+"('arithmetic', 'embedded')","[['arithmetic', 'embedded']]"
+"('result composer', 'func-tion', 'composer')","[['func-tion', 'result composer', 'composer']]"
+"('option', 'license', 'two', 'single site', 'next', 'middle', 'single', 'uses', 'site', 'supports', 'first')","[['license', 'option', 'site', 'middle', 'single', 'next', 'two'], ['license', 'option', 'site', 'middle', 'single site'], ['license', 'option', 'site', 'middle', 'single', 'next', 'uses'], ['license', 'option', 'site', 'middle', 'single', 'next', 'supports'], ['license', 'option', 'site', 'middle', 'single', 'first'], ['two', 'next', 'single', 'middle', 'single site'], ['two', 'next', 'uses'], ['two', 'next', 'supports'], ['two', 'next', 'single', 'first'], ['single site', 'middle', 'single', 'next', 'uses'], ['single site', 'middle', 'single', 'next', 'supports'], ['single site', 'middle', 'single', 'first'], ['uses', 'next', 'supports'], ['uses', 'next', 'single', 'first'], ['supports', 'next', 'single', 'first']]"
+"('41-902', 'bytom')","[['41-902', 'bytom']]"
+"('pipelined divider unit', 'pipelined divider', 'unit', 'divider unit')","[['pipelined divider unit', 'pipelined divider', 'divider unit', 'unit']]"
+"('multi sites license', 'ip core instantiation', 'num-ber', 'core instantiation')","[['ip core instantiation', 'num-ber', 'multi sites license', 'core instantiation']]"
+"('months', 'maintenance')","[['months', 'maintenance']]"
+"('pin',)",[['pin']]
+"('delivery',)",[['delivery']]
+"('hdl', 'core specification')","[['hdl', 'core specification']]"
+"('coprocessor',)",[['coprocessor']]
+"('defined', 'make', 'without')","[['make', 'defined', 'without']]"
+"('pins', 'description')","[['pins', 'description']]"
+"('verilog source code or/and', 'verilog source code')","[['verilog source code or/and', 'verilog source code']]"
+"('internal', 'synchronous')","[['internal', 'synchronous']]"
+"('customers', 'chips', 'regarding', 'places')","[['customers', 'chips', 'regarding'], ['customers', 'chips', 'places'], ['regarding', 'chips', 'places']]"
+"('deliverables',)",[['deliverables']]
+"('please', 'request', 'please check:', 'modification', 'check', 'special')","[['please check:', 'please', 'modification'], ['please check:', 'please', 'check'], ['please check:', 'please', 'request', 'special'], ['modification', 'please', 'check'], ['modification', 'please', 'request', 'special'], ['check', 'please', 'request', 'special']]"
+"('real', 'fed', 'numbers', 'arguments', 'number', 'analysis', 'compliant', 'classes', 'every', 'periods', 'performs', 'appropriate', 'appears', 'cycle')","[['real', 'cycle', 'fed'], ['real', 'cycle', 'number'], ['real', 'cycle', 'arguments', 'performs', 'analysis'], ['real', 'cycle', 'compliant'], ['real', 'cycle', 'arguments', 'classes'], ['real', 'cycle', 'arguments', 'appropriate'], ['real', 'cycle', 'periods', 'numbers', 'every', 'appears'], ['fed', 'cycle', 'number'], ['fed', 'cycle', 'arguments', 'performs', 'analysis'], ['fed', 'cycle', 'compliant'], ['fed', 'cycle', 'arguments', 'classes'], ['fed', 'cycle', 'arguments', 'appropriate'], ['fed', 'cycle', 'periods', 'numbers', 'every', 'appears'], ['number', 'cycle', 'arguments', 'performs', 'analysis'], ['number', 'cycle', 'compliant'], ['number', 'cycle', 'arguments', 'classes'], ['number', 'cycle', 'arguments', 'appropriate'], ['number', 'cycle', 'periods', 'numbers', 'every', 'appears'], ['analysis', 'performs', 'arguments', 'cycle', 'compliant'], ['analysis', 'performs', 'arguments', 'classes'], ['analysis', 'performs', 'arguments', 'appropriate'], ['analysis', 'performs', 'arguments', 'cycle', 'periods', 'numbers', 'every', 'appears'], ['compliant', 'cycle', 'arguments', 'classes'], ['compliant', 'cycle', 'arguments', 'appropriate'], ['compliant', 'cycle', 'periods', 'numbers', 'every', 'appears'], ['classes', 'arguments', 'appropriate'], ['classes', 'arguments', 'cycle', 'periods', 'numbers', 'every', 'appears'], ['appropriate', 'arguments', 'cycle', 'periods', 'numbers', 'every', 'appears']]"
+"('2502', '104')","[['2502', '104']]"
+"('key features', 'features', 'key')","[['features', 'key features', 'key']]"
+"('environment', 'overflow', 'bench', 'underflow flag', 'underflow')","[['overflow', 'environment', 'underflow', 'bench'], ['overflow', 'environment', 'underflow', 'underflow flag'], ['bench', 'underflow', 'underflow flag']]"
+"('implementation support', 'implementation', 'core implementation', 'ip core implementation', 'core implementation support', 'ip core')","[['implementation support', 'implementation', 'ip core implementation', 'core implementation', 'core implementation support'], ['implementation support', 'implementation', 'ip core implementation', 'ip core'], ['core implementation support', 'core implementation', 'ip core implementation', 'ip core']]"
+"('required',)",[['required']]
+"('main fp pipelined', 'pipelined unit', 'fp pipelined', 'main fp pipelined unit')","[['pipelined unit', 'main fp pipelined', 'fp pipelined'], ['pipelined unit', 'main fp pipelined', 'main fp pipelined unit'], ['fp pipelined', 'main fp pipelined', 'main fp pipelined unit']]"
+"('source code:', 'source', 'verilog rtl', 'programming', 'source code')","[['programming', 'source code:', 'source', 'verilog rtl', 'source code']]"
+"('overflow flag', 'flag', 'ifo')","[['overflow flag', 'ifo', 'flag']]"
+"('apex20kc',)",[['apex20kc']]
+"('system clock', 'en', 'system')","[['en', 'system clock', 'system']]"
+"('ip core updates,', 'changes', 'major', 'versions')","[['changes', 'ip core updates,', 'major'], ['changes', 'ip core updates,', 'versions'], ['major', 'ip core updates,', 'versions']]"
+"('technical', 'documentation')","[['technical', 'documentation']]"
+"('single precision', 'format support', 'format')","[['format support', 'single precision', 'format']]"
+"('math',)",[['math']]
+"('full ieee-754', 'data processing', 'full ieee-754 compliance', 'ieee-754 compliance')","[['full ieee-754', 'full ieee-754 compliance', 'data processing', 'ieee-754 compliance']]"
+"('output', 'ofo', 'input')","[['output', 'ofo', 'input']]"
+"('tests', 'responses', 'reference')","[['tests', 'reference', 'responses']]"
+"('enable', 'computing')","[['enable', 'computing']]"
+"('fax', '282')","[['fax', '282']]"
+"('hdl source', 'vhdl', 'rtl', 'modelsim', 'macros', 'verilog', 'bench environment')","[['vhdl', 'hdl source', 'modelsim'], ['vhdl', 'hdl source', 'rtl', 'macros', 'verilog', 'bench environment'], ['modelsim', 'hdl source', 'rtl', 'macros', 'verilog', 'bench environment']]"
+"('function', 'makes', 'settings')","[['makes', 'function', 'settings']]"
+"('control', 'given', 'processing', 'data')","[['control', 'data', 'given'], ['control', 'data', 'processing'], ['given', 'data', 'processing']]"
+"('vhdl source code', 'vhdl source code or/and')","[['vhdl source code', 'vhdl source code or/and']]"
+"('headquarters',)",[['headquarters']]
+"('bus', 'data bus', 'ufo')","[['bus', 'data bus', 'ufo']]"
+"('core updates,', 'updates', 'minor')","[['core updates,', 'minor', 'updates']]"
+"('divider', 'dfpdiv-')","[['divider', 'dfpdiv-']]"
+"('product', 'branches', 'manufactured', 'unlimited', 'sites', 'licensed', 'running', 'corporate')","[['branches', 'unlimited', 'product', 'manufactured', 'sites'], ['branches', 'unlimited', 'product', 'manufactured', 'licensed'], ['branches', 'unlimited', 'running'], ['branches', 'unlimited', 'corporate'], ['sites', 'manufactured', 'licensed'], ['sites', 'manufactured', 'product', 'unlimited', 'running'], ['sites', 'manufactured', 'product', 'unlimited', 'corporate'], ['licensed', 'manufactured', 'product', 'unlimited', 'running'], ['licensed', 'manufactured', 'product', 'unlimited', 'corporate'], ['running', 'unlimited', 'corporate']]"
+"('core area',)",[['core area']]
+"('digital core', 'contact')","[['digital core', 'contact']]"
+"('reset', 'global')","[['reset', 'global']]"
+"('-6', '86', '2040')","[['-6', '2040', '86']]"
+"('type', 'clk')","[['type', 'clk']]"
+"('one',)",[['one']]
+"('82', 'tel', '48')","[['82', '48', 'tel']]"
+"('tomasz', 'krzyzak', 'tomasz krzyzak')","[['krzyzak', 'tomasz', 'tomasz krzyzak']]"
+"('pipeline', 'code', 'called', 'vhdl source', 'code or/and')","[['pipeline', 'vhdl source', 'code', 'called'], ['pipeline', 'vhdl source', 'code', 'code or/and'], ['called', 'code', 'code or/and']]"
+"('notes', 'installation')","[['notes', 'installation']]"
+"('delivered', 'formats')","[['delivered', 'formats']]"
+"('place', 'route', 'survey')","[['place', 'survey', 'route']]"
+"('project', 'dedicated', 'business')","[['dedicated', 'project', 'business']]"
+"('42', 'stratix', '2720')","[['42', '2720', 'stratix']]"
+"('symbol',)",[['symbol']]
+"('32', '66')","[['32', '66']]"
+"('synthesis', 'scripts')","[['synthesis', 'scripts']]"
+"('information', 'area', 'final', 'devices', 'gives')","[['information', 'gives', 'devices', 'area'], ['information', 'gives', 'final'], ['area', 'devices', 'gives', 'final']]"
+"('single precision real', 'precision real')","[['single precision real', 'precision real']]"
+"('fully', 'ncsim', 'automatic', 'simulation')","[['ncsim', 'fully', 'simulation', 'automatic']]"
+"('overview',)",[['overview']]
+"('methods', 'easy')","[['methods', 'easy']]"
+"('rounding', 'setting')","[['rounding', 'setting']]"
+"('datasheet',)",[['datasheet']]
+"('74', '37')","[['74', '37']]"
+"('test bench', 'result flag', 'invalid', 'result', 'operation', 'alignment')","[['test bench', 'operation', 'invalid', 'result', 'result flag'], ['test bench', 'operation', 'invalid', 'result', 'alignment'], ['result flag', 'result', 'alignment']]"
+"('selected', 'several', 'free', 'time')","[['selected', 'time', 'several', 'free']]"
+"('email support', 'phone', 'support', 'email')","[['email support', 'email', 'phone'], ['email support', 'email', 'support'], ['phone', 'email', 'support']]"
+"('core design', 'distributors', 'digital')","[['core design', 'distributors', 'digital']]"
+"('94',)",[['94']]
+"('site license', 'single site license')","[['site license', 'single site license']]"
+"('application', 'example application', 'example')","[['application', 'example application', 'example']]"
+"('main fp', 'clock', 'levels', 'fp pipelined unit', 'pipelined', 'complex information', 'divide function', 'mathematics')","[['main fp', 'fp pipelined unit', 'divide function', 'pipelined', 'clock', 'mathematics', 'levels'], ['main fp', 'fp pipelined unit', 'divide function', 'pipelined', 'complex information'], ['levels', 'mathematics', 'clock', 'pipelined', 'complex information']]"
+"('microsoft word', 'word', '2010', 'microsoft')","[['word', 'microsoft word', '2010'], ['word', 'microsoft word', 'microsoft'], ['2010', 'microsoft word', 'microsoft']]"
+"('2.21',)",[['2.21']]
+"('royalty-per-chip fees,', 'royalty-per-chip')","[['royalty-per-chip fees,', 'royalty-per-chip']]"
+"('latency', 'divide', '21', 'complex', 'flags', 'clock cycle', 'accuracy')","[['21', 'latency', 'divide', 'flags', 'complex'], ['21', 'latency', 'divide', 'clock cycle', 'accuracy'], ['complex', 'flags', 'divide', 'clock cycle', 'accuracy']]"
+"('included', 'standard')","[['included', 'standard']]"
+"('ieee-754',)",[['ieee-754']]
+"('cells', 'logic')","[['cells', 'logic']]"
+"('device',)",[['device']]
+"('mhz', 'apex20ke', '30', '3100')","[['mhz', 'apex20ke', '3100', '30']]"
+"('106',)",[['106']]
+"('grade', 'flex10ke', 'speed')","[['grade', 'speed', 'flex10ke']]"
+"('checker', 'compliance')","[['checker', 'compliance']]"
+"('-5', 'cyclone', '2780', '50')","[['-5', 'cyclone', '2780', '50']]"

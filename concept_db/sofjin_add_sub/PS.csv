@@ -1,0 +1,320 @@
+speed,processors,0.18219848089766136,NA
+add/sub,ip,0.1300662125039598,NA
+gpl ghostscript,gpl,0.11510372794605928,NA
+subtraction,floating,0.1274618992988729,NA
+fig,fig,0.07936796302757955,NA
+generation,xilinx fpga,0.12254909241032409,NA
+rtl source,code,0.13855160952184617,NA
+word,microsoft word,0.11524526788649311,NA
+operation,201,0.1687021730789176,NA
+latency y,fpga,0.13724269365958125,NA
+performed,major,0.12148885213165851,NA
+field,web,0.20723352459205296,NA
+barun,barun,0.0,NA
+use,operations,0.12820195960051217,NA
+y available,fpga,0.14620195983318032,NA
+ina,direction,0.08975880689034701,NA
+beginning,handling,0.23990854144388526,NA
+'fraction',exponent,0.24725591894997592,NA
+32,description,0.17879938051080457,NA
+ip performance,performance table,0.12836163025208,NA
+simulation,exhaustive,0.1401066540259522,NA
+floating point,floating,0.12407318533100259,NA
+addition/subtraction operation,adder/,0.1174047750550641,NA
+ip performance table,ip performance,0.1108461810778478,NA
+positive,deliverables,0.12861221918611535,NA
+features,features,0.0,NA
+alignment,mantissa,0.1280643944852525,NA
+"sjr ipark,",tel,0.12291722936816024,NA
+flexible,optimized,0.17218733250806906,NA
+useful,applications,0.29080149116300336,NA
+stages,avoid,0.20290627188013927,NA
+user documentation,user,0.10368811408206323,NA
+y supports,"y compatible,",0.136315291046925,NA
+point addition,/ subtraction,0.11184736486789328,NA
+negative,exponents,0.31682231753550494,NA
+latency y fully synchronous,latency y,0.1169622966668552,NA
+floating,point,0.15423220712235303,NA
+handling,beginning,0.23990854144388526,NA
+deliverables,positive,0.12861221918611535,NA
+processors,measure,0.1616236085173106,NA
+email,tower,0.38860444912603814,NA
+fax,tel,0.12572834560582638,NA
+system,331,0.1896607941044666,NA
+bias,bias,0.0,NA
+second,input,0.11839301548527248,NA
+available,design,0.21950459273503176,NA
+331,system,0.1896607941044666,NA
+steps,major,0.1475003141837119,NA
+rtl source code,source code,0.1304671814575023,NA
+added,standard,0.14459943249335142,NA
+web,field,0.20723352459205296,NA
+benches,test,0.14429341939014267,NA
+integrable,optimized,0.16406864309589447,NA
+sjr,"white field,",0.11804578482421504,NA
+mobius,"white field,",0.11754270496563793,NA
+biased,negative,0.24176085725215504,NA
+present,swaps,0.16779343537416624,NA
+vectors,test,0.14920272306495272,NA
+definition,signal definition,0.12773770440268178,NA
+"y compatible,",fpga,0.1449019564461968,NA
+part,complicated,0.13842544588362907,NA
+operations,use,0.12820195960051217,NA
+inb,data width,0.10822544510831837,NA
+"white field,",bangalore,0.11829732475350362,NA
+virtex5,xc5vlx30ff324,0.13116329628270426,NA
+point,floating,0.15423220712235303,NA
+y fully,fpga,0.19662341680368647,NA
+karnataka,usa,0.1585495198364292,NA
+x m,x m,0.0,NA
+dsp processors use,dsp processors use,0.10822904049215391,NA
+design,available,0.21950459273503176,NA
+y fully synchronous,y fully,0.11667381030798255,NA
+santa,softjin,0.23312926355769073,NA
+"santa clara,",gordon,0.11779424489492649,NA
+supports,design,0.21020412102090327,NA
+dynamic,applications,0.19395229805299072,NA
+xc5vlx30ff324,virtex5,0.13116329628270426,NA
+documentation,user,0.16649127006685943,NA
+floating,format,0.23439814247091129,NA
+sum,slice count,0.13577743764654635,NA
+format,investigated,0.289662667604984,NA
+technologies,95051,0.22068031376484956,NA
+measure,processors,0.1616236085173106,NA
+data,width,0.10670902842255732,NA
+namely,generally,0.16185391708082586,NA
+optimized,flexible,0.17218733250806906,NA
+ipark,usa,0.17530606693130307,NA
+significant,bit,0.4319480946992788,NA
+xilinx fpga,generation,0.12254909241032409,NA
+output,output,0.07936796302757955,NA
+"mobius tower,",tel,0.12362000842757677,NA
+point addition/subtraction,y supports floating,0.1166724116962699,NA
+inputs,subtracted,0.14084621166359854,NA
+signal,signal,0.0,NA
+following,following,0.10204452389260227,NA
+subtracted,adjusted,0.14414222894907802,NA
+wide,fully,0.18682932182100756,NA
+code,rtl source,0.13855160952184617,NA
+stage,normalization,0.2936434762151292,NA
+comparator stage,comparator,0.11256408788220933,NA
+representing,performance,0.1919509234465975,NA
+exhaustive,simulation,0.1401066540259522,NA
+generated,code,0.13724154236855496,NA
+easier,exponents,0.17738627205725155,NA
+synchronous,available,0.18703595727735947,NA
+functional description:,functional,0.09640689713579204,NA
+clock,wide,0.1191070181312365,NA
+point numbers:,point,0.1062852067521717,NA
+bottleneck,subtracter,0.13199795039776518,NA
+larger,smaller,0.18375476102998528,NA
+families,compatible,0.18348172122255535,NA
+addition,decides,0.1129121709168138,NA
+verilog,rtl,0.12393115308403854,NA
+102,2900,0.11737620813468706,NA
+clk,description,0.09700991005604877,NA
+used,bits,0.14503142424508386,NA
+ieee,dsp,0.1550588843143694,NA
+field,exponents,0.2051027113356968,NA
+result,smaller,0.17941566267410722,NA
+avoid,stages,0.20290627188013927,NA
+adjusted,subtracted,0.14414222894907802,NA
+point,point number,0.12933634702157468,NA
+signmagnitude form,signmagnitude,0.1178165674266404,NA
+general,general,0.0,NA
+rtl,"verilog behavioral,",0.13098008225605318,NA
+input port,mhz,0.15893244246136873,NA
+source code,code,0.13205172119502057,NA
+virtex4,xc4vlx15sf363,0.139575012353138,NA
+918041779999,10011,0.18486841222895653,NA
+epip,santa,0.19786900131628232,NA
+tel,softjin,0.2232082332909804,NA
+table,table,0.10582395070343938,NA
+fpu add/sub,performance table,0.13767131596279067,NA
+y supports floating point,y supports,0.11667381030798255,NA
+detailed,documentation,0.13934965138502914,NA
+source,rtl source code,0.12429972556347137,NA
+"gordon ave,",gordon,0.11880040461208075,NA
+usa,ipark,0.17530606693130307,NA
+latency,754,0.14258499218854864,NA
+sign,"sign bit,",0.11957780191990264,NA
+numbers,model,0.12399380572620818,NA
+test,vectors,0.14920272306495272,NA
+form,bit,0.1718552099047601,NA
+918041157070,10011,0.16938218453775952,NA
+560,technologies,0.17991103449071183,NA
+signmagnitude,exponent,0.3388301863846949,NA
+decides,201,0.17911040176589121,NA
+point addition/subtraction,y supports floating point,0.1166724116962699,NA
+single,clock,0.11880330018418075,NA
+201,decides,0.17911040176589121,NA
+5.2,version,0.1211824823041629,NA
+significand,signmagnitude,0.12283623675373283,NA
+normalization part,adder/,0.11345156828793157,NA
+mantissa,match,0.15269836410604679,NA
+bangalore,"white field,",0.11829732475350362,NA
+version,8.15,0.15770795124617654,NA
+generally,namely,0.16185391708082586,NA
+fpu add/sub ip,add/sub,0.12904663162629143,NA
+y optimized,y available,0.13286262174581384,NA
+operation,361,0.1687021730789176,NA
+point adder/,adder/,0.11773420895232514,NA
+verification,comparison,0.31350573367993984,NA
+ip,performance table,0.1370084741078254,NA
+x1,fraction,0.08858754373981399,NA
+point number,point,0.12933634702157468,NA
+large,required,0.1459725719538988,NA
+95051,technologies,0.22068031376484956,NA
+fully,wide,0.18682932182100756,NA
+helps,designers,0.13424287137161628,NA
+fraction,x1,0.08858754373981399,NA
+modules,table,0.13568573173339957,NA
+introduction,introduction,0.0,NA
+emulated,xilinx,0.15269666002107588,NA
+7731745,10011,0.20809775376575204,NA
+xml,xml,0.0,NA
+normalization,stage,0.2936434762151292,NA
+gordon,"gordon ave,",0.11880040461208075,NA
+xc4vlx15sf363,virtex4,0.139575012353138,NA
+important,real,0.17273054287928144,NA
+point add/sub,add/sub,0.2174004367295968,NA
+latency y fully,latency y,0.1169622966668552,NA
+model,numbers,0.12399380572620818,NA
+mode,operation,0.1277539796003911,NA
+shown,fields,0.1322006985703766,NA
+designers,helps,0.13424287137161628,NA
+fields,shown,0.1322006985703766,NA
+slice count,sum,0.13577743764654635,NA
+tower,email,0.38860444912603814,NA
+blocks,blocks,0.07936796302757955,NA
+test,benches,0.14429341939014267,NA
+smaller,larger,0.18375476102998528,NA
+bits,used,0.14503142424508386,NA
+white,408,0.21164111667250432,NA
+us,10011,0.15364308985953304,NA
+adder/,adder/ subtracter,0.11806364284958619,NA
+value,verified,0.27145378208410376,NA
+fpu,figure2,0.20090449974270144,NA
+data width,width,0.10925541911456585,NA
+"verilog behavioral,",rtl,0.13098008225605318,NA
+addition stage,normalization,0.11655377206296824,NA
+stored,stored,0.10913094916292186,NA
+softjin,santa,0.23312926355769073,NA
+comparison,verification,0.31350573367993984,NA
+page,floor,0.2269168039551573,NA
+"sign bit,",form,0.14504843547076302,NA
+microsoft word,word,0.11524526788649311,NA
+point adder/subtracter,point adder/subtracter,0.10582395070343938,NA
+synchronous,system,0.1115747740568613,NA
+floating,point representation:,0.09433186056089886,NA
+normalization stage,normalization,0.11599452504832661,NA
+india,usa,0.15615572739430433,NA
+408,white,0.21164111667250432,NA
+representation,representation,0.05952597227068465,NA
+/ subtraction,point addition,0.11184736486789328,NA
+www.softjin.com,"santa clara,",0.11527884560204084,NA
+10011,7731745,0.20809775376575204,NA
+xilinx,emulated,0.15269666002107588,NA
+gpl,gpl ghostscript,0.11510372794605928,NA
+frequency,entire,0.24068613622628612,NA
+signal definition,definition,0.12773770440268178,NA
+entire system,mhz,0.12697726204733406,NA
+dsp,ieee,0.1550588843143694,NA
+later,avoid,0.14791508482068683,NA
+comparator,implementation,0.225370498731763,NA
+compared,results,0.2660725038302673,NA
+y compliance,y available,0.1287194185844805,NA
+prototyping,investigated,0.1806188999174111,NA
+compatible,families,0.18348172122255535,NA
+fpu add/sub ip performance,fpu add/sub,0.1108461810778478,NA
+first,first,0.07936796302757955,NA
+input,second,0.11839301548527248,NA
+mhz,input port,0.15893244246136873,NA
+dsp processors,dsp,0.11882840945681651,NA
+op,device,0.11326490388259938,NA
+user,documentation,0.16649127006685943,NA
+bit,significant,0.4319480946992788,NA
+three,three,0.0,NA
+point representation:,floating,0.09433186056089886,NA
+required,large,0.1459725719538988,NA
+slice,fed,0.17154226852687662,NA
+point,point numbers:,0.1062852067521717,NA
+294,294,0.07936796302757955,NA
+adder/ subtracter,adder/,0.11806364284958619,NA
+suite,page,0.16044989846103777,NA
+exponent,signmagnitude,0.3388301863846949,NA
+without,without,0.10913094916292186,NA
+point adder/subtracter,point number,0.12874477420846378,NA
+subtracter,bottleneck,0.13199795039776518,NA
+alignment stage,alignment,0.11499670859549081,NA
+range,format,0.13835743600334752,NA
+numbers,overview,0.22084955855891317,NA
+processors,real,0.21693644739285617,NA
+ccode,emulated,0.111609175296836,NA
+swaps,additionally,0.20889905510324341,NA
+investigated,format,0.289662667604984,NA
+floor,page,0.2269168039551573,NA
+results,compared,0.2660725038302673,NA
+add/sub,point add/sub,0.2174004367295968,NA
+applications,useful,0.29080149116300336,NA
+thoroughly,format,0.20953593593330788,NA
+represented,performance,0.14101499800462647,NA
+orsignbit,bias m,1.0,NA
+format,floating,0.23439814247091129,NA
+fpga,y fully,0.19662341680368647,NA
+functional,functional description:,0.09640689713579204,NA
+overview,numbers,0.22084955855891317,NA
+number,rapid,0.18943334649517868,NA
+microsoft,microsoft word,0.09429302162158724,NA
+table,modules,0.13568573173339957,NA
+ghostscript,gpl ghostscript,0.11115551135074923,NA
+y supports floating,y supports,0.11667381030798255,NA
+entire,frequency,0.24068613622628612,NA
+perform,format,0.14852082286858398,NA
+standard,added,0.14459943249335142,NA
+behavioral model,behavioral,0.12203493691080439,NA
+754,latency,0.14258499218854864,NA
+performance,representing,0.1919509234465975,NA
+066,2900,0.151573022692883,NA
+direction,ina,0.08975880689034701,NA
+8.15,version,0.15770795124617654,NA
+figure,figure,0.05952597227068465,NA
+signal table:,modules,0.09378829738213616,NA
+performance,represented,0.14101499800462647,NA
+approaches,value,0.1344680313846283,NA
+clara,usa,0.12743021808880625,NA
+additionally,swaps,0.20889905510324341,NA
+using,using,0.07936796302757955,NA
+ave,tower,0.2724895240741808,NA
+1st,95051,0.16750102489781665,NA
+arithmetic,applications,0.17084544230590282,NA
+compliance,latency,0.1312123836761459,NA
+exponents,negative,0.31682231753550494,NA
+performance table,fpu add/sub,0.13767131596279067,NA
+implementation,comparator,0.225370498731763,NA
+7731714,10011,0.18486841222895653,NA
+2900,066,0.151573022692883,NA
+ca,page,0.15125035314555588,NA
+behavioral,rtl,0.13097943977157814,NA
+speed,integrable,0.1289451142332007,NA
+signal definition table,signal definition,0.09753015229079134,NA
+binary,binary,0.0,NA
+description,32,0.17879938051080457,NA
+width,data width,0.10925541911456585,NA
+pvt,408,0.16698847958303287,NA
+port,port,0.07936796302757955,NA
+results,test,0.10446012074613227,NA
+rapid,number,0.18943334649517868,NA
+361,decides,0.17911040176589121,NA
+figure2,fpu,0.20090449974270144,NA
+match,mantissa,0.15269836410604679,NA
+multiplier,major,0.14972587235819465,NA
+verified,value,0.27145378208410376,NA
+major,multiplier,0.14972587235819465,NA
+fed,count,0.17721190156529149,NA
+real,processors,0.21693644739285617,NA
+complicated,namely,0.14371025413468275,NA
+decides,361,0.17911040176589121,NA
+bias m,orsignbit,1.0,NA
+count,fed,0.17721190156529149,NA
+device,op,0.11326490388259938,NA

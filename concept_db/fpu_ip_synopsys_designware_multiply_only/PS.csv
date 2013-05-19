@@ -1,0 +1,206 @@
+biased,optimized,0.4756695321865071,NA
+line,comment,0.5359101215740574,NA
+model,pin,0.4888623141841079,NA
+acrobat,distiller,0.5928291659922388,NA
+preceding,line,0.4889467279975091,NA
+source code,31,0.5371698506450112,NA
+building,block,0.4625940030746045,NA
+datapath,datapath,0.0,NA
+produce,parameterizable,0.6545496310270257,NA
+parameterizable,format,0.864631272840993,NA
+std_logic_arith,"std_logic_arith package,",0.48514720608307066,NA
+model source,rtl,0.4338345640654721,NA
+//,instance,1.0,NA
+verilog simulation model,word length,0.43189030926405997,NA
+status,delay,0.5346434050546515,NA
+infinity,become,0.5261862729687317,NA
+hardware,selectively,0.9641900369779722,NA
+instantiation,hdl,0.7575810786023393,NA
+status_inst,status_inst,0.22111036708985615,NA
+parameter,designware,0.445436937065306,NA
+considered,become,0.4945478096192178,NA
+pin name,model,0.43626484674949156,NA
+implementations,implementations,0.0,NA
+timing,additional,0.48269515214995184,NA
+integer,integer,0.22111036708985615,NA
+rounding,including,0.5658408554304902,NA
+x b,x b,0.22111036708985615,NA
+status,flags,0.38758654243808854,NA
+// instance,instance,0.4834278704447628,NA
+using,using,0.3685172784830936,NA
+inst_sig_width,inst_sig_width,0.0,NA
+numbers,license feature,0.7783139684095175,NA
+custom,precision,0.7208708377540516,NA
+rtl,function,0.4539973964434347,NA
+width,parameter,0.48549475750730126,NA
+inst_a,inst_a,0.0,NA
+multiplication,generator,0.6609315935532223,NA
+instance,//,1.0,NA
+inst_rnd,sig_width,0.40861326870070525,NA
+unit,design,0.5096994561857683,NA
+entity,entity,0.0,NA
+vhdl simulation,vhdl simulation,0.3979986607617411,NA
+generator,multiplication,0.6609315935532223,NA
+turned,integrated,0.5520121442314464,NA
+multiplier,multiplier,0.0,NA
+ieee_compliance,ieee_compliance,0.0,NA
+23,23,0.0,NA
+block ip documentation overview,block,0.4526918526316008,NA
+exp_width,vhdl simulation model,0.43441466806688367,NA
+mode,including,0.6684205789784153,NA
+code,253,0.4891931447791197,NA
+dw_fp_mult,dw_fp_mult,0.22111036708985615,NA
+hdl usage through component,hdl,0.40195081952630063,NA
+available,available,0.22111036708985615,NA
+numeric,package,0.5174256631380849,NA
+otherwise,effective,0.5177874738108218,NA
+double,multiplier,0.5707301536824556,NA
+31,verilog simulation,0.5846444088776606,NA
+port,port map,0.39608092987014487,NA
+usage,instantiation,0.5142730642347494,NA
+vhdl,hdl,0.588482017121847,NA
+translate_on,pragma,0.5644385946762704,NA
+multiplicand,synthesis,0.44734675275123065,NA
+either,values,0.48365052003125975,NA
+parameter,width,0.48549475750730126,NA
+effective,integrated,0.5717637164044714,NA
+design unit name,unit,0.48627309505545435,NA
+direction,implementation,0.49380534219757394,NA
+sum,precision,0.6085384235694067,NA
+design,unit,0.5096994561857683,NA
+simulation,license,0.5430856160092868,NA
+generic,generic,0.0,NA
+models,compatibility,0.3880124262623646,NA
+ip directory,star,0.4645623677154652,NA
+component instantiation,hdl usage through component,0.39454901479958204,NA
+better,zeros,0.5683902156015296,NA
+function,rtl,0.4539973964434347,NA
+expressions,compatible,0.5999871481807195,NA
+7.0.5,acrobat,0.5334227031493587,NA
+rnd,rnd,0.0,NA
+inst,inst,0.22111036708985615,NA
+754,754,0.3537765873437699,NA
+exponent,word,0.5481024973194957,NA
+become,infinity,0.5261862729687317,NA
+block ip documentation,block,0.4526918526316008,NA
+hdl usage,hdl,0.40195081952630063,NA
+values,name,0.48343122563027585,NA
+framemaker,7.1,0.2622061030851984,NA
+area,integrated,0.5318917109471423,NA
+output,compatible,0.49822573446122914,NA
+fraction,input,0.5068549153802118,NA
+synthesis model,multiplicand,0.4137484626957064,NA
+designware,parameter,0.445436937065306,NA
+datapath,designware datapath,0.4466933553143817,NA
+topics,topics,0.22111036708985615,NA
+license feature,numbers,0.7783139684095175,NA
+verilog simulation,31,0.5846444088776606,NA
+library,library,0.0,NA
+benefits,benefits,0.22111036708985615,NA
+support.,compiler,0.4631320737101478,NA
+license,simulation,0.5430856160092868,NA
+zeros,better,0.5683902156015296,NA
+acrobat distiller,windows,0.6793459089151922,NA
+ieee,"ieee single,",0.4684982339147952,NA
+module,expressions,0.531868899859101,NA
+architecture,architecture,0.22111036708985615,NA
+component instantiation,hdl usage,0.39454901479958204,NA
+hardware,infinity,0.4878331023243215,NA
+including,mode,0.6684205789784153,NA
+datapath generator,become,0.4644313380807201,NA
+windows,acrobat distiller,0.6793459089151922,NA
+xml,xml,0.0,NA
+two,single,0.4390884264322293,NA
+format,parameterizable,0.864631272840993,NA
+hdl,instantiation,0.7575810786023393,NA
+inst_exp_width,inst_exp_width,0.0,NA
+source,description,0.639911377339282,NA
+model,numbers,0.5257313243781987,NA
+design unit,design unit name,0.4590344636248674,NA
+comment,uncomment,0.6490248068381304,NA
+translate_off,translate_off,0.0,NA
+mc,support.,0.42732243826598915,NA
+precision,custom,0.7208708377540516,NA
+simulation model,word length,0.46088421289998716,NA
+ip documentation overview,block,0.4631629710834892,NA
+download information:,star,0.455625714301164,NA
+begin,begin,0.0,NA
+length,numbers,0.4912044763290824,NA
+pragma,translate_on,0.5644385946762704,NA
+map,map,0.0,NA
+"ieee single,",ieee,0.4684982339147952,NA
+implementation,direction,0.49380534219757394,NA
+uncomment,comment,0.6490248068381304,NA
+optimized,biased,0.4756695321865071,NA
+designware datapath,become,0.4656003172334047,NA
+employed,multiplication,0.5665260751294509,NA
+product,product,0.22111036708985615,NA
+block ip,designware building,0.48725102701226947,NA
+output,output,0.22111036708985615,NA
+7.1,framemaker,0.2622061030851984,NA
+0.,0.,0.22111036708985615,NA
+sig_width,inst_rnd,0.40861326870070525,NA
+field,input,0.4822848830638372,NA
+overview,documentation,0.5161683701411615,NA
+single,values,0.4998116001709799,NA
+configuration,configuration,0.0,NA
+designware building,ip documentation,0.5022611246231219,NA
+end,end,0.0,NA
+ip documentation,designware building,0.5022611246231219,NA
+provided,standard,0.4514206995588701,NA
+following,following,0.3537765873437699,NA
+253,bits,0.5293558585678281,NA
+use,use,0.0,NA
+distiller,acrobat,0.5928291659922388,NA
+version,information,0.4711854304558991,NA
+input,fraction,0.5068549153802118,NA
+features,features,0.22111036708985615,NA
+required,license,0.5302776940320527,NA
+bits,description,0.9818833963832514,NA
+z_inst,z_inst,0.0,NA
+types,numeric,0.41847900475790695,NA
+dw_fp_mult_inst,dw_fp_mult_inst,0.0,NA
+u1,u1,0.0,NA
+input,input,0.22111036708985615,NA
+multiplier,double,0.5707301536824556,NA
+integrated,module,0.8815083428303008,NA
+"std_logic_arith package,",std_logic_arith,0.48514720608307066,NA
+information,version,0.4711854304558991,NA
+values,single,0.4998116001709799,NA
+name,direction,0.48366902696447966,NA
+package,numeric,0.5174256631380849,NA
+verilog,numbers,0.5652398382449352,NA
+compatibility,models,0.3880124262623646,NA
+compiler,module,0.478693196743049,NA
+documentation,overview,0.5161683701411615,NA
+synthesis,delay,0.47292585768919554,NA
+standard,provided,0.4514206995588701,NA
+directory,download,0.6049869406451172,NA
+multiplies,format,0.8562594766810981,NA
+compatible,expressions,0.5999871481807195,NA
+related,related,0.22111036708985615,NA
+block,ip documentation overview,0.4631629710834892,NA
+feature,numbers,0.4873545240252595,NA
+module,integrated,0.8815083428303008,NA
+selectively,hardware,0.9641900369779722,NA
+word length,simulation model,0.46088421289998716,NA
+datasheet,datasheet,0.22111036708985615,NA
+delay,word,0.6304646286348506,NA
+name,values,0.48343122563027585,NA
+vhdl simulation model,exp_width,0.43441466806688367,NA
+port map,port,0.39608092987014487,NA
+parameter ieee_compliance,designware,0.43734694327801815,NA
+word,delay,0.6304646286348506,NA
+ip,star,0.8262540357429357,NA
+flags,status,0.38758654243808854,NA
+hdl usage through,hdl usage through,0.22111036708985615,NA
+component,component,0.22111036708985615,NA
+star,ip,0.8262540357429357,NA
+endmodule,endmodule,0.0,NA
+pin,model,0.4888623141841079,NA
+positive,positive,0.0,NA
+provides,additional,0.543352782972084,NA
+download,directory,0.6049869406451172,NA
+additional,provides,0.543352782972084,NA
+description,bits,0.9818833963832514,NA
+inst_b,inst_b,0.0,NA

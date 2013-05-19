@@ -1,11 +1,19 @@
-from ast import literal_eval
-from math import fabs, exp
-#from numpy import product
+from __future__ import division
+
+from prettytable import PrettyTable
 from itertools import groupby
+from ast import literal_eval
+#from numpy import product
+from math import fabs, exp
+from time import time
+import operator
+import csv
+import sys
 
 
 class FuzzyConceptModel(object):
-    def __init__(self, query_fc, query_pi, query_ps, spec_fc, spec_pi, spec_ps, spec_name):
+    def __init__(self, query_fc, query_pi, query_ps, spec_fc, spec_pi, spec_ps, spec_name, doc_rank):
+        csv.field_size_limit(sys.maxsize)
         self.query_fc = query_fc
         self.query_pi = query_pi
         self.query_ps = query_ps
@@ -22,7 +30,10 @@ class FuzzyConceptModel(object):
 
         self.similarity_score = []  # document similarity score
 
+        self.doc_rank = doc_rank
+
     def constructScoreDictionaries(self):
+        print '> analyzing ' + self.spec_name + '...'
         for row in self.query_pi:
             self.query_pi_dict[row[0]] = float(row[1])
 
@@ -54,16 +65,8 @@ class FuzzyConceptModel(object):
     def skeletonMatch(self, skeleton_q, skeleton_s):
         # matching skeletons
         #print skeleton_q[0], skeleton_s[0]
-        if len(skeleton_q[0]) > 1 and len(skeleton_s[0]) > 1:
-            self.matched_bones = len(set(skeleton_q[0]).intersection(set(skeleton_s[0])))
 
-        elif len(skeleton_q[0]) == 1 and len(skeleton_s[0]) > 1:
-            self.matched_bones = len(set(skeleton_q[0]).intersection(set(skeleton_s[0])))
-
-        elif len(skeleton_q[0]) > 1 and len(skeleton_s[0]) == 1:
-            self.matched_bones = len(set(skeleton_q[0]).intersection(set(skeleton_s[0])))
-
-        elif len(skeleton_q[0]) == 1 and len(skeleton_s[0]) == 1:
+        if len(skeleton_q[0]) > 0 and len(skeleton_s[0]) > 0:
             self.matched_bones = len(set(skeleton_q[0]).intersection(set(skeleton_s[0])))
 
         elif type(skeleton_q[0]) is str:
@@ -83,24 +86,23 @@ class FuzzyConceptModel(object):
                     for q_node in skeleton_q[1]:
                         for s_node in skeleton_s[1]:
                             if len(q_node) == 1 and len(s_node) == 1 and len(set(q_node).intersection(set(s_node))) == 1:
-                                print q_node[0], s_node[0]
+                                #print q_node, s_node
                                 CF = fabs(
                                     self.query_pi_dict.get(q_node[0]) - self.spec_pi_dict.get(q_node[0]))
                                 self.similarity_score.append([CF, match_ratio, skeleton_q[0]])
-                                print 'CF = ', CF
+                                #print 'CF = ', CF
 
                             if len(q_node) == 1 and len(s_node) > 1 and len(set(q_node).intersection(set(s_node))) == 1:
-                                print q_node[0], s_node[0]
                                 CF = fabs(
                                     self.query_pi_dict.get(q_node[0]) - self.spec_pi_dict.get(q_node[0]))
                                 self.similarity_score.append([CF, match_ratio, skeleton_q[0]])
-                                print 'CF = ', CF
+                                #print 'CF = ', CF
 
                             if len(q_node) > 1 and len(s_node) > 1 and len(set(q_node).intersection(set(s_node))) > 0:
                                 for node_pair in zip(q_node, q_node[1:]):
                                     indices = []
                                     if node_pair[0] in s_node and node_pair[1] in s_node:
-                                        print node_pair[0], node_pair[1]
+                                        #print node_pair[0], node_pair[1]
                                         indices.append([s_node.index(node_pair[0]), s_node.index(node_pair[1])])
                                         if s_node[indices[0][0]:indices[0][1] + 1]:
                                             change_in_PI_node_1 = fabs(
@@ -129,11 +131,11 @@ class FuzzyConceptModel(object):
                                             change_in_PS = fabs(
                                                 PS_state_1 - ((sum(PI_neighbors) * sum(PS_n_paths))))
                                             CF = change_in_PI_node_1 * change_in_PI_node_2 * change_in_PS
-                                            print 'CF = ', CF
+                                            #print 'CF = ', CF
                                             self.similarity_score.append([CF, match_ratio, skeleton_q[0]])
 
                                         else:
-                                            print node_pair[0], node_pair[1]
+                                            #print node_pair[0], node_pair[1]
                                             change_in_PI_node_1 = fabs(
                                                 self.query_pi_dict.get(node_pair[0]) - self.spec_pi_dict.get(
                                                     node_pair[0]))
@@ -159,33 +161,46 @@ class FuzzyConceptModel(object):
                                             change_in_PS = fabs(
                                                 PS_state_1 - ((sum(PI_neighbors) * sum(PS_n_paths))))
                                             CF = change_in_PI_node_1 * change_in_PI_node_2 * change_in_PS
-                                            print 'CF = ', CF
+                                            #print 'CF = ', CF
                                             self.similarity_score.append([CF, match_ratio, skeleton_q[0]])
 
                                     if node_pair[0] in s_node and not node_pair[1] in s_node:
-                                        print node_pair[0], node_pair[1]
+                                        #print node_pair[0], node_pair[1], s_node
                                         CF = fabs(self.query_pi_dict.get(node_pair[0]) - self.spec_pi_dict.get(node_pair[0]))
                                         self.similarity_score.append([CF, match_ratio, skeleton_q[0]])
-                                        print 'CF = ', CF
+                                        #print 'CF = ', CF
 
                                     if node_pair[1] in s_node and not node_pair[0] in s_node:
-                                        print node_pair[0], node_pair[1]
+                                        #print node_pair[0], node_pair[1], s_node
                                         CF = fabs(self.query_pi_dict.get(node_pair[1]) - self.spec_pi_dict.get(node_pair[1]))
                                         self.similarity_score.append([CF, match_ratio, skeleton_q[0]])
-                                        print 'CF = ', CF
+                                        #print 'CF = ', CF
 
     def key(self, item):
         return [x for x in item[2]]
 
     def printSimilarityScore(self):
-        doc_similarity = []
+        doc_cf = []
         for k, v in groupby(self.similarity_score, key=self.key):
             v = dict((x[0], x) for x in v).values()
-            concept_score = []
+            concept_cf = []
             for score in v:
-                concept_score.append(exp(score[0] * score[1]))
-            doc_similarity.append(sum(concept_score))
-        if not len(doc_similarity) == 0:
-            print 'Similarity Score = ', sum(doc_similarity) / self.n_q_skeletons
-        else:
-            print 'Similarity Score = ', 0
+                concept_cf.append(score[0] * score[1])
+            doc_cf.append(sum(concept_cf))
+        sim_score = exp(sum(doc_cf)/100) * fabs((len(doc_cf)/self.n_q_skeletons))
+        self.doc_rank[self.spec_name] = sim_score
+
+    def printSearchResults(self, start_time):
+            sorted_x = sorted(self.doc_rank.iteritems(), key=operator.itemgetter(1))[::-1]
+            max_sim_score = max(self.doc_rank.values())
+            x = PrettyTable(['Rank', 'Specification Name', 'Similarity Score'])
+            x.align['Rank'] = 'c'
+            x.align['Specification Name'] = 'l'
+            x.align['Similarity Score'] = 'l'
+            x.padding_width = 2
+            for rank, item in enumerate(sorted_x):
+                if not item[1]/max_sim_score == 0:
+                    x.add_row([rank + 1, item[0], item[1]/max_sim_score])
+            print
+            print ' > ' + str(len(filter(lambda a: a != 0.0, x))) + ' matches found in ' + str(time() - start_time) + ' seconds'
+            print x

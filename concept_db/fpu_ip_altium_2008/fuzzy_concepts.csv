@@ -1,0 +1,321 @@
+"('clk_i signal,',)","[['clk_i signal,']]"
+"('non-zero',)",[['non-zero']]
+"('busy.31..busy.6',)",[['busy.31..busy.6']]
+"('acknowledge signal', 'integer unit')","[['acknowledge signal', 'integer unit']]"
+"('mul',)",[['mul']]
+"('float', 'float unit state', 'unit state')","[['float unit state', 'float', 'unit state']]"
+"('range', 'reduced', 'governing')","[['range', 'governing', 'reduced']]"
+"('broadcast', 'permission', 'insight', 'brief', 'subject')","[['broadcast', 'subject', 'permission', 'insight'], ['broadcast', 'subject', 'brief'], ['insight', 'permission', 'subject', 'brief']]"
+"('operand b address opb',)",[['operand b address opb']]
+"('acknowledgement', 'wishbone')","[['acknowledgement', 'wishbone']]"
+"('busy.3',)",[['busy.3']]
+"('base_fpu',)",[['base_fpu']]
+"('statute', 'imprisonment', 'explorer', 'civil', 'express', 'tasking', 'print', 'translation', 'document', 'situs')","[['statute', 'print', 'express', 'document', 'imprisonment'], ['statute', 'print', 'express', 'explorer'], ['statute', 'print', 'express', 'civil'], ['statute', 'print', 'express', 'document', 'tasking'], ['statute', 'print', 'translation'], ['statute', 'print', 'express', 'document', 'situs'], ['imprisonment', 'document', 'express', 'explorer'], ['imprisonment', 'document', 'express', 'civil'], ['imprisonment', 'document', 'tasking'], ['imprisonment', 'document', 'express', 'print', 'translation'], ['imprisonment', 'document', 'situs'], ['explorer', 'express', 'civil'], ['explorer', 'express', 'document', 'tasking'], ['explorer', 'express', 'print', 'translation'], ['explorer', 'express', 'document', 'situs'], ['civil', 'express', 'document', 'tasking'], ['civil', 'express', 'print', 'translation'], ['civil', 'express', 'document', 'situs'], ['tasking', 'document', 'express', 'print', 'translation'], ['tasking', 'document', 'situs'], ['translation', 'print', 'express', 'document', 'situs']]"
+"('accordingly', 'corrected', 'occur')","[['accordingly', 'corrected', 'occur']]"
+"('hardware description',)",[['hardware description']]
+"('result address ftoi', 'ftoi', 'busy.4', 'result', 'used')","[['result address ftoi', 'ftoi', 'busy.4', 'result', 'used']]"
+"('differ', 'regard', 'operands', 'signs')","[['differ', 'operands', 'regard'], ['differ', 'operands', 'signs'], ['regard', 'operands', 'signs']]"
+"('contents', 'actually')","[['contents', 'actually']]"
+"('subnormal', '2-127', 'less', 'involving', 'provision', 'event', ""underflow'"")","[['2-127', 'involving', 'subnormal', 'less'], ['2-127', 'involving', 'event', 'provision', ""underflow'""], ['less', 'subnormal', 'involving', 'event', 'provision', ""underflow'""]]"
+"('integer value', 'float unit')","[['integer value', 'float unit']]"
+"('clock cycle',)",[['clock cycle']]
+"('subtraction unit',)",[['subtraction unit']]
+"('difference',)",[['difference']]
+"('ftoi unit',)",[['ftoi unit']]
+"('also', 'reserved', 'another', 'means')","[['reserved', 'also', 'another'], ['reserved', 'also', 'means'], ['another', 'also', 'means']]"
+"('mentioned', 'detection', 'overflow', '+ b,', 'exponent underflow')","[['mentioned', 'detection', 'overflow', '+ b,'], ['mentioned', 'detection', 'exponent underflow'], ['+ b,', 'overflow', 'detection', 'exponent underflow']]"
+"('larger', 'subtract')","[['larger', 'subtract']]"
+"('sticky bit',)",[['sticky bit']]
+"('11111111', 'significand')","[['11111111', 'significand']]"
+"('clk_i signal', 'protocol', 'read', 'follows', 'write cycle:', 'write')","[['clk_i signal', 'write', 'protocol'], ['clk_i signal', 'write', 'follows'], ['clk_i signal', 'write', 'write cycle:'], ['protocol', 'write', 'follows'], ['protocol', 'write', 'write cycle:'], ['follows', 'write', 'write cycle:']]"
+"('selected',)",[['selected']]
+"('rst_i',)",[['rst_i']]
+"('functions',)",[['functions']]
+"('implements', 'even', 'initial', '1.1', 'mid-way', 'except', 'release', 'odd')","[['even', 'odd', 'implements', 'initial', '1.1'], ['even', 'odd', 'mid-way'], ['even', 'odd', 'except'], ['even', 'odd', 'implements', 'initial', 'release'], ['1.1', 'initial', 'implements', 'odd', 'mid-way'], ['1.1', 'initial', 'implements', 'odd', 'except'], ['1.1', 'initial', 'release'], ['mid-way', 'odd', 'except'], ['mid-way', 'odd', 'implements', 'initial', 'release'], ['except', 'odd', 'implements', 'initial', 'release']]"
+"(""value'"", 'radix point')","[[""value'"", 'radix point']]"
+"('volatile',)",[['volatile']]
+"('presents', 'based', 'read cycle', 'negates')","[['presents', 'read cycle', 'negates', 'based']]"
+"('transfer', 'target register', 'indicate')","[['target register', 'transfer', 'indicate']]"
+"('""00""', 'definition', 'entered', 'base address', 'want')","[['""00""', 'base address', 'entered', 'definition'], ['""00""', 'base address', 'entered', 'want'], ['definition', 'entered', 'want']]"
+"('connected', 'every')","[['connected', 'every']]"
+"('wb_fpu',)",[['wb_fpu']]
+"('towards',)",[['towards']]
+"('function', 'div', 'similar', 'busy.5')","[['similar', 'function', 'div', 'busy.5']]"
+"('load', 'associated')","[['load', 'associated']]"
+"('gray', 'summarize', 'background')","[['gray', 'summarize', 'background']]"
+"('sqr',)",[['sqr']]
+"('ranges', 'expressions', 'back', 'gives')","[['ranges', 'expressions', 'back'], ['ranges', 'expressions', 'gives'], ['back', 'expressions', 'gives']]"
+"('case', 'handle', 'taking', 'simplify', 'connection', 'wired', 'simplify connection')","[['connection', 'taking', 'handle', 'wired'], ['connection', 'taking', 'simplify', 'case', 'simplify connection'], ['wired', 'handle', 'taking', 'simplify', 'case', 'simplify connection']]"
+"('division operator', 'ready-to-use', 'vhdl', 'approximation', 'operator', 'approximation algorithm')","[['division operator', 'approximation', 'operator', 'approximation algorithm', 'ready-to-use'], ['division operator', 'approximation', 'operator', 'vhdl'], ['ready-to-use', 'approximation algorithm', 'operator', 'vhdl']]"
+"('calculation', 'integer', 'calculation units,')","[['calculation', 'integer', 'calculation units,']]"
+"('fpu',)",[['fpu']]
+"('add',)",[['add']]
+"('internal registers',)",[['internal registers']]
+"('begin', 'status flag')","[['begin', 'status flag']]"
+"('checked',)",[['checked']]
+"('four', 'describes')","[['four', 'describes']]"
+"('io_dat_o', 'io_we_o', 'io_we_o signal,')","[['io_we_o', 'io_dat_o', 'io_we_o signal,']]"
+"('else',)",[['else']]
+"('address to:',)",[['address to:']]
+"('24', 'remembering')","[['24', 'remembering']]"
+"('new',)",[['new']]
+"('opa address',)",[['opa address']]
+"('lower', 'last', 'rather', 'since', 'possible', 'equal', 'different', 'cases', 'higher')","[['possible', 'lower', 'last', 'higher', 'since', 'rather', 'equal', 'different'], ['possible', 'lower', 'cases'], ['different', 'equal', 'rather', 'since', 'higher', 'last', 'lower', 'cases']]"
+"('negating', 'responds', 'signals', 'processor interface signals', 'interface', 'host processor interface', 'naturally')","[['negating', 'naturally', 'responds'], ['negating', 'naturally', 'signals', 'processor interface signals'], ['responds', 'naturally', 'signals', 'processor interface signals']]"
+"('involved', 'registers', 'carried', 'wishbone bus interface')","[['involved', 'registers', 'carried'], ['involved', 'registers', 'wishbone bus interface'], ['carried', 'registers', 'wishbone bus interface']]"
+"('xor function',)",[['xor function']]
+"('result address itof',)",[['result address itof']]
+"('constructed',)",[['constructed']]
+"('reserves', 'effective', 'lists', '255')","[['effective', '255', 'reserves', 'lists']]"
+"('we_i',)",[['we_i']]
+"('register',)",[['register']]
+"('operational overview',)",[['operational overview']]
+"('cyc_i', 'dat_i')","[['cyc_i', 'dat_i']]"
+"('/ b,',)","[['/ b,']]"
+"('qnan', 'snan')","[['qnan', 'snan']]"
+"('written', 'specify')","[['written', 'specify']]"
+"('num',)",[['num']]
+"('xfpu',)",[['xfpu']]
+"('return',)",[['return']]
+"('internal units',)",[['internal units']]
+"('description', 'pin', 'wb_fpu pin', 'pin description', 'wb_fpu pin description', 'functional description', 'table')","[['wb_fpu pin', 'pin description', 'pin', 'wb_fpu pin description', 'description', 'functional description'], ['wb_fpu pin', 'pin description', 'pin', 'table'], ['functional description', 'description', 'wb_fpu pin description', 'pin', 'table']]"
+"('padded', 'entry', 'part', 'required', 'fractional')","[['part', 'entry', 'required', 'padded', 'fractional']]"
+"('cycle signal', 'wishbone cycle')","[['cycle signal', 'wishbone cycle']]"
+"('significand consisting', 'followed', 'consisting', 'fraction', 'hidden bit')","[['significand consisting', 'hidden bit', 'fraction', 'consisting', 'followed']]"
+"('2.0', 'examples')","[['2.0', 'examples']]"
+"('result address sub',)",[['result address sub']]
+"('first',)",[['first']]
+"('quiet', 'mathematically')","[['quiet', 'mathematically']]"
+"('still', 'handling', 'extra', 'extra hardware', 'need', 'avoids', 'bias handling')","[['still', 'avoids', 'handling', 'extra', 'extra hardware'], ['still', 'avoids', 'need'], ['still', 'avoids', 'handling', 'extra', 'bias handling'], ['extra hardware', 'extra', 'handling', 'avoids', 'need'], ['extra hardware', 'extra', 'bias handling'], ['need', 'avoids', 'handling', 'extra', 'bias handling']]"
+"('significant', 'least')","[['significant', 'least']]"
+"('define',)",[['define']]
+"('include', 'incremented')","[['include', 'incremented']]"
+"('divide-by-zero', 'zero/zero', 'sticky', 'zero', 'ready', 'infinity')","[['divide-by-zero', 'zero/zero', 'sticky', 'zero', 'ready', 'infinity']]"
+"('busy.1',)",[['busy.1']]
+"('space', 'processors', 'mapping')","[['space', 'processors', 'mapping']]"
+"('information', 'form')","[['information', 'form']]"
+"('functional',)",[['functional']]
+"('lsb',)",[['lsb']]
+"('content', 'highlighted', 'within', 'accessed')","[['highlighted', 'content', 'within']]"
+"('normalization unit',)",[['normalization unit']]
+"('input and,',)","[['input and,']]"
+"('smallest', 'requires', 'made')","[['requires', 'smallest', 'made']]"
+"('communications',)",[['communications']]
+"('various',)",[['various']]
+"('receive',)",[['receive']]
+"('calculation unit', 'facilitate')","[['calculation unit', 'facilitate']]"
+"('generates',)",[['generates']]
+"('property', 'whole', 'herein', 'trademarks')","[['property', 'trademarks', 'whole'], ['property', 'trademarks', 'herein'], ['whole', 'trademarks', 'herein']]"
+"('guard', '754')","[['guard', '754']]"
+"('addition unit',)",[['addition unit']]
+"('hardware',)",[['hardware']]
+"('round_up',)",[['round_up']]
+"('network', 'unauthorized', 'trademark', 'language', 'computer', 'prohibited', 'board')","[['network', 'trademark', 'unauthorized', 'language'], ['network', 'trademark', 'computer'], ['network', 'trademark', 'prohibited'], ['network', 'trademark', 'board'], ['language', 'unauthorized', 'trademark', 'computer'], ['language', 'unauthorized', 'trademark', 'prohibited'], ['language', 'unauthorized', 'trademark', 'board'], ['computer', 'trademark', 'prohibited'], ['computer', 'trademark', 'board'], ['prohibited', 'trademark', 'board']]"
+"('conjunction', 'denote')","[['conjunction', 'denote']]"
+"('algorithms', 'implemented', 'sections', 'look')","[['algorithms', 'implemented', 'sections', 'look']]"
+"('account',)",[['account']]
+"('internal register',)",[['internal register']]
+"('multiplication unit', 'busy', 'busy register', 'sub', 'determine')","[['multiplication unit', 'sub', 'busy', 'busy register'], ['multiplication unit', 'sub', 'busy', 'determine'], ['busy register', 'busy', 'determine']]"
+"('operand values:', 'depend')","[['operand values:', 'depend']]"
+"('status address status',)",[['status address status']]
+"('opa',)",[['opa']]
+"('""float""', 'denormalization')","[['""float""', 'denormalization']]"
+"('whether', 'enable', 'local')","[['enable', 'whether', 'local']]"
+"('directly',)",[['directly']]
+"('exponent value',)",[['exponent value']]
+"('processor', 'sent')","[['processor', 'sent']]"
+"('real', 'bearing', 'pattern', 'illustrated', 'ones', 'represented')","[['real', 'ones', 'illustrated', 'bearing', 'represented', 'pattern']]"
+"('round_down',)",[['round_down']]
+"('int',)",[['int']]
+"('one', 'frequencies', 'keep', 'cycles', 'clock')","[['one', 'frequencies', 'cycles', 'keep'], ['one', 'frequencies', 'clock'], ['keep', 'cycles', 'frequencies', 'clock']]"
+"('integer result address ftoi',)",[['integer result address ftoi']]
+"('nan',)",[['nan']]
+"('subsequent normalization',)",[['subsequent normalization']]
+"('maximum', '254')","[['maximum', '254']]"
+"('io_adr_o',)",[['io_adr_o']]
+"('subsequent', 'normalization')","[['subsequent', 'normalization']]"
+"('dual operand loading',)",[['dual operand loading']]
+"('adr_i',)",[['adr_i']]
+"('spartan', 'underflow', 'numbers', 'reasonable', 'instead', 'overflow detection')","[['spartan', 'instead', 'reasonable'], ['spartan', 'instead', 'numbers', 'underflow', 'overflow detection'], ['reasonable', 'instead', 'numbers', 'underflow', 'overflow detection']]"
+"('overflows', 'returned')","[['overflows', 'returned']]"
+"('thus', '135')","[['thus', '135']]"
+"('significand precision', 'hidden', 'implicit')","[['hidden', 'significand precision', 'implicit']]"
+"('spartan virtex-ii', 'subtraction process')","[['spartan virtex-ii', 'subtraction process']]"
+"('materials', 'software')","[['materials', 'software']]"
+"('high', 'requested', 'process', 'current', 'wishbone device acknowledgement', 'goes', 'standard wishbone device', 'addition process', 'cycle')","[['requested', 'goes', 'high', 'cycle', 'process'], ['requested', 'goes', 'current', 'wishbone device acknowledgement'], ['requested', 'goes', 'current', 'standard wishbone device'], ['requested', 'goes', 'high', 'cycle', 'addition process'], ['process', 'cycle', 'high', 'goes', 'current', 'wishbone device acknowledgement'], ['process', 'cycle', 'high', 'goes', 'current', 'standard wishbone device'], ['process', 'cycle', 'addition process'], ['wishbone device acknowledgement', 'current', 'standard wishbone device'], ['wishbone device acknowledgement', 'current', 'goes', 'high', 'cycle', 'addition process'], ['standard wishbone device', 'current', 'goes', 'high', 'cycle', 'addition process']]"
+"('gets', '10000111')","[['gets', '10000111']]"
+"('may', 'summer', 'updated', '08')","[['may', 'updated', 'summer'], ['may', 'updated', '08'], ['summer', 'updated', '08']]"
+"('typed', 'internally', 'splits')","[['internally', 'typed', 'splits']]"
+"('provide', 'identifier', 'code', 'supported', 'assumes')","[['provide', 'code', 'assumes', 'supported', 'identifier']]"
+"('control', 'arising', 'operation', 'type', 'undefined')","[['control', 'type', 'arising', 'undefined', 'operation']]"
+"('integer result', 'integer result address')","[['integer result', 'integer result address']]"
+"('32',)",[['32']]
+"('accordance', 'handshaking', 'internal', 'internal register accessed:', 'read operation,', 'occurs')","[['accordance', 'read operation,', 'handshaking', 'internal', 'internal register accessed:'], ['accordance', 'read operation,', 'handshaking', 'internal', 'occurs'], ['internal register accessed:', 'internal', 'occurs']]"
+"('wb_fpu base', 'register address', 'wb_fpu base address', 'wb_fpu base address +')","[['register address', 'wb_fpu base', 'wb_fpu base address'], ['register address', 'wb_fpu base', 'wb_fpu base address +'], ['wb_fpu base address', 'wb_fpu base', 'wb_fpu base address +']]"
+"('make',)",[['make']]
+"('indicates', 'asserted', 'data', 'level')","[['asserted', 'indicates', 'data', 'level']]"
+"('bit', 'register bit')","[['bit', 'register bit']]"
+"('small', 'results')","[['small', 'results']]"
+"('transfer cycle', 'strobe signal')","[['transfer cycle', 'strobe signal']]"
+"('""fpu""', 'slave interface', 'wb_intercon', 'interconnect device')","[['slave interface', '""fpu""', 'interconnect device', 'wb_intercon']]"
+"('majority', 'radix', 'expression')","[['majority', 'radix', 'expression']]"
+"('ack_o', 'dat_o', 'stb_i', 'ack_o signal')","[['ack_o', 'dat_o', 'stb_i', 'ack_o signal']]"
+"('100010100', 'giving', 'us')","[['giving', '100010100', 'us']]"
+"('conversion', 'operand value,')","[['conversion', 'operand value,']]"
+"('busy register,', 'state')","[['busy register,', 'state']]"
+"('clearing', 'initialization', 'soon')","[['initialization', 'clearing', 'soon']]"
+"('denormalization unit',)",[['denormalization unit']]
+"('no.', 'version')","[['no.', 'version']]"
+"('valid', 'asserts')","[['valid', 'asserts']]"
+"('containing',)",[['containing']]
+"('leads', 'supports')","[['leads', 'supports']]"
+"('properly', 'includes')","[['properly', 'includes']]"
+"('remember',)",[['remember']]
+"('negative', 'ffh')","[['negative', 'ffh']]"
+"('op12',)",[['op12']]
+"('wb_fpu symbol',)",[['wb_fpu symbol']]
+"('flag', 'edge', 'conversion unit', 'assertion')","[['flag', 'conversion unit', 'edge'], ['flag', 'conversion unit', 'assertion'], ['edge', 'conversion unit', 'assertion']]"
+"('obtained', 'featuring', 'added', 'subtracted', 'reading')","[['featuring', 'obtained', 'added']]"
+"('logos', 'modifications', 'registered', 'without', 'including', 'electronic')","[['modifications', 'registered', 'without'], ['modifications', 'registered', 'logos', 'including'], ['modifications', 'registered', 'logos', 'electronic'], ['without', 'registered', 'logos', 'including'], ['without', 'registered', 'logos', 'electronic'], ['including', 'logos', 'electronic']]"
+"('legal', '127')","[['legal', '127']]"
+"('word', 'algorithm', 'overview', 'operators', 'operational', 'therefore', 'bus width')","[['word', 'bus width', 'therefore', 'operators', 'algorithm'], ['word', 'bus width', 'therefore', 'operators', 'operational', 'overview'], ['algorithm', 'operators', 'operational', 'overview']]"
+"('input number', 'zero bit')","[['input number', 'zero bit']]"
+"('wishbone interface',)",[['wishbone interface']]
+"('opb address,',)","[['opb address,']]"
+"('assert', 'reacts')","[['assert', 'reacts']]"
+"('ieee',)",[['ieee']]
+"('constitute', 'detail')","[['constitute', 'detail']]"
+"('special',)",[['special']]
+"('specified',)",[['specified']]
+"('terminated', '-126', 'slave', 'exponent', '-126 which,', 'bias', 'base system', 'finished', 'base', 'action', 'execution', 'minexp')","[['-126', 'minexp', 'bias', '-126 which,'], ['-126', 'minexp', 'exponent', 'base', 'base system'], ['-126', 'minexp', 'exponent', 'base', 'slave', 'terminated', 'finished'], ['-126', 'minexp', 'exponent', 'base', 'slave', 'terminated', 'action'], ['-126', 'minexp', 'exponent', 'base', 'slave', 'terminated', 'execution'], ['-126 which,', 'bias', 'minexp', 'exponent', 'base', 'base system'], ['-126 which,', 'bias', 'minexp', 'exponent', 'base', 'slave', 'terminated', 'finished'], ['-126 which,', 'bias', 'minexp', 'exponent', 'base', 'slave', 'terminated', 'action'], ['-126 which,', 'bias', 'minexp', 'exponent', 'base', 'slave', 'terminated', 'execution'], ['base system', 'base', 'slave', 'terminated', 'finished'], ['base system', 'base', 'slave', 'terminated', 'action'], ['base system', 'base', 'slave', 'terminated', 'execution'], ['finished', 'terminated', 'action'], ['finished', 'terminated', 'execution'], ['action', 'terminated', 'execution']]"
+"('wb_fpu block diagram', 'wb_fpu block', 'diagram', 'particular', 'loaded', 'block diagram', 'block')","[['wb_fpu block diagram', 'wb_fpu block', 'block diagram', 'diagram', 'loaded', 'block', 'particular']]"
+"('previously', 'easy')","[['previously', 'easy']]"
+"('point',)",[['point']]
+"('simply',)",[['simply']]
+"('therein', 'example code', 'consider', 'configuring', 'order', 'calculations', '276', 'interface therein', 'example', 'simple example')","[['configuring', 'calculations', 'therein', 'example code', 'example', 'order', 'consider', 'simple example', '276'], ['configuring', 'calculations', 'therein', 'example code', 'interface therein'], ['276', 'simple example', 'consider', 'order', 'example', 'example code', 'interface therein']]"
+"('controller', 'controller communications')","[['controller', 'controller communications']]"
+"('io_adr_o line', 'ff10_0000h')","[['io_adr_o line', 'ff10_0000h']]"
+"('fully',)",[['fully']]
+"('become',)",[['become']]
+"('operand', 'addition', 'operand b')","[['operand', 'addition', 'operand b']]"
+"('multiplies',)",[['multiplies']]
+"('slower', 'determines', 'per', 'successive')","[['per', 'determines', 'slower', 'successive']]"
+"('term', 'fit')","[['term', 'fit']]"
+"('constructing',)",[['constructing']]
+"('appearing', 'latching', 'rising')","[['appearing', 'rising', 'latching']]"
+"('summarized',)",[['summarized']]
+"('sign bit',)",[['sign bit']]
+"('addresses', 'master', 'mode', 'mapped')","[['addresses', 'mapped', 'master'], ['addresses', 'mapped', 'mode'], ['master', 'mapped', 'mode']]"
+"('coding', 'amended', 'entries')","[['coding', 'amended', 'entries']]"
+"('infinity bit', 'set', 'input number,')","[['infinity bit', 'set', 'input number,']]"
+"('interfacing',)",[['interfacing']]
+"('access',)",[['access']]
+"('feeding',)",[['feeding']]
+"('slave device', 'ensure')","[['slave device', 'ensure']]"
+"('involution',)",[['involution']]
+"('underflows', 'resulting')","[['underflows', 'resulting']]"
+"('end',)",[['end']]
+"('units', 'division', 'acknowledge', 'cause', 'received')","[['acknowledge', 'cause', 'units', 'received']]"
+"('limited', 'designer', 'dxp', 'altium', 'nanoboard', 'simcode', 'livedesign', 'nanotalk', 'duplication')","[['designer', 'limited', 'dxp'], ['designer', 'limited', 'duplication', 'altium'], ['designer', 'limited', 'nanoboard'], ['designer', 'limited', 'simcode'], ['designer', 'limited', 'livedesign'], ['designer', 'limited', 'nanotalk'], ['dxp', 'limited', 'duplication', 'altium'], ['dxp', 'limited', 'nanoboard'], ['dxp', 'limited', 'simcode'], ['dxp', 'limited', 'livedesign'], ['dxp', 'limited', 'nanotalk'], ['altium', 'duplication', 'limited', 'nanoboard'], ['altium', 'duplication', 'limited', 'simcode'], ['altium', 'duplication', 'limited', 'livedesign'], ['altium', 'duplication', 'limited', 'nanotalk'], ['nanoboard', 'limited', 'simcode'], ['nanoboard', 'limited', 'livedesign'], ['nanoboard', 'limited', 'nanotalk'], ['simcode', 'limited', 'livedesign'], ['simcode', 'limited', 'nanotalk'], ['livedesign', 'limited', 'nanotalk']]"
+"('io_cyc_o', 'io_dat_i', 'io_ack_i', 'clk_i', 'io_stb_o')","[['io_dat_i', 'io_cyc_o', 'io_ack_i'], ['io_dat_i', 'io_cyc_o', 'clk_i', 'io_stb_o'], ['io_ack_i', 'io_cyc_o', 'clk_i', 'io_stb_o']]"
+"('time', 'select', 'send', 'writing')","[['time', 'writing', 'select'], ['time', 'writing', 'send'], ['select', 'writing', 'send']]"
+"('bias value',)",[['bias value']]
+"('symbol',)",[['symbol']]
+"('rounding',)",[['rounding']]
+"('name',)",[['name']]
+"('always',)",[['always']]
+"('significand lsb,', 'corresponding', 'signal', 'constructs', 'number', 'effect', 'construction', 'nan not', 'bits')","[['significand lsb,', 'number', 'signal', 'bits', 'corresponding', 'constructs'], ['significand lsb,', 'number', 'signal', 'bits', 'effect'], ['significand lsb,', 'number', 'signal', 'construction'], ['significand lsb,', 'number', 'nan not'], ['constructs', 'corresponding', 'bits', 'effect'], ['constructs', 'corresponding', 'bits', 'signal', 'construction'], ['constructs', 'corresponding', 'bits', 'signal', 'number', 'nan not'], ['effect', 'bits', 'signal', 'construction'], ['effect', 'bits', 'signal', 'number', 'nan not'], ['construction', 'signal', 'number', 'nan not']]"
+"('result address',)",[['result address']]
+"('bus', 'address bus,', 'polarity/', 'size')","[['address bus,', 'bus', 'polarity/'], ['address bus,', 'bus', 'size'], ['polarity/', 'bus', 'size']]"
+"('binary', 'representation', 'sign')","[['binary', 'representation', 'sign']]"
+"('aid',)",[['aid']]
+"('documentation', 'related')","[['documentation', 'related']]"
+"('-num -infinity',)",[['-num -infinity']]
+"('revision history', 'revision', 'history')","[['revision history', 'revision', 'history']]"
+"('operand b address', 'opb')","[['operand b address', 'opb']]"
+"('division unit',)",[['division unit']]
+"('represents', 'points', 'important')","[['points', 'represents', 'important']]"
+"('values', 'rounded', 'method', 'c programming')","[['values', 'rounded', 'method', 'c programming']]"
+"('register accessed:',)",[['register accessed:']]
+"('exponents', 'involves', 'care')","[['exponents', 'involves', 'care']]"
+"('24th', 'compensate', 'right')","[['compensate', '24th', 'right']]"
+"('result address mul',)",[['result address mul']]
+"('guard bit',)",[['guard bit']]
+"('communication', 'peripheral', 'bus interface', 'wishbone bus')","[['communication', 'peripheral', 'bus interface'], ['communication', 'peripheral', 'wishbone bus'], ['bus interface', 'peripheral', 'wishbone bus']]"
+"('divides',)",[['divides']]
+"('clock signal', 'system', 'external')","[['clock signal', 'system', 'external']]"
+"('following', 'methods')","[['following', 'methods']]"
+"('shifted', 'becomes')","[['shifted', 'becomes']]"
+"('represent', 'bit pattern')","[['represent', 'bit pattern']]"
+"('categories',)",[['categories']]
+"('equivalent',)",[['equivalent']]
+"('reset',)",[['reset']]
+"('precision floats,', 'exponent values,', 'positive', 'value', 'stored', 'arrive', 'floats')","[['exponent values,', 'positive', 'precision floats,', 'value'], ['exponent values,', 'positive', 'stored', 'arrive'], ['exponent values,', 'positive', 'stored', 'floats'], ['value', 'precision floats,', 'positive', 'stored', 'arrive'], ['value', 'precision floats,', 'positive', 'stored', 'floats'], ['arrive', 'stored', 'floats']]"
+"('2-126',)",[['2-126']]
+"('low', 'input', 'exception', 'input sign', 'obtain')","[['low', 'exception', 'input', 'input sign'], ['low', 'exception', 'input', 'obtain'], ['input sign', 'input', 'obtain']]"
+"('adding', 'adjusting')","[['adding', 'adjusting']]"
+"('transmit', 'receives')","[['transmit', 'receives']]"
+"('position', 'shifting', 'bit position')","[['shifting', 'position', 'bit position']]"
+"('loading', 'dual operand', 'cheap', 'effectively', 'single', 'square', 'dual', 'quick', 'operand loading')","[['dual operand', 'dual', 'loading', 'cheap'], ['dual operand', 'dual', 'loading', 'effectively'], ['dual operand', 'dual', 'loading', 'single'], ['dual operand', 'dual', 'loading', 'square'], ['dual operand', 'dual', 'loading', 'quick'], ['dual operand', 'dual', 'operand loading'], ['cheap', 'loading', 'effectively'], ['cheap', 'loading', 'single'], ['cheap', 'loading', 'square'], ['cheap', 'loading', 'quick'], ['cheap', 'loading', 'dual', 'operand loading'], ['effectively', 'loading', 'single'], ['effectively', 'loading', 'square'], ['effectively', 'loading', 'quick'], ['effectively', 'loading', 'dual', 'operand loading'], ['single', 'loading', 'square'], ['single', 'loading', 'quick'], ['single', 'loading', 'dual', 'operand loading'], ['square', 'loading', 'quick'], ['square', 'loading', 'dual', 'operand loading'], ['quick', 'loading', 'dual', 'operand loading']]"
+"('light form', 'takes', 'perform', 'light', 'purposes', 'information bits:')","[['light form', 'purposes', 'light', 'takes', 'perform'], ['light form', 'purposes', 'information bits:'], ['perform', 'takes', 'light', 'purposes', 'information bits:']]"
+"('operand address', 'unit')","[['operand address', 'unit']]"
+"('2008', 'copyright')","[['2008', 'copyright']]"
+"('provided', 'simultaneously', 'respectively', 'section', 'able', 'two', 'see', 'included')","[['simultaneously', 'section', 'provided', 'respectively', 'two', 'able'], ['simultaneously', 'section', 'provided', 'see'], ['simultaneously', 'section', 'provided', 'respectively', 'two', 'included'], ['able', 'two', 'respectively', 'provided', 'see'], ['able', 'two', 'included'], ['see', 'provided', 'respectively', 'two', 'included']]"
+"('encoded', 'biased', 'minimum', 'give')","[['biased', 'encoded', 'give', 'minimum']]"
+"('complete',)",[['complete']]
+"('unregistered', 'respective', 'subsidiaries', 'violators', 'rights', 'personal', 'media', 'penalties', 'topological', 'reviews', 'referenced', 'claimed', 'excerpts', 'criminal', 'permitted', 'fines', 'posted')","[['unregistered', 'claimed', 'rights', 'subsidiaries'], ['unregistered', 'claimed', 'violators'], ['unregistered', 'claimed', 'personal'], ['unregistered', 'claimed', 'media'], ['unregistered', 'claimed', 'penalties'], ['unregistered', 'claimed', 'rights', 'topological'], ['unregistered', 'claimed', 'reviews'], ['unregistered', 'claimed', 'permitted', 'respective', 'referenced'], ['unregistered', 'claimed', 'excerpts'], ['unregistered', 'claimed', 'criminal'], ['unregistered', 'claimed', 'fines'], ['unregistered', 'claimed', 'posted'], ['subsidiaries', 'rights', 'claimed', 'violators'], ['subsidiaries', 'rights', 'claimed', 'personal'], ['subsidiaries', 'rights', 'claimed', 'media'], ['subsidiaries', 'rights', 'claimed', 'penalties'], ['subsidiaries', 'rights', 'topological'], ['subsidiaries', 'rights', 'claimed', 'reviews'], ['subsidiaries', 'rights', 'claimed', 'permitted', 'respective', 'referenced'], ['subsidiaries', 'rights', 'claimed', 'excerpts'], ['subsidiaries', 'rights', 'claimed', 'criminal'], ['subsidiaries', 'rights', 'claimed', 'fines'], ['subsidiaries', 'rights', 'claimed', 'posted'], ['violators', 'claimed', 'personal'], ['violators', 'claimed', 'media'], ['violators', 'claimed', 'penalties'], ['violators', 'claimed', 'rights', 'topological'], ['violators', 'claimed', 'reviews'], ['violators', 'claimed', 'permitted', 'respective', 'referenced'], ['violators', 'claimed', 'excerpts'], ['violators', 'claimed', 'criminal'], ['violators', 'claimed', 'fines'], ['violators', 'claimed', 'posted'], ['personal', 'claimed', 'media'], ['personal', 'claimed', 'penalties'], ['personal', 'claimed', 'rights', 'topological'], ['personal', 'claimed', 'reviews'], ['personal', 'claimed', 'permitted', 'respective', 'referenced'], ['personal', 'claimed', 'excerpts'], ['personal', 'claimed', 'criminal'], ['personal', 'claimed', 'fines'], ['personal', 'claimed', 'posted'], ['media', 'claimed', 'penalties'], ['media', 'claimed', 'rights', 'topological'], ['media', 'claimed', 'reviews'], ['media', 'claimed', 'permitted', 'respective', 'referenced'], ['media', 'claimed', 'excerpts'], ['media', 'claimed', 'criminal'], ['media', 'claimed', 'fines'], ['media', 'claimed', 'posted'], ['penalties', 'claimed', 'rights', 'topological'], ['penalties', 'claimed', 'reviews'], ['penalties', 'claimed', 'permitted', 'respective', 'referenced'], ['penalties', 'claimed', 'excerpts'], ['penalties', 'claimed', 'criminal'], ['penalties', 'claimed', 'fines'], ['penalties', 'claimed', 'posted'], ['topological', 'rights', 'claimed', 'reviews'], ['topological', 'rights', 'claimed', 'permitted', 'respective', 'referenced'], ['topological', 'rights', 'claimed', 'excerpts'], ['topological', 'rights', 'claimed', 'criminal'], ['topological', 'rights', 'claimed', 'fines'], ['topological', 'rights', 'claimed', 'posted'], ['reviews', 'claimed', 'permitted', 'respective', 'referenced'], ['reviews', 'claimed', 'excerpts'], ['reviews', 'claimed', 'criminal'], ['reviews', 'claimed', 'fines'], ['reviews', 'claimed', 'posted'], ['referenced', 'respective', 'permitted', 'claimed', 'excerpts'], ['referenced', 'respective', 'permitted', 'claimed', 'criminal'], ['referenced', 'respective', 'permitted', 'claimed', 'fines'], ['referenced', 'respective', 'permitted', 'claimed', 'posted'], ['excerpts', 'claimed', 'criminal'], ['excerpts', 'claimed', 'fines'], ['excerpts', 'claimed', 'posted'], ['criminal', 'claimed', 'fines'], ['criminal', 'claimed', 'posted'], ['fines', 'claimed', 'posted']]"
+"('-num',)",[['-num']]
+"('multiplication', 'xor')","[['multiplication', 'xor']]"
+"('float conversion',)",[['float conversion']]
+"('op1',)",[['op1']]
+"('contains',)",[['contains']]
+"('simple', 'clearly')","[['simple', 'clearly']]"
+"('truncate',)",[['truncate']]
+"('turn', 'converted', 'converts', 'performed')","[['converted', 'turn', 'converts'], ['converted', 'turn', 'performed'], ['converts', 'turn', 'performed']]"
+"('result address add',)",[['result address add']]
+"('inline',)",[['inline']]
+"('nearest', 'programming', 'round')","[['nearest', 'round', 'programming']]"
+"('defined',)",[['defined']]
+"('normalized',)",[['normalized']]
+"('//',)",[['//']]
+"('demonstrated', 'understanding')","[['demonstrated', 'understanding']]"
+"('nan bit', 'input value')","[['nan bit', 'input value']]"
+"('tsk3000a', 'risc', 'risc processor')","[['tsk3000a', 'risc', 'risc processor']]"
+"('peripherals', 'would')","[['peripherals', 'would']]"
+"('returns', 'divide')","[['returns', 'divide']]"
+"('00000000',)",[['00000000']]
+"('smaller', 'things', 'complicated', 'taken', 'making', 'subtracting')","[['things', 'smaller', 'complicated'], ['things', 'smaller', 'making', 'taken'], ['things', 'smaller', 'subtracting'], ['complicated', 'smaller', 'making', 'taken'], ['complicated', 'smaller', 'subtracting'], ['taken', 'making', 'smaller', 'subtracting']]"
+"('necessary', 'however')","[['necessary', 'however']]"
+"('distinct', 'comparison', 'distinct values,')","[['distinct', 'comparison', 'distinct values,']]"
+"('wb_intercon configurable wishbone interconnect', 'wb_intercon configurable', 'interconnect')","[['wb_intercon configurable wishbone interconnect', 'wb_intercon configurable', 'interconnect']]"
+"('status', 'outputs', 'applicable', 'status address', 'presenting', 'output', 'present')","[['status address', 'status', 'outputs', 'applicable', 'presenting'], ['status address', 'status', 'outputs', 'output'], ['status address', 'status', 'outputs', 'applicable', 'present'], ['presenting', 'applicable', 'outputs', 'output'], ['presenting', 'applicable', 'present'], ['output', 'outputs', 'applicable', 'present']]"
+"('virtex-ii', 'subtraction')","[['virtex-ii', 'subtraction']]"
+"('influence',)",[['influence']]
+"('< opb,', 'inverse', 'original')","[['< opb,', 'inverse', 'original']]"
+"('treated', 'discussed', 'specifically', 'next')","[['treated', 'discussed', 'specifically', 'next']]"
+"('date',)",[['date']]
+"('prepares', 'addressed', 'identifying')","[['prepares', 'identifying', 'addressed']]"
+"('processing',)",[['processing']]
+"('+num +infinity', '-infinity')","[['+num +infinity', '-infinity']]"
+"('bus mode', 'word addressing', 'interface ensure', 'input address', 'output address', 'line', 'wb_intercon device')","[['bus mode', 'input address', 'word addressing', 'interface ensure'], ['bus mode', 'input address', 'wb_intercon device', 'output address'], ['bus mode', 'input address', 'line'], ['interface ensure', 'word addressing', 'input address', 'wb_intercon device', 'output address'], ['interface ensure', 'word addressing', 'input address', 'line'], ['output address', 'wb_intercon device', 'input address', 'line']]"
+"('inputs', 'asserting', 'target', 'indicating', 'monitors')","[['inputs', 'target', 'asserting'], ['inputs', 'target', 'indicating'], ['inputs', 'target', 'monitors'], ['asserting', 'target', 'indicating'], ['asserting', 'target', 'monitors'], ['indicating', 'target', 'monitors']]"
+"('convert', 'notation')","[['convert', 'notation']]"
+"('rise', 'processor interface', 'host processor', 'host', 'host processor interface signals', 'address', 'io_cyc_o outputs,')","[['rise', 'processor interface', 'host', 'host processor interface signals'], ['rise', 'processor interface', 'host', 'io_cyc_o outputs,'], ['host processor interface signals', 'host', 'io_cyc_o outputs,']]"
+"('busy register bit',)",[['busy register bit']]
+"('maxexp', 'precision')","[['maxexp', 'precision']]"
+"('wishbone device', 'acknowledgement signal', 'standard wishbone', 'bus cycle')","[['wishbone device', 'bus cycle', 'acknowledgement signal'], ['wishbone device', 'bus cycle', 'standard wishbone'], ['acknowledgement signal', 'bus cycle', 'standard wishbone']]"
+"('example interfacing',)",[['example interfacing']]
+"('wishbone interconnect device', 'address line', 'wb_fpu device', 'wishbone interconnect')","[['wishbone interconnect device', 'wishbone interconnect', 'address line', 'wb_fpu device']]"
+"('float result', 'float result address', 'float result address itof')","[['float result', 'float result address', 'float result address itof']]"
+"('consists',)",[['consists']]
+"('start', 'strobe')","[['start', 'strobe']]"
+"(""'1'"", ""'0'"")","[[""'1'"", ""'0'""]]"
+"('note',)",[['note']]
+"('performing',)",[['performing']]
+"('op2',)",[['op2']]
+"('1.0',)",[['1.0']]
+"('lowest', 'owners', 'providing', 'wb_intercon configurable wishbone', 'work', 'bytes', 'use', 'drive', 'published', 'width', 'sequential', 'uses', 'mechanical', 'design', 'copied', 'configurable', 'addressing', 'shows')","[['lowest', 'width', 'providing'], ['lowest', 'width', 'addressing', 'drive', 'configurable', 'wb_intercon configurable wishbone'], ['lowest', 'width', 'sequential', 'bytes'], ['lowest', 'width', 'addressing', 'drive', 'design', 'owners', 'use'], ['lowest', 'width', 'addressing', 'drive', 'design', 'owners', 'work', 'published'], ['lowest', 'width', 'addressing', 'drive', 'design', 'uses'], ['lowest', 'width', 'addressing', 'drive', 'design', 'owners', 'mechanical'], ['lowest', 'width', 'addressing', 'drive', 'design', 'owners', 'copied'], ['lowest', 'width', 'addressing', 'drive', 'shows'], ['providing', 'width', 'addressing', 'drive', 'configurable', 'wb_intercon configurable wishbone'], ['providing', 'width', 'sequential', 'bytes'], ['providing', 'width', 'addressing', 'drive', 'design', 'owners', 'use'], ['providing', 'width', 'addressing', 'drive', 'design', 'owners', 'work', 'published'], ['providing', 'width', 'addressing', 'drive', 'design', 'uses'], ['providing', 'width', 'addressing', 'drive', 'design', 'owners', 'mechanical'], ['providing', 'width', 'addressing', 'drive', 'design', 'owners', 'copied'], ['providing', 'width', 'addressing', 'drive', 'shows'], ['wb_intercon configurable wishbone', 'configurable', 'drive', 'addressing', 'width', 'sequential', 'bytes'], ['wb_intercon configurable wishbone', 'configurable', 'drive', 'design', 'owners', 'use'], ['wb_intercon configurable wishbone', 'configurable', 'drive', 'design', 'owners', 'work', 'published'], ['wb_intercon configurable wishbone', 'configurable', 'drive', 'design', 'uses'], ['wb_intercon configurable wishbone', 'configurable', 'drive', 'design', 'owners', 'mechanical'], ['wb_intercon configurable wishbone', 'configurable', 'drive', 'design', 'owners', 'copied'], ['wb_intercon configurable wishbone', 'configurable', 'drive', 'shows'], ['bytes', 'sequential', 'width', 'addressing', 'drive', 'design', 'owners', 'use'], ['bytes', 'sequential', 'width', 'addressing', 'drive', 'design', 'owners', 'work', 'published'], ['bytes', 'sequential', 'width', 'addressing', 'drive', 'design', 'uses'], ['bytes', 'sequential', 'width', 'addressing', 'drive', 'design', 'owners', 'mechanical'], ['bytes', 'sequential', 'width', 'addressing', 'drive', 'design', 'owners', 'copied'], ['bytes', 'sequential', 'width', 'addressing', 'drive', 'shows'], ['use', 'owners', 'work', 'published'], ['use', 'owners', 'design', 'uses'], ['use', 'owners', 'mechanical'], ['use', 'owners', 'copied'], ['use', 'owners', 'design', 'drive', 'shows'], ['published', 'work', 'owners', 'design', 'uses'], ['published', 'work', 'owners', 'mechanical'], ['published', 'work', 'owners', 'copied'], ['published', 'work', 'owners', 'design', 'drive', 'shows'], ['uses', 'design', 'owners', 'mechanical'], ['uses', 'design', 'owners', 'copied'], ['uses', 'design', 'drive', 'shows'], ['mechanical', 'owners', 'copied'], ['mechanical', 'owners', 'design', 'drive', 'shows'], ['copied', 'owners', 'design', 'drive', 'shows']]"
+"('integer unit state',)",[['integer unit state']]
+"('assumed', 'using')","[['assumed', 'using']]"
+"('result address div',)",[['result address div']]
+"('conversions',)",[['conversions']]

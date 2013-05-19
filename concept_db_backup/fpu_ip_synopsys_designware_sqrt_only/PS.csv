@@ -1,0 +1,191 @@
+set,operates,0.6748741121173221,NA
+source code,bits,0.4011048151492055,NA
+hdl,verilog,0.723138733595515,NA
+timing,better,0.42483648005713576,NA
+compatibility,754,0.6368128188514266,NA
+component,usage,0.805258460255451,NA
+acrobat,distiller,0.5914969680256045,NA
+building,block,0.46854989986332574,NA
+variety,provides,0.6744774310232552,NA
+modes,rounding,0.45795713268634947,NA
+format,standard,0.7492649166135149,NA
+biased,numbers,0.6689802769873315,NA
+fp input,simulation model,0.4622728512337445,NA
+model,name,0.6506534171938059,NA
+functionality,considers,0.5917341539799021,NA
+vhdl simulation model,vhdl simulation,0.43026308732404134,NA
+provides,variety,0.6744774310232552,NA
+datasheet,dw_fp_sqrt,0.43693008894704305,NA
+designware building,ip documentation,0.48771088059500944,NA
+status_inst,status_inst,0.22639289235542115,NA
+information,directory,0.4757908055970458,NA
+//,// instance,0.4468077842018987,NA
+covers,controlled,0.5748299061143668,NA
+implementations,implementations,0.0,NA
+integer,integer,0.0,NA
+flags,status,0.3801120325833314,NA
+description,description,0.0,NA
+area,employed,0.9394965242948442,NA
+usage,component,0.805258460255451,NA
+synthesis,field,0.5294107618380449,NA
+better,area,0.44578194240610847,NA
+inst_sig_width,inst_sig_width,0.22639289235542115,NA
+width,parameter,0.4877014266413843,NA
+inst_a,inst_a,0.22639289235542115,NA
+values,therefore,1.0,NA
+vhdl simulation,vhdl,0.4471484530767704,NA
+benefits,benefits,0.22639289235542115,NA
+rounding,numbers,0.5917309805496047,NA
+output,fully,0.6245131788678541,NA
+download information:,ip,0.4825304701567393,NA
+component,ieee_compliance parameter,0.519132333722007,NA
+block ip documentation overview,block,0.47148165604326925,NA
+end,end,0.0,NA
+inst_exp_width,inst_exp_width,0.22639289235542115,NA
+compliant,library,0.5871034190197655,NA
+sig_width,sig_width,0.22639289235542115,NA
+code,synthesis,0.48016148814509907,NA
+ieee,nans.,0.45317102053695235,NA
+port,port map,0.43504954705200205,NA
+component instantiation,hdl usage through,0.41731793839344256,NA
+instantiation,usage,0.6329728377390906,NA
+zeros,operates,0.816611436609205,NA
+synthesis model,license feature,0.46639777279797046,NA
+datapath,datapath generator,0.4526906637885389,NA
+parameter,width,0.4877014266413843,NA
+design unit name,unit,0.5409532409805424,NA
+design,unit,0.5194351851366185,NA
+root,square,0.5715391519795051,NA
+simulation,license,0.5519782941543352,NA
+generic,generic,0.22639289235542115,NA
+ip directory,star,0.4813202288502747,NA
+component instantiation,hdl usage through component,0.41731793839344256,NA
+inc.,inc.,0.0,NA
+31,exponents,0.5500880287209747,NA
+alternative,reciprocal,0.40170412592552246,NA
+instance,instance,0.0,NA
+exponent,word,0.562862032214928,NA
+block ip documentation,block,0.47148165604326925,NA
+word,exponent,0.562862032214928,NA
+simulation model,fp input,0.4622728512337445,NA
+numbers,biased,0.6689802769873315,NA
+length,word,0.4598866157017769,NA
+verilog simulation,code,0.44975704231579766,NA
+square,reciprocal,0.5933675446116581,NA
+infinity,use,0.9090265930228545,NA
+architecture,fully,0.4212238800647081,NA
+framemaker,7.1,0.2547389056356454,NA
+pin name,model,0.44517247221202616,NA
+rtl,vhdl,0.49603827303312165,NA
+square root,square,0.4202289185537358,NA
+features,features,0.22639289235542115,NA
+name,values,0.48328225652426204,NA
+configuration,configuration,0.0,NA
+topics,topics,0.22639289235542115,NA
+operates,zeros,0.816611436609205,NA
+parameter,ieee_compliance parameter,0.43681617905117426,NA
+ieee_compliance parameter,component,0.519132333722007,NA
+mode,rounding,0.5016529304956134,NA
+part,253,0.46325462583744725,NA
+controls,considers,0.5576000392024084,NA
+direction,name,0.47672943482790214,NA
+license,simulation,0.5519782941543352,NA
+generated,including,0.7456859957003111,NA
+pin,name,0.5796605299509754,NA
+253,fractional,0.49035573407645944,NA
+acrobat distiller,windows,0.5440705127884274,NA
+data,generated,0.43494989900357145,NA
+component instantiation,hdl usage,0.41731793839344256,NA
+hdl usage through,component instantiation,0.41731793839344256,NA
+word length,word,0.419437102578206,NA
+fractional part,fractional,0.4773684612125046,NA
+output,including,0.6333601882742352,NA
+source,synthesis,0.4897778392924117,NA
+employed,area,0.9394965242948442,NA
+values,name,0.48328225652426204,NA
+windows,acrobat distiller,0.5440705127884274,NA
+xml,xml,0.0,NA
+bits,model,0.42914925995348474,NA
+754,compatibility,0.6368128188514266,NA
+parameters,standard,0.9273609486038135,NA
+fully,output,0.6245131788678541,NA
+number,number,0.36222862776867387,NA
+exponents,range,0.6022984753085634,NA
+translate_off,translate_off,0.22639289235542115,NA
+fp,rnd,0.5707873566112055,NA
+datapath generator,datapath,0.4526906637885389,NA
+rnd,fp,0.5707873566112055,NA
+ip documentation overview,block,0.49017752737569614,NA
+// instance,//,0.4468077842018987,NA
+hdl usage through component,component instantiation,0.41731793839344256,NA
+begin,begin,0.0,NA
+verilog simulation model,ieee_compliance,0.45075316709517016,NA
+fraction,status,0.6354791357892985,NA
+u1,u1,0.0,NA
+function,model,0.5139535959690593,NA
+7.0.5,distiller,0.5881427229321022,NA
+considers,functionality,0.5917341539799021,NA
+block ip,designware building,0.47897960662396766,NA
+7.1,framemaker,0.2547389056356454,NA
+module,module,0.22639289235542115,NA
+model source,ieee_compliance,0.5587089132598213,NA
+generator,area,0.6293316022899312,NA
+rounding,modes,0.45795713268634947,NA
+use,infinity,0.9090265930228545,NA
+status,fraction,0.6354791357892985,NA
+designware datapath,datapath,0.45259554286623543,NA
+pragma,pragma,0.22639289235542115,NA
+verilog,hdl,0.723138733595515,NA
+controlled,formats,0.7146230688023673,NA
+ip documentation,designware building,0.48771088059500944,NA
+range,exponents,0.6022984753085634,NA
+models,models,0.0,NA
+overview,datapath,0.2692662585740413,NA
+distiller,acrobat,0.5914969680256045,NA
+version,information,0.4636743334256085,NA
+input,fraction,0.5051574014198155,NA
+required,license,0.5402312764844256,NA
+vhdl,rtl,0.49603827303312165,NA
+hdl usage,component instantiation,0.41731793839344256,NA
+z_inst,z_inst,0.0,NA
+map,port map,0.8400489286902337,NA
+inst,inst,0.0,NA
+input,input,0.22639289235542115,NA
+field,synthesis,0.5294107618380449,NA
+reciprocal,square,0.5933675446116581,NA
+standard,parameters,0.9273609486038135,NA
+unit,design unit name,0.5409532409805424,NA
+port map,map,0.8400489286902337,NA
+datapath,overview,0.2692662585740413,NA
+feature,license feature,0.4756870491591869,NA
+status,flags,0.3801120325833314,NA
+formats,controlled,0.7146230688023673,NA
+parameter ieee_compliance,parameter ieee_compliance,0.0,NA
+exp_width,exp_width,0.0,NA
+nans.,ieee,0.45317102053695235,NA
+directory,download,0.6084846140481579,NA
+related,related,0.22639289235542115,NA
+block,ip documentation overview,0.49017752737569614,NA
+entity,entity,0.0,NA
+license feature,feature,0.4756870491591869,NA
+datasheet,datasheet,0.0,NA
+dw_fp_sqrt,datasheet,0.43693008894704305,NA
+library,infinity,0.8944474071771303,NA
+23,23,0.22639289235542115,NA
+design unit,unit,0.47828263571266666,NA
+name,model,0.6506534171938059,NA
+ip,star,0.708605925651451,NA
+ieee_compliance,model source,0.5587089132598213,NA
+fractional,253,0.49035573407645944,NA
+documentation,designware building,0.47482104178600115,NA
+therefore,values,1.0,NA
+star,ip,0.708605925651451,NA
+dw_fp_invsqrt,dw_fp_invsqrt,0.0,NA
+endmodule,endmodule,0.0,NA
+designware,designware building,0.43404086863618707,NA
+model,function,0.5139535959690593,NA
+inst_rnd,inst_rnd,0.0,NA
+positive,positive,0.22639289235542115,NA
+implementation,direction,0.4537645923809251,NA
+download,directory,0.6084846140481579,NA
+including,generated,0.7456859957003111,NA

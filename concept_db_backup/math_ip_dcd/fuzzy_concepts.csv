@@ -1,0 +1,166 @@
+"('8051', 'gnu')","[['8051', 'gnu']]"
+"('multi sites license', 'multi sites', 'option', 'license', 'core instantiation')","[['multi sites license', 'multi sites', 'core instantiation', 'option'], ['multi sites license', 'multi sites', 'core instantiation', 'license'], ['option', 'core instantiation', 'license']]"
+"('xml',)",[['xml']]
+"('shifter',)",[['shifter']]
+"('supported', 'types')","[['supported', 'types']]"
+"('exponent', 'measured', 'contains', 'number', 'exponent part', 'shifting', 'conversion operations,', 'exponents')","[['measured', 'number', 'exponent', 'exponents', 'contains'], ['measured', 'number', 'exponent', 'conversion operations,', 'exponent part'], ['measured', 'number', 'exponent', 'shifting'], ['contains', 'exponents', 'exponent', 'conversion operations,', 'exponent part'], ['contains', 'exponents', 'exponent', 'shifting'], ['exponent part', 'conversion operations,', 'exponent', 'shifting']]"
+"('operand', 'encrypted', 'invalid', 'format')","[['operand', 'format', 'encrypted'], ['operand', 'format', 'invalid'], ['encrypted', 'format', 'invalid']]"
+"('mathematic', 'replaces', 'compilation', 'driver', 'require', 'equivalent', 'software')","[['mathematic', 'software', 'replaces'], ['mathematic', 'software', 'driver', 'compilation'], ['mathematic', 'software', 'driver', 'require'], ['mathematic', 'software', 'driver', 'equivalent'], ['replaces', 'software', 'driver', 'compilation'], ['replaces', 'software', 'driver', 'require'], ['replaces', 'software', 'driver', 'equivalent'], ['compilation', 'driver', 'require'], ['compilation', 'driver', 'equivalent'], ['require', 'driver', 'equivalent']]"
+"('78.7', 'average', 'speed')","[['78.7', 'speed', 'average']]"
+"('dfpmu-', 'versa', 'math unit', 'math')","[['dfpmu-', 'math unit', 'math', 'versa']]"
+"('align', 'test bench', 'analysis', 'performs')","[['align', 'performs', 'test bench'], ['align', 'performs', 'analysis'], ['test bench', 'performs', 'analysis']]"
+"('configurability', 'built-in')","[['configurability', 'built-in']]"
+"('algorithms', 'dsp')","[['algorithms', 'dsp']]"
+"('chip', 'select')","[['chip', 'select']]"
+"('register address', 'register', 'address')","[['register address', 'register', 'address']]"
+"('double', 'code or/and')","[['double', 'code or/and']]"
+"('fax',)",[['fax']]
+"('nor-malization', 'denormalization', 'bits', 'mantissa shifting,', 'infor-mation')","[['nor-malization', 'denormalization', 'bits'], ['nor-malization', 'denormalization', 'mantissa shifting,'], ['nor-malization', 'denormalization', 'infor-mation'], ['bits', 'denormalization', 'mantissa shifting,'], ['bits', 'denormalization', 'infor-mation'], ['mantissa shifting,', 'denormalization', 'infor-mation']]"
+"('c compiler', 'work', 'library functions,', 'perfor-mance', 'c library')","[['c compiler', 'work', 'library functions,'], ['c compiler', 'work', 'perfor-mance'], ['c compiler', 'work', 'c library'], ['library functions,', 'work', 'perfor-mance'], ['library functions,', 'work', 'c library'], ['perfor-mance', 'work', 'c library']]"
+"('instruction', 'computed', '35000', 'required', 'results', 'placed', '100')","[['results', 'placed', 'required', 'computed', 'instruction', '35000', '100']]"
+"('fcld', 'fild')","[['fcld', 'fild']]"
+"('control unit', 'unit')","[['control unit', 'unit']]"
+"('applications',)",[['applications']]
+"('diagram', 'block diagram', 'block')","[['block diagram', 'diagram', 'block']]"
+"('gates', 'area')","[['gates', 'area']]"
+"('bytom',)",[['bytom']]
+"('wroclawska',)",[['wroclawska']]
+"('available', 'details')","[['available', 'details']]"
+"('source', 'macros', 'rtl', 'hdl source', 'configurable')","[['macros', 'hdl source', 'rtl', 'source', 'configurable']]"
+"('ue', 'format support')","[['ue', 'format support']]"
+"('implemented',)",[['implemented']]
+"('configuration', 'allows', 'level', 'certain', 'turned', 'single', 'standard', 'exact', 'middle', 'zero', 'uses', 'numbers', 'text', 'site', 'flexible', 'providing', 'supports', 'arguments')","[['configuration', 'supports', 'certain'], ['configuration', 'supports', 'level', 'turned'], ['configuration', 'supports', 'exact'], ['configuration', 'supports', 'flexible', 'arguments', 'zero'], ['configuration', 'supports', 'level', 'numbers'], ['configuration', 'supports', 'flexible', 'text'], ['configuration', 'supports', 'flexible', 'standard', 'allows', 'uses', 'single', 'middle', 'site'], ['configuration', 'supports', 'providing'], ['certain', 'supports', 'level', 'turned'], ['certain', 'supports', 'exact'], ['certain', 'supports', 'flexible', 'arguments', 'zero'], ['certain', 'supports', 'level', 'numbers'], ['certain', 'supports', 'flexible', 'text'], ['certain', 'supports', 'flexible', 'standard', 'allows', 'uses', 'single', 'middle', 'site'], ['certain', 'supports', 'providing'], ['turned', 'level', 'supports', 'exact'], ['turned', 'level', 'supports', 'flexible', 'arguments', 'zero'], ['turned', 'level', 'numbers'], ['turned', 'level', 'supports', 'flexible', 'text'], ['turned', 'level', 'supports', 'flexible', 'standard', 'allows', 'uses', 'single', 'middle', 'site'], ['turned', 'level', 'supports', 'providing'], ['exact', 'supports', 'flexible', 'arguments', 'zero'], ['exact', 'supports', 'level', 'numbers'], ['exact', 'supports', 'flexible', 'text'], ['exact', 'supports', 'flexible', 'standard', 'allows', 'uses', 'single', 'middle', 'site'], ['exact', 'supports', 'providing'], ['zero', 'arguments', 'flexible', 'supports', 'level', 'numbers'], ['zero', 'arguments', 'flexible', 'text'], ['zero', 'arguments', 'flexible', 'standard', 'allows', 'uses', 'single', 'middle', 'site'], ['zero', 'arguments', 'flexible', 'supports', 'providing'], ['numbers', 'level', 'supports', 'flexible', 'text'], ['numbers', 'level', 'supports', 'flexible', 'standard', 'allows', 'uses', 'single', 'middle', 'site'], ['numbers', 'level', 'supports', 'providing'], ['text', 'flexible', 'standard', 'allows', 'uses', 'single', 'middle', 'site'], ['text', 'flexible', 'supports', 'providing'], ['site', 'middle', 'single', 'uses', 'allows', 'standard', 'flexible', 'supports', 'providing']]"
+"('addition', 'speed improvement:', 'module', 'improvement', '1.1.1.1.1', '300', 'mhz', 'scalability', 'integer type', '38.8')","[['speed improvement:', '38.8', 'improvement', '1.1.1.1.1'], ['speed improvement:', '38.8', 'improvement', 'mhz', 'addition', '300'], ['speed improvement:', '38.8', 'improvement', 'mhz', 'addition', 'scalability'], ['speed improvement:', '38.8', 'improvement', 'mhz', 'addition', 'module', 'integer type'], ['1.1.1.1.1', 'improvement', 'mhz', 'addition', '300'], ['1.1.1.1.1', 'improvement', 'mhz', 'addition', 'scalability'], ['1.1.1.1.1', 'improvement', 'mhz', 'addition', 'module', 'integer type'], ['300', 'addition', 'scalability'], ['300', 'addition', 'module', 'integer type'], ['scalability', 'addition', 'module', 'integer type']]"
+"('months', 'maintenance')","[['months', 'maintenance']]"
+"('site license', 'single site')","[['site license', 'single site']]"
+"('email support', 'phone')","[['email support', 'phone']]"
+"('pin',)",[['pin']]
+"('operations', 'registers')","[['operations', 'registers']]"
+"('ffld', 'float')","[['ffld', 'float']]"
+"('coprocessor', 'doesnt', 'c double,', 'replacement')","[['doesnt', 'coprocessor', 'c double,'], ['doesnt', 'coprocessor', 'replacement'], ['c double,', 'coprocessor', 'replacement']]"
+"('defined', 'make', 'without')","[['make', 'defined', 'without']]"
+"('fucom comparison', 'documentation', 'fucom')","[['documentation', 'fucom comparison', 'fucom']]"
+"('popular', 'exception', 'masks')","[['popular', 'masks', 'exception']]"
+"('delivered', 'package', 'drivers', 'together', 'designed', 'operate', 'processor')","[['delivered', 'drivers', 'package', 'operate', 'processor', 'together'], ['delivered', 'drivers', 'designed'], ['together', 'processor', 'operate', 'package', 'drivers', 'designed']]"
+"('updates',)",[['updates']]
+"('implementation support', 'fest')","[['implementation support', 'fest']]"
+"('symbol',)",[['symbol']]
+"('point', 'library', 'everything', 'program', 'accelerate', 'system performance', 'compiler')","[['library', 'compiler', 'point', 'accelerate', 'everything'], ['library', 'compiler', 'program'], ['library', 'compiler', 'point', 'system performance'], ['everything', 'accelerate', 'point', 'compiler', 'program'], ['everything', 'accelerate', 'point', 'system performance'], ['program', 'compiler', 'point', 'system performance']]"
+"('output',)",[['output']]
+"('pe', 'lack pe')","[['pe', 'lack pe']]"
+"('fsub addition,', 'fsub', 'vhdl', '12.0', 'subtraction', 'fadd', 'hdl')","[['fsub', 'vhdl', 'subtraction', '12.0'], ['fsub', 'vhdl', 'subtraction', 'fadd'], ['fsub', 'vhdl', 'subtraction', 'fsub addition,', 'hdl'], ['12.0', 'subtraction', 'fadd'], ['12.0', 'subtraction', 'fsub addition,', 'hdl'], ['fadd', 'subtraction', 'fsub addition,', 'hdl']]"
+"('15.0', 'square root', 'arithmetic')","[['square root', '15.0', 'arithmetic']]"
+"('performance', 'asic', 'core area')","[['performance', 'asic', 'core area']]"
+"('fmax', '29000')","[['fmax', '29000']]"
+"('ip core',)",[['ip core']]
+"('38.3',)",[['38.3']]
+"('environment', 'bench environment', 'bench')","[['bench environment', 'environment', 'bench']]"
+"('direct', 'embedded')","[['direct', 'embedded']]"
+"('technology', 'variety')","[['technology', 'variety']]"
+"('core documenta-tion', 'documenta-tion')","[['core documenta-tion', 'documenta-tion']]"
+"('gnu c/c++,', 'c interface', 'exception indicator:')","[['c interface', 'gnu c/c++,', 'exception indicator:']]"
+"('comparison', 'mantissa part', 'conver-sion')","[['mantissa part', 'comparison', 'conver-sion']]"
+"('synthesis', 'scripts')","[['synthesis', 'scripts']]"
+"('ze', 'loca-tion')","[['ze', 'loca-tion']]"
+"('mantissas', 'executed', 'part')","[['mantissas', 'executed', 'part']]"
+"('irq',)",[['irq']]
+"('process',)",[['process']]
+"('ip core updates,', 'changes', 'major', 'versions')","[['changes', 'ip core updates,', 'major'], ['changes', 'ip core updates,', 'versions'], ['major', 'ip core updates,', 'versions']]"
+"('bus',)",[['bus']]
+"('tests', 'responses', 'reference')","[['tests', 'reference', 'responses']]"
+"('fp', 'fp instruction')","[['fp', 'fp instruction']]"
+"('silicon', 'floating', 'save')","[['silicon', 'floating', 'save']]"
+"('41-902',)",[['41-902']]
+"('tomasz', 'krzyzak', 'tomasz krzyzak')","[['krzyzak', 'tomasz', 'tomasz krzyzak']]"
+"('type', 'vice versa')","[['type', 'vice versa']]"
+"('conversion', 'vice')","[['conversion', 'vice']]"
+"('application', 'flld', 'example application', 'example', 'feld')","[['flld', 'example application', 'example', 'application', 'feld']]"
+"('1.0', '52.0')","[['1.0', '52.0']]"
+"('digital core', 'contact', 'core design', 'distributors', 'digital')","[['digital core', 'contact', 'core design', 'distributors', 'digital']]"
+"('processing', 'routines', 'fast', 'also', 'made', 'exceptions', 'automatically')","[['routines', 'exceptions', 'processing', 'fast', 'automatically', 'also'], ['routines', 'exceptions', 'processing', 'fast', 'made'], ['also', 'automatically', 'fast', 'made']]"
+"('3.05',)",[['3.05']]
+"('60.8', 'multiplica-tion', 'tangent', 'square root,')","[['60.8', 'tangent', 'multiplica-tion'], ['60.8', 'tangent', 'square root,'], ['multiplica-tion', 'tangent', 'square root,']]"
+"('source code', 'verilog rtl')","[['source code', 'verilog rtl']]"
+"('stored',)",[['stored']]
+"('functions', 'compute')","[['functions', 'compute']]"
+"('included', 'key features', 'features', 'key')","[['included', 'key', 'key features'], ['included', 'key', 'features'], ['key features', 'key', 'features']]"
+"('classes', 'passed')","[['classes', 'passed']]"
+"('following', 'test', 'verilog test', 'verilog test bench')","[['following', 'verilog test', 'test', 'verilog test bench']]"
+"('plain', 'result')","[['plain', 'result']]"
+"('aligned', 'processors')","[['aligned', 'processors']]"
+"('restrictions', 'customers', 'chips', 'regarding', 'places')","[['restrictions', 'chips', 'customers'], ['restrictions', 'chips', 'regarding'], ['restrictions', 'chips', 'places'], ['customers', 'chips', 'regarding'], ['customers', 'chips', 'places'], ['regarding', 'chips', 'places']]"
+"('sized', 'running', 'dedicated', 'companies', 'location')","[['sized', 'location', 'running'], ['sized', 'location', 'dedicated'], ['sized', 'location', 'companies'], ['running', 'location', 'dedicated'], ['running', 'location', 'companies'], ['dedicated', 'location', 'companies']]"
+"('reset', 'global')","[['reset', 'global']]"
+"('use', 'selected', 'within', 'free', 'used', 'time', 'cases', 'several')","[['within', 'cases', 'use', 'selected', 'time', 'several', 'free'], ['within', 'cases', 'used'], ['free', 'several', 'time', 'selected', 'use', 'cases', 'used']]"
+"('nios-ii',)",[['nios-ii']]
+"('single precision real', 'oe', 'ieee-754', 'verilog source code or/and', 'precision real')","[['verilog source code or/and', 'ieee-754', 'single precision real', 'oe', 'precision real']]"
+"('cs',)",[['cs']]
+"('1.1.1.1.2',)",[['1.1.1.1.2']]
+"('operation', 'loading', 'instructions')","[['loading', 'operation', 'instructions']]"
+"('one',)",[['one']]
+"('control', 'supplied', 'manages', 'particular', 'interface', 'execution')","[['supplied', 'interface', 'control', 'particular', 'manages'], ['supplied', 'interface', 'control', 'particular', 'execution'], ['manages', 'particular', 'execution']]"
+"('ip core implementation', 'implementation', 'core implementation support', 'core implementation')","[['core implementation support', 'implementation', 'ip core implementation', 'core implementation']]"
+"('two', 'formats')","[['two', 'formats']]"
+"('function', 'integers', 'specialized', 'space')","[['function', 'integers', 'specialized', 'space']]"
+"('poland',)",[['poland']]
+"('cordic', 'arctangent operations,', 'trigonometric')","[['cordic', 'trigonometric', 'arctangent operations,']]"
+"('special',)",[['special']]
+"('deliverables',)",[['deliverables']]
+"('devices',)",[['devices']]
+"('data bus', 'data', 'three')","[['data bus', 'data', 'three']]"
+"('table', 'divided')","[['table', 'divided']]"
+"('rst', 'input', 'periods', 'environments', 'storing')","[['rst', 'input', 'storing', 'periods'], ['rst', 'input', 'storing', 'environments'], ['periods', 'storing', 'environments']]"
+"('fsin', 'notes', 'cosine', 'installation', '72.4')","[['notes', 'installation', 'fsin', 'cosine', '72.4']]"
+"('82', '48', '66')","[['48', '82', '66']]"
+"('commercial', 'compared', 'every')","[['compared', 'commercial', 'every']]"
+"('pins', 'description')","[['pins', 'description']]"
+"('core', 'specification', 'flst', 'core specification', 'ftan', 'integer')","[['specification', 'core', 'integer', 'flst'], ['specification', 'core', 'core specification', 'ftan'], ['flst', 'integer', 'core', 'core specification', 'ftan']]"
+"('independent', 'technologies', 'independent design,')","[['technologies', 'independent', 'independent design,']]"
+"('accelerate system', 'software functions,', 'point coprocessor,', 'software compilation', 'hardware operations,', 'done automatically,', 'c driver', 'c software', 'cpu')","[['accelerate system', 'c driver', 'software functions,'], ['accelerate system', 'c driver', 'point coprocessor,'], ['accelerate system', 'c driver', 'software compilation'], ['accelerate system', 'c driver', 'hardware operations,'], ['accelerate system', 'c driver', 'done automatically,'], ['accelerate system', 'c driver', 'c software'], ['accelerate system', 'c driver', 'cpu'], ['software functions,', 'c driver', 'point coprocessor,'], ['software functions,', 'c driver', 'software compilation'], ['software functions,', 'c driver', 'hardware operations,'], ['software functions,', 'c driver', 'done automatically,'], ['software functions,', 'c driver', 'c software'], ['software functions,', 'c driver', 'cpu'], ['point coprocessor,', 'c driver', 'software compilation'], ['point coprocessor,', 'c driver', 'hardware operations,'], ['point coprocessor,', 'c driver', 'done automatically,'], ['point coprocessor,', 'c driver', 'c software'], ['point coprocessor,', 'c driver', 'cpu'], ['software compilation', 'c driver', 'hardware operations,'], ['software compilation', 'c driver', 'done automatically,'], ['software compilation', 'c driver', 'c software'], ['software compilation', 'c driver', 'cpu'], ['hardware operations,', 'c driver', 'done automatically,'], ['hardware operations,', 'c driver', 'c software'], ['hardware operations,', 'c driver', 'cpu'], ['done automatically,', 'c driver', 'c software'], ['done automatically,', 'c driver', 'cpu'], ['c software', 'c driver', 'cpu']]"
+"('fatan', 'arctangent')","[['fatan', 'arctangent']]"
+"('optimization', '0.18', 'typical')","[['0.18', 'optimization', 'typical']]"
+"('site license option', 'license option', 'single site license')","[['license option', 'site license option', 'single site license']]"
+"('technical', 'fcst', 'fist')","[['technical', 'fist', 'fcst']]"
+"('single precision', 'real', 'overflow', 'verilog source code')","[['single precision', 'real', 'overflow', 'verilog source code']]"
+"('assist', 'programming', 'system')","[['assist', 'system', 'programming']]"
+"('97.9', 'arcs')","[['97.9', 'arcs']]"
+"('depends', 'bit', 'configured', 'size')","[['bit', 'depends', 'size', 'configured']]"
+"('delivery', 'ffst')","[['delivery', 'ffst']]"
+"('methods', 'simple', 'licensing', 'easy', 'fees', 'comprehensible', 'clearly')","[['easy', 'methods', 'simple', 'fees'], ['easy', 'methods', 'simple', 'comprehensible'], ['easy', 'methods', 'simple', 'clearly'], ['fees', 'simple', 'comprehensible'], ['fees', 'simple', 'clearly'], ['comprehensible', 'simple', 'clearly']]"
+"('fxam examine', 'examine', 'fxam')","[['examine', 'fxam examine', 'fxam']]"
+"('instantiation', 'company', 'multi', 'business')","[['instantiation', 'multi', 'company'], ['instantiation', 'multi', 'business'], ['company', 'multi', 'business']]"
+"('core updates,', 'minor')","[['core updates,', 'minor']]"
+"('support', 'email')","[['support', 'email']]"
+"('write', 'enable')","[['write', 'enable']]"
+"('overall',)",[['overall']]
+"('overview',)",[['overview']]
+"('core performance',)",[['core performance']]
+"('modifications', 'significantly', 'computations', 'performing', 'hardware', 'done', 'main')","[['modifications', 'main', 'significantly'], ['modifications', 'main', 'computations'], ['modifications', 'main', 'hardware', 'performing'], ['modifications', 'main', 'done'], ['significantly', 'main', 'computations'], ['significantly', 'main', 'hardware', 'performing'], ['significantly', 'main', 'done'], ['computations', 'main', 'hardware', 'performing'], ['computations', 'main', 'done'], ['performing', 'hardware', 'main', 'done']]"
+"('datasheet',)",[['datasheet']]
+"('denormal', 'de', 'automatic', 'verilog', 'simulation')","[['de', 'denormal', 'verilog', 'simulation', 'automatic']]"
+"('21.5', 'sine', '14.1', 'configura-tion', 'risc')","[['21.5', '14.1', 'sine', 'configura-tion'], ['21.5', '14.1', 'sine', 'risc'], ['configura-tion', 'sine', 'risc']]"
+"('survey',)",[['survey']]
+"('32', '74', '37')","[['32', '37', '74']]"
+"('gives',)",[['gives']]
+"('wersji', 'wersji prbnej', 'w wersji', 'prbnej')","[['wersji', 'w wersji', 'prbnej', 'wersji prbnej']]"
+"('94',)",[['94']]
+"('interrupt', 'request indicator', 'indicator', 'interrupt request', 'interrupt request indicator')","[['interrupt', 'interrupt request', 'indicator', 'request indicator'], ['interrupt', 'interrupt request', 'interrupt request indicator'], ['request indicator', 'indicator', 'interrupt request', 'interrupt request indicator']]"
+"('bus size',)",[['bus size']]
+"('modification', 'request', 'please', 'check', 'please check:')","[['request', 'modification', 'please', 'check'], ['request', 'modification', 'please', 'please check:'], ['check', 'please', 'please check:']]"
+"('fmul', 'ncsim', 'fpga edif/ngo/ngd/qxp/vqm', 'fdiv', 'fdiv multiplication,')","[['fmul', 'fdiv multiplication,', 'ncsim', 'fpga edif/ngo/ngd/qxp/vqm'], ['fmul', 'fdiv multiplication,', 'ncsim', 'fdiv'], ['fpga edif/ngo/ngd/qxp/vqm', 'ncsim', 'fdiv']]"
+"('microsoft word', 'word', '2010', 'microsoft')","[['2010', 'word', 'microsoft word', 'microsoft']]"
+"('information', 'appropriate', 'compliance')","[['information', 'compliance', 'appropriate']]"
+"('c compilers,', 'dp8051', 'compilers')","[['dp8051', 'c compilers,', 'compilers']]"
+"('division', 'encrypted netlist or/and', 'netlist', 'mantissa', 'encrypted netlist', 'netlist or/and', 'ie')","[['encrypted netlist or/and', 'netlist', 'encrypted netlist', 'ie', 'netlist or/and']]"
+"('square', 'silicon space', 'built-in conversion', 'point function', 'modelsim', 'save silicon', 'compute math', 'root', 'configura-tion level,', 'point type', 'fsqrt')","[['silicon space', 'square', 'built-in conversion'], ['silicon space', 'square', 'point function'], ['silicon space', 'square', 'root', 'modelsim'], ['silicon space', 'square', 'save silicon'], ['silicon space', 'square', 'compute math'], ['silicon space', 'square', 'configura-tion level,'], ['silicon space', 'square', 'point type'], ['silicon space', 'square', 'root', 'fsqrt'], ['built-in conversion', 'square', 'point function'], ['built-in conversion', 'square', 'root', 'modelsim'], ['built-in conversion', 'square', 'save silicon'], ['built-in conversion', 'square', 'compute math'], ['built-in conversion', 'square', 'configura-tion level,'], ['built-in conversion', 'square', 'point type'], ['built-in conversion', 'square', 'root', 'fsqrt'], ['point function', 'square', 'root', 'modelsim'], ['point function', 'square', 'save silicon'], ['point function', 'square', 'compute math'], ['point function', 'square', 'configura-tion level,'], ['point function', 'square', 'point type'], ['point function', 'square', 'root', 'fsqrt'], ['modelsim', 'root', 'square', 'save silicon'], ['modelsim', 'root', 'square', 'compute math'], ['modelsim', 'root', 'square', 'configura-tion level,'], ['modelsim', 'root', 'square', 'point type'], ['modelsim', 'root', 'fsqrt'], ['save silicon', 'square', 'compute math'], ['save silicon', 'square', 'configura-tion level,'], ['save silicon', 'square', 'point type'], ['save silicon', 'square', 'root', 'fsqrt'], ['compute math', 'square', 'configura-tion level,'], ['compute math', 'square', 'point type'], ['compute math', 'square', 'root', 'fsqrt'], ['configura-tion level,', 'square', 'point type'], ['configura-tion level,', 'square', 'root', 'fsqrt'], ['point type', 'square', 'root', 'fsqrt']]"
+"('execute', 'number of:', 'clk')","[['execute', 'number of:', 'clk']]"
+"('system clock', 'clock')","[['system clock', 'clock']]"
+"('10.6',)",[['10.6']]
+"('status', 'fpga', 'fully', '11.7', 'synchronous', 'device', 'internal', 'static', 'makes', 'multiplication', 'design', 'local', 'called', 'digital core design')","[['fpga', 'multiplication', 'device', '11.7'], ['fpga', 'multiplication', 'fully', 'design', 'static', 'synchronous'], ['fpga', 'multiplication', 'device', 'status', 'makes', 'internal'], ['fpga', 'multiplication', 'fully', 'design', 'called'], ['fpga', 'multiplication', 'fully', 'design', 'local', 'digital core design'], ['11.7', 'device', 'multiplication', 'fully', 'design', 'static', 'synchronous'], ['11.7', 'device', 'status', 'makes', 'internal'], ['11.7', 'device', 'multiplication', 'fully', 'design', 'called'], ['11.7', 'device', 'multiplication', 'fully', 'design', 'local', 'digital core design'], ['synchronous', 'static', 'design', 'fully', 'multiplication', 'device', 'status', 'makes', 'internal'], ['synchronous', 'static', 'design', 'called'], ['synchronous', 'static', 'design', 'local', 'digital core design'], ['internal', 'makes', 'status', 'device', 'multiplication', 'fully', 'design', 'called'], ['internal', 'makes', 'status', 'device', 'multiplication', 'fully', 'design', 'local', 'digital core design'], ['called', 'design', 'local', 'digital core design']]"
+"('modules', 'external')","[['modules', 'external']]"
+"('product', 'branches', 'manufactured', 'unlimited', 'sites', 'licensed', 'project', 'ip core instantiation', 'corporate')","[['sites', 'manufactured', 'licensed'], ['sites', 'manufactured', 'product', 'project'], ['sites', 'manufactured', 'product', 'unlimited', 'branches', 'ip core instantiation'], ['sites', 'manufactured', 'product', 'unlimited', 'corporate'], ['licensed', 'manufactured', 'product', 'project'], ['licensed', 'manufactured', 'product', 'unlimited', 'branches', 'ip core instantiation'], ['licensed', 'manufactured', 'product', 'unlimited', 'corporate'], ['project', 'product', 'unlimited', 'branches', 'ip core instantiation'], ['project', 'product', 'unlimited', 'corporate'], ['ip core instantiation', 'branches', 'unlimited', 'corporate']]"
+"('small',)",[['small']]
+"('headquarters',)",[['headquarters']]
+"('code', 'vhdl source code or/and', 'source code:', 'lack', 'precision', 'vhdl source', 'underflow', 'vhdl source code', 'verilog source')","[['vhdl source code or/and', 'vhdl source', 'precision', 'lack', 'source code:'], ['vhdl source code or/and', 'vhdl source', 'underflow', 'vhdl source code'], ['vhdl source code or/and', 'vhdl source', 'precision', 'lack', 'code', 'verilog source'], ['source code:', 'lack', 'precision', 'vhdl source', 'underflow', 'vhdl source code'], ['source code:', 'lack', 'code', 'verilog source'], ['vhdl source code', 'underflow', 'vhdl source', 'precision', 'lack', 'code', 'verilog source']]"
+"('282', 'tel')","[['282', 'tel']]"
+"('ip', 'royalty-per-chip fees,', 'royalty-per-chip')","[['ip', 'royalty-per-chip', 'royalty-per-chip fees,']]"

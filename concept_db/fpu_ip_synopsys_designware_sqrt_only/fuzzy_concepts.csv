@@ -1,0 +1,74 @@
+"('z_inst',)",[['z_inst']]
+"('inst_rnd',)",[['inst_rnd']]
+"('xml',)",[['xml']]
+"('pragma',)",[['pragma']]
+"('hdl', 'verilog')","[['hdl', 'verilog']]"
+"('253', 'part', 'fractional part', 'fractional')","[['part', '253', 'fractional', 'fractional part']]"
+"('dw_fp_invsqrt',)",[['dw_fp_invsqrt']]
+"('inc.',)",[['inc.']]
+"('end',)",[['end']]
+"('windows', 'acrobat distiller')","[['windows', 'acrobat distiller']]"
+"('compatibility', '754')","[['compatibility', '754']]"
+"('positive',)",[['positive']]
+"('generic',)",[['generic']]
+"('begin',)",[['begin']]
+"('number',)",[['number']]
+"('integer',)",[['integer']]
+"('entity',)",[['entity']]
+"('configuration',)",[['configuration']]
+"('nans.', 'ieee')","[['nans.', 'ieee']]"
+"('sig_width',)",[['sig_width']]
+"('inst_exp_width',)",[['inst_exp_width']]
+"('fp input', 'simulation model')","[['fp input', 'simulation model']]"
+"('download', 'directory', 'version', 'information')","[['download', 'directory', 'information', 'version']]"
+"('building', 'block ip documentation overview', 'block ip documentation', 'block', 'ip documentation overview')","[['building', 'block', 'block ip documentation overview'], ['building', 'block', 'block ip documentation'], ['building', 'block', 'ip documentation overview'], ['block ip documentation overview', 'block', 'block ip documentation'], ['block ip documentation overview', 'block', 'ip documentation overview'], ['block ip documentation', 'block', 'ip documentation overview']]"
+"('module',)",[['module']]
+"('features',)",[['features']]
+"('component instantiation', 'hdl usage', 'hdl usage through component', 'hdl usage through')","[['hdl usage', 'component instantiation', 'hdl usage through component'], ['hdl usage', 'component instantiation', 'hdl usage through'], ['hdl usage through component', 'component instantiation', 'hdl usage through']]"
+"('provides', 'variety')","[['provides', 'variety']]"
+"('topics',)",[['topics']]
+"('required', 'license', 'simulation')","[['required', 'license', 'simulation']]"
+"('datasheet', 'dw_fp_sqrt')","[['datasheet', 'dw_fp_sqrt']]"
+"('functionality', 'considers', 'controls')","[['functionality', 'considers', 'controls']]"
+"('fully', 'generated', 'including', 'architecture', 'output', 'data')","[['architecture', 'fully', 'output', 'including', 'generated', 'data']]"
+"('compliant', 'infinity', 'use', 'library')","[['compliant', 'library', 'infinity', 'use']]"
+"('models',)",[['models']]
+"('ip', 'ip directory', 'star', 'download information:')","[['ip directory', 'star', 'ip', 'download information:']]"
+"('endmodule',)",[['endmodule']]
+"('//', '// instance')","[['//', '// instance']]"
+"('license feature', 'feature', 'synthesis model')","[['feature', 'license feature', 'synthesis model']]"
+"('exp_width',)",[['exp_width']]
+"('u1',)",[['u1']]
+"('square root', 'alternative', 'square', 'root', 'reciprocal')","[['square root', 'square', 'reciprocal', 'alternative'], ['square root', 'square', 'root'], ['alternative', 'reciprocal', 'square', 'root']]"
+"('description',)",[['description']]
+"('design', 'design unit name', 'unit', 'design unit')","[['design', 'unit', 'design unit name'], ['design', 'unit', 'design unit'], ['design unit name', 'unit', 'design unit']]"
+"('7.1', 'framemaker')","[['7.1', 'framemaker']]"
+"('instantiation', 'ieee_compliance parameter', 'component', 'width', 'usage', 'parameter')","[['instantiation', 'usage', 'component', 'ieee_compliance parameter', 'parameter', 'width']]"
+"('related',)",[['related']]
+"('23',)",[['23']]
+"('designware building', 'designware', 'ip documentation', 'block ip', 'documentation')","[['designware', 'designware building', 'ip documentation'], ['designware', 'designware building', 'block ip'], ['designware', 'designware building', 'documentation'], ['ip documentation', 'designware building', 'block ip'], ['ip documentation', 'designware building', 'documentation'], ['block ip', 'designware building', 'documentation']]"
+"('benefits',)",[['benefits']]
+"('status', 'input', 'flags', 'fraction')","[['status', 'input', 'flags', 'fraction']]"
+"('implementations',)",[['implementations']]
+"('status_inst',)",[['status_inst']]
+"('distiller', 'acrobat', '7.0.5')","[['acrobat', 'distiller', '7.0.5']]"
+"('controlled', 'covers', 'formats')","[['covers', 'controlled', 'formats']]"
+"('fp', 'rnd')","[['fp', 'rnd']]"
+"('parameter ieee_compliance',)",[['parameter ieee_compliance']]
+"('rounding', 'biased', 'mode', 'numbers', 'modes')","[['biased', 'numbers', 'rounding', 'mode'], ['biased', 'numbers', 'rounding', 'modes'], ['mode', 'rounding', 'modes']]"
+"('vhdl simulation', 'rtl', 'vhdl', 'vhdl simulation model')","[['rtl', 'vhdl', 'vhdl simulation', 'vhdl simulation model']]"
+"('overview', 'datapath generator', 'datapath', 'designware datapath')","[['overview', 'datapath', 'datapath generator'], ['overview', 'datapath', 'designware datapath'], ['datapath generator', 'datapath', 'designware datapath']]"
+"('source', 'field', 'code', 'verilog simulation', 'synthesis')","[['source', 'synthesis', 'field'], ['source', 'synthesis', 'code', 'verilog simulation'], ['field', 'synthesis', 'code', 'verilog simulation']]"
+"('inst_sig_width',)",[['inst_sig_width']]
+"('instance',)",[['instance']]
+"('set', 'zeros', 'operates')","[['set', 'operates', 'zeros']]"
+"('map', 'port', 'port map')","[['map', 'port map', 'port']]"
+"('inst_a',)",[['inst_a']]
+"('translate_off',)",[['translate_off']]
+"('31', 'range', 'exponents')","[['31', 'exponents', 'range']]"
+"('format', 'parameters', 'standard')","[['format', 'standard', 'parameters']]"
+"('ieee_compliance', 'model source', 'verilog simulation model')","[['model source', 'ieee_compliance', 'verilog simulation model']]"
+"('better', 'timing', 'employed', 'generator', 'area')","[['timing', 'better', 'area', 'employed'], ['timing', 'better', 'area', 'generator'], ['employed', 'area', 'generator']]"
+"('function', 'source code', 'direction', 'name', 'pin', 'implementation', 'pin name', 'values', 'therefore', 'model', 'bits')","[['function', 'model', 'bits', 'source code'], ['function', 'model', 'name', 'pin'], ['function', 'model', 'name', 'direction', 'implementation'], ['function', 'model', 'pin name'], ['function', 'model', 'name', 'values', 'therefore'], ['source code', 'bits', 'model', 'name', 'pin'], ['source code', 'bits', 'model', 'name', 'direction', 'implementation'], ['source code', 'bits', 'model', 'pin name'], ['source code', 'bits', 'model', 'name', 'values', 'therefore'], ['pin', 'name', 'direction', 'implementation'], ['pin', 'name', 'model', 'pin name'], ['pin', 'name', 'values', 'therefore'], ['implementation', 'direction', 'name', 'model', 'pin name'], ['implementation', 'direction', 'name', 'values', 'therefore'], ['pin name', 'model', 'name', 'values', 'therefore']]"
+"('length', 'word', 'exponent', 'word length')","[['length', 'word', 'exponent'], ['length', 'word', 'word length'], ['exponent', 'word', 'word length']]"
+"('inst',)",[['inst']]

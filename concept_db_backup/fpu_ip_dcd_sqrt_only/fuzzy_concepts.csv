@@ -1,0 +1,111 @@
+"('xml',)",[['xml']]
+"('ip', 'core updates,', 'minor', 'ip core')","[['minor', 'core updates,', 'ip', 'ip core']]"
+"('ieee-754 number', 'main')","[['ieee-754 number', 'main']]"
+"('algorithms', 'dsp')","[['algorithms', 'dsp']]"
+"('request', 'please', 'please check:', 'modification', 'check', 'special')","[['please check:', 'please', 'modification'], ['please check:', 'please', 'check'], ['please check:', 'please', 'request', 'special'], ['modification', 'please', 'check'], ['modification', 'please', 'request', 'special'], ['check', 'please', 'request', 'special']]"
+"('data bus', 'ofo')","[['data bus', 'ofo']]"
+"('rst', 'description')","[['rst', 'description']]"
+"('pipelined square root', 'square root', 'pipelined square root unit')","[['square root', 'pipelined square root', 'pipelined square root unit']]"
+"('poland',)",[['poland']]
+"('full ieee-754 compliance', 'full ieee-754', 'full', 'ieee-754 compliance')","[['full ieee-754 compliance', 'full ieee-754', 'full'], ['full ieee-754 compliance', 'full ieee-754', 'ieee-754 compliance'], ['full', 'full ieee-754', 'ieee-754 compliance']]"
+"('multi sites license', 'ip core instantiation', 'royalty-per-chip', 'license option')","[['multi sites license', 'royalty-per-chip', 'ip core instantiation'], ['multi sites license', 'royalty-per-chip', 'license option'], ['ip core instantiation', 'royalty-per-chip', 'license option']]"
+"('diagram', 'block diagram', 'block')","[['block diagram', 'diagram', 'block']]"
+"('pins',)",[['pins']]
+"('wroclawska',)",[['wroclawska']]
+"('tests', 'code', 'hdl source', 'vhdl', 'clock', 'rtl', 'source', 'verilog', 'pipelining', 'verilog source', 'called', 'reference', 'responses')","[['hdl source', 'rtl', 'source', 'vhdl'], ['hdl source', 'rtl', 'verilog', 'verilog source', 'code', 'clock'], ['hdl source', 'rtl', 'verilog', 'verilog source', 'code', 'pipelining'], ['hdl source', 'rtl', 'source', 'tests', 'called', 'reference'], ['hdl source', 'rtl', 'source', 'tests', 'called', 'responses'], ['vhdl', 'source', 'rtl', 'verilog', 'verilog source', 'code', 'clock'], ['vhdl', 'source', 'rtl', 'verilog', 'verilog source', 'code', 'pipelining'], ['vhdl', 'source', 'tests', 'called', 'reference'], ['vhdl', 'source', 'tests', 'called', 'responses'], ['clock', 'code', 'pipelining'], ['clock', 'code', 'verilog source', 'verilog', 'rtl', 'source', 'tests', 'called', 'reference'], ['clock', 'code', 'verilog source', 'verilog', 'rtl', 'source', 'tests', 'called', 'responses'], ['pipelining', 'code', 'verilog source', 'verilog', 'rtl', 'source', 'tests', 'called', 'reference'], ['pipelining', 'code', 'verilog source', 'verilog', 'rtl', 'source', 'tests', 'called', 'responses'], ['reference', 'called', 'responses']]"
+"('ieee-754', 'root function', 'precision real')","[['root function', 'ieee-754', 'precision real']]"
+"('core', 'specification', 'digital core')","[['specification', 'core', 'digital core']]"
+"('single precision', 'single precision real', 'compute', 'format support', 'precision', 'real', 'clock cycle')","[['single precision real', 'single precision', 'precision', 'clock cycle', 'compute'], ['single precision real', 'single precision', 'format support'], ['single precision real', 'single precision', 'precision', 'real'], ['compute', 'clock cycle', 'precision', 'single precision', 'format support'], ['compute', 'clock cycle', 'precision', 'real'], ['format support', 'single precision', 'precision', 'real']]"
+"('appropriate', 'arguments', 'analysis')","[['appropriate', 'arguments', 'analysis']]"
+"('arithmetic', 'embedded')","[['arithmetic', 'embedded']]"
+"('41-902', 'bytom')","[['41-902', 'bytom']]"
+"('fp', 'main fp', 'algorithm', 'pipelined unit', 'complex infor-mation', 'fp pipelined unit', 'main fp pipelined', 'composer module', 'pipelined', 'main fp pipelined unit', 'mathematics', 'infor-mation')","[['main fp', 'pipelined', 'algorithm'], ['main fp', 'pipelined', 'pipelined unit'], ['main fp', 'pipelined', 'infor-mation', 'fp', 'composer module', 'complex infor-mation'], ['main fp', 'pipelined', 'infor-mation', 'fp', 'fp pipelined unit'], ['main fp', 'pipelined', 'main fp pipelined'], ['main fp', 'pipelined', 'main fp pipelined unit'], ['main fp', 'pipelined', 'mathematics'], ['algorithm', 'pipelined', 'pipelined unit'], ['algorithm', 'pipelined', 'infor-mation', 'fp', 'composer module', 'complex infor-mation'], ['algorithm', 'pipelined', 'infor-mation', 'fp', 'fp pipelined unit'], ['algorithm', 'pipelined', 'main fp pipelined'], ['algorithm', 'pipelined', 'main fp pipelined unit'], ['algorithm', 'pipelined', 'mathematics'], ['pipelined unit', 'pipelined', 'infor-mation', 'fp', 'composer module', 'complex infor-mation'], ['pipelined unit', 'pipelined', 'infor-mation', 'fp', 'fp pipelined unit'], ['pipelined unit', 'pipelined', 'main fp pipelined'], ['pipelined unit', 'pipelined', 'main fp pipelined unit'], ['pipelined unit', 'pipelined', 'mathematics'], ['complex infor-mation', 'composer module', 'fp', 'fp pipelined unit'], ['complex infor-mation', 'composer module', 'fp', 'infor-mation', 'pipelined', 'main fp pipelined'], ['complex infor-mation', 'composer module', 'fp', 'infor-mation', 'pipelined', 'main fp pipelined unit'], ['complex infor-mation', 'composer module', 'fp', 'infor-mation', 'pipelined', 'mathematics'], ['fp pipelined unit', 'fp', 'infor-mation', 'pipelined', 'main fp pipelined'], ['fp pipelined unit', 'fp', 'infor-mation', 'pipelined', 'main fp pipelined unit'], ['fp pipelined unit', 'fp', 'infor-mation', 'pipelined', 'mathematics'], ['main fp pipelined', 'pipelined', 'main fp pipelined unit'], ['main fp pipelined', 'pipelined', 'mathematics'], ['main fp pipelined unit', 'pipelined', 'mathematics']]"
+"('months', 'maintenance')","[['months', 'maintenance']]"
+"('devices',)",[['devices']]
+"('verilog test', 'internal', 'synchronous', 'verilog test bench')","[['verilog test', 'synchronous', 'internal'], ['verilog test', 'synchronous', 'verilog test bench'], ['internal', 'synchronous', 'verilog test bench']]"
+"('delivery',)",[['delivery']]
+"('required',)",[['required']]
+"('pin',)",[['pin']]
+"('ufo', 'rounding', 'setting', 'flags', 'data', 'final')","[['ufo', 'data', 'setting', 'rounding', 'flags'], ['ufo', 'data', 'setting', 'rounding', 'final'], ['flags', 'rounding', 'final']]"
+"('100', 'area', '6900')","[['100', '6900', 'area']]"
+"('defined', 'make', 'without')","[['make', 'defined', 'without']]"
+"('underflow flag', 'underflow')","[['underflow flag', 'underflow']]"
+"('control', 'processing', 'data processing')","[['control', 'processing', 'data processing']]"
+"('symbol',)",[['symbol']]
+"('overflow flag', 'flag', 'ifo', 'overflow')","[['flag', 'overflow flag', 'ifo'], ['flag', 'overflow flag', 'overflow'], ['ifo', 'overflow flag', 'overflow']]"
+"('test bench', 'static', 'test', 'design', 'local', 'digital core design')","[['test bench', 'design', 'static'], ['test bench', 'design', 'test'], ['test bench', 'design', 'local', 'digital core design'], ['static', 'design', 'test'], ['static', 'design', 'local', 'digital core design'], ['test', 'design', 'local', 'digital core design']]"
+"('email support', 'phone', 'email')","[['email support', 'phone', 'email']]"
+"('gates',)",[['gates']]
+"('function', 'result composer', 'complex', 'result', 'performs', 'following', 'table', 'gives', 'alignment', 'result composer module')","[['function', 'gives', 'complex', 'result', 'result composer'], ['function', 'gives', 'complex', 'result', 'alignment', 'performs'], ['function', 'gives', 'table', 'following'], ['function', 'gives', 'complex', 'result', 'result composer module'], ['result composer', 'result', 'alignment', 'performs'], ['result composer', 'result', 'complex', 'gives', 'table', 'following'], ['result composer', 'result', 'result composer module'], ['performs', 'alignment', 'result', 'complex', 'gives', 'table', 'following'], ['performs', 'alignment', 'result', 'result composer module'], ['following', 'table', 'gives', 'complex', 'result', 'result composer module']]"
+"('key features', 'features', 'key')","[['key features', 'key', 'features']]"
+"('output', 'bus')","[['output', 'bus']]"
+"('32', '74', '37', '48')","[['32', '37', '74', '48']]"
+"('environment', 'bench environment', 'bench')","[['environment', 'bench', 'bench environment']]"
+"('coprocessor',)",[['coprocessor']]
+"('optimization',)",[['optimization']]
+"('2900', 'speed', '220')","[['2900', 'speed', '220']]"
+"('hdl', 'core specification')","[['hdl', 'core specification']]"
+"('ip core updates,', 'changes', 'major', 'versions')","[['changes', 'ip core updates,', 'major'], ['changes', 'ip core updates,', 'versions'], ['major', 'ip core updates,', 'versions']]"
+"('math',)",[['math']]
+"('decimal', 'vhdl source code', 'vhdl source code or/and')","[['vhdl source code', 'decimal', 'vhdl source code or/and']]"
+"('enable', 'computing')","[['enable', 'computing']]"
+"('fax', '282')","[['fax', '282']]"
+"('dedicated', 'companies', 'sized', 'running', 'location', 'small')","[['dedicated', 'location', 'sized', 'companies'], ['dedicated', 'location', 'running'], ['dedicated', 'location', 'sized', 'small'], ['companies', 'sized', 'location', 'running'], ['companies', 'sized', 'small'], ['running', 'location', 'sized', 'small']]"
+"('tel',)",[['tel']]
+"('fed', 'conforms', 'parameterized', 'periods', 'appears', 'numbers')","[['fed', 'periods', 'conforms', 'parameterized'], ['fed', 'periods', 'numbers', 'appears'], ['parameterized', 'conforms', 'periods', 'numbers', 'appears']]"
+"('performance', 'survey')","[['performance', 'survey']]"
+"('documentation', 'updates')","[['documentation', 'updates']]"
+"('headquarters',)",[['headquarters']]
+"('source code', 'verilog rtl')","[['source code', 'verilog rtl']]"
+"('branches', 'product', 'unlimited', 'corporate')","[['branches', 'unlimited', 'product'], ['branches', 'unlimited', 'corporate'], ['product', 'unlimited', 'corporate']]"
+"('system clock', 'en')","[['system clock', 'en']]"
+"('restrictions', 'customers', 'chips', 'regarding', 'places')","[['restrictions', 'chips', 'customers'], ['restrictions', 'chips', 'regarding'], ['restrictions', 'chips', 'places'], ['customers', 'chips', 'regarding'], ['customers', 'chips', 'places'], ['regarding', 'chips', 'places']]"
+"('use', 'selected', 'within', 'free', 'used', 'time', 'cases', 'several')","[['within', 'use', 'selected', 'time', 'several', 'free'], ['within', 'use', 'cases', 'used'], ['free', 'several', 'time', 'selected', 'use', 'cases', 'used']]"
+"('simple interface', 'simple', 'royalty-per-chip fees,', 'interface', 'licensing', 'fees', 'comprehensible', 'clearly')","[['simple interface', 'simple', 'fees', 'royalty-per-chip fees,'], ['simple interface', 'simple', 'interface'], ['simple interface', 'simple', 'comprehensible'], ['simple interface', 'simple', 'clearly'], ['royalty-per-chip fees,', 'fees', 'simple', 'interface'], ['royalty-per-chip fees,', 'fees', 'simple', 'comprehensible'], ['royalty-per-chip fees,', 'fees', 'simple', 'clearly'], ['interface', 'simple', 'comprehensible'], ['interface', 'simple', 'clearly'], ['comprehensible', 'simple', 'clearly']]"
+"('type', 'clk')","[['type', 'clk']]"
+"('one',)",[['one']]
+"('input number', 'sqrt operation', 'laten-cy')","[['input number', 'laten-cy', 'sqrt operation']]"
+"('tomasz', 'krzyzak', 'tomasz krzyzak')","[['krzyzak', 'tomasz', 'tomasz krzyzak']]"
+"('fully', 'fpga edif/ngo/ngd/qxp/vqm', 'fpga', 'netlist', 'configurable')","[['fpga edif/ngo/ngd/qxp/vqm', 'netlist', 'fpga', 'fully', 'configurable']]"
+"('pipelined square', 'root unit', 'unit', 'square root unit')","[['unit', 'root unit', 'pipelined square', 'square root unit']]"
+"('accuracy', 'vhdl source', 'code or/and')","[['vhdl source', 'accuracy', 'code or/and']]"
+"('6150', '150', 'mhz')","[['150', '6150', 'mhz']]"
+"('dfpsqrt',)",[['dfpsqrt']]
+"('delivered', 'two', 'formats')","[['delivered', 'formats', 'two']]"
+"('notes', 'installation')","[['notes', 'installation']]"
+"('macros', 'ncsim', 'automatic')","[['macros', 'ncsim', 'automatic']]"
+"('option', 'site', 'single site', 'next', 'middle', 'single', 'uses', 'site license option', 'site license', 'operation', 'standard', 'supports', 'first')","[['uses', 'next', 'single', 'middle', 'site', 'option', 'single site', 'site license', 'site license option'], ['uses', 'next', 'operation'], ['uses', 'next', 'standard'], ['uses', 'next', 'supports'], ['uses', 'next', 'first'], ['site license option', 'site license', 'single site', 'option', 'site', 'middle', 'single', 'next', 'operation'], ['site license option', 'site license', 'single site', 'option', 'site', 'middle', 'single', 'next', 'standard'], ['site license option', 'site license', 'single site', 'option', 'site', 'middle', 'single', 'next', 'supports'], ['site license option', 'site license', 'single site', 'option', 'site', 'middle', 'single', 'next', 'first'], ['operation', 'next', 'standard'], ['operation', 'next', 'supports'], ['operation', 'next', 'first'], ['standard', 'next', 'supports'], ['standard', 'next', 'first'], ['supports', 'next', 'first']]"
+"('ip core implementation', 'implementation', 'core implementation support', 'core implementation', 'implementation support')","[['core implementation support', 'core implementation', 'ip core implementation', 'implementation', 'implementation support']]"
+"('core instantiation', 'multi sites')","[['core instantiation', 'multi sites']]"
+"('cycle', 'format')","[['cycle', 'format']]"
+"('350',)",[['350']]
+"('technical', 'support')","[['technical', 'support']]"
+"('fmax', '2950', 'typical')","[['fmax', '2950', 'typical']]"
+"('synthesis', 'scripts')","[['synthesis', 'scripts']]"
+"('overview',)",[['overview']]
+"('core performance',)",[['core performance']]
+"('datasheet',)",[['datasheet']]
+"('methods', 'easy')","[['methods', 'easy']]"
+"('82', '66')","[['82', '66']]"
+"('business', 'manufactured', 'number', 'sites', 'project', 'licensed')","[['business', 'project', 'number', 'manufactured', 'sites'], ['business', 'project', 'number', 'manufactured', 'licensed'], ['sites', 'manufactured', 'licensed']]"
+"('modelsim', 'simulation')","[['modelsim', 'simulation']]"
+"('wersji', 'wersji prbnej', 'w wersji', 'prbnej')","[['w wersji', 'wersji', 'wersji prbnej', 'prbnej']]"
+"('94',)",[['94']]
+"('deliverables',)",[['deliverables']]
+"('application', 'example application', 'example')","[['application', 'example application', 'example']]"
+"('source code:', 'levels')","[['source code:', 'levels']]"
+"('programming',)",[['programming']]
+"('company', 'instantiation', 'multi')","[['company', 'multi', 'instantiation']]"
+"('available', 'square', 'dfpsqrt-', 'verilog source code', 'point', 'results', 'module', 'every', 'sqrt', 'floating', 'verilog source code or/and', 'root')","[['available', 'verilog source code', 'every', 'results', 'point', 'square', 'root', 'dfpsqrt-'], ['available', 'verilog source code', 'every', 'results', 'point', 'module'], ['available', 'verilog source code', 'every', 'results', 'point', 'square', 'sqrt'], ['available', 'verilog source code', 'every', 'verilog source code or/and'], ['dfpsqrt-', 'root', 'square', 'point', 'module'], ['dfpsqrt-', 'root', 'square', 'sqrt'], ['dfpsqrt-', 'root', 'square', 'point', 'results', 'every', 'verilog source code or/and'], ['module', 'point', 'square', 'sqrt'], ['module', 'point', 'results', 'every', 'verilog source code or/and'], ['sqrt', 'square', 'point', 'results', 'every', 'verilog source code or/and']]"
+"('microsoft word', 'word', '2010', 'microsoft')","[['word', '2010', 'microsoft word', 'microsoft']]"
+"('license', 'single site license')","[['license', 'single site license']]"
+"('asic', 'core area')","[['asic', 'core area']]"
+"('device',)",[['device']]
+"('digits', 'fractional')","[['digits', 'fractional']]"
+"('fp pipelined',)",[['fp pipelined']]
+"('result flag', 'invalid')","[['result flag', 'invalid']]"
+"('func-tion', 'ieee-754 standard,', 'composer')","[['func-tion', 'ieee-754 standard,', 'composer']]"
+"('2.80',)",[['2.80']]
+"('contact', 'core design', 'distributors', 'digital')","[['contact', 'core design', 'distributors', 'digital']]"
+"('checker', 'compliance')","[['checker', 'compliance']]"
+"('reset', 'information', 'given', 'global', 'system', 'classes', 'input')","[['reset', 'system', 'global', 'input', 'classes', 'information'], ['reset', 'system', 'global', 'input', 'given'], ['information', 'classes', 'input', 'given']]"
